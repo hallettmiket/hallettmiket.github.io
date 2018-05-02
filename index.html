@@ -1,0 +1,214 @@
+---
+layout: default
+title: hallett lab
+categories:
+ - home
+---
+
+<div class="row">
+	<div class="col-md-12">
+		<object class="pull-left biglogo" data="/images/logo.png" type="image/png"></object>
+		<div class="bigtitle logobox">
+			hallett lab in computational biology
+		</div>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="smallhead">
+      <p>
+        The Hallett lab is in the 
+        <a class="off" href="https://www.concordia.ca/artsci/biology.html">
+          Department of Biology</a> 
+        at Concordia University
+        in the 
+        <a class="off" href="https://www.concordia.ca/research/genomics.html">
+        Centre for Structural and Functional Genomics</a>
+        and the 
+        <a class="off" href="https://www.google.ca/search?q=centre+for+applied+synthetic+biology&oq=centre+for+applied+s&aqs=chrome.1.69i57j0l5.5849j0j4&sourceid=chrome&ie=UTF-8">Centre for Applied Synthetic Biology</a>.
+        
+      </p>
+      <p>
+        
+      </p>
+		</div>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="head">
+			<a class="off" href="/blog/">Recent posts</a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	{% for post in site.categories.blog limit:4 %}
+
+	{% for member in site.categories.team %}
+		{% if member.title == post.author %}
+			{% assign author = member %}
+		{% endif %}
+	{% endfor %}
+
+	<div class="col-md-3 reduced-gutter">
+		<div class="pad-left">
+			<div class="note">
+				<i class="fa fa-comment-o fa-fw"></i>
+				<a class="off" href="{{ post.url }}">
+				{{ post.title }}
+				</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Posted
+				{{ post.date | date: "%-d %b %Y" }}
+        {% if post.author %}
+        by <a class="off" href="
+          {% for member in site.categories.team %}
+            {% if member.title == post.author %}
+              {{ member.url }}
+            {% endif %}
+          {% endfor %}
+        ">
+        {{ post.author }}
+        </a>
+        {% endif %}
+        {% if post.authors %}
+        by
+        <a class="off" href="
+          {% for member in site.categories.team %}
+            {% if member.title == post.authors.first %}
+              {{ member.url }}
+            {% endif %}
+          {% endfor %}
+        ">
+        {{ post.authors.first }}
+        </a>
+        and
+        <a class="off" href="
+          {% for member in site.categories.team %}
+            {% if member.title == post.authors.last %}
+              {{ member.url }}
+            {% endif %}
+          {% endfor %}
+        ">
+        {{ post.authors.last }}
+        </a>
+        {% endif %}
+			</div>
+			<div class="bigspacer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="head">
+			<a class="off" href="/papers/">Papers</a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	{% for paper in site.categories.papers limit:4 %}
+	<div class="col-md-3 reduced-gutter">
+		<div class="pad-left">
+			<div class="note">
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off" href="{{ paper.url }}">
+				{{ paper.title }}
+				</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Posted
+				{{ paper.date | date: "%-d %b %Y" }}
+			</div>
+			<div class="bigspacer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="head">
+			<a class="off" href="/projects/">Projects</a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	{% for project in site.data.projects limit:4 %}
+	<div class="col-md-3 reduced-gutter">
+		<div class="pad-left">
+			<div class="note">
+				<i class="fa fa-edit fa-fw"></i>
+				<a class="off" href="{{ project.url }}">
+				{{ project.title }} - {{ project.description }}
+				</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Updated
+				<a class="off" href="{{ project.commits.first.url }}">
+				{{ project.commits.first.date | date: "%-d %b %Y" }}
+				</a>
+				by
+				<a class="off" href="{{ project.commits.first.author_url }}">
+				{{ project.commits.first.author_login }}
+				</a>
+			</div>
+			<div class="bigspacer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="head">
+			Misc
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12 reduced-gutter">
+		<div class="pad-left">
+			<ul class="list-inline">
+				{% for page in site.categories.misc %}
+				<li class="footernav">
+					<i class="fa fa-angle-right"></i> <a class="off" href="{{ page.url }}">{{ page.title }}</a>
+				</li>
+				{% endfor %}
+				<li class="footernav">
+					<i class="fa fa-angle-right"></i> <a class="off" href="/events/">Events</a>
+				</li>
+				<li class="footernav">
+					<i class="fa fa-angle-right"></i> <a class="off" href="http://www.concordia.ca/">Concordia</a>
+				</li>
+			</ul>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>

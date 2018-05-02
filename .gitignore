@@ -1,0 +1,16 @@
+# Environment files
+environment*
+
+# Compiled site
+_site/
+
+# Projects
+projects/
+!projects/index.html
+
+# Jekyll metadata
+.jekyll-metadata
+
+# Other files
+.DS_Store
+.Rproj.user
