@@ -1,0 +1,35 @@
+---
+  layout: default
+title: hallett lab / courses
+categories: 
+  - courses
+---
+  
+{% for course in site.data.courses %}
+
+{% cycle 'add rows': '<div class="row">', nil, nil %}
+<div class="col-md-4 coursebox">
+  <div class="head">
+  <a href="{{ course.url }}" class="off">{{ course.title }}</a>
+  </div>	
+  <div class="smallspacer"></div>
+  <div class="note">
+  <a href="{{ course.url }}" class="off">{{ course.description }}</a>
+  </div>
+  <div class="smallspacer"></div>
+  <div class="smallnote">
+  Updated
+<a class="off" href="{{ course.commits.first.url }}">
+{{ course.commits.first.date | date: "%-d %b %Y" }}
+</a>
+  by
+<a class="off" href="{{ course.commits.first.author_url }}">				
+{{ course.commits.first.author_login }}
+</a>
+  </div>
+  <div class="bigspacer"></div>
+  <div class="spacer"></div>
+  </div>
+  {% cycle 'close rows': nil, nil, '</div>' %}
+{% endfor %}
+{% cycle 'close rows': nil, '</div>', '</div>' %}	
