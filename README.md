@@ -2,7 +2,7 @@
 
 ## Build site
 
-To build the website locally, clone the repo with:
+This site began with the repo from the Bedford lab:
 
 ```
 git clone https://github.com/blab/blotter.git
