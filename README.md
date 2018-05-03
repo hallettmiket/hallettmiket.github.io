@@ -1,4 +1,4 @@
-# bedford lab research
+# hallett lab research
 
 ## Build site
 
