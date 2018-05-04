@@ -26,15 +26,17 @@ The course proceeds as follows.
 
 
 <ol> 
-<li>At the very beginning of, or prior to, the semester, you need to find a supervisor to guide your project. Here are [some hints for finding a supervisor.](/pdfs/courses/biol516/find.supervisor.pdf)</li> The scheduling options are [here](/pdfs/courses/biol516/schedule.options.pdf).
+<li>At the very beginning of, or prior to, the semester, you need to find a supervisor to guide your project. Here are [some hints for finding a supervisor.](/pdfs/courses/biol516/find.supervisor.pdf) The scheduling options are [here](/pdfs/courses/biol516/schedule.options.pdf).</li>
 
 <li>You and your supervisor must fill out and sign this [form](/pdfs/courses/biol516/supervisor.admissions.pdf/). You need to send it, or an electronic version, to both the <a href="mailto:biograd.fas@concordia.ca">Graduate Program Administrator</a> and <a href="mailto:michael.hallett@concordia.ca">me</a>.</li>
 
 <li> In the first two weeks of term, you have a private 10 minute meeting with the instructor where you describe your project. This is a check to make sure you are set up to complete the project before the drop date. </li>
 
-<li> Near the end of the second term (last 1.5 months), you give a 15 minute presentation with ~10 minutes of questions. This is worth <strong>30%</strong> of your overall grade. The format, expectations and structure are described [here](/pdfs/courses/biol516/oral.presentation.pdf/)</li>
+<li> Near the end of the second term (last 1.5 months), you give a 15 minute presentation with ~10 minutes of questions. This is worth <strong>30%</strong> of your overall grade. The format, expectations and structure are described [here](/pdfs/courses/biol516/oral.presentation.pdf)</li>
 
-<li> Near the end of the second term (last 1.5 months), you prepare a poster and pressent it with a two minute presentation, followed by questions. This is worth <strong>30%</strong> of your overall grade. Poster requirementss and structure are described [here](/pdfs/courses/biol516/poster.guidelines.pdf/).</li>
+<li> Near the end of the second term (last 1.5 months), you prepare a poster and pressent it with a two minute presentation, followed by questions. This is worth <strong>30%</strong> of your overall grade. </li>
+
+Poster requirementss and structure are described [here](/pdfs/courses/biol516/poster.guidelines.pdf).
 
 <li> At the end of your two semsters, your supervisor provides a grade for your research that constitutes <strong>40%</strong> of your grade.</li>
 
