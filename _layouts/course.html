@@ -62,7 +62,7 @@ layout: default
 			{% endif %}
 			{% if page.coursenumber %}
 			<div class="smallhead">
-				coursenumber
+				Course Number
 			</div>
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
@@ -89,7 +89,7 @@ layout: default
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-bitbucket-alt fa-fw"></i>
-				<a class="off" href="{{ page.bitbucket }}">{{ page.bitbucket | remove: 'http://bitbucket.com/' | remove: 'https://bitbucket.com/' }}</a>
+				<a class="off" href="{{ page.bitbucket }}">{{ page.bitbucket | remove: 'http://bitbucket.org/' | remove: 'https://bitbucket.org/' }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
