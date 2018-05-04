@@ -1,11 +1,11 @@
 ---
 layout: member
-title: Sanny Khuria
+title: Sanny Khurdia
 position: Biotechnology thesis
 handle: sanny
 email: sannykhurdia@gmail.com
 bitbucket: SannyK
-image: /images/team/sanny-khuria.png
+image: /images/team/sanny-khurdia.jpg
 ---
 
 Single cell sequencing of fungal populations.
