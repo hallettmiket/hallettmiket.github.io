@@ -48,7 +48,7 @@ categories:
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-cog fa-fw"></i>
-			<a class="off" href="https://github.com/{{ course.repo }}">github.com/{{ course.repo }}</a>
+			<a class="off" href="https://git@bitbucket.org/{{ course.repo }}">bitbucket.org/{{ course.repo }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		<div class="smallhead">
@@ -73,7 +73,7 @@ categories:
 		</div>
 		<div class="pad-left smallnote">
 			<ul class="list-unstyled">
-			{% for commit in courses.commits %}
+		  {% for commit in courses.commits %}
 				<div class="smallspacer"></div>
 				<li>
 					<i class="fa fa-check-square-o fa-fw"></i>
