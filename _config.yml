@@ -50,6 +50,4 @@ exclude:
 projects:
   - mhallett/molecular_interactions
   
-courses:
-  - mhallett/t4ls18
 
