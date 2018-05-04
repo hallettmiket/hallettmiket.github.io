@@ -71,6 +71,17 @@ layout: default
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
+			{% if page.instructor %}
+			<div class="smallhead">
+				Course Number
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-external-link fa-fw"></i>
+				{{ page.instructor }}
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
 			{% if page.github %}
 			<div class="smallhead">
 				GitHub
