@@ -1,0 +1,25 @@
+---
+layout: course
+title: Tools for the Life Sciences
+image: /images/concordia.logo.png
+instructor:  Hallett MT
+instructorwww: https://mikehallett.science
+year: 2018
+coursenumber: BIOL 480/510/630
+coursenumberwww: http://www.concordia.ca/academics/undergraduate/calendar/current/sec31/31-030.html
+bitbucket: https://bitbucket.org/hallettmichael/t4ls18/
+---
+
+<br><br><br>
+
+The Winter 2018 version of the course taught by [Prof MT Hallett](https://mikehallett.science) at the [Dept of Biology](https://www.concordia.ca/artsci/biology.html) of [Concordia](https://www.concordia.ca).
+
+More about the goals of the course can be found in [overview](/web-intro/overview.html).
+
+The [syllabus](/web-intro/Syllabus.html) is divided into 3 modules. The first covers basic programming in R. The second introduces data science to life scientist. The third covers algorithmic and machine learning topics central to computational biology.
+
+We make use of several bioinformatic and computational biology [tools](/web-intro/tools.html).
+
+The course has a [project](/web-intro/project.html) worth 15% of the overall grade.
+
+There are 4 [assignments](/web-intro/assignment_guidelines.html) worth 40% of the overall grade
