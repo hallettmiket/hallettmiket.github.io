@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Interactions between the tumor and the blood systemic response of breast cancer patients
+title: Interactions 
 image: /images/papers/dumeaux-plos-comp-bio.png
 authors:  Dumeaux V, Fjukstad B, Fjosne HE, Frantzen J-O, Muri Holmen M, Rodegerdts E, Schlichting E, Børresen-Dale A-L, Ailo Bongo L, Lund E, Hallett MT
 year: 2017
