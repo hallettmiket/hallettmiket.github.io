@@ -5,6 +5,7 @@ position: PhD
 handle: sadiq
 email: sadiq.mehdiismailsaleh@mail.mcgill.ca
 image: /images/team/sadiq-saleh.jpg
+alumni: true
 ---
 
 Ph.D. Candidate, Department of Biochemistry, Mcgill University
