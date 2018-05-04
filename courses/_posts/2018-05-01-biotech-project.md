@@ -12,17 +12,13 @@ coursenumberwww: https://www.concordia.ca/academics/graduate/calendar/archives/w
 <br><br><br>
 This is a two semester course offered as part of the Graduate Diploma in Biotechnology and Genomics  at the [Dept of Biology](https://www.concordia.ca/artsci/biology.html) of [Concordia](https://www.concordia.ca). The instructor is [Prof MT Hallett](https://mikehallett.science).
 
-<br>
 
 <strong>Prerequisite:</strong> BIOL	466,	BIOL	368	or	permission	of	the	Diploma	Program	Director.	
 
-<br>
 
 Each	student	conducts	a	project	under	the	supervision	of	a	faculty	member	at	Concordia	 or	other	research	institutions	affiliated	with	the	program.The	research	project	is	carried over	an	8-month	(10	hours	per	week).	The	project	 will	be	chosen	from	one	or	more	of	the	following	fields:	biotechnology,	genomics, bioinformatics,	and	 high-throughput	experimentation.	The	nature	of	the	project	can	be	research,	development,	or	 application.	A	student	who	is	working	full-time	or	part-time	can	pursue	the	project	in	his/her	place	of	 employment	subject	to	approval.	(Approval	will	only	be	given	to	projects	which	are	clearly	 demonstrated	to	be	independent	of	the	regular	work	requirement).	
 
-<br><br>
 The course proceeds as follows.
-<br>
 
 
 <ol> 
@@ -34,9 +30,8 @@ The course proceeds as follows.
 
 <li> Near the end of the second term (last 1.5 months), you give a 15 minute presentation with ~10 minutes of questions. This is worth <strong>30%</strong> of your overall grade. The format, expectations and structure are described [here](/pdfs/courses/biol516/oral.presentation.pdf)</li>
 
-<li> Near the end of the second term (last 1.5 months), you prepare a poster and pressent it with a two minute presentation, followed by questions. This is worth <strong>30%</strong> of your overall grade. </li>
-
-Poster requirementss and structure are described [here](/pdfs/courses/biol516/poster.guidelines.pdf).
+<li> Near the end of the second term (last 1.5 months), you prepare a poster and pressent it with a two minute presentation, followed by questions. This is worth <strong>30%</strong> of your overall grade. 
+Poster requirementss and structure are described [here](/pdfs/courses/biol516/poster.guidelines.pdf).</li>
 
 <li> At the end of your two semsters, your supervisor provides a grade for your research that constitutes <strong>40%</strong> of your grade.</li>
 
