@@ -1,38 +1,24 @@
 ---
 layout: default
-categories:
- - courses
 ---
 
-{% for test in site.data.courses %}
-	{% if test.title == page.courses %}
-		{% assign course = test %}
-	{% endif %}
-{% endfor %}
 
 <div class="row">
 	<div class="col-md-12">
-		<div class="bigtitle titlebox">
-			<ol class="breadcrumb">
-			{% assign crumbs = page.title | breadcrumb_array %}
-			{% for crumb in crumbs %}
-				{% assign name = crumb | split: '/' | last %}
-				{% for page in site.pages %}
-					{% if page.title == crumb %}
-						{% assign url = page.url %}
-					{% endif %}
-				{% endfor %}
-				{% if crumb == page.title %}
-				<li>{{ name }}</li>
-				{% else %}
-				<li><a class="off" href="{{ url | replace: 'index.html', '' }}">{{ name }}</a></li>
-				{% endif %}
-			{% endfor %}
-			</ol>
-		</div>
-		<p>
-		<div class="head">
-			{{ course.description }}
+		<div class="media">
+			{% if page.image %}
+			<img class="pull-left pad-right media-object" src="{{ page.image }}">
+			{% endif %}
+			<div class="media-body titlebox">
+				<div class="title media-heading">
+					{{ page.title }}
+				</div>
+				<p>
+				<div class="smallhead">
+					{{ page.instructors }}
+					{{ page.year }}.
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
@@ -42,81 +28,44 @@ categories:
 <div class="row">
 	<div class="col-md-3">
 		<div class="bigspacer"></div>
-		<div class="smallhead">
-			Repository
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fa fa-cog fa-fw"></i>
-			<a class="off" href="https://git@bitbucket.org/{{ course.repo }}">bitbucket.org/{{ course.repo }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		<div class="smallhead">
-			Instructor
-		</div>
-		<div class="pad-left note">
-			{% for instructor in course.instructors %}
-			<div class="smallspacer"></div>
-			<div>
-				<a class="off" href="{{ instructor.url }}">
-    			<img class="pull-left avatar" src="{{ instructor.avatar }}">
-    			<div class="handlebox" style="padding-left:5px;"">
-    				{{ instructor.login }}
-    			</div>
- 				</a>
- 			</div>
- 			{% endfor %}
-		</div>
-		<div class="bigspacer"></div>
-		<div class="smallhead">
-			Latest commits
-		</div>
-		<div class="pad-left smallnote">
-			<ul class="list-unstyled">
-		  {% for commit in courses.commits %}
+		<div class="glyphbox note">
+			{% if page.github %}
+			<div class="smallhead">
+				GitHub
+			</div>
+			<div class="pad-left note">
 				<div class="smallspacer"></div>
-				<li>
-					<i class="fa fa-check-square-o fa-fw"></i>
-					<a class="off" href="{{ commit.url }}">
-					{{ commit.date | date_to_string }} - <span class="text-gray">{{ commit.message | escape }}</span>
-					</a>
-				</li>
-			{% endfor %}
-			</ul>
-		</div>
-		<div class="spacer"></div>
-
-		{% for page in site.pages %}
-			{% if page.course == course.title %}
-			<!-- {% increment pagecount %} -->
+				<i class="fa fa-github-alt fa-fw"></i>
+				<a class="off" href="{{ page.github }}">{{ page.github | remove: 'http://github.com/' | remove: 'https://github.com/' }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}			
+			{% if page.bitbucket %}
+			<div class="smallhead">
+				BitBucket
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-bitbucket-alt fa-fw"></i>
+				<a class="off" href="{{ page.bitbucket }}">{{ page.bitbucket | remove: 'http://bitbucket.com/' | remove: 'https://bitbucket.com/' }}</a>
+			</div>
+			<div class="bigspacer"></div>
 			{% endif %}
-		{% endfor %}
-
-		{% if pagecount > 1 %}
-		<div class="smallhead">
-			Pages
-		</div>
-		<div class="pad-left smallnote">
-			<ul class="list-unstyled">
-			{% for page in site.pages %}
-				{% if page.course == course.title %}
+			{% if page.www %}
+			<div class="smallhead">
+				WWW
+			</div>
+			<div class="pad-left note">
 				<div class="smallspacer"></div>
-				<li>
-					<a class="off" href="{{ page.url | replace: 'index.html', '' }}">
-					{{ page.title | replace: '/', ' / ' | replace: course.title, '<i class="fa fa-folder-open-o"></i> ' }}
-					</a>
-				</li>
-				{% endif %}
-			{% endfor %}
-			</ul>
+				<i class="fa fa-www-alt fa-fw"></i>
+				<a class="off" href="{{ page.www }}">{{ page.www }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
 		</div>
-		<div class="spacer"></div>
-		{% endif %}
-
 	</div>
 	<div class="col-md-8">
 		<div class="post">
-			<p>
 			{{ content }}
 		</div>
 	</div>
