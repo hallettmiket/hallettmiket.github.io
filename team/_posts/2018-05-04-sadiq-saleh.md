@@ -3,7 +3,7 @@ layout: member
 title: Sadiq Saleh
 position: PhD
 handle: sadiq
-email: sadiq.mehdiismailsaleh@mail.mcgill.ca
+email: sadiq.saleh@gmail.com
 image: /images/team/sadiq-saleh.jpg
 alumni: true
 ---
