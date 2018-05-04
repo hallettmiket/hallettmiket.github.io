@@ -45,19 +45,19 @@ The format, expectations and structure of the 10 minute talk are described [here
 
 Poster requirements and structure are described [here](/pdfs/courses/biol516/poster.guidelines.pdf).
 
-<br><br>
+<br>
 <strong>Avoiding	plagiarism.</strong> Since	the	course	work	requires	written	works	(presentation	slides and poster),	I	need	to	remind	of	you	of	good	citation	practice.	Throughout	the	text,	you	should	be	clear	on	what	part	has	been	cited	from	which	articles.	Please	visit	the	[Academic	Integrity	Website](http://www.concordia.ca/students/academic-integrity.html).	
 Also,	Concordia	University	Library	has	a	good	[referencing	guide](http://library.concordia.ca/research/subjects/biology/).	Watch this	[self-tutorial](http://library.concordia.ca/research/subjects/biology/plagiarism/plagiarism_video.htm)	on	how	to	acknowledge	information	sources	(prepared	by	Concordia	librarian	Ms.	Danielle	Dennie).
 
-<br><br>
+<br>
 <s=strong>Plagiarism:	</strong>
 The	most	common	offense	under	the	Academic	Code	of	Conduct	is	plagiarism	which	the	Code	defines	as	"the	presentation	of	the	work	of	another	person	as	one's own	or	without	proper	acknowledgement."
 
-<br><br>
+<br>
 This	 could	 be	 material	 copied	 word	 for	 word	 from	 books,	 journals, internet	 sites,	 professor's	 course	notes,	etc.	It	could	be	material	that	is paraphrased	but	closely	resembles	the	original	source.	It	could	be	the	 work	 of	 a	 fellow	 student,	 for	 example,	 an	 answer	 on	 a	 quiz,	 data	 for	 a	 lab	 report,	 a	 paper	 or	 assignment	 completed	 by	 another	 student.	 It	might	 be	 a	 paper	 purchased	 through	 one	 of	 the many	available	sources.	Plagiarism	does	not	refer	to	words	alone	- it	can	also	refer	to	copying	images,	graphs,	 tables,	 and	 ideas.	 "Presentation"	 is	 not	 limited	 to	 written	 work.	 It	 also	 includes	 oral	 presentations,	computer	 assignments	 and	 artistic	 works. Finally,	 if	 you	 translate	 the	 work	 of	 another	 person	 into	 French	or	English	and	do	not	cite	the	source,	this	is	also	plagiarism.
 
-<br><br>
+<br>
 In	Simple	Words:DO	NOT	COPY,	PARAPHRASE	OR	TRANSLATE	ANYTHING	FROM	ANYWHERE	WITHOUT	SAYING	FROM WHERE	YOU	OBTAINED	IT!
 
-<br><br>
+<br>
 If	you	are	not	sure	how	to	paraphrase	without	plagiarizing,	please	refer	to	this	example	given	by	the	[Academic	 Integrity	 information	 site.](http://www.concordia.ca/students/academicintegrity/plagiarism.html)
