@@ -32,7 +32,7 @@ The course proceeds as follows.
 
 
 <ol> 
-<li>At the very beginning of, or prior to, the semester, you need to find a supervisor to guide your project. [Here are Some hints for finding a supervisor.](/pdfs/courses/biol516/find.supervisor.pdf)</li>
+<li>At the very beginning of, or prior to, the semester, you need to find a supervisor to guide your project. [Here are Some hints for finding a supervisor.](/pdfs/courses/biol516/find.supervisor.pdf)</li> The scheduling options are [here](/pdfs/courses/biol516/schedule.options.pdf).
 
 <li>You and your supervisor must fill out and sign this [form](/pdfs/courses/biol516/supervisor.admissions.pdf). You need to send it, or an electronic version, to both the <a href="mailto:biograd.fas@concordia.ca">Graduate Program Administrator</a> and <a href="mailto:michael.hallett@concordia.ca">me</a>.</li>
 
