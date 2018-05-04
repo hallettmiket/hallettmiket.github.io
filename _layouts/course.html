@@ -73,12 +73,13 @@ layout: default
 			{% endif %}
 			{% if page.instructor %}
 			<div class="smallhead">
-				Course Number
+				Instructor
 			</div>
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-external-link fa-fw"></i>
 				{{ page.instructor }}
+				<a class="off" href="{{ page.instructorwww }}">{{ page.instructor }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
