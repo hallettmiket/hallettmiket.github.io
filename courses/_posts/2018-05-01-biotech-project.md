@@ -22,7 +22,7 @@ The course proceeds as follows.
 
 
 <ol> 
-<li>At the very beginning of, or prior to, the semester, you need to find a supervisor to guide your project. Here are [some hints for finding a supervisor.](/pdfs/courses/biol516/find.supervisor.pdf) The scheduling options are [here](/pdfs/courses/biol516/schedule.options.pdf).</li>
+<li>At the very beginning of, or prior to, the semester, you need to find a supervisor to guide your project. </li>
 
 <li>You and your supervisor must fill out and sign this [form](/pdfs/courses/biol516/supervisor.admissions.pdf/). You need to send it, or an electronic version, to both the <a href="mailto:biograd.fas@concordia.ca">Graduate Program Administrator</a> and <a href="mailto:michael.hallett@concordia.ca">me</a>.</li>
 
@@ -35,6 +35,10 @@ The course proceeds as follows.
 <li> At the end of your two semsters, your supervisor provides a grade for your research that constitutes <strong>40%</strong> of your grade.</li>
 
 </ol>
+
+Here are [some hints for finding a supervisor.](/pdfs/courses/biol516/find.supervisor.pdf) 
+
+The scheduling options are [here](/pdfs/courses/biol516/schedule.options.pdf).
 
 The format, expectations and structure of the 10 minute talk are described [here](/pdfs/courses/biol516/oral.presentation.pdf)
 
