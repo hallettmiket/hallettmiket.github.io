@@ -5,6 +5,6 @@ image: /images/concordia.logo.png
 authors:  Hallett MT
 year: 2018
 coursenumber: BIOL 480/510/630
-github: http://github.com/fjukstad/mixt
+github: http://git@bitbucket.com/fjukstad/mixt
 ---
 
