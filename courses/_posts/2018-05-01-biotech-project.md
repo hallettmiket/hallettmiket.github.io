@@ -28,14 +28,18 @@ The course proceeds as follows.
 
 <li> In the first two weeks of term, you have a private 10 minute meeting with the instructor where you describe your project. This is a check to make sure you are set up to complete the project before the drop date. </li>
 
-<li> Near the end of the second term (last 1.5 months), you give a 15 minute presentation with ~10 minutes of questions. This is worth <strong>30%</strong> of your overall grade. The format, expectations and structure are described [here](/pdfs/courses/biol516/oral.presentation.pdf)</li>
+<li> Near the end of the second term (last 1.5 months), you give a 15 minute presentation with ~10 minutes of questions. This is worth <strong>30%</strong> of your overall grade. </li>
 
-<li> Near the end of the second term (last 1.5 months), you prepare a poster and pressent it with a two minute presentation, followed by questions. This is worth <strong>30%</strong> of your overall grade. 
-Poster requirementss and structure are described [here](/pdfs/courses/biol516/poster.guidelines.pdf).</li>
+<li> Near the end of the second term (last 1.5 months), you prepare a poster and pressent it with a two minute presentation, followed by questions. This is worth <strong>30%</strong> of your overall grade. </li>
 
 <li> At the end of your two semsters, your supervisor provides a grade for your research that constitutes <strong>40%</strong> of your grade.</li>
 
 </ol>
+
+The format, expectations and structure of the 10 minute talk are described [here](/pdfs/courses/biol516/oral.presentation.pdf)
+
+
+Poster requirements and structure are described [here](/pdfs/courses/biol516/poster.guidelines.pdf).
 
 <br><br>
 <strong>Avoiding	plagiarism.</strong> Since	the	course	work	requires	written	works	(presentation	slides and poster),	I	need	to	remind	of	you	of	good	citation	practice.	Throughout	the	text,	you	should	be	clear	on	what	part	has	been	cited	from	which	articles.	Please	visit	the	[Academic	Integrity	Website](http://www.concordia.ca/students/academic-integrity.html).	
