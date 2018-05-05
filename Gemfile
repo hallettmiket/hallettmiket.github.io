@@ -15,4 +15,3 @@ gem 'jekyll-press'
 gem 'octokit'
 gem 'netrc'
 
-gem 'jekyll-twitter-plugin'
