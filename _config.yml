@@ -6,6 +6,7 @@ markdown: redcarpet
 permalink: /:categories/:title/
 future: true
 
+
 redcarpet:
   extensions:
    - tables
