@@ -4,6 +4,8 @@ title: hallett lab
 categories:
  - home
 ---
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
+
 
 <div class="row">
 	<div class="col-md-12">
@@ -28,7 +30,7 @@ categories:
         <a class="off" href="https://www.concordia.ca/research/genomics.html">
         Centre for Structural and Functional Genomics</a>
         and the 
-        <a class="off" href="https://www.google.ca/search?q=centre+for+applied+synthetic+biology&oq=centre+for+applied+s&aqs=chrome.1.69i57j0l5.5849j0j4&sourceid=chrome&ie=UTF-8">Centre for Applied Synthetic Biology</a>.
+        <a class="off" href="https://www.concordia.ca/research/casb.html">Centre for Applied Synthetic Biology</a>.
         
       </p>
       <p>
@@ -39,176 +41,95 @@ categories:
 </div>
 
 <div class="bigspacer"></div>
-<div class="bigspacer"></div>
+
 
 <div class="row">
-	<div class="col-md-12">
+
+	<div class="col-md-4">
 		<div class="head">
-			<a class="off" href="/blog/">Recent posts</a>
+			<a class="off" href="/blog/">Posts</a>
 		</div>
-	</div>
-</div>
+		<div class="bigspacer"></div>
+		<div class="feedbox pad-left">
+			{% for post in site.categories.blog limit:4 %}
+			
+				{% for member in site.categories.team %}
+					{% if member.handle == post.author_handle %}
+						{% assign author = member %}
+					{% endif %}
+				{% endfor %}		
+				
+				<div class="note-title">
+        <i class="far fa-comment"></i>
 
-<div class="row">
-	{% for post in site.categories.blog limit:3 %}
-
-	{% for member in site.categories.team %}
-		{% if member.title == post.author %}
-			{% assign author = member %}
-		{% endif %}
-	{% endfor %}
-
-	<div class="col-md-3 reduced-gutter">
-		<div class="pad-left">
-			<div class="note">
-				<i class="fa fa-comment-o fa-fw"></i>
-				<a class="off" href="{{ post.url }}">
-				{{ post.title }}
-				</a>
-			</div>
-			<div class="smallspacer"></div>
-			<div class="smallnote">
-				Posted
-				{{ post.date | date: "%-d %b %Y" }}
-        {% if post.author %}
-        by <a class="off" href="
-          {% for member in site.categories.team %}
-            {% if member.title == post.author %}
-              {{ member.url }}
-            {% endif %}
-          {% endfor %}
-        ">
-        {{ post.author }}
-        </a>
-        {% endif %}
-        {% if post.authors %}
-        by
-        <a class="off" href="
-          {% for member in site.categories.team %}
-            {% if member.title == post.authors.first %}
-              {{ member.url }}
-            {% endif %}
-          {% endfor %}
-        ">
-        {{ post.authors.first }}
-        </a>
-        and
-        <a class="off" href="
-          {% for member in site.categories.team %}
-            {% if member.title == post.authors.last %}
-              {{ member.url }}
-            {% endif %}
-          {% endfor %}
-        ">
-        {{ post.authors.last }}
-        </a>
-        {% endif %}
-			</div>
-			<div class="bigspacer"></div>
+					<a class="off" href="{{ post.url }}">
+					{{ post.title }}
+					</a>
+				</div>
+				<div class="smallspacer"></div>
+				<div class="smallnote">
+					Posted
+					{{ post.date | date_to_string }}
+					{% if author %}
+					by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
+					{% endif %}						
+				</div>
+				<div class="spacer"></div>	
+				<div class="spacer"></div>				
+			{% endfor %}
 		</div>
+		<div class="bigspacer"></div>		
 	</div>
-	{% endfor %}
-</div>
-
-<div class="spacer"></div>
-
-<div class="row">
-	<div class="col-md-12">
+	<div class="col-md-4">
 		<div class="head">
-			<a class="off" href="/papers/">Papers</a>
+			<a class="off" href="/papers/">Papers
+			</a>
 		</div>
-		<div class="spacer"></div>
-	</div>
-</div>
+		<div class="bigspacer"></div>
+		<div class="feedbox pad-left">		
+			{% for paper in site.categories.papers limit:4 %}
+				<div class="note-title">
+<i class="fas fa-book"></i>
 
-<div class="row">
-	{% for paper in site.categories.papers limit:3 %}
-	<div class="col-md-3 reduced-gutter">
-		<div class="pad-left">
-			<div class="note">
-				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off" href="{{ paper.url }}">
-				{{ paper.title }}
-				</a>
-			</div>
-			<div class="smallspacer"></div>
-			<div class="smallnote">
-				Posted
-				{{ paper.date | date: "%-d %b %Y" }}
-			</div>
-			<div class="bigspacer"></div>
+					<a class="off" href="{{ paper.url }}">
+					{{ paper.title }}
+					</a>
+					<br/>
+					<div class='shortref note'>
+					{{ paper.shortref }}
+					</div>
+				</div>
+				<div class="smallspacer"></div>
+				<div class="smallnote">
+					Published
+					{{ paper.date | date_to_string }}
+				</div>
+				<div class="spacer"></div>	
+				<div class="spacer"></div>				
+			{% endfor %}
 		</div>
+		<div class="bigspacer"></div>		
 	</div>
-	{% endfor %}
-</div>
-
-
-
-<div class="row">
-	<div class="col-md-12">
+	<div class="col-md-4">
+		<div class="feedbox pad-left">		
             <div class="head">
-                <a class="off" href="https://twitter.com/HallettMichael">
+                <a class="off" href="https://twitter.com/hallettmichael">
                     Tweets
-                    <a class="twitter-follow-button"
-  href="https://twitter.com/hallettmichael">
-Follow @hallettmichael</a>
                 </a>
             </div>
-	</div>
-</div>
-
-            
-<div class="row">
-	<div class="col-md-4 reduced-gutter">
-		<div class="pad-left">
-		              <div class="head">
-
-        <a class="twitter-timeline" data-theme="light" 
-                                    data-chrome="noheader nofooter transparent noborders" 
-                                    data-tweet-limit="1" 
-                                    href="https://twitter.com/hallettmichael">Tweets by HallettMichael</a> 
-        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></div></div></div>
-	
-	
-	
-<div class="spacer"></div>
-
-<div class="row">
-	<div class="col-md-12">
-		<div class="head">
-			<a class="off" href="/projects/">Projects</a>
+            <div class="bigspacer"></div>
+            <a class="twitter-timeline" data-theme="light" 
+                  data-chrome="noheader nofooter transparent noborders" 
+                  data-tweet-limit="3" href="https://twitter.com/hallettmichael">Tweets by hallettmichael</a> 
+            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</div>
-		<div class="spacer"></div>
+		<div class="bigspacer"></div>		
 	</div>
 </div>
 
-<div class="row">
-	{% for project in site.data.projects limit:3 %}
-	<div class="col-md-3 reduced-gutter">
-		<div class="pad-left">
-			<div class="note">
-				<i class="fa fa-edit fa-fw"></i>
-				<a class="off" href="{{ project.url }}">
-				{{ project.title }} - {{ project.description }}
-				</a>
-			</div>
-			<div class="smallspacer"></div>
-			<div class="smallnote">
-				Updated
-				<a class="off" href="{{ project.commits.first.url }}">
-				{{ project.commits.first.date | date: "%-d %b %Y" }}
-				</a>
-				by
-				<a class="off" href="{{ project.commits.first.author_url }}">
-				{{ project.commits.first.author_login }}
-				</a>
-			</div>
-			<div class="bigspacer"></div>
-		</div>
-	</div>
-	{% endfor %}
-</div>
+
+
+
 
 
 
@@ -232,13 +153,31 @@ Follow @hallettmichael</a>
 				</li>
 				{% endfor %}
 				<li class="footernav">
-					<i class="fa fa-angle-right"></i> <a class="off" href="/events/">Events</a>
+					<i class="fas fa-beer"></i> <a class="off" href="/events/">Events</a>
 				</li>
 				<li class="footernav">
-					<i class="fa fa-angle-right"></i> <a class="off" href="http://www.concordia.ca/">Concordia</a>
+          <i class="fas fa-university"></i>
+					<a class="off" href="http://www.concordia.ca/">
+					  <img class="pull-right" src="/images/concordia.logo.small.png"></a>
 				</li>
+
+			  <li>
+			  <i class="fas fa-vial"></i>
+      	<a class="footernav" href="https://www.concordia.ca/research/casb.html">
+          <img class="pull-right" src="/images/casb.small.png"></a>
+	      </li>
+	 
+	     <li>
+        <i class="fas fa-syringe"></i>
+      	<a class="footernav" href="https://www.concordia.ca/research/genomics.html">
+          <img class="pull-right" src="/images/csfg.small.png"></a>
+	      </li>
+	      
+	
 			</ul>
 		</div>
+		
+		
 		<div class="spacer"></div>
 	</div>
 </div>
