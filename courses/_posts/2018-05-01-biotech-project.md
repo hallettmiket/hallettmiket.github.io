@@ -24,7 +24,7 @@ The course proceeds as follows.
 <ol> 
 <li>At the very beginning of, or prior to, the semester, you need to find a supervisor to guide your project. </li>
 
-<li>You and your supervisor must fill out and sign this [form](/pdfs/courses/biol516/supervisor.admissions.pdf/). You need to send it, or an electronic version, to both the <a href="mailto:biograd.fas@concordia.ca">Graduate Program Administrator</a> and <a href="mailto:michael.hallett@concordia.ca">me</a>.</li>
+<li>You and your supervisor must fill out the <strong> supervisor admission form</strong> (below). You need to send it, or an electronic version, to both the <a href="mailto:biograd.fas@concordia.ca">Graduate Program Administrator</a> and <a href="mailto:michael.hallett@concordia.ca">me</a>.</li>
 
 <li> After you have submitted your forms and with permission from the instructor, the <strong>graduate program administrator</strong> registers you for the course (you cannot do it yourself).</li>
 
@@ -37,6 +37,8 @@ The course proceeds as follows.
 <li> At the end of your two semsters, your supervisor provides a grade for your research that constitutes <strong>40%</strong> of your grade.</li>
 
 </ol>
+
+Thiss is the [supervisor admission form](/pdfs/courses/biol516/supervisor.admissions.pdf/).
 
 Here are [some hints for finding a supervisor.](/pdfs/courses/biol516/find.supervisor.pdf) 
 
