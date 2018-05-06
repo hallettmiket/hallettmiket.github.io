@@ -13,7 +13,7 @@ coursenumberwww: https://www.concordia.ca/academics/graduate/calendar/archives/w
 This is a two semester course offered as part of the Graduate Diploma in Biotechnology and Genomics  at the [Dept of Biology](https://www.concordia.ca/artsci/biology.html) of [Concordia](https://www.concordia.ca). The instructor is [Prof MT Hallett](https://mikehallett.science).
 
 
-<strong>Prerequisite:</strong> BIOL	466,	BIOL	368	or	permission	of	the	Diploma	Program	Director.	
+<strong>Prerequisite:</strong> Permission	of	the	Diploma	Program	Director.	
 
 
 Each	student	conducts	a	project	under	the	supervision	of	a	faculty	member	at	Concordia	 or	other	research	institutions	affiliated	with	the	program.The	research	project	is	carried over	an	8-month	(10	hours	per	week).	The	project	 will	be	chosen	from	one	or	more	of	the	following	fields:	biotechnology,	genomics, bioinformatics,	and	 high-throughput	experimentation.	The	nature	of	the	project	can	be	research,	development,	or	 application.	A	student	who	is	working	full-time	or	part-time	can	pursue	the	project	in	his/her	place	of	 employment	subject	to	approval.	(Approval	will	only	be	given	to	projects	which	are	clearly	 demonstrated	to	be	independent	of	the	regular	work	requirement).	
@@ -25,6 +25,8 @@ The course proceeds as follows.
 <li>At the very beginning of, or prior to, the semester, you need to find a supervisor to guide your project. </li>
 
 <li>You and your supervisor must fill out and sign this [form](/pdfs/courses/biol516/supervisor.admissions.pdf/). You need to send it, or an electronic version, to both the <a href="mailto:biograd.fas@concordia.ca">Graduate Program Administrator</a> and <a href="mailto:michael.hallett@concordia.ca">me</a>.</li>
+
+<li> After you have submitted your forms and with permission from the instructor, the <strong>graduate program administrator</strong> registers you for the course (you cannot do it yourself).</li>
 
 <li> In the first two weeks of term, you have a private 10 minute meeting with the instructor where you describe your project. This is a check to make sure you are set up to complete the project before the drop date. </li>
 
