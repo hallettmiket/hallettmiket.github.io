@@ -111,6 +111,6 @@ Professor
  	<li>2001. Workshop on Bioinformatics (WABI). Aarhus, Denmark. Programme Committee, Member.</li>
  	<li>2001. International Conference on Discrete Mathematics and Theoretical Computer Science. Constanta, Romania. Programme Committee, Member.</li>
 </ul>
-My lab organizes the annual workshop at the <a title="Barbados" href="http://www.bci.mcgill.ca/home/?page_id=61">Bellairs Research Centre in Barbados</a>.
+My lab organizes the [annual workshop](/barbados/) at [McGill-Bellairs Research Station](https://www.mcgill.ca/bellairs/) in Barbados.
 
 &nbsp;
