@@ -4,7 +4,7 @@ title: Interactions between the tumor and the blood systemic response of breast 
 image: /images/papers/dumeaux-plos-comp-bio.png
 authors:  Dumeaux V, Fjukstad B, Fjosne HE, Frantzen J-O, Muri Holmen M, Rodegerdts E, Schlichting E, Børresen-Dale A-L, Ailo Bongo L, Lund E, Hallett MT
 year: 2017
-ref: Dumeaux et al. 2018. PLoS Computational Biology. 1,9 e1005680.
+ref: Dumeaux et al. (2017) PLoS Computational Biology. 1,9 e1005680.
 journal: "PLoS Computational Biology. 13(9): e1005680."
 doi: 10.1371/journal.pcbi.1005680
 pmid: 28957325
