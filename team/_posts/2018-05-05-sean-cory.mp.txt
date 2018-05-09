@@ -1,0 +1,9 @@
+---
+layout: member
+title: Sean Cory
+position: M.Sc. Student
+handle: Sean
+linkedin: https://www.linkedin.com/in/sean-cory-91053959/
+alumni: true
+---
+

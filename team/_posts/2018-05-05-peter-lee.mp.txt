@@ -1,0 +1,9 @@
+---
+layout: member
+title: Dr Peter Lee
+position: PhD 
+handle: plee
+alumni: true
+linkedin: https://www.linkedin.com/in/peter-lee-bb90b4148/
+---
+

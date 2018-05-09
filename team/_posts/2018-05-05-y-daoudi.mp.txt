@@ -1,0 +1,7 @@
+---
+layout: member
+title: Y Daoudi
+position: mSc
+handle: daoudi
+alumni: true
+---

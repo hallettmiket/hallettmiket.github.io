@@ -1,0 +1,9 @@
+---
+layout: member
+title: Z Rajabi
+position: MSc
+handle: Rajabi
+alumni: true
+linkedin: https://www.linkedin.com/in/zeyad-rajabi-3b27605/
+---
+
