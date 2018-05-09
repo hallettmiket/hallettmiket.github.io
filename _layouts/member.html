@@ -13,6 +13,7 @@ layout: default
   gtag('config', 'UA-56756908-2');
 </script>
 
+<script defer src="https://use.fontawesome.com/releases/v5.0.12/js/all.js" integrity="sha384-Voup2lBiiyZYkRto2XWqbzxHXwzcm4A5RfdfG6466bu5LqjwwrjXCMBQBLMWh7qR" crossorigin="anonymous"></script>
 
 {% assign member = page %}
 
@@ -45,7 +46,7 @@ layout: default
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fa fa-file-text-o fa-fw"></i>
+			<i class="fas fa-bullhorn"></i>
 			<a class="off" href="{{ member.cv }}">{{ member.cv | split: '/' | last }}</a>
 		</div>
 		<div class="bigspacer"></div>
@@ -56,13 +57,14 @@ layout: default
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fa fa-twitter fa-fw"></i>
+			<i class="fab fa-twitter"></i>
 			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
 		</div>
 		<div class="bigspacer"></div>
+		{% endif %}
 		{% if member.linkedin %}
 		<div class="smallhead">
-			Twitter
+			LinkedIn
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
@@ -77,7 +79,7 @@ layout: default
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fa fa-github-alt fa-fw"></i>
+			<i class="fab fa-github"></i>
 			<a class="off" href="https://github.com/{{ member.github }}">{{ member.github }}</a>
 		</div>
 		<div class="bigspacer"></div>
@@ -88,7 +90,7 @@ layout: default
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fa fa-bitbucket fa-fw"></i>
+			<i class="fab fa-bitbucket"></i>
 			<a class="off" href="https://bitbucket.org/{{ member.bitbucket }}">{{ member.bitbucket }}</a>
 		</div>
 		<div class="bigspacer"></div>
