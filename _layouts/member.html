@@ -60,6 +60,16 @@ layout: default
 			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
 		</div>
 		<div class="bigspacer"></div>
+		{% if member.linkedin %}
+		<div class="smallhead">
+			Twitter
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fab fa-linkedin"></i>
+			<a class="off" href={{ member.linkedin }}>{{ member.linkedin }}</a>
+		</div>
+		<div class="bigspacer"></div>
 		{% endif %}
 		{% if member.github %}
 		<div class="smallhead">
