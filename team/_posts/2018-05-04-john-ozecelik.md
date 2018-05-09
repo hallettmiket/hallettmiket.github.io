@@ -1,4 +1,4 @@
- ---
+---
 layout: member
 title: John Ozcelik
 position: MSc
