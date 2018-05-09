@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Susanne Groebner
+title: Dr Susanne Groebner
 position: Visiting Researcher
 handle: susanne
 alumni: true
