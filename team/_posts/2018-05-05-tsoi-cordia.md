@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Tsoi Cordia
+title: Cordia Tsoi
 position: Summer Student
 handle: tsoi
 linkedin: https://www.linkedin.com/in/cordia-tsoi-56412716/
