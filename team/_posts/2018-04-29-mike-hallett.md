@@ -25,6 +25,7 @@ Professor
  	<li>2017-                         Professor, Department of Biology, Concordia</li>
  	<li>2017-                         Member, Centre for Applied Synthetic Biology, Concordia</li>
  	<li>2017-                         Member, Centre for Structural and Functional Genomics, Concordia</li>
+ 	<li>2017-                         Affiliate, Computer Science and Engineering, Concordia</li>
  	<li>2017-                        Adjunct Professor, McGill University</li>
  	<li>2006-2017  <strong>              </strong>Associate Professor, School of Computer Science, McGill</li>
  	<li>2004-2017                Associate Member, Department of Biochemistry, McGill</li>
@@ -48,6 +49,13 @@ Professor
 </ul>
 <strong>Invited Lectures (SELECTED)</strong>
 <ul>
+<li>2018 PERFORM Centre, Montreal, Canada. <em>Surveillance studies in breast cancer: novel approaches using single cell sequencing.</em></li>
+<li>2017 BIRS-CMO CMO Workshop Challenges and Synergies in the Analysis of Large- Scale Population-Based Biomedical Data, Oaxaca, Mexico. <em>Molecular interactions between the systemic response and the primary tumor in a cohort of breast cancer patients.</em></li>
+<li>2017 Concordia Department of Biochemistry Seminar, Montreal, Canada. <em>Gene set predictors in cancer to predict clinical end-points</em></li>
+<li>2016 Princess Margaret Hospital Seminar Series, Toronto, Canada. <em>Absolute approaches to predicting patient subtype.</em></li>
+<li>2015 4th Canadian Cancer Research Conference, Montreal, Canada. <em>Robust, integrative and absolute subtyping in breast cancer.</em></li>
+<li>2015 Concordia Institute for Genomics, Montreal, Canada <em>Understanding the interplay between subtype and prognosis in an absolute manner.</em></li>
+<li>2014 University of Paris Descartes, Paris, France. <em>The inherent ease and difficulty of prognosis in breast cancer.</em></li>
  	<li>2014 SciLifeLabs, Karolinska Institute, Stockholm Sweden. <em>The prognostic ease and difficulty of invasive breast carcinoma</em>.</li>
  	<li>2014 University of Paris Descartes, Paris, France. <em>The inherent ease and difficulty of prognosis in breast cancer.</em></li>
  	<li>2013 Goodman Cancer Centre.<em> Landscape of prognosis in Breast Cancer.</em> Montreal,Canada</li>
@@ -70,7 +78,7 @@ Professor
  	<li>2014-2017. CIHR, Foundation Grants Competition, Virtual Chair.</li>
  	<li>2012-2016. CIHR, Genomics (GMX) panel, Chair.</li>
  	<li>2012-2014. Canadian Cancer Society Research Institute, Gene Regulation panel, Member.</li>
- 	<li>2010, 2011, 2013. Ontario Genomics Research Council, Member.</li>
+ 	<li>2010, 11, 13, 18. Ontario Research Foundation, Member.</li>
  	<li>2011-2012. Terry Fox Cancer Research Society, Panel Member.</li>
  	<li>2005-2010, 2012. CIHR, Genomics (GMX) panel, Member.</li>
  	<li>2009. CIHR, Biochemistry &amp; Molecular Biology – B panel, Member.</li>
@@ -103,6 +111,6 @@ Professor
  	<li>2001. Workshop on Bioinformatics (WABI). Aarhus, Denmark. Programme Committee, Member.</li>
  	<li>2001. International Conference on Discrete Mathematics and Theoretical Computer Science. Constanta, Romania. Programme Committee, Member.</li>
 </ul>
-My lab organizes the annual workshop at the <a title="Barbados" href="http://www.bci.mcgill.ca/home/?page_id=61">Bellairs Research Centre in Barbados</a>.
+My lab organizes the [annual workshop](/barbados/) at [McGill-Bellairs Research Station](https://www.mcgill.ca/bellairs/) in Barbados.
 
 &nbsp;
