@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Dr. Ali Tofigh 
+title: Dr Ali Tofigh 
 position: Research Associates
 handle: Ali
 email: ali.tofigh@mcgill.ca

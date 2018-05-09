@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Sadiq Saleh
+title: Dr Sadiq Saleh
 position: PhD
 handle: sadiq
 email: sadiq.saleh@gmail.com

@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Vanessa Dumeaux
+title: Dr Vanessa Dumeaux
 position: Research Associate
 handle: vanessa
 twitter: vdumeaux
