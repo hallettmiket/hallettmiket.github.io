@@ -10,7 +10,7 @@ bitbucket: hallettmichael
 scholar: aSl0gXwAAAAJ
 linkedin: https://www.linkedin.com/in/michael-hallett-27411991/
 image: /images/team/mike-hallett.jpg
-WWW: https://mikehallett.science
+www: https://mikehallett.science
 cv: /pdfs/team/mike-hallett-cv.pdf
 ---
 
