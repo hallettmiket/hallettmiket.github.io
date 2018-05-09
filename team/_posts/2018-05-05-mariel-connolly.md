@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Mariel Connolly
-position: Summer Student
+position: Summer Researcher
 handle: mariel 
 alumni: true
 ---
