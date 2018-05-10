@@ -1,5 +1,5 @@
 ---
-layout: events
+layout: post
 title: Roundtables for Systems and Information Biology at Concordia
 venue: TBA
 event: To build superhumans literate in biology and computation.
