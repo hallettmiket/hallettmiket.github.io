@@ -26,6 +26,6 @@ The CompLifeSci community plans to host regular informal events with
 </ul>
 There will of course be healthy fresh food.
 
-Please place your email in the comments below or send me a message at michael.hallett@concordia.ca if you are interested.
+Please place your email in the comments below or send me a message at michael.hallett@concordia.ca if you are interested.
 
 (PS* We aren't sure there are any actual round tables at Concordia but that won't stop us.)
