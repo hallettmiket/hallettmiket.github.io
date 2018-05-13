@@ -7,6 +7,12 @@ image: /images/barbados/genomic-instability.png
 
 This meeting brought together researchers interested in understanding how genomic instability, and the evolution of neoplastic genomes, affects cancer progression.
 
+<table width="90%"><tbody><tr><td>
+<center><img src="/images/barbados/2007-group-picture.jpg" border="0" height="408" width="614"></center>
+</td></tr></tbody></table>
+
+
+
 <table  width="90%">
 <tr><td><a href="http://www.mcb.mcgill.ca/~hallett/">Mike Hallett</a><td>McGill University</tr>
 <tr><td><a href="http://www.nada.kth.se/~jensl">Jens Lagergren</a><td>Stockholm Bioinformatics Centre</tr>
