@@ -11,7 +11,7 @@ www: https://www.nhl.com
 Squids, because they were <strong>ferocious</strong>.
 
 
-<p style="text-align: justify;">Montreal has a long tradition in hockey, and arguably the first game of this sport was played at McGill University. For over a decade, our team was The Squidsx. Oh how we tapped into the rich tradition of hockey in Montreal. The Squids were a D league intramural hockey team at McGill University.</p>
+<p style="text-align: justify;">Montreal has a long tradition in hockey, and arguably the first game of this sport was played at McGill University. For over a decade, our team was The Squids. Oh how we tapped into the rich tradition of hockey in Montreal. The Squids were a D league intramural hockey team at McGill University.</p>
 
 <blockquote>
 
