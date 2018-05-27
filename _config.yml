@@ -49,6 +49,14 @@ exclude:
 
 
 projects:
-  - mhallett/molecular_interactions
+  - mhallett/mixt
+  - mhallett/stroma4
+  - meoyo/AIPS
+  - meoyo/trainAims
+  - mhallett/bresect
+  - mhallett/bresat
+  - mhallett/gitraw
+  - mhallett/hera
+  - mhallett/pslt
   
 
