@@ -1,0 +1,95 @@
+---
+layout: default
+---
+
+
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56756908-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-56756908-2');
+</script>
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="media">
+			{% if page.image %}
+			<img class="pull-left pad-right media-object" src="{{ page.image }}">
+			{% endif %}
+			<div class="media-body titlebox">
+				<div class="title media-heading">
+					{{ page.title }}
+				</div>
+				<p>
+				<div class="smallhead">
+					{{ page.authors }}
+					{{ page.year }}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-md-3">
+		<div class="bigspacer"></div>
+		<div class="glyphbox note">
+		  {% if page.pdf %}
+			<div class="smallhead">
+				PDF
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off" href="{{ page.pdf }}">{{ page.pdf | split: '/' | last }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.github %}
+			<div class="smallhead">
+				GitHub
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-github-alt fa-fw"></i>
+				<a class="off" href="{{ page.github }}">{{ page.github | remove: 'http://github.com/' | remove: 'https://github.com/' }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}			
+			{% if page.bitbucket %}
+			<div class="smallhead">
+				BitBucket
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-bitbucket-alt fa-fw"></i>
+				<a class="off" href="{{ page.bitbucket }}">{{ page.bitbucket | remove: 'http://bitbucket.com/' | remove: 'https://bitbucket.com/' }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.www %}
+			<div class="smallhead">
+				WWW
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-www-alt fa-fw"></i>
+				<a class="off" href="{{ page.www }}">{{ page.www }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+		</div>
+	</div>
+	<div class="col-md-8">
+		<div class="post">
+			{{ content }}
+		</div>
+	</div>
+	<div class="col-md-1"></div>
+</div>

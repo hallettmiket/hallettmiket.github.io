@@ -1,31 +1,25 @@
 ---
 layout: default
-title: hallett lab / projects
+title: hallett lab / software
 categories: 
-  - projects
+  - software
 ---
-  
-{% for project in site.data.projects %}
+
+{% for software in site.categories.software %}
 
 {% cycle 'add rows': '<div class="row">', nil, nil %}
-<div class="col-md-4 projectbox">
+<div class="col-md-4 softwarebox">
   <div class="head">
-  <a href="{{ project.url }}" class="off">{{ project.title }}</a>
+  <a href="{{ software.url }}" class="off">{{ software.title }}</a>
   </div>	
   <div class="smallspacer"></div>
   <div class="note">
-  <a href="{{ project.url }}" class="off">{{ project.description }}</a>
+  <a href="{{ software.url }}" class="off">{{ software.description }}</a>
   </div>
   <div class="smallspacer"></div>
-  <div class="smallnote">
-  Updated
-<a class="off" href="{{ project.commits.first.url }}">
-{{ project.commits.first.date | date: "%-d %b %Y" }}
-</a>
-  by
-<a class="off" href="{{ project.commits.first.author_url }}">				
-{{ project.commits.first.author_login }}
-</a>
+ <div class="note">
+  <a href="{{ software.url }}" class="off">{{ software.authors }}</a>
+  </div>  <div class="smallnote">
   </div>
   <div class="bigspacer"></div>
   <div class="spacer"></div>

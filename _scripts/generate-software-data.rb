@@ -20,42 +20,42 @@
 require 'octokit'
 require 'yaml'
 
-module Projects
+module Softwares 
 
 	def self.generate_data(config_file)
 
-		project_data = {}
+		software_data = {}
 
 		config = YAML.load_file(config_file)
-		projects_array = config["projects"]
+		softwares_array = config["software"]
 
-		puts "Generating projects"
+		puts "Generating software"
 		# create octokit client
 		client = Octokit::Client.new(:netrc => true, :access_token => ENV['GITHUB_TOKEN'])
 
-		project_data = Array.new
-		if projects_array.length > 0
-			projects_array.each do |repo|
+		software_data = Array.new
+		if softwares_array.length > 0
+			softwares_array.each do |repo|
 
 				puts "\tGenerating #{repo}"
 
 				# load repo metadata
 				octokit_repo = client.repository(repo)
-				project_title = octokit_repo.name
-				project_owner = octokit_repo.owner.login
-				project_description = octokit_repo.description
-				project_url = "/projects/#{project_title}/"
-				project_date = octokit_repo.updated_at
+				software_title = octokit_repo.name
+				software_owner = octokit_repo.owner.login
+				software_description = octokit_repo.description
+				software_url = "/software/#{software_title}/"
+				software_date = octokit_repo.updated_at
 
 				# load contributor metadata
 				octokit_contributors = client.contributors(repo)
-				project_contributors = Array.new
+				software_contributors = Array.new
 				for i in 0 ... [octokit_contributors.size, 5].min
 					contributor = octokit_contributors[i]
 					contributor_login = contributor.login
 					contributor_avatar = contributor.rels[:avatar].href + "&s=50"
 					contributor_url = contributor.rels[:html].href
-					project_contributors = project_contributors.push(
+					software_contributors = software_contributors.push(
 						"login" => contributor_login,
 						"avatar" => contributor_avatar,
 						"url" => contributor_url
@@ -64,7 +64,7 @@ module Projects
 
 				# load commit metadata
 				octokit_commits = client.commits(repo)
-				project_commits = Array.new
+				software_commits = Array.new
 				counter = 0
 				for i in 0 ... octokit_commits.size
 					commit = octokit_commits[i]
@@ -74,7 +74,7 @@ module Projects
 					if commit.author != nil then
 						commit_author_login = commit.author.login
 						commit_author_url = commit.author.rels[:html].href
-						project_commits = project_commits.push(
+						software_commits = software_commits.push(
 							"date" => commit_date,
 							"message" => commit_message,
 							"url" => commit_url,
@@ -90,34 +90,34 @@ module Projects
 				end
 
 				# assemble metadata
-				project_data = project_data.push(
+				software_data = software_data.push(
 					"repo" => repo,
-					"title" => project_title,
-					"owner" => project_owner,
-					"description" => project_description,
-					"url" => project_url,
-					"contributors" => project_contributors,
-					"commits" => project_commits
+					"title" => software_title,
+					"owner" => software_owner,
+					"description" => software_description,
+					"url" => software_url,
+					"contributors" => software_contributors,
+					"commits" => software_commits
 				)
 
 				# sort by date
-				project_data.sort! { |x, y| y["commits"].first["date"] <=> x["commits"].first["date"] }
+	#			software_data.sort! { |x, y| y["commits"].first["date"] <=> x["commits"].first["date"] }
 
 			end
 		end
 
-		return project_data
+		return software_data
 
 	end
 
-	def self.write_data(project_data, data_file)
+	def self.write_data(software_data, data_file)
 
-		puts "Writing project data"
-		File.write(data_file, project_data.to_yaml)
+		puts "Writing software data"
+		File.write(data_file, software_data.to_yaml)
 
 	end
 
 end
 
-project_data = Projects.generate_data("_config.yml")
-Projects.write_data(project_data, "_data/projects.yml")
+software_data = Softwares.generate_data("_config.yml")
+Softwares.write_data(software_data, "_data/software.yml")
