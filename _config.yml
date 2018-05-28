@@ -1,6 +1,6 @@
 name: Hallett Lab
 description: Computational and Sytems Biology for Breast Cancer and Fungal Genomics
-url: http://hallettlab.bitbucket.io
+url: http://hallettlab.github.io
 
 markdown: redcarpet
 permalink: /:categories/:title/
@@ -48,7 +48,7 @@ exclude:
   - "Gemfile.lock"
 
 
-projects:
+software:
   - mhallett/mixt
   - mhallett/stroma4
   - meoyo/AIPS

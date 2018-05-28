@@ -1,8 +1,8 @@
 ---
 layout: default
-title: hallett lab / blog / archive
+title: hallett lab / research / archive
 categories:
- - blog
+ - research
 ---
 
 <div class="row">
@@ -10,12 +10,12 @@ categories:
 		<div class="centered-pills">
 			<ul class="nav nav-pills note">
 				<li role="presentation">
-					<a class="off" href="/blog/">
+					<a class="off" href="/research/">
 						<i class="fa fa-refresh fa-fw"></i> Timeline
 					</a>
 				</li>
 				<li role="presentation" class="active">
-					<a class="off" href="/blog/archive/">
+					<a class="off" href="/research/archive/">
 						<i class="fa fa-list-ul fa-fw"></i> Index
 					</a>
 				</li>
@@ -25,7 +25,7 @@ categories:
 	</div>
 </div>
 
-{% for post in site.categories.blog %}
+{% for post in site.categories.research %}
 
     {% cycle 'add rows': '<div class="row">', nil, nil %}
 		<div class="col-md-4 postbox">

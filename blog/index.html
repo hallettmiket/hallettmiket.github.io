@@ -1,132 +1,53 @@
 ---
 layout: default
 title: hallett lab / blog
-categories:
+categories: 
  - blog
-category: blog
 ---
 
 <div class="row">
 	<div class="col-md-12">
-		<div class="centered-pills">
-			<ul class="nav nav-pills note">
-				<li role="presentation" class="active">
-					<a class="off" href="/blog/">
-						<i class="fa fa-refresh fa-fw"></i> Timeline
-					</a>
-				</li>
-				<li role="presentation">
-					<a class="off" href="/blog/archive/">
-						<i class="fa fa-list-ul fa-fw"></i> Index
-					</a>
-				</li>
-			</ul>
-		</div>
-		<div class="bigspacer"></div>
+		<div class="bigtitle">
+			blog
+		</div>	
 	</div>
-</div>
+</div>	
 
-<div class="post-list">
+<div class="bigspacer"></div>
 
-{% for post in site.categories.blog limit: 8 %}
+{% for event in site.categories.blog %}
+{% unless event.draft %}
 
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-10">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="{{ post.url }}" class="off">{{ post.title }}</a>
-						</div>
-						<p>
-						<div class="smallhead">
-							{{ post.date | date: "%-d %b %Y" }}
-							{% if post.author %}
-							by <a class="off" href="
-                {% for member in site.categories.team %}
-                  {% if member.title == post.author %}
-                    {{ member.url }}
-                  {% endif %}
-                {% endfor %}
-              ">
-              {{ post.author }}
-              </a>
-							{% endif %}
-              {% if post.authors %}
-              by
-              <a class="off" href="
-                {% for member in site.categories.team %}
-                  {% if member.title == post.authors.first %}
-                    {{ member.url }}
-                  {% endif %}
-                {% endfor %}
-              ">
-              {{ post.authors.first }}
-              </a>
-              and
-              <a class="off" href="
-                {% for member in site.categories.team %}
-                  {% if member.title == post.authors.last %}
-                    {{ member.url }}
-                  {% endif %}
-                {% endfor %}
-              ">
-              {{ post.authors.last }}
-              </a>
-              {% endif %}
-						</div>
-					</div>
-				</div>
+	{% for member in site.categories.team %}
+		{% if member.title == event.author %}
+			{% assign author = member %}
+		{% endif %}
+	{% endfor %}
+
+    {% cycle 'add rows': '<div class="row">', nil, nil %}
+		<div class="col-md-4 eventbox">
+			<div class="smallhead">
+				<a href="{{ event.url }}" class="off">{{ event.title }}</a>
 			</div>
-			<div class="col-md-1"></div>
-		</div>
-
-		<div class="bigspacer"></div>
-
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-10">
-				{% if post.image %}
-				{% if post.link %}
-				<a href="{{ post.link }}">
-					<img class="offset" src="{{ post.image }}">
-				</a>
-				{% else %}
-				<img class="offset" src="{{ post.image }}">
-				{% endif %}
-				{% endif %}
-				<div class="post">
-					{{ post.content }}
-				</div>
+			<div class="smallspacer"></div>
+      {% if event.venue %}
+			<div class="note">
+				{{ event.event }} at {{ event.venue }} at {{ event.when }}
 			</div>
-			<div class="col-md-1"></div>
-		</div>
-
-		<div class="bigspacer"></div>
-		<div class="spacer"></div>
-
-	</div>
-
+      {% else %}
+      <div class="note">
+				{{ event.event }}
+			</div>
+      {% endif %}
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				{{ event.date | date: "%-d %b %Y" }}
+				by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			<div class="spacer"></div>
+        </div>
+    {% cycle 'close rows': nil, nil, '</div>' %}
+{% endunless %}
 {% endfor %}
-
-</div>
-
-<div class="infinite-spinner"></div>
-
-<div class="row">
-	<div class="col-md-12">
-		<div id="scroll" class="centered-pills">
-			<ul class="nav nav-pills note">
-				<li role="presentation">
-					<a class="off" href="/blog/">
-						<i class="fa fa-chevron-up fa-fw"></i> Back to top
-					</a>
-				</li>
-			</ul>
-		</div>
-	</div>
-</div>
-
-<!-- Infinite scroll -->
-<script async src="/js/infinite-scroll.js"></script>
+{% cycle 'close rows': nil, '</div>', '</div>' %}

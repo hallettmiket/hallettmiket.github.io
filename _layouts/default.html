@@ -66,12 +66,12 @@
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse-element">
 					<ul class="nav navbar-nav navbar-right">
-						{% if page.categories.first == 'blog' %}
+						{% if page.categories.first == 'research' %}
 						<li class="active">
 						{% else %}
 						<li>
 						{% endif %}
-						<a href="/blog/">blog</a>
+						<a href="/research/">research</a>
 						</li>
 						{% if page.categories.first == 'papers' %}
 						<li class="active">
@@ -80,12 +80,12 @@
 						{% endif %}
 						<a href="/papers/">papers</a>
 						</li>
-						{% if page.categories.first == 'projects' %}
+						{% if page.categories.first == 'software' %}
 						<li class="active">
 						{% else %}
 						<li>
 						{% endif %}
-						<a href="/projects/">projects</a></li>
+						<a href="/software/">software</a></li>
 						
 						{% if page.categories.first == 'barbados' %}
 						<li class="active">
