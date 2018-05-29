@@ -9,7 +9,11 @@ categories:
 
 {% cycle 'add rows': '<div class="row">', nil, nil %}
 <div class="col-md-4 softwarebox">
+<div class="media">
   <div class="head">
+  <a class="pull-right" href="{{ software.url }}">
+    				<img width=100 class="media-object" src="{{ software.image }}">
+  </a>
   <a href="{{ software.url }}" class="off">{{ software.title }}</a>
   </div>	
   <div class="smallspacer"></div>
@@ -24,6 +28,7 @@ categories:
  <div class="note">
   <a href="{{ software.url }}" class="off">{{ software.authors }}</a>
   </div>  <div class="smallnote">
+  </div>
   </div>
   <div class="bigspacer"></div>
   <div class="spacer"></div>
