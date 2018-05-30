@@ -7,7 +7,7 @@ twitter: vdumeaux
 github: vdumeaux
 bitbucket: vdumeaux
 email: vanessa.dumeaux@concordia.ca
-www: https://dumeaux.science
+www: https://lab-dumeaux.science
 image: /images/team/vanessa-dumeaux.jpg
 linkedin: https://www.linkedin.com/in/vanessadumeaux/
 alumni: true
