@@ -9,7 +9,7 @@ coursenumber: BIOL 516
 coursenumberwww: https://www.concordia.ca/academics/graduate/calendar/archives/winter-2017/fasc/biol.html
 ---
 
-<br> A brief meeting for BIOL 516 will take place on <bf>Tuesday September 18, 1pm</bf> in <bf> GE 120.07 </bf>
+<br> <strong> A brief meeting for BIOL 516 will take place on <bf>Tuesday September 18, 1pm in GE 120.07 </strong>
 <br><br>
 
 <br><br><br>
