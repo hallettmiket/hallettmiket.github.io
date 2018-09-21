@@ -4,7 +4,7 @@ title: Dr Ali Tofigh
 position: Research Associate
 handle: Ali
 email: ali.tofigh@mcgill.ca
-images: /images/team/aligitor.jpg
+image: /images/team/aligitor.jpg
 alumni: true
 ---
 
