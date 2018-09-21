@@ -9,6 +9,9 @@ coursenumber: BIOL 516
 coursenumberwww: https://www.concordia.ca/academics/graduate/calendar/archives/winter-2017/fasc/biol.html
 ---
 
+<br> <strong> A brief meeting for BIOL 516 will take place on <bf>Tuesday September 18, 1pm in GE 120.07 </strong>
+<br><br>
+
 <br><br><br>
 This is a two semester course offered as part of the Graduate Diploma in Biotechnology and Genomics  at the [Dept of Biology](https://www.concordia.ca/artsci/biology.html) of [Concordia](https://www.concordia.ca). The instructor is [Prof MT Hallett](https://mikehallett.science).
 
