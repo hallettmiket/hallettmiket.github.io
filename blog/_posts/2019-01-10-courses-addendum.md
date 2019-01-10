@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Computational Biology Courses for Winter 2019
+title: Changes to Computational Biology Courses
 author: Mike Hallett
 ---
 
