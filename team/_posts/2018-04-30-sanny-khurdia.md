@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Sanny Khurdia
-position: Biotechnology thesis
+position: MSc
 handle: sanny
 email: sannykhurdia@gmail.com
 twitter: SannyKhurdia

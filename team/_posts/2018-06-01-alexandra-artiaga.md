@@ -3,8 +3,8 @@ layout: member
 title: Alexandra Artiaga
 position: Summer researcher
 handle: alexandra
-email: alexandra_artiaga@hotmail.com
+email: alexandraartiaga18@gmail.com
 image: /images/team/alexandra.jpg
 ---
 
-The development of single cell approaches for fungi.
+The development of single cell approaches for with peripherial blood cells in breast cancer.
