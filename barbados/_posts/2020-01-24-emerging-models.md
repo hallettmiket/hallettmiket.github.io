@@ -15,7 +15,7 @@ Our goal is also to  bring  investigators interested in the develop of such meth
 
 In particular, we have invited individuals championing emerging model systems across a broad swath of the Tree of Life. This includes protist, bacterial and fungal unicellular model systems for studying carbon sequestration in marine sytems, single cellular regeneration, and  genome organization.
 We have also invited individuals who have developed novel models in multicellular organisms including sytems to study regeneration, tissue morphology,  and neural function. Some invitees will present models  that may more accurately recapitulate key aspects of human disease in comparison to systems currently in use. We have also invited researchers interested in the development of models to study  organismal interactions  in various environments
-or which promise efficacy for the development of synthetic biology. Lastly, some invitees are experts in techniques from -omics, microscopy and computational/statistical biology central to modern studies.
+or which promise efficacy for the development of synthetic biology. Lastly, some invitees are experts in devloping and applying techniques from -omics, microscopy and computational/statistical biology central to model systems.
 
 
 A **preliminary** schedule for the meeting will be posted in the Fall of 2020.  Unless indicated otherwise, the talks are scheduled to be 30 minutes.
