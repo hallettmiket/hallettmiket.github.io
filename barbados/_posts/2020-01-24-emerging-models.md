@@ -10,7 +10,7 @@ Emerging Model Systems
 This meeting brings together researchers interested in the development of new model organisms.
 Such models either facilitate exciting new questions that can be asked for the first time, or 
 facilitate unprecedented ability to explore long-standing fundamental questions central to the life sciences.
-The emergency of  many new "non-model" model systems has been facilitated by the development of gene editing technologies,  cellular imaging, and single cell genomics.
+The emergency of  many new "non-model" model systems has been brought about in part by the development of gene editing technologies,  cellular imaging, and single cell genomics.
 We have also focused on bringing   investigators interested in the advancement of techniques to better exploit the unique biological features of these organisms.
 
 In particular, we have invited individuals championing emerging model systems across a broad swath of the Tree of Life. This includes 
