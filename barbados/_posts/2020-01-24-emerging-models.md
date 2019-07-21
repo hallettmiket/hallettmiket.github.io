@@ -13,7 +13,7 @@ facilitate unprecedented ability to explore long-standing fundamental questions 
 The emergency of  many new "non-model" model systems has been brought about in part by the development of gene editing technologies,  cellular imaging, and single cell genomics.
 We have also focused on bringing   investigators interested in the advancement of techniques to better exploit the unique biological features of these organisms.
 
-In particular, we have invited individuals championing emerging model systems across a broad swath of the Tree of Life. This includes 
+The invitees  collectively champion emerging model systems across a broad swath of the Tree of Life. This includes 
 <ul>
 <li> Protist, bacterial and fungal unicellular model systems for studying carbon sequestration in marine sytems, single cellular regeneration, and  genome organization.</li>
 <li>
