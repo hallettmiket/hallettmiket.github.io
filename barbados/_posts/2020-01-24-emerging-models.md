@@ -10,12 +10,12 @@ Emerging Model Systems
 This meeting brings together researchers interested in the development of new model organisms.
 Such models either facilitate exciting new questions that can be asked for the first time, or 
 facilitate unprecedented ability to explore long-standing fundamental questions central to the life sciences.
-Since the emergency of  many new "non-model" model systems has been brought about in part by the development of gene editing technologies,  cellular imaging, and single cell genomics,
+The emergence of  many new "non-model" model systems recently is at least in part due todevelopments in gene editing technologies,  cellular imaging, and single cell genomics. Therefore,
 the workshop also seeks to bring investigators interested in the advancement of  such techniques to better exploit the unique biological features of these organisms.
 
 The invitees  collectively champion emerging model systems across a broad swath of the Tree of Life. This includes 
 <ul>
-<li> Protist, bacterial and fungal unicellular model systems for studying carbon sequestration in marine sytems, single cellular regeneration, and  genome organization.</li>
+<li> Protist, bacterial and fungal unicellular model systems for studying, for example, carbon sequestration in marine sytems, single cellular regeneration, and  genome organization.</li>
 <li>
 Individuals who have developed novel models in multicellular organisms including sytems to study regeneration, tissue morphology,  and neural function. </li>
 <li> Researchers with models  that may more accurately recapitulate key aspects of human disease in comparison to current systems.
