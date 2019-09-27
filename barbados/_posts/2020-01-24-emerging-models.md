@@ -31,6 +31,6 @@ Experts in developing synthetic biology, -omics, microscopy and computational/st
 
 A **preliminary** schedule for the meeting will be posted in the Fall of 2020.  Unless indicated otherwise, the talks are scheduled to be 30 minutes.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4hgmW4jIqDyDQbjGDEX3_lLs9-GYBjtYyMYra2gZlVpc5NlZyjlp5R8B9c2aJGRLOKY0WueIDR5K/pubhtml?gid=741533285&amp;single=true&amp;widget=true&amp;headers=false" height="1800" width="55%" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4hgmW4jIqDyDQbjGDEX3_lLs9-GYBjtYyMYra2gZlVpc5NlZyjlp5R8B9c2aJGRLOKY0WueIDR5K/pubhtml?gid=741533285&amp;single=true&amp;widget=true&amp;headers=false" height="1700" width="55%" style="border:none;"></iframe>
 
 
