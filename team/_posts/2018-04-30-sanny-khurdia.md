@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Sanny Khurdia
-position: MSc
+position: MSc Candidate
 handle: sanny
 email: sannykhurdia@gmail.com
 twitter: SannyKhurdia
