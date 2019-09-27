@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Mathieu Harb
-position: Undergraduate thesis
+position: MSc Candidate
 handle: harb
 email: m-harbus@hotmail.com
 github: harbus
