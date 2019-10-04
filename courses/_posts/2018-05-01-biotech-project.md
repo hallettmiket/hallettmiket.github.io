@@ -32,7 +32,7 @@ The course proceeds as follows.
 
 <br>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVTohHxXlLHXb5NCc7zeRWKCw0J6cHZ2sN28byJqfIh6YqESj0cnuL13asZCsnJ1yto7tWUigWX6dl/pubhtml?widget=true&amp;headers=false"> height="500" width="90%" style="border:none;"</iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVTohHxXlLHXb5NCc7zeRWKCw0J6cHZ2sN28byJqfIh6YqESj0cnuL13asZCsnJ1yto7tWUigWX6dl/pubhtml?widget=true&amp;headers=false" height="500" width="90%" style="border:none;"></iframe>
 
 <br>
 
