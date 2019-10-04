@@ -28,7 +28,9 @@ The course proceeds as follows.
 <ol> 
 <li>At the very beginning of, or prior to, the semester, you need to find a supervisor to guide your project. </li>
 
-<strong>[Here](/516-profs/potential_supervisors.html) are a few professors who have BIOL 516 projects available. It is not a complete list, and you should approach others.</strong>
+<strong>Here are a few professors who have BIOL 516 projects available. It is not a complete list, and you should approach others.</strong>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVTohHxXlLHXb5NCc7zeRWKCw0J6cHZ2sN28byJqfIh6YqESj0cnuL13asZCsnJ1yto7tWUigWX6dl/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <li>You and your supervisor must fill out the <strong> supervisor admission form</strong> (below). You need to send it, or an electronic version, to both the <a href="mailto:biograd.fas@concordia.ca">Graduate Program Administrator</a> and <a href="mailto:michael.hallett@concordia.ca">me</a>.</li>
 
