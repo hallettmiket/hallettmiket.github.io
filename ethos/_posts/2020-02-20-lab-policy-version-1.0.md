@@ -107,7 +107,7 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>To mindfully consider the choice of venue for your work. Issues such as quality, open access, cost etc. should all be considered.</li>
 <li>To know your rights as a student and exercise them. This is especially important for foreign students, individuals with special needs, or individuals  who self-identify with a minority or marginalized status.</li>
 <li>To know the resources offered by the University and other organizations for physical and mental health care, addiction, abuse, etc. This is especially important for foreign students.</li>
-</ul>
+
 
 
 
