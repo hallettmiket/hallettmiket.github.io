@@ -2,7 +2,6 @@ name: Hallett Lab
 description: Computational and Sytems Biology for Breast Cancer and Fungal Genomics
 url: http://hallettlab.github.io
 
-markdown: redcarpet
 permalink: /:categories/:title/
 future: true
 
