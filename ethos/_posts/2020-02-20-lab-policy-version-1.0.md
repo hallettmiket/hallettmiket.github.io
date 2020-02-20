@@ -38,7 +38,7 @@ We believe that open access isn't just information, but also extends to biotechn
 <li>To provide detailed, concrete feedback on your  work within reasonable timeframes;</li>
 <li>To provide funding to attend scientific courses, conferences, tutorials, and workshops as best possible. Lab members generally attend at least one conference/year;</li>
 <li>To provide funding for your membership in a society that benefits your work as best possible;</li>
-<li>To provide funding for your salary/stipend, research materials, computational resources and physical workspace;</li>
+<li>To provide funding for your salary/stipend, research materials, computational resources and pan ergonomic physical workspace;</li>
 <li>To ensure that you have all the necessary laboratory safety training;</li>
 <li>To provide career advice, mentoring, and a graceful exit from your position here. (This can only be met  if there is sufficient prior notice!);</li>
 <li>To provide letters of reference that accurately reflect your performance, skills, and interaction with the rest of the group, by the relevant deadlines;</li>
@@ -88,15 +88,14 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>repsects other people's schedule (lab members, collaborators);</li>
 <li> allows you to share your knowledge with others on a regular basis (you have important knowledge that needs to be transmitted);
 </li>
-<li>On that note, it's a university and Mike is certainly ok with whatever lifestyle you choose. Just try not to harm yourself or anyone else in the lab ... or waste a lot of resources. </li>
+<li>On that note, it's a university and Mike is certainly ok with whatever lifestyle you choose.  Just try not to harm yourself or anyone else in the lab ... or waste a lot of resources. </li>
 </ul>
-<li>Represent the lab professionally when presenting its work.
+<li>To represent the lab professionally when presenting its work;
 </li>
-<li>Respect people's ideas, and find constructive ways to critique work.
+<li>To respect people's ideas, and find constructive ways to critique work;
 </li>
-<li>Give credit where credit is due.</li>
-<li>Respect confidentiality of collaborators' projects and data. Respect confidentiality of our labs' intellectual property and data. When in doubt, you can discuss it with Mike.</li>
-<li>Be careful with lab resources:
+<li>To respect confidentiality of collaborators' projects and data. Respect confidentiality of our labs' intellectual property and data. When in doubt, you can discuss it with Mike.</li>
+<li>To be careful with lab resources:
 <ul>
 <li> Make sure all reagents etc are there before you start an assay. Beware of expiry dates.</li>
 <li> Look around when you are purchasing. Make sure we are getting  discounts when possible.</li>
@@ -104,9 +103,10 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 </li>
 </ul>
 <li>If you are doing consulting work or other employment, make sure that it falls within the legal guidelines from Concordia, your funding agencies, and timelines for your research. You have to also respect where your graduate student salary is coming from (taxpayers, donours, philantrophy). It is best to be open about these things. Consulting can be a very important experience for you, especially if it complements your research. </li>
-<li>Discuss with Mike about protecting intellectual property appropriately.</li>
-<li>Mindfully consider the choice of venue for your work. Issues such as quality, open access, cost etc. should all be considered.</li>
-<li>Know your rights as a student and exercise them. This is especially important for foreign students, individuals with special needs, or individuals  who self-identify with a minority or maginalized status.</li>
+<li>To discuss with Mike issues of protecting intellectual property appropriately.</li>
+<li>To mindfully consider the choice of venue for your work. Issues such as quality, open access, cost etc. should all be considered.</li>
+<li>To your rights as a student and exercise them. This is especially important for foreign students, individuals with special needs, or individuals  who self-identify with a minority or maginalized status.</li>
+<li>To know the resources offered by the University and other organizations for physical and mental health care, addiction, abuse, etc. This is especially important for foreign students.</li>
 </ul>
 
 
