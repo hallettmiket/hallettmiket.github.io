@@ -56,6 +56,7 @@ Decision making is a joint effort of all involved and makes references to the fo
 <li>Be as fair as possible with the order of authors, respecting the quality of their intellectual contributions, their overall time, and other properties discussed above.</li>
 </ul>
 Generally, if we are using peoples' data we should involve them intellectually, or alternately talk to them first and ask if it's ok to use the data in a limited way while excluding them as authors.</li>
+<li>To oversee and take resonsibility for all core operations including (1) wet lab maintenance, (2) ordering, (3) server administration, (4) serivce for collaborators, (5) Logistics etc. It is our resonsibility to divide this work fairly and at the minimal load possible. It is also our responsibility to seek funds to obtain technical assistants to lighten this load from graduate students, whenever possible.</li>
 </ul>
 
 <h2><span style="color: #0000ff;"><span class="c6 c11">Your responsiblities
@@ -78,6 +79,7 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>To spend a fraction of your time helping other students and groups. This includes the general public. We have important information and our area is important. Let's share it for the good of science;</li>
 <li> To apply for scholarships. Our operating grants are generally not designed to carry students over the entire graduate experience. The idea is to support new students coming in, build a project, get a scholarship, assist in grant preparation, and do great science. By applying for scholarships, you contribute to the next generation of lab members; </li>
 <li>To assist Mike and others in grant writing, especially when it is related to your project. Grants proposals are highly complicated, optimized documents that take months to write. The success rates in Canada are well below 15% for many panels. The money supports your research;</li>
+<li>To contribute to the lab's core facilities as best you can, and to report in a direct manner to Mike when it becomes to heavy of a load.</li>
 <li>To infom Mike if you do not feel you are getting the training you need, do not have sufficient resources, or feel marginalized in some manner. There are secure means of doing this as outlined in our technology strategy;
 </li>
 <li>To communicate where you are. This extends to your health, your well-being, any problems within the lab, or your plans for the future.  There are ways to express this confidentially and Mike does not need to know details. But without communication, we can only guess. That isn't optimal for anyone especially you;
