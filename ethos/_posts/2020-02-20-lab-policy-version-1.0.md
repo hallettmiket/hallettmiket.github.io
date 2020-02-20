@@ -39,7 +39,7 @@ We believe that open access isn't just information, but also extends to biotechn
 <li>To provide funding to attend scientific courses, conferences, tutorials, and workshops as best possible. Lab members generally attend at least one conference/year;</li>
 <li>To provide funding for your membership in a society that benefits your work as best possible;</li>
 <li>To provide funding for your salary/stipend, research materials, computational resources and  ergonomic physical workspace;</li>
-<li>To ensure that you have all the necessary laboratory safety training;</li>
+<li>To ensure that you have all the necessary laboratory safety training, and to ensure that our lab operates in a way that meets safety requirements;</li>
 <li>To provide career advice, mentoring, and a graceful exit from your position here. (This can only be met  if there is sufficient prior notice!);</li>
 <li>To provide letters of reference that accurately reflect your performance, skills, and interaction with the rest of the group, by the relevant deadlines;</li>
 <li>To ablate as best possible administrative bureaucracy that hinders your focus on research and training as a researcher;</li>
@@ -56,7 +56,7 @@ Decision making is a joint effort of all involved and makes references to the fo
 <li>Be as fair as possible with the order of authors, respecting the quality of their intellectual contributions, their overall time, and other properties discussed above.</li>
 </ul>
 Generally, if we are using peoples' data we should involve them intellectually, or alternately talk to them first and ask if it's ok to use the data in a limited way while excluding them as authors.</li>
-<li>To oversee and take resonsibility for all core operations including (1) wet lab maintenance, (2) ordering, (3) server administration, (4) serivce for collaborators, (5) Logistics etc. It is our resonsibility to divide this work fairly and at the minimal load possible. It is also our responsibility to seek funds to obtain technical assistants to lighten this load from graduate students, whenever possible.</li>
+<li>To oversee and take resonsibility for all core operations including (1) wet lab maintenance, (2) ordering and finances, (3) server administration, (4) serivce for collaborators, (5) logistics etc. It is our resonsibility to divide this work fairly and at the minimal load possible. It is also our responsibility to seek funds to obtain technical assistants to lighten this load from graduate students, whenever possible.</li>
 </ul>
 
 <h2><span style="color: #0000ff;"><span class="c6 c11">Your responsiblities
@@ -69,12 +69,14 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>To participate in weekly group meetings, presenting your work several times per year;</li>
 <li> To prepare for weekly check-ins with Mike to review progress, timelines, plans and ways to optimize;
 </li>
+<li>To learn our technology strategy (described in Slack) for reporting findings and communicating across the lab (it is the lab's responsiblity to assist you in this process);</li>
 <li>To follow our   technology strategy (described in Slack) for reporting findings. The technology strategy includes continuous sharing of manuscripts, lab notebooks, theses, software, and data. Each of these objects has a specific means of handling (eg GitHub for software). This includes a detailed, complete lab notebook. It can be a pain but there are many positives to this including the fact that it can help  protect your intellectual property;</li>
-<li>To proactively ensure that you have all the lab safety training necessary for your project;</li>
+<li>To proactively ensure that you have all the lab safety training necessary for your project and operating in accordance with the Environmental Health Services of the university;</li>
 <li>As best possible, to ensure that your work  is correct and reproducible;
 </li>
 <li> To assist in the preparation of manuscripts, presentations, theses, scholarhsip proposals etc. of your lab mates. Multiple pairs of eyes on anything will make it stronger; 
 </li>
+<li>To bring to our attention concepts, memes, technologies, approaches that would be potentially beneficial for the lab;</li>
 <li> To assist as an obsever or active participant in experiments of your lab mates that are particularly costly, or involve precious materials such as human tissue. Multiple pairs of eyes on these experiments help mitigate disasters;</li>
 <li>To spend a fraction of your time helping other students and groups. This includes the general public. We have important information and our area is important. Let's share it for the good of science;</li>
 <li> To apply for scholarships. Our operating grants are generally not designed to carry students over the entire graduate experience. The idea is to support new students coming in, build a project, get a scholarship, assist in grant preparation, and do great science. By applying for scholarships, you contribute to the next generation of lab members; </li>
@@ -82,7 +84,7 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>To contribute to the lab's core facilities as best you can, and to report in a direct manner to Mike when it becomes to heavy of a load.</li>
 <li>To infom Mike if you do not feel you are getting the training you need, do not have sufficient resources, or feel marginalized in some manner. There are secure means of doing this as outlined in our technology strategy;
 </li>
-<li>To communicate where you are. This extends to your health, your well-being, any problems within the lab, or your plans for the future.  There are ways to express this confidentially and Mike does not need to know details. But without communication, we can only guess. That isn't optimal for anyone especially you;
+<li>To communicate if you are experiencing personal difficulties. This extends to your health, your well-being, any problems within the lab, or your plans for the future.  There are ways to express this confidentially and Mike does not need to know details. But without communication, we can only guess. That isn't optimal for anyone especially you;
 </li>
 <li>To choose a lifestyle that suits you and your research. We understand that we all have different biorhythms and specific environments where we work best. Our goal is not to lock people into a specific time to be in their office or lab. However, it is important that your lifestyle 
 <ul>
