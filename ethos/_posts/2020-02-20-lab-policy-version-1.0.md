@@ -4,7 +4,7 @@ title: The Axioms of our Lab
 author: Mike Hallett
 ---
 
-I have heavily borrowed (basically copied and tweaked) the excellent example from Anne Carpenter available [here](https://personal.broadinstitute.org/anne/lab_policy.html). 
+I have heavily borrowed from the excellent example from Anne Carpenter available [here](https://personal.broadinstitute.org/anne/lab_policy.html). 
 
 
 <h2><span style="color: #0000ff;"><span class="c6 c11">Our ethos</span></span></h2>
