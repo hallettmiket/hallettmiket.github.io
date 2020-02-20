@@ -38,17 +38,17 @@ We believe that open access isn't just information, but also extends to biotechn
 <li>To provide detailed, concrete feedback on your  work within reasonable timeframes;</li>
 <li>To provide funding to attend scientific courses, conferences, tutorials, and workshops as best possible. Lab members generally attend at least one conference/year;</li>
 <li>To provide funding for your membership in a society that benefits your work as best possible;</li>
-<li>To provide funding for your salary/stipend, research materials, computational resources and pan ergonomic physical workspace;</li>
+<li>To provide funding for your salary/stipend, research materials, computational resources and  ergonomic physical workspace;</li>
 <li>To ensure that you have all the necessary laboratory safety training;</li>
 <li>To provide career advice, mentoring, and a graceful exit from your position here. (This can only be met  if there is sufficient prior notice!);</li>
 <li>To provide letters of reference that accurately reflect your performance, skills, and interaction with the rest of the group, by the relevant deadlines;</li>
-<li>To ablate as best possible administrative bureaucracy that hinders your focus on research and training as a researcher.</li>
+<li>To ablate as best possible administrative bureaucracy that hinders your focus on research and training as a researcher;</li>
 <li>To allow you work time to finish up revisions of papers from your prior lab experience; however, unless you are funded by a fellowship, remember that you also have a full-time obligation to the funding source paying for your time so this should be kept reasonable;</li>
 <li>To arbitrate on appropriate authorship, and the order of authorship, on publications emanating from our group’s research. We follow the guidelines of The International Committee of Medical Journal Editors:
-“acquisition of funding, collection of data, or general supervision of the research group, alone, does not justify authorship. Each author should have participated sufficiently in the work to take public responsibility for appropriate portions of the content; ALL three of the following criteria be met for authorship to be warranted:
+"acquisition of funding, collection of data, or general supervision of the research group, alone, does not justify authorship. Each author should have participated sufficiently in the work to take public responsibility for appropriate portions of the content; ALL three of the following criteria be met for authorship to be warranted:
 substantial contributions to conception and design, or acquisition of data, or analysis and interpretation of data;
 drafting the article or revising it critically for important intellectual content; and
-final approval of the version to be published.“</li>
+final approval of the version to be published."
 Decision making is a joint effort of all involved and makes references to the following points: 
 <ul>
 <li>When there is any doubt or discussion, include them as an author.</li>
@@ -64,11 +64,11 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <ul>
 <li>To do the absolute best science you  can;</li>
 <li>To choose projects that have positive impact;</li>
-<li>To understand that science is a part of society and the role it plays. This includes its role as an educator  and  employer across society;</li>
+<li>To understand that science is a part of society and the role it plays. This includes its role as an educator  and  employer;</li>
 <li>To participate in weekly group meetings, presenting your work several times per year;</li>
 <li> To prepare for weekly check-ins with Mike to review progress, timelines, plans and ways to optimize;
 </li>
-<li>To follow our   technology strategy (described in Slack) for reporting findings. The technology strategy includes continuous sharing of manuscripts, lab notebooks, theses, software, and data. Each of these objects has specific types of means of handing (eg GitHub for software). This includes a detailed, complete lab notebook. It can be a pain but there are many positives to this including the fact that it can help  protect your intellectual property;</li>
+<li>To follow our   technology strategy (described in Slack) for reporting findings. The technology strategy includes continuous sharing of manuscripts, lab notebooks, theses, software, and data. Each of these objects has a specific means of handling (eg GitHub for software). This includes a detailed, complete lab notebook. It can be a pain but there are many positives to this including the fact that it can help  protect your intellectual property;</li>
 <li>To proactively ensure that you have all the lab safety training necessary for your project;</li>
 <li>As best possible, to ensure that your work  is correct and reproducible;
 </li>
@@ -80,7 +80,7 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>To assist Mike and others in grant writing, especially when it is related to your project. Grants proposals are highly complicated, optimized documents that take months to write. The success rates in Canada are well below 15% for many panels. The money supports your research;</li>
 <li>To infom Mike if you do not feel you are getting the training you need, do not have sufficient resources, or feel marginalized in some manner. There are secure means of doing this as outlined in our technology strategy;
 </li>
-<li>To communicate where you are. Thisextends to your health, your well-being, any problems within the lab, or your plans for the future.  There are ways to express this confidentially and Mike does not need to know details. But without communication, we can only guess. That isn't optimal for anyone especially you;
+<li>To communicate where you are. This extends to your health, your well-being, any problems within the lab, or your plans for the future.  There are ways to express this confidentially and Mike does not need to know details. But without communication, we can only guess. That isn't optimal for anyone especially you;
 </li>
 <li>To choose a lifestyle that suits you and your research. We understand that we all have different biorhythms and specific environments where we work best. Our goal is not to lock people into a specific time to be in their office or lab. However, it is important that your lifestyle 
 <ul>
@@ -94,7 +94,7 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 </li>
 <li>To respect people's ideas, and find constructive ways to critique work;
 </li>
-<li>To respect confidentiality of collaborators' projects and data. Respect confidentiality of our labs' intellectual property and data. When in doubt, you can discuss it with Mike.</li>
+<li>To respect confidentiality of collaborators' projects and data, and to respect confidentiality of our labs' intellectual property and data. When in doubt, you can discuss it with Mike.</li>
 <li>To be careful with lab resources:
 <ul>
 <li> Make sure all reagents etc are there before you start an assay. Beware of expiry dates.</li>
@@ -105,7 +105,7 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>If you are doing consulting work or other employment, make sure that it falls within the legal guidelines from Concordia, your funding agencies, and timelines for your research. You have to also respect where your graduate student salary is coming from (taxpayers, donours, philantrophy). It is best to be open about these things. Consulting can be a very important experience for you, especially if it complements your research. </li>
 <li>To discuss with Mike issues of protecting intellectual property appropriately.</li>
 <li>To mindfully consider the choice of venue for your work. Issues such as quality, open access, cost etc. should all be considered.</li>
-<li>To your rights as a student and exercise them. This is especially important for foreign students, individuals with special needs, or individuals  who self-identify with a minority or maginalized status.</li>
+<li>To know your rights as a student and exercise them. This is especially important for foreign students, individuals with special needs, or individuals  who self-identify with a minority or marginalized status.</li>
 <li>To know the resources offered by the University and other organizations for physical and mental health care, addiction, abuse, etc. This is especially important for foreign students.</li>
 </ul>
 
