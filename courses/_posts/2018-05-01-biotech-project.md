@@ -50,7 +50,7 @@ The course proceeds as follows.
 
 </ol>
 
-Thiss is the [supervisor admission form](/pdfs/courses/biol516/supervisor.admissions.pdf/).
+This is the [supervisor admission form](/pdfs/courses/biol516/supervisor.admissions.pdf/).
 
 Here are [some hints for finding a supervisor.](/pdfs/courses/biol516/find.supervisor.pdf) 
 
