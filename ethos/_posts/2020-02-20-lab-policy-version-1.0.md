@@ -81,7 +81,7 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>To spend a fraction of your time helping other students and groups. This includes the general public. We have important information and our area is important. Let's share it for the good of science;</li>
 <li> To apply for scholarships. Our operating grants are generally not designed to carry students over the entire graduate experience. The idea is to support new students coming in, build a project, get a scholarship, assist in grant preparation, and do great science. By applying for scholarships, you contribute to the next generation of lab members; </li>
 <li>To assist Mike and others in grant writing, especially when it is related to your project. Grants proposals are highly complicated, optimized documents that take months to write. The success rates in Canada are well below 15% for many panels. The money supports your research;</li>
-<li>To contribute to the lab's core facilities as best you can, and to report in a direct manner to Mike when it becomes to heavy of a load.</li>
+<li>To contribute to the lab's core facilities as best you can, and to report in a direct manner to Mike when it becomes too heavy of a load.</li>
 <li>To infom Mike if you do not feel you are getting the training you need, do not have sufficient resources, or feel marginalized in some manner. There are secure means of doing this as outlined in our technology strategy;
 </li>
 <li>To communicate if you are experiencing personal difficulties. This extends to your health, your well-being, any problems within the lab, or your plans for the future.  There are ways to express this confidentially and Mike does not need to know details. But without communication, we can only guess. That isn't optimal for anyone especially you;
@@ -89,10 +89,10 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>To choose a lifestyle that suits you and your research. We understand that we all have different biorhythms and specific environments where we work best. Our goal is not to lock people into a specific time to be in their office or lab. However, it is important that your lifestyle 
 <ul>
 <li>allows you to meet all of your responsibilities; </li>
-<li>repsects other people's schedule (lab members, collaborators);</li>
+<li>respects other people's schedule (lab members, collaborators);</li>
 <li> allows you to share your knowledge with others on a regular basis (you have important knowledge that needs to be transmitted);
 </li>
-<li>On that note, it's a university and Mike is certainly ok with whatever lifestyle you choose.  Just try not to harm yourself or anyone else in the lab ... or waste a lot of resources. </li>
+<li> it's a university and Mike is certainly ok with whatever lifestyle you choose.  Just try not to harm yourself or anyone else in the lab ... or waste a lot of resources; </li>
 </ul>
 <li>To represent the lab professionally when presenting its work;
 </li>
@@ -101,15 +101,15 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>To respect confidentiality of collaborators' projects and data, and to respect confidentiality of our labs' intellectual property and data. When in doubt, you can discuss it with Mike.</li>
 <li>To be careful with lab resources:
 <ul>
-<li> Make sure all reagents etc are there before you start an assay. Beware of expiry dates.</li>
-<li> Look around when you are purchasing. Make sure we are getting  discounts when possible.</li>
-<li> Document your purchases according to our technology strategy. Be respectful regarding invoices and paperwork that the university will require for financial reconciliation.
+<li> Make sure all reagents etc are there before you start an assay. Beware of expiry dates;</li>
+<li> Look around when you are purchasing. Make sure we are getting  discounts when possible;</li>
+<li> Document your purchases according to our technology strategy. Be mindful of invoices and paperwork that the university will require for financial reconciliation.
 </li>
 </ul>
-<li>If you are doing consulting work or other employment, make sure that it falls within the legal guidelines from Concordia, your funding agencies, and timelines for your research. You have to also respect where your graduate student salary is coming from (taxpayers, donours, philantrophy). It is best to be open about these things. Consulting can be a very important experience for you, especially if it complements your research. </li>
-<li>To discuss with Mike issues of protecting intellectual property appropriately.</li>
-<li>To mindfully consider the choice of venue for your work. Issues such as quality, open access, cost etc. should all be considered.</li>
-<li>To know your rights as a student and exercise them. This is especially important for foreign students, individuals with special needs, or individuals  who self-identify with a minority or marginalized status.</li>
+<li>If you are doing consulting work or other employment, make sure that it falls within the legal guidelines from Concordia, your funding agencies, and timelines for your research. You have to also respect where your graduate student salary is coming from (taxpayers, donours, philantrophy). It is best to be open about these things. Consulting can be a very important experience for you, especially if it complements your research; </li>
+<li>To discuss with Mike issues of protecting intellectual property appropriately;</li>
+<li>To mindfully consider the choice of venue for your work. Issues such as quality, open access, cost etc. should all be considered;</li>
+<li>To know your rights as a student and exercise them. This is especially important for foreign students, individuals with special needs, or individuals  who self-identify with a minority or marginalized status;</li>
 <li>To know the resources offered by the University and other organizations for physical and mental health care, addiction, abuse, etc. This is especially important for foreign students.</li>
 
 
