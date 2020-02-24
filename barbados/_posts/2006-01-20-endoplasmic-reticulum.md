@@ -24,10 +24,9 @@ This meeting brought together researchers interested in diseases of the secretor
       McGill </a></td> <td>Cystic Fibrosis</td></tr>
      <tr> 
      <td><a href="mailto:david.thomas@mcgill.ca">David Thomas</a></td><td><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">Biochemistry, McGill</a></td><td>ER/Chemicogenomics</td>
-     <tr> <td> .</td> <td>.</td><td>.</td></tr>
   <tr> 
-    <td WIDTH="12%">Participant</td>
-    <td WIDTH="26%">Affiliation</td>
+    <td WIDTH="12%"><strong>Participant</strong></td>
+    <td WIDTH="26%"><strong>Affiliation</strong></td>
 <td WIDTH="26%">Specialty</td>    </tr>
   <tr> 
     <td><a href="mailto:sara@mcb.mcgill.ca">Sara Calafell</a></td>
