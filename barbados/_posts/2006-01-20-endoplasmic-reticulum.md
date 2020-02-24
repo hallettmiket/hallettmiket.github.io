@@ -7,14 +7,12 @@ image: /images/barbados/endoplasmic-reticulum.png
 
 This meeting brought together researchers interested in diseases of the secretory pathway with special emphasis on the endoplasmic reticulum 
 
-<table BORDER=0 WIDTH="100%" >
-  <tr> 
-    <td WIDTH="30%">Organizers</td>
-    <td WIDTH="40%">Affiliation</td>
-       <td WIDTH="30%">Specialty</td>
-</tr>
-
-<tr>   <td WIDTH="20%"><a href="mailto:hallett@mcb.mcgill.ca">Michael 
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr><tr>   <td WIDTH="20%"><a href="mailto:hallett@mcb.mcgill.ca">Michael 
       Hallett</a></td>
     <td WIDTH="33%"><a href="http://www.mcb.mcgill.ca/~hallett">Bioinformatics, McGill</a></td>
     <td>Bioinformatics

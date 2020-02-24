@@ -8,23 +8,12 @@ image: /images/barbados/ppi.png
 Our third Barbados workshop focused on proteomics including protein-protein interactions, mass spectrometry and general structural biology.
 
 
-<br>&nbsp;
-<table BORDER=0 WIDTH="100%" >
-  <tr> 
-    <td WIDTH="12%">Organizers</td>
-    <td WIDTH="26%">Affiliation</td>
-    <td WIDTH="3%"></td>
-    <td WIDTH="14%">Invitees 
-      &nbsp;</td>
-    <td WIDTH="45%">Affiliation</td>
-  </tr>
-  <tr> 
-    <td WIDTH="12%">&nbsp;</td>
-    <td WIDTH="26%">&nbsp;</td>
-    <td WIDTH="3%">&nbsp;</td>
-    <td WIDTH="14%">&nbsp;</td>
-    <td WIDTH="45%">&nbsp;</td>
-  </tr>
+<br><table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr>
   <tr> 
     <td WIDTH="12%"><a href="mailto:hallett@mcb.mcgill.ca">Michael 
       Hallett</a></td>

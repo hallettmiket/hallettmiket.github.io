@@ -10,15 +10,12 @@ Our first Barbados workshop focused on the development of algorithms for explori
 
 
 <hr>
-<p align="center">&nbsp;</p>
-<table width="93%" border="0" align="center">
-  <tr> 
-    <td width="15%"><b>Organizers</b></td>
-    <td width="30%"><b>Affiliation:</b></td>
-    <td width="8%"><b></b></td>
-    <td width="24%"><b>Confirmed Participants</b></td>
-    <td width="23%"><b>Affiliation:</b></td>
-  </tr>
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr>
   <tr> 
     <td width="15%">Michael Hallett</td>
     <td width="30%">McGill University, Canada</td>

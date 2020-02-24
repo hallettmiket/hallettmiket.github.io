@@ -20,12 +20,6 @@ The focus of this meeting was on computational models of tumorigenesis and tumor
 <tr><td width="25%">Therese Sorlie</td><td width="30%">Oslo University, Norway</td><td width="25%"></td></tr> 
 <tr><td width="25%">Vanessa Dumeaux</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
 <tr><td width="25%">Mike Hallett</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
-</tbody></table> 
-
- 
-<br> 
- <table class="t1" style="height: 1841px;" width="624" cellspacing="0" cellpadding="0">
-<tbody>
 <tr>
 <td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
 <td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
