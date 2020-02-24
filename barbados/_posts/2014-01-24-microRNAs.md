@@ -25,8 +25,12 @@ This meeting brought down many members of the international microRNA community w
  
 <br> 
  
- <table width="90%" > 
-<tbody> 
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Invitees</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr> 
 <tr><td width="25%">Julie Pelloux</td><td width="30%">Universite de Montreal</td><td width="30%"></td></tr>
 <tr><td width="25%">Chris Hillier</td><td width="30%">University of the West Indies</td><td width="30%"></td></tr>
 <tr><td width="25%">Ali Tofigh</td><td width="30%">McGill University</td><td width="30%"></td></tr>

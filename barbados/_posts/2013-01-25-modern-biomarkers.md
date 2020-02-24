@@ -21,8 +21,12 @@ This meeting focused on the development of genomics-based approaches for the ide
  
 <br> 
  
- <table width="90%" > 
-<tbody> 
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Invitees</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr>
 <tr><td width="25%">Justyna Kulpa</td><td width="35%">Universite de Montreal</td><td width="40%">Endocrinology</td></tr>
 <tr><td width="25%">Uri David Akavia</td><td width="35%">Columbia University</td><td width="40%">Computational Systems Biology</td></tr>
 <tr><td width="25%">David Cotnoir-White</td><td width="35%">Universite de Montreal</td><td width="40%">Molecular Oncology</td></tr>
