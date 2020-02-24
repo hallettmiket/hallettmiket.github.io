@@ -25,7 +25,7 @@ Our third Barbados workshop focused on proteomics including protein-protein inte
    <td WIDTH="14%"><a href="mailto:catherine.au@mcgill.ca">Catherine 
       Au</a></td>
     <td WIDTH="45%"><a href="http://www.medicine.mcgill.ca/bergeron/">Anatomy 
-      and Cell Biology, McGill University</a> <font color="#666666"></td>
+      and Cell Biology, McGill University</a> </td>
   </tr>
   
   <tr>

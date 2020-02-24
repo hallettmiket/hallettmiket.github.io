@@ -32,7 +32,6 @@ Our second Barbados workshop focused on the development of algorithms for identi
     <td width="30%">Stockholm 
       Bioinformatics Centre, Sweden</td>
     <td width="8%"> 
-      <p><font face="Times New Roman, Times, serif"><font size="5"><font size="1"><font size="3"></p>
     </td>
     <td width="24%"><a href="http://www.mcb.mcgill.ca/%7Ebryant">David 
       Bryant</a></td>
