@@ -7,12 +7,12 @@ image: /images/barbados/subtypes.png
 
 This meeting focused on genomics approaches in breast cancer to study both murine models and the human disease.
 
-<table width="90%"><tbody><tr><td>
-<center><img src="/images/barbados/2008-group-picture.png" border="0" height="408" width="614"></center>
-</td></tr></tbody></table>
-
-
-<table width="90%" >
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr>
 <tbody><td width="10%"><a href="http://www.mcb.mcgill.ca/%7Ehallett/">Mike Hallett</a></td><td width="45%">McGill University</td></tr>
 <tr><td width="10%"><a href="http://www.mcgill.ca/mog/research/park/">Morag Park</a></td><td width="45%">McGill University</td></tr>
 </tbody></table>
@@ -25,11 +25,6 @@ This meeting focused on genomics approaches in breast cancer to study both murin
 <table class="highlight" width="90%">
 <tbody>
 <tr><td width="20%"><b>Participants</b></td><td width="30%"><b>Affiliation</b></td><td width="50%"><b>Expertise</b></td></tr>
-</tbody></table>
- 
-
-<table width="90%">
-<tbody>
 
 <td width="20%"><a href="http://www.rr-research.no/borresen/?k=Group%20members&amp;aid=2747">Jørgen Aarøe</a></td><td width="30%">Rikshospitalet Institute for Cancer Research</td><td width="50%">Genomic alterations and systemic changes in early breast cancer.</td></tr>
 

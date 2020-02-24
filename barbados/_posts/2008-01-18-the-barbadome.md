@@ -15,9 +15,7 @@ The invitees discusssed protein-protein, genetic and chemical-genetic interactio
 
 
 <br>
-<table class="highlight" width="90%"><tr><td><b>Participants</b><td><b>Affiliation</b><td><b>Expertise</b></td></tr></table>
-
-<table  width="90%">
+<table class="highlight" width="90%"><tr><td><b>Participants</b><td><b>Affiliation</b><td><b>Expertise</b></td></tr>
 <tr><td><a href="http://www.utoronto.ca/andrewslab/">Brenda Andrews</a><td>Donnelly CCBR, University of Toronto<td>Yeast functional genomics, cell cycle</tr>
 <tr><td><a href="http://homepages.nyu.edu/%7erb133/">Richard Bonneau</a><td>Biology/Computer Science, NYU<td>Regulatory network inference, de novo structure prediction</tr>
 <tr><td><a href="http://www.utoronto.ca/boonelab/">Charlie Boone</a><td>BBDMR, Donnelly CCBR, University of Toronto<td>Yeast genetic interactions, chemical genomics</tr>
