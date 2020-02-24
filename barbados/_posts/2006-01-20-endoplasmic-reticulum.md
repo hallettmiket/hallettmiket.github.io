@@ -12,15 +12,16 @@ This meeting brought together researchers interested in diseases of the secretor
 <tr>
 <td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
 <td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr><tr>   <td WIDTH="20%"><a href="mailto:hallett@mcb.mcgill.ca">Michael 
+</tr>
+<tr>   <td WIDTH="20%"><a href="mailto:hallett@mcb.mcgill.ca">Michael 
       Hallett</a></td>
     <td WIDTH="33%"><a href="http://www.mcb.mcgill.ca/~hallett">Bioinformatics, McGill</a></td>
-    <td>Bioinformatics
+    <td>Bioinformatics</td>
 </tr>
   <tr>
     <td width="12%"><a href="mailto:christina.haston@McGill.ca">Christina Haston</a></td>
     <td width="26%"><a href="http://www.meakins.mcgill.ca/">Dept. of Medicine,
-      McGill </a></td> <td>Cystic Fibrosis</tr>
+      McGill </a></td> <td>Cystic Fibrosis</td></tr>
      <tr> 
      <td><a href="mailto:david.thomas@mcgill.ca">David Thomas</a></td><td><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">Biochemistry, McGill</a></td><td>ER/Chemicogenomics</td>
      <tr> <td> .</td> <td>.</td><td>.</td></tr>
@@ -119,12 +120,12 @@ C. Elegans, UPR</td>  </tr>
  <tr>
     <td width="12%"><a href="mailto:alvin.shrier@McGill.ca">Al Shrier</a></td>
     <td width="26%"><a href="http://www.medicine.mcgill.ca/physio/staffpages/ashrier.htm">Physiology,
-      McGill  </a></td> <td>HERG</tr>
+      McGill  </a></td> <td>HERG</td></tr>
 
 
  <tr>
     <td width="12%"><a href="mailto:Malcolm.Whiteway@cnrc-nrc.gc.ca">Malcolm Whiteway</a></td>
-    <td width="26%"><a href="http://cbr-rbc.nrc-cnrc.gc.ca/thomaslab/">NRC-BRI  </a></td> <td>Chemical Genomics</tr>
+    <td width="26%"><a href="http://cbr-rbc.nrc-cnrc.gc.ca/thomaslab/">NRC-BRI  </a></td> <td>Chemical Genomics</td></tr>
 
 
 </table>

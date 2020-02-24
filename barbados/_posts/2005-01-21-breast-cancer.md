@@ -16,29 +16,28 @@ This was the first of our Barbados meetings to focus on breast cancer.
 <tr>   <td WIDTH="20%"><a href="mailto:hallett@mcb.mcgill.ca">Michael 
       Hallett</a></td>
     <td WIDTH="33%"><a href="http://www.mcb.mcgill.ca/~hallett">Bioinformatics, McGill</a></td>
-    <td>Bioinformatics
+    <td>Bioinformatics</td>
 </tr>
 
   <tr>
     <td width="12%"><a href="mailto:morag.park@McGill.ca">Morag Park</a></td>
     <td width="26%"><a href="http://www.mcgill.ca/biochemistry/department/faculty/park/">Oncology, Biochem, Medicine,
-      McGill </a></td> <td>Breast Cancer</tr>
+      McGill </a></td> <td>Breast Cancer</td></tr>
   
-     <tr> <td> .</td> <td>.</td><td>.</td></tr>
-     
+
   <tr> 
     <td WIDTH="12%">Participant</td>
     <td WIDTH="26%">Affiliation</td>
 <td WIDTH="26%">Specialty</td>    </tr>
   <tr> 
     <td><a href="mailto:juris@ai.toronto.edu">T. Brown</a></td>
-    <td><a href="http://www.cs.toronto.edu/~juris">U. of Toronto </a>
+    <td><a href="http://www.cs.toronto.edu/~juris">U. of Toronto </a></td>
 <td>Microrrays</td>  </tr>
 
 
     <tr> 
     <td><a href="mailto:jenny@stat.ubc.ca">J. Bryan</a></td>
-    <td><a href="http://hajek.stat.ubc.ca/~jenny/">Statistics, UBC </a>
+    <td><a href="http://hajek.stat.ubc.ca/~jenny/">Statistics, UBC </a></td>
 <td>Microrrays</td>  </tr>
 
 <tr> 
@@ -79,11 +78,11 @@ This was the first of our Barbados meetings to focus on breast cancer.
    <tr> 
      <td><a href="mailto:david.thomas@mcgill.ca">D. Thomas</a></td><td><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">Biochemistry, McGill </a></td><td>Chemical Genomic Screens</td>
      <tr> 
-    <td><a href="mailto:ctognon@interchange.ubc.ca">C. Tognon<a/></td><td><a href="http://www.bcricwh.bc.ca/our_research/researchers/researcher_by_name/poul_sorenson.htm">
-    BCRI, UBC <a/></td><td>Fusion Proteins</td>
+    <td><a href="mailto:ctognon@interchange.ubc.ca">C. Tognon</a></td><td><a href="http://www.bcricwh.bc.ca/our_research/researchers/researcher_by_name/poul_sorenson.htm">
+    BCRI, UBC </a></td><td>Fusion Proteins</td>
       <tr> 
    <tr> 
-    <td><a href="mailto:zohar_yakhini@agilent.com ">Z. Yakhini</a></td><td><a href="http://www.labs.agilent.com/">Agilent </a></td><td>Microarrays </tr>
+    <td><a href="mailto:zohar_yakhini@agilent.com ">Z. Yakhini</a></td><td><a href="http://www.labs.agilent.com/">Agilent </a></td><td>Microarrays </td></tr>
   <tr> 
     <td><a href="mailto:wulfkuhle@cber.fda.gov">J. Wulfkuhle</a></td><td><a href="http://www.labs.agilent.com/">Center for Cancer Research, NCI </a></td><td>Proteomics/Breast Cancer</td> </tr>
 

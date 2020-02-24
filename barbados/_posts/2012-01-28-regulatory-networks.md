@@ -16,13 +16,6 @@ This meeting focused on transcription factors, protein-DNA binding and the compl
 </tr>
 <tr><td width="25%"><a href="mailto:hallett@mcb.mcgill.ca">Mike Hallett</a></td><td width="35%">McGill University, Canada</td><td width="40%"></td></tr> 
 <tr><td width="25%"><a href="mailto:t.hughes@utoronto.ca">Tim Hughes</a></td><td width="35%">University of Toronto, Canada</td><td width="40%"></td></tr> 
-</tbody></table> 
-
- 
-<br> 
- 
- <table class="t1" width="624" cellspacing="0" cellpadding="0">
-<tbody>
 <tr>
 <td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
 <td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
