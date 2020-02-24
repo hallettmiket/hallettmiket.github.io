@@ -59,7 +59,7 @@ image: /images/barbados/chemical-genomics.png
 
 
 
-<tr ><td width="20%"><a href="http://www.iric.ca/Recherche/Chercheurs/Lemieux_S_EN.html">S&eacute;bastien Lemieux</a></ltd><td width="30%">Universit&eacute; de Montr&eacute;al</td><td width="50%">Functional and structural bioinformatics</td></tr>
+<tr ><td width="20%"><a href="http://www.iric.ca/Recherche/Chercheurs/Lemieux_S_EN.html">S&eacute;bastien Lemieux</a><ltd><td width="30%">Universit&eacute; de Montr&eacute;al</td><td width="50%">Functional and structural bioinformatics</td></tr>
 
 <tr ><td width="20%"><a href="http://moitessier-group.mcgill.ca/">Nicolas Moitessier</a></td><td width="30%">McGill University</td><td width="50%">Chemo-informatics</td></tr>
 

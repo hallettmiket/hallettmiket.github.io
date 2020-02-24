@@ -20,13 +20,7 @@ This meeting brought down many members of the international microRNA community w
 <tr><td width="25%">Thomas Duchaine</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
 <tr><td width="25%">Vanessa Dumeaux</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
 <tr><td width="25%">Mike Hallett</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
-</tbody></table> 
 
- 
-<br> 
- 
-<table class="t1" width="624" cellspacing="0" cellpadding="0">
-<tbody>
 <tr>
 <td class="td1" valign="middle"><span class="p1"><strong>Invitees</strong></span></td>
 <td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
