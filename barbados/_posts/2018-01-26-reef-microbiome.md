@@ -14,7 +14,7 @@ Here we focused on the genomic of coral and its microbiome.
 
 <table width="90%" > 
 <tbody> 
-<tr><td width="35%">Organizers</td><td width="65%">Institution</td></tr>
+<tr><td width="35%"><strong>Organizers</strong></td><td width="65%"><strong>Institution</strong></td></tr>
 <tr><td width="35%">David Walsh</td><td width="65%">Concordia University, Canada</td></tr> 
 <tr><td width="35%">Vanessa Dumeaux</td><td width="65%">Concordia University, Canada</td></tr> 
 <tr><td width="35%">Mike Hallett</td><td width="65%">Concordia University, Canada</td></tr> 
@@ -29,7 +29,7 @@ Here we focused on the genomic of coral and its microbiome.
  
  <table width="90%" > 
 <tbody> 
-<tr><td width="35%">Invitees</td>	<td width="65%">Institution</td></tr>
+<tr><td width="35%"><strong>Invitees</strong></td>	<td width="65%"><strong>Institution</strong></td></tr>
 <tr><td width="35%">Amy Apprill</td><td width="65%">Woods Hole Oceanographic Institute</td></tr> 
 <tr><td width="35%">John Archibald</td><td width="65%">Dalhousie University, Canada</td></tr> 
 <tr><td width="35%">Debashish Bhattacharya</td><td width="65%">Rutgers University</td></tr> 

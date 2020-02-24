@@ -21,9 +21,11 @@ image: /images/barbados/chemical-genomics.png
 <br>
 
 
-<table class="highlight" width="90%">
-<tbody>
-<tr><td width="20%"><b>Participants</td><td width="30%"><b>Affiliation</td><td width="50%"><b>Expertise</td></tr>
+<tr>
+<td class="td1" valign="middle"> <span class="p1"><strong>Invitees</strong></span></td>
+<td class="td2" valign="middle"></td>
+<td class="td3" valign="middle"></td>
+</tr>
 <tr ><td width="20%"><a href="http://www.utoronto.ca/andrewslab/">Brenda Andrews</a></td><td width="30%">University of Toronto</td><td width="50%">Study of cell cycle and cell division in budding yeast</td></tr>
 
 <tr ><td width="20%"><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">Suzana Anjos</a></td><td width="30%">McGill University</td><td width="50%">Cystic fibrosis, response-to-chemical gene expression signatures</td></tr>

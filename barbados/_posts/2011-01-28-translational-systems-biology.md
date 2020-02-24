@@ -9,7 +9,7 @@ The central topic of this meeting was to explore the use of techniques from syst
 
 
 <table class="highlight" width="90%"><tbody>
-<tr><td width="25%">Organizers</td><td width="35%">Affiliation</td><td width="40%"></td></tr>
+<tr><td width="25%"><strong>Organizers</strong></td><td width="35%"><strong>Affiliation</strong></td><td width="40%"></td></tr>
 </tbody></table>
 
 <table width="90%" >
@@ -24,7 +24,7 @@ The central topic of this meeting was to explore the use of techniques from syst
 
 <table class="highlight" width="90%">
 <tbody>
-<tr><td width="25%">Participants</td><td width="35%">Affiliation</td><td width="40%">Expertise</td></tr>
+<tr><td width="25%"><strong>Participants</strong></td><td width="35%"><strong>Affiliation</strong></td><td width="40%">Expertise</td></tr>
 </tbody></table>
 
 <table width="90%">
