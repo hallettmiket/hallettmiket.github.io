@@ -48,7 +48,7 @@ This meeting focused on the development of genomics-based approaches for the ide
 <tr><td width="25%">Vincent Giguere</td><td width="35%">McGill University, Canada</td><td width="40%">Molecular Oncology</td></tr>
 <tr><td width="25%">Thomas Duchaine</td><td width="35%">McGill University, Canada</td><td width="40%">Molecular Oncology</td></tr>
 <tr><td width="25%">David Juncker</td><td width="35%">McGill University, Canada</td><td width="40%">Microfluidics</td></tr>
-<tr><td width="25%">Therese Sorlie</td><td width="35%">Universite de Montreal</td><td width="40%">Breast Cancer Genomics/td></tr>
+<tr><td width="25%">Therese Sorlie</td><td width="35%">Radition Hopsital, Oslo</td><td width="40%">Breast Cancer Genomics</td></tr>
 <tr><td width="25%">Eiliv Lund</td><td width="35%">Universite de Montreal</td><td width="40%">Epidemiology</td></tr>
 <tr><td width="25%">Marc Zapatka</td><td width="35%">Universite de Montreal</td><td width="40%">Cancer Genomics and Bioinformatics</td></tr>
 <tr><td width="25%">Benjamin Haibe-Kains</td><td width="35%">Universite de Montreal</td><td width="40%">Computational Biology</td></tr>
