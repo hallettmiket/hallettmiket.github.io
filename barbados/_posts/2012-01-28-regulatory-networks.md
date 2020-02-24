@@ -7,13 +7,12 @@ image: /images/barbados/regulatory-networks.png
 
 This meeting focused on transcription factors, protein-DNA binding and the complex network of regulatory dependencies they induce.
 
-<table class="highlight" width="90%"><tbody> 
-<tr><td width="25%"><b>Organizers</td><td width="35%"><b>Affiliation</td><td width="40%"><b></td></tr> 
-</tbody></table> 
-
- 
-<table width="90%" > 
-<tbody> 
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr>
 <tr><td width="25%"><a href="mailto:hallett@mcb.mcgill.ca">Mike Hallett</a></td><td width="35%">McGill University, Canada</td><td width="40%"></td></tr> 
 <tr><td width="25%"><a href="mailto:t.hughes@utoronto.ca">Tim Hughes</a></td><td width="35%">University of Toronto, Canada</td><td width="40%"></td></tr> 
 </tbody></table> 

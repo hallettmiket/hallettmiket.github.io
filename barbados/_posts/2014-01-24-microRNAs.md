@@ -11,13 +11,12 @@ This meeting brought down many members of the international microRNA community w
 <center><img src="/images/barbados/2014-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="highlight" width="90%"><tbody> 
-<tr><td width="25%"><b>Organizers</td><td width="30%"><b>Affiliation</td><td width="25%"><b></td></tr> 
-</tbody></table> 
-
- 
-<table width="90%" > 
-<tbody> 
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr>
 <tr><td width="25%">Thomas Duchaine</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
 <tr><td width="25%">Vanessa Dumeaux</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
 <tr><td width="25%">Mike Hallett</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 

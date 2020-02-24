@@ -7,13 +7,12 @@ image: /images/barbados/modern-biomarkers.png
 
 This meeting focused on the development of genomics-based approaches for the identification and implementation of biomarkerss for patient prognosis and benefit to therapy.
 
-<table class="highlight" width="90%"><tbody> 
-<tr><td width="25%"><b>Organizers</td><td width="35%"><b>Affiliation</td><td width="40%"><b></td></tr> 
-</tbody></table> 
-
- 
-<table width="90%" > 
-<tbody> 
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr> 
 <tr><td width="25%">Mike Hallett</td><td width="35%">McGill University, Canada</td><td width="40%"></td></tr> 
 <tr><td width="25%">Vanessa Dumeaux</td><td width="35%">McGill University, Canada</td><td width="40%"></td></tr> 
 <tr><td width="25%">Sylvie Mader</td><td width="35%">Universite de Montreal, Canada</td><td width="40%"></td></tr> 
