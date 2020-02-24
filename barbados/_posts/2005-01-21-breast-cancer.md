@@ -26,9 +26,9 @@ This was the first of our Barbados meetings to focus on breast cancer.
   
 
   <tr> 
-    <td WIDTH="12%">Participant</td>
-    <td WIDTH="26%">Affiliation</td>
-<td WIDTH="26%">Specialty</td>    </tr>
+    <td WIDTH="12%"><strong>Participant</strong></td>
+    <td WIDTH="26%"><strong>Affiliation</strong></td>
+<td WIDTH="26%"><strong>Specialty</strong></td>    </tr>
   <tr> 
     <td><a href="mailto:juris@ai.toronto.edu">T. Brown</a></td>
     <td><a href="http://www.cs.toronto.edu/~juris">U. of Toronto </a></td>
@@ -87,4 +87,5 @@ This was the first of our Barbados meetings to focus on breast cancer.
     <td><a href="mailto:wulfkuhle@cber.fda.gov">J. Wulfkuhle</a></td><td><a href="http://www.labs.agilent.com/">Center for Cancer Research, NCI </a></td><td>Proteomics/Breast Cancer</td> </tr>
 
   </tr>
+  </tbody>
 </table>

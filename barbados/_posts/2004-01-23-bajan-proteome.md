@@ -8,7 +8,9 @@ image: /images/barbados/ppi.png
 Our third Barbados workshop focused on proteomics including protein-protein interactions, mass spectrometry and general structural biology.
 
 
-<br><table class="t1" width="624" cellspacing="0" cellpadding="0">
+<br>
+
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
@@ -153,6 +155,7 @@ Our third Barbados workshop focused on proteomics including protein-protein inte
     <td WIDTH="45%"><a href="http://www.mcb.mcgill.ca/~michelle">Bioinformatics, 
       McGill University</a> </td>
   </tr>
+  </tbody>
 </table>
 
 

@@ -14,7 +14,7 @@ image: /images/barbados/chemical-genomics.png
 </tr>
 <tr ><td width="10%"><a href="http://www.mcb.mcgill.ca/%7Ehallett/">Mike Hallett</a></td><td width="45%">McGill University</td></tr>
 <tr ><td width="10%"><a href="http://www.sciences.uqam.ca/scexp/12fev07/vol6_no6_art_rech1.html">Sarah Jenna</a></td><td width="45%">Universit&eacute; de Qu&eacute;bec &agrave; Montr&eacute;al</td></tr>
-<tbody><tr ><td width="10%"><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">David Thomas</a></td><td width="45%">McGill University</td></tr>
+<tr ><td width="10%"><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">David Thomas</a></td><td width="45%">McGill University</td></tr>
 <tr>
 <td class="td1" valign="middle"> <span class="p1"><strong>Invitees</strong></span></td>
 <td class="td2" valign="middle"></td>

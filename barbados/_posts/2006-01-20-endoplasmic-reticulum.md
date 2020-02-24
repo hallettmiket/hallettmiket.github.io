@@ -127,5 +127,5 @@ C. Elegans, UPR</td>  </tr>
     <td width="12%"><a href="mailto:Malcolm.Whiteway@cnrc-nrc.gc.ca">Malcolm Whiteway</a></td>
     <td width="26%"><a href="http://cbr-rbc.nrc-cnrc.gc.ca/thomaslab/">NRC-BRI  </a></td> <td>Chemical Genomics</td></tr>
 
-
+</tbody>
 </table>

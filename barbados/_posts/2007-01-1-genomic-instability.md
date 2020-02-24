@@ -41,6 +41,6 @@ This meeting brought together researchers interested in understanding how genomi
 <tr><td><a href="http:">Sean Cory</a></td><td>MCB, McGill University</td><td>Bioinformatics</td></tr>
 <tr><td><a href="http:">Robert Lesurf</a></td><td>MCB, McGill University</td><td>Bioinformatics, Mouse Models</td></tr>
 <tr><td><a href="http:">Indrani Attiganal</a></td><td>MCB, McGill University</td><td>Manager, BC Bioinformatics</td></tr>
-</table>
+</tbody></table>
  
 
