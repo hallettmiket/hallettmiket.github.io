@@ -22,7 +22,7 @@ This meeting focused on transcription factors, protein-DNA binding and the compl
 <br> 
  
  
-<table class="highlight" width="90%"> 
+<table class="t1" width="90%" cellspacing="0" cellpadding="0">
 <tbody> 
 <tr><td width="25%"><b>Participants</td><td width="35%"><b>Affiliation</td><td width="40%"><b>Expertise</td></tr> 
 <tr><td width="25%"><a href="mailto:brenda.andrews@utoronto.ca">Brenda Andrews</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">Yeast network biology</td></tr> 
