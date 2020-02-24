@@ -22,9 +22,11 @@ This meeting focused on genomics approaches in breast cancer to study both murin
 <br>
 
 
-<table class="t1" width="90%" cellspacing="0" cellpadding="0">
-<tbody>
-<tr><td width="20%"><b>Participants</b></td><td width="30%"><b>Affiliation</b></td><td width="50%"><b>Expertise</b></td></tr>
+<tr>
+<td class="td1" valign="middle"> <span class="p1"><strong>Invitees</strong></span></td>
+<td class="td2" valign="middle"></td>
+<td class="td3" valign="middle"></td>
+</tr>
 <td width="20%"><a href="http://www.rr-research.no/borresen/?k=Group%20members&amp;aid=2747">Jørgen Aarøe</a></td><td width="30%">Rikshospitalet Institute for Cancer Research</td><td width="50%">Genomic alterations and systemic changes in early breast cancer.</td></tr>
 
 <tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/park/bcfgg/">Nicholas Bertos</a></td><td width="30%">McGill University</td><td width="50%">DTCs/CTCs in breast cancer.</td></tr>

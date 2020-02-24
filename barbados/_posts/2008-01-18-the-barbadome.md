@@ -7,15 +7,18 @@ image: /images/barbados/interactome.png
 
 The invitees discusssed protein-protein, genetic and chemical-genetic interactions in both model organsisms and humans.
 
-<table  width="90%">
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr>
 <tr><td><a href="http://www.bci.mcgill.ca/~hallett/">Mike Hallett</a><td>McGill University</tr>
 <tr><td><a href="http://www.sciences.uqam.ca/scexp/12fev07/vol6_no6_art_rech1.html">Sarah Jenna</a><td>Universit&eacute; de Qu&eacute;bec &agrave; Montr&eacute;al</tr>
-</table>
-
-
-
-<br>
-<table class="highlight" width="90%"><tr><td><b>Participants</b><td><b>Affiliation</b><td><b>Expertise</b></td></tr>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizing </strong></span><b>committee</b></td>
+<td class="td2" valign="middle"></td>
+</tr>
 <tr><td><a href="http://www.utoronto.ca/andrewslab/">Brenda Andrews</a><td>Donnelly CCBR, University of Toronto<td>Yeast functional genomics, cell cycle</tr>
 <tr><td><a href="http://homepages.nyu.edu/%7erb133/">Richard Bonneau</a><td>Biology/Computer Science, NYU<td>Regulatory network inference, de novo structure prediction</tr>
 <tr><td><a href="http://www.utoronto.ca/boonelab/">Charlie Boone</a><td>BBDMR, Donnelly CCBR, University of Toronto<td>Yeast genetic interactions, chemical genomics</tr>
