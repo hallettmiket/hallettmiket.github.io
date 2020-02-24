@@ -25,11 +25,6 @@ This meeting focused on transcription factors, protein-DNA binding and the compl
 <table class="highlight" width="90%"> 
 <tbody> 
 <tr><td width="25%"><b>Participants</td><td width="35%"><b>Affiliation</td><td width="40%"><b>Expertise</td></tr> 
-</tbody></table> 
-
-<table width="90%"> 
-<tbody> 
- 
 <tr><td width="25%"><a href="mailto:brenda.andrews@utoronto.ca">Brenda Andrews</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">Yeast network biology</td></tr> 
 <tr><td width="25%"><a href="mailto:philip.benfey@duke.edu">Phil Benfey</a></td><td width="35%">Duke University, USA</td><td width="40%">Gene expression in Arabidopsis</td></tr> 
  
