@@ -13,10 +13,17 @@ This meeting brought together researchers interested in understanding how genomi
 
 
 
-<table  width="90%">
+
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr>
 <tr><td><a href="http://www.mcb.mcgill.ca/~hallett/">Mike Hallett</a><td>McGill University</tr>
 <tr><td><a href="http://www.nada.kth.se/~jensl">Jens Lagergren</a><td>Stockholm Bioinformatics Centre</tr>
 <tr><td><a href="http://www-cse.ucsd.edu/~braphael/">Ben Raphael</a><td>Univerisity of California, San Diego</tr>
+</tbody>
 </table>
 
 
