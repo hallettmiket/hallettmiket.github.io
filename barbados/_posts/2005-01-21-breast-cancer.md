@@ -86,6 +86,5 @@ This was the first of our Barbados meetings to focus on breast cancer.
   <tr> 
     <td><a href="mailto:wulfkuhle@cber.fda.gov">J. Wulfkuhle</a></td><td><a href="http://www.labs.agilent.com/">Center for Cancer Research, NCI </a></td><td>Proteomics/Breast Cancer</td> </tr>
 
-  </tr>
   </tbody>
 </table>

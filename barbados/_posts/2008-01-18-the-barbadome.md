@@ -47,4 +47,5 @@ The invitees discusssed protein-protein, genetic and chemical-genetic interactio
 <tr><td><a href="http://polaris.icmb.utexas.edu/people/cvogel/">Christine Vogel</a></td><td>CSSB, ICMB, University of Texas</td><td>Bioinformatics for genome evolution, protein expression</td></tr>
 <tr><td><a href="http://www.umassmed.edu/igp/faculty/walhout.cfm">AJ Marian Walhout</a></td><td>Molecular Medicine, Gene Function and Expression, UMass Medical School</td><td>Transcription regulatory circuits in <i>C. elegans</i></td></tr>
 <tr><td><a href="http://biology.mcgill.ca/faculty/zetka/index.html">Monique Zetka</a></td><td>Biology, McGill University</td><td>Meiosis in <i>C. elegans</i></td></tr>
+</tbody>
 </table>
