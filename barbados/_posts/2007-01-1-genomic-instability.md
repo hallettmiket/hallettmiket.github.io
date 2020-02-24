@@ -23,17 +23,7 @@ This meeting brought together researchers interested in understanding how genomi
 <tr><td><a href="http://www.mcb.mcgill.ca/~hallett/">Mike Hallett</a><td>McGill University</tr>
 <tr><td><a href="http://www.nada.kth.se/~jensl">Jens Lagergren</a><td>Stockholm Bioinformatics Centre</tr>
 <tr><td><a href="http://www-cse.ucsd.edu/~braphael/">Ben Raphael</a><td>Univerisity of California, San Diego</tr>
-</tbody>
-</table>
-
-
-
-
-<br>
-<table class="highlight" width="90%"><tr><td><b>Participants</b><td><b>Affiliation</b><td><b>Expertise</b></td></tr></table>
-
-
-<table  width="90%">
+<tr><td><b>Participants</b><td><b>Affiliation</b><td><b>Expertise</b></td></tr>
 <tr><td><a href="http://www.stemcellcenter.se/groups/Ake_Borg">Ake Borg</a><td>Lund Stem Cell Center<td>Genomic alterations/gene expression in breast tumors</tr>
 <tr><td><a href="http://cancer.ucsf.edu/people/collins_colin.php">Collin Collins</a><td>UCSF Cancer Center<td>Genomic instability</tr>
 <tr><td><a href="http://www.mcb.mcgill.ca/~finak">Greg Finak</a><td>MCB, Biochemistry, McGill University<td>Breast Cancer Gene Expression</tr>

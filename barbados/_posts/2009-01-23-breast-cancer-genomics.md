@@ -15,13 +15,6 @@ This meeting focused on genomics approaches in breast cancer to study both murin
 </tr>
 <td width="10%"><a href="http://www.mcb.mcgill.ca/%7Ehallett/">Mike Hallett</a></td><td width="45%">McGill University</td></tr>
 <tr><td width="10%"><a href="http://www.mcgill.ca/mog/research/park/">Morag Park</a></td><td width="45%">McGill University</td></tr>
-</tbody></table>
- 
-
-
-<br>
-
-
 <tr>
 <td class="td1" valign="middle"> <span class="p1"><strong>Invitees</strong></span></td>
 <td class="td2" valign="middle"></td>
@@ -88,5 +81,4 @@ This meeting focused on genomics approaches in breast cancer to study both murin
 <tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/muller/lab/">Josie Ursini-Siegel</a></td><td width="30%">McGill University</td><td width="50%">Erbb2 mouse models of breast cancer.</td></tr>
 
 <td width="20%"><a href="http://www.mcgill.ca/mog/research/nepveu/lab/">Charles Vadnais</a></td><td width="30%">McGill University</td><td width="50%">ChIP-Chip/transcription in breast cancer.</td></tr>
-
 </tbody></table>

@@ -8,22 +8,14 @@ image: /images/barbados/translational-research.png
 The central topic of this meeting was to explore the use of techniques from systems biology including high-throughput profiling, modelling and multivariate biomarker panels in the context of breast cancer.
 
 
-<table class="highlight" width="90%"><tbody>
-<tr><td width="25%"><strong>Organizers</strong></td><td width="35%"><strong>Affiliation</strong></td><td width="40%"></td></tr>
-</tbody></table>
-
-<table width="90%" >
+<table class="t1" width="624" cellspacing="0" cellpadding="0">
 <tbody>
+<tr>
+<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
+<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
+</tr>
 <tr><td width="25%"><a href="mailto:hallettmichael@me.com">Mike Hallett</a></td><td width="35%">McGill University, Canada</td><td width="40%"></td></tr>
 <tr><td width="25%"><a href="mailto:vanessa.dumeaux@uit.no">Vanessa Dumeaux</a></td><td width="35%">University of Tromso, Norway</td><td width="40%"></td></tr>
-</tbody></table>
-
-
-<br>
-
-
-<table class="highlight" width="90%">
-<tbody>
 <tr><td width="25%"><strong>Participants</strong></td><td width="35%"><strong>Affiliation</strong></td><td width="40%">Expertise</td></tr>
 <tr><td width="25%"><a href="mailto:%6e%69%63%68%6f%6c%61%73%2e%62%65%72%74%6f%73%40%6d%63%67%69%6c%6c%2e%63%61">Nicholas Bertos</a></td><td width="35%">McGill University, Canada</td><td width="40%">Genomics</td></tr>
 <tr><td width="25%"><a href="mailto:%6d%61%72%67%61%72%65%74%68%65%2e%62%69%6f%6e%67%40%72%72%2d%72%65%73%65%61%72%63%68%2e%6e%6f">Margarethe Biong</a></td><td width="35%">Oslo University Hospital, Norway</td><td width="40%">Genomics</td></tr>

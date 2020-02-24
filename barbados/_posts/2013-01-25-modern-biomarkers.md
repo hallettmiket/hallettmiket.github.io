@@ -16,13 +16,6 @@ This meeting focused on the development of genomics-based approaches for the ide
 <tr><td width="25%">Mike Hallett</td><td width="35%">McGill University, Canada</td><td width="40%"></td></tr> 
 <tr><td width="25%">Vanessa Dumeaux</td><td width="35%">McGill University, Canada</td><td width="40%"></td></tr> 
 <tr><td width="25%">Sylvie Mader</td><td width="35%">Universite de Montreal, Canada</td><td width="40%"></td></tr> 
-</tbody></table> 
-
- 
-<br> 
- 
-<table class="t1" width="624" cellspacing="0" cellpadding="0">
-<tbody>
 <tr>
 <td class="td1" valign="middle"><span class="p1"><strong>Invitees</strong></span></td>
 <td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
