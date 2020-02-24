@@ -7,6 +7,12 @@ image: /images/barbados/squid.jpg
 
 Emerging Model Systems. January 24th-31st.
 
+
+
+<table width="90%"><tbody><tr><td>
+<center><img src="/images/barbados/2020-group-picture.jpg" border="0" height="408" width="614"></center>
+</td></tr></tbody></table>
+
 This meeting brings together researchers interested in the development of new model organisms.
 Such models either facilitate exciting new questions that can be asked for the first time, or 
 facilitate unprecedented ability to explore long-standing fundamental questions central to the life sciences.
@@ -29,11 +35,10 @@ Experts in developing synthetic biology, -omics, microscopy and computational/st
 </ul>
 
 
-A **preliminary** schedule for the meeting will be posted in the Fall of 2019.  
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4hgmW4jIqDyDQbjGDEX3_lLs9-GYBjtYyMYra2gZlVpc5NlZyjlp5R8B9c2aJGRLOKY0WueIDR5K/pubhtml?gid=1362159807&amp;single=true&amp;widget=true&amp;headers=false"height="500" width="100%" style="border:none;"></iframe>
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4hgmW4jIqDyDQbjGDEX3_lLs9-GYBjtYyMYra2gZlVpc5NlZyjlp5R8B9c2aJGRLOKY0WueIDR5K/pubhtml?gid=741533285&amp;single=true&amp;widget=true&amp;headers=false" height="1700" width="70%" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4hgmW4jIqDyDQbjGDEX3_lLs9-GYBjtYyMYra2gZlVpc5NlZyjlp5R8B9c2aJGRLOKY0WueIDR5K/pubhtml?gid=741533285&amp;single=true&amp;widget=true&amp;headers=false" height="1400" width="70%" style="border:none;"></iframe>
 
 
