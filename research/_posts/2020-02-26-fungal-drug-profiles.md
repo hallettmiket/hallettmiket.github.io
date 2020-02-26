@@ -18,4 +18,4 @@ This is joint work with [Malcolm Whiteway](https://sites.google.com/site/whitewa
 <img class="pull-left" height="100" width="100" src="/images/nserc.jpg">
 <img class="pull-left" height="100" width="100" src="/images/crc.png">
 <img class="pull-left" height="100" width="100" src="/images/Innovation_Logo.png">
-<img class="pull-left" height="100" width="100" src="/images/concordia.logo.big.png">
+<img class="pull-left" height="100" width="100"  src="/images/concordia.logo.big.png">
