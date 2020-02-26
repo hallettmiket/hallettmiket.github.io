@@ -7,7 +7,7 @@ author: Mike Hallett
 Our lab has several projects related to the inference of biological networks.
 We have developed approaches that perturb specific sets of genes or
 transcripts using genome editing (eg CRISPR) in a high-throughput,
-multivariate manner. The edits can be knockouts, knock-downs or over-expression of the targets, or a combination thereof.
+multivariate pseudo-random manner. The edits can be knockouts, knock-downs or over-expression of the targets, or a combination thereof.
 Single cell high-throughput profiling of transcription, select proteins, or chromosomal conformations are used to deduce underlying biological networks - the regulatory and correlative relationships between genes and gene products.
 
 These projects bring together all the components of our lab:
@@ -28,8 +28,8 @@ We are also lucky to have [Aaybod](https://www.mikehallett.science/team/abdelrah
 We apply this to different biological systems including in the context of breast cancer with [Sylvie Mader's group](https://www.iric.ca/en/research/principal-investigators/sylvie-mader) at the IRIC/UdeM. 
 
 <img class="pull-left" height="100" width="100" src="/images/cihr_logo.jpg">
-<img class="pull-center" height="100" width="100" src="/images/iric.png">
-<img class="pull-right" height="100" width="100" src="/images/nserc.jpg">
+<img class="pull-left" height="100" width="100" src="/images/iric.png">
+<img class="pull-left" height="100" width="100" src="/images/nserc.jpg">
 <img class="pull-left" height="100" width="100" src="/images/crc.png">
 <img class="pull-left" height="100" width="100" src="/images/Innovation_Logo.png">
 <img class="pull-left" height="100" width="100" src="/images/concordia.logo.big.png">
