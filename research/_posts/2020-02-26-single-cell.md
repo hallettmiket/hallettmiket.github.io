@@ -15,17 +15,20 @@ provide our assistance to profile at the single cell level.
 <ul>
 <li> transcriptional profiling via sc-DROP-seq as per Macosko et al. (2015) Cell;</li>
 <li> transcriptional profiling via various modified sc-DROP-seqs inspired by [Stephenson et al.](https://www.nature.com/articles/s41467-017-02659-x) and [Booeshaghi et al.](https://www.biorxiv.org/content/10.1101/521096v1) for self-design and printing of components;</li>
+<li>We recently developed a fungal DROP-seq. The main differences between fungi and mammalian cells is that fungi have a cell wall that needs to be removed before they are lysed, and they have considerably less mRNA; with [Samira Massahi](https://www.mikehallett.science/team/samira-massahi/)
+</li>
 <li>DRONC-seq, a DROP-seq based method to sequecing individual nuclei; we have been working to get this running in FFPE tumor material;
 [Samantha Yuen](https://www.mikehallett.science/team/sam-yuen/)</li>
-<li> </li>
+<li> sc-snare-seq2, a DROP-seq approach that profiles both the transcriptome and chromatin accessibility of individual cells;
+with [Vanessa Dumeaux](https://lab-dumeaux.science/) and [Suhani Patel](https://www.mikehallett.science/team/suhani-patel/)</li>
+<li> we are in the process of setting up several types of sc-SPLIT-seq, approaches based on barcoding of cells without microfluidics;
+with [Brandon Finlay](http://www.findlaylab.ca/), [Shawn Simpson](https://www.mikehallett.science/team/shawn-simpson/)</li>
+</ul>
 
 
-We recently modified a DROP-seq based approach from Macosko et al. to function with the fungi C. albicans. The main differences between fungi and mammalian cells is that fungi have a cell wall that needs to be removed before they are lysed, and they have considerably less mRNA. We have been applying this system to C. albicans grown in the presence of different antifungal drugs and observed heterogeneity, with evidence of distinct subpopulations of survivors with differential survival respponses.
 
 
 
-[Matt Harb](https://www.mikehallett.science/team/mathieu-harb/), 
-and [Van Bettauer](https://www.mikehallett.science/team/van-bettauer/) (computational biology) are leads on these projects.
-
-This is joint work with [Malcolm Whiteway](https://sites.google.com/site/whitewaylab/home) and [Vanessa Dumeaux](https://lab-dumeaux.science/cv) at Concordia. 
-
+This work has been developed with different members of our [team](https://www.mikehallett.science/team/) 
+but very often in collaboration with [Vanessa Dumeaux](https://lab-dumeaux.science/) at PERFORM, Concordia,
+and a broad range of additional collaborators.
