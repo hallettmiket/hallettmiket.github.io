@@ -27,10 +27,9 @@ We are also lucky to have [Aaybod](https://www.mikehallett.science/team/abdelrah
 
 We apply this to different biological systems including in the context of breast cancer with [Sylvie Mader's group](https://www.iric.ca/en/research/principal-investigators/sylvie-mader) at the IRIC/UdeM. 
 
-<img class="pull-left" src="/images/cihr_logo.jpg">
-<img class="pull-center" src="/images/iric.png">
-<img class="pull-right" src="/images/nserc.jpg">
-
-<img class="pull-left" src="/images/crc.png">
-<img class="pull-left" src="/images/Innovation_Logo.png">
-<img class="pull-left" src="/images/concordia.logo.big.png">
+<img class="pull-left" height="100" width="100"src="/images/cihr_logo.jpg">
+<img class="pull-center" height="100" width="100"src="/images/iric.png">
+<img class="pull-right" height="100" width="100"src="/images/nserc.jpg">
+<img class="pull-left" height="100" width="100"src="/images/crc.png">
+<img class="pull-left" height="100" width="100"src="/images/Innovation_Logo.png">
+<img class="pull-left" height="100" width="100"src="/images/concordia.logo.big.png">

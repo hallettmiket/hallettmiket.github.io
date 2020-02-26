@@ -11,8 +11,8 @@ We recently collected samples of water and small samples of coral from two locat
 
 This is joint work with [David Walsh](http://www.dawalshlab.ca/) at Concordia, [Henri Vall&egrave;s](https://www.cavehill.uwi.edu/fst/bcs/staff/biology/henri-valles.aspx), [Yvonne Vall&egrave;s](https://www.researchgate.net/profile/Yvonne_Valles2) at UWI Cavehill, Barbados and others including the [CORALL society, Barbados](https://www.facebook.com/CORALLBarbados/).
 
-<img class="pull-left" src="/images/nserc.jpg">
-<img class="pull-left" src="/images/crc.png">
-<img class="pull-left" src="/images/Innovation_Logo.png">
-<img class="pull-left" src="/images/concordia.logo.big.png">
+<img class="pull-left" height="100" width="100"src="/images/nserc.jpg">
+<img class="pull-left" height="100" width="100"src="/images/crc.png">
+<img class="pull-left" height="100" width="100"src="/images/Innovation_Logo.png">
+<img class="pull-left" height="100" width="100"src="/images/concordia.logo.big.png">
 

@@ -15,7 +15,7 @@ and [Van Bettauer](https://www.mikehallett.science/team/van-bettauer/) (computat
 This is joint work with [Malcolm Whiteway](https://sites.google.com/site/whitewaylab/home) and [Vanessa Dumeaux](https://lab-dumeaux.science/cv) at Concordia. 
 
 
-<img class="pull-left" height="42" width="42" src="/images/nserc.jpg">
-<img class="pull-left" height="42" width="42" src="/images/crc.png">
-<img class="pull-left" height="42" width="42" src="/images/Innovation_Logo.png">
-<img class="pull-left" height="42" width="42" src="/images/concordia.logo.big.png">
+<img class="pull-left" height="100" width="100" src="/images/nserc.jpg">
+<img class="pull-left" height="100" width="100" src="/images/crc.png">
+<img class="pull-left" height="100" width="100" src="/images/Innovation_Logo.png">
+<img class="pull-left" height="100" width="100" src="/images/concordia.logo.big.png">
