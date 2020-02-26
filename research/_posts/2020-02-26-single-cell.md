@@ -47,8 +47,8 @@ but very often in collaboration with [Vanessa Dumeaux](https://lab-dumeaux.scien
 and a broad range of additional collaborators.
 
 
-<img class="pull-left" height="50" width="70" src="/images/cihr_logo.jpg">
-<img class="pull-left" height="50" width="70"  src="/images/iric.png">
+<img class="pull-left" height="35" width="50" src="/images/cihr_logo.jpg">
+<img class="pull-left" height="35" width="50"  src="/images/iric.png">
 <img class="pull-left" height="100" width="100" src="/images/perform.gif">
 <img class="pull-left" height="100" width="100"    src="/images/nserc.jpg">
 <img class="pull-left" height="100" width="100" src="/images/crc.png">

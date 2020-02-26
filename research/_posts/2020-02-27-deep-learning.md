@@ -4,13 +4,13 @@ title: Data science, statistics and deep learning
 author: Mike Hallett
 ---
 
-We have been actively developing single cell profiling assays 
+
+Our primary interest as a group however is in developing the data science and machine learning expertise for the  analysis of data geneated by  single cell profiling assays 
 across  different modalities and in different contexts.
 You can read about these [here](https://www.mikehallett.science/research/single-cell/).
 
 
-Our primary interest as a group however is in developing the data science and machine learning expertise for the  analysis of data geneated by these and other assays. 
-Our group has a long history of working in breast cancer informatics and genomics, and we continue to develop analytic methodology in this 
+We have also had a long history of working in breast cancer informatics and genomics, and we continue to develop analytic methodology in this 
 direction. We have a number of on-going computational projects, many of which
 are not rooted in deep learning.
 
@@ -36,8 +36,8 @@ Although our lab does not offer a service per se,
 we are open to collaborations in a research context.
 
 
-<img class="pull-left" height="50" width="70" src="/images/cihr_logo.jpg">
-<img class="pull-left" height="50" width="70"  src="/images/iric.png">
+<img class="pull-left" height="35" width="50" src="/images/cihr_logo.jpg">
+<img class="pull-left" height="35" width="50"  src="/images/iric.png">
 <img class="pull-left" height="100" width="100" src="/images/perform.gif">
 <img class="pull-left" height="100" width="100"    src="/images/nserc.jpg">
 <img class="pull-left" height="100" width="100" src="/images/crc.png">
