@@ -4,7 +4,7 @@ title: The Barbados Reef Microbiome Preliminary Study
 author: Mike Hallett
 ---
 
-We recently
+We recently collected samples of water and small samples of coral from two locations in Barbados. One location has a relatively healthy reef whereas the other location has been in steady decline. We performed deep sequencing to identify the microbiomes at both sites and are working with collaborators to develop this into a national project to monitor reef health and determine the  external influences threatening their health across the island's fringing reef system.
 
 
 [Shawn Simpson](https://www.mikehallett.science/team/shawn.simpson/) is the lead on this project.
