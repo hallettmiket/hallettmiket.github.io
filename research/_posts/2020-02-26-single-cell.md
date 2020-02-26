@@ -37,9 +37,9 @@ All of this work is supported by  bioinformatic pipelines for the basic processi
 This includes methods from [statsitics, computational, data science, and deep learning](https://www.mikehallett.science/research/deep-learning/).
 
 
-<img class="pull-left" height="100" width="100" src="/images/cihr_logo.jpg">
-<img class="pull-center" height="100" width="100"  src="/images/iric.png">
-<img class="pull-center" height="100" width="100"src="/images/perform.gif">
+<img class="pull-left" height="50" width="70" src="/images/cihr_logo.jpg">
+<img class="pull-center" height="50" width="70"  src="/images/iric.png">
+<img class="pull-center" height="100" width="100" src="/images/perform.gif">
 <img class="pull-right" height="100" width="100"    src="/images/nserc.jpg">
 <img class="pull-left" height="100" width="100" src="/images/crc.png">
 <img class="pull-left" height="100" width="100" src="/images/Innovation_Logo.png">
