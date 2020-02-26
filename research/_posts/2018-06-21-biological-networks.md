@@ -9,5 +9,8 @@ In particular, we are developing approaches that perturb specific genes or
 transcripts using genome editing including CRISPR in a high-throughput,
 multivariate manner. Single cell high-throughput profiling of transcription, select proteins, or chromosomal conformations are used to deduce underlying biological networks - the regulatory and correlative relationships between genes and gene products.
 
+[Sanny Khurdia](https://www.mikehallett.science/team/sanny-khurdia/), [Aki Kirbizakis](https://www.mikehallett.science/team/eftyhios-kirbizakis/) 
+and [Van Bettauer](https://www.mikehallett.science/team/van-bettauer/) (computational biology) are leads on these projects.
+
 We apply this to different biological systems including in the context of breast cancer with [Sylvie Mader](https://www.iric.ca/en/research/principal-investigators/sylvie-mader) at the IRIC/UdeM. 
 
