@@ -11,6 +11,8 @@ We recently collected samples of water and small samples of coral from two locat
 
 This is joint work with [David Walsh](http://www.dawalshlab.ca/) at Concordia, [Henri Vall&egrave;s](https://www.cavehill.uwi.edu/fst/bcs/staff/biology/henri-valles.aspx), [Yvonne Vall&egrave;s](https://www.researchgate.net/profile/Yvonne_Valles2) at UWI Cavehill, Barbados and others including the [CORALL society, Barbados](https://www.facebook.com/CORALLBarbados/).
 
+We have other microbiome projects with [Vanessa Dumeaux](https://lab-dumeaux.science/) related to human health and breast cancer.
+
 <img class="pull-left" height="100" width="100" src="/images/nserc.jpg">
 <img class="pull-left" height="100" width="100" src="/images/crc.png">
 <img class="pull-left" height="100" width="100" src="/images/Innovation_Logo.png">

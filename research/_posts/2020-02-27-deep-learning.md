@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Single cell -omics
+title: Data science, statistics and deep learning
 author: Mike Hallett
 ---
 
