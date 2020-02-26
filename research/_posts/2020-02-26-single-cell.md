@@ -10,11 +10,11 @@ Although we do work with commerical systems including, for example, the Chromium
 we are also interested in engineering these systems ourselves.
 Although our lab does not offer a service per se, 
 we  collaborate with many  groups in a research context with
-our assays:
+our assays described belief below.
 
 1. Transcriptional profiling via sc-DROP-seq as per [Macosko et al](http://dx.doi.org/10.1016/j.cell.2015.05.002)
 
-2. Ttranscriptional profiling via various modified sc-DROP-seqs inspired by [Stephenson et al.](https://www.nature.com/articles/s41467-017-02659-x) and [Booeshaghi et al.](https://www.biorxiv.org/content/10.1101/521096v1) for self-design and printing of components.
+2. Transcriptional profiling via various modified sc-DROP-seqs inspired by [Stephenson et al.](https://www.nature.com/articles/s41467-017-02659-x) and [Booeshaghi et al.](https://www.biorxiv.org/content/10.1101/521096v1) for self-design and printing of components.
 
 3. We recently developed a fungal DROP-seq [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.21.914549v1) The main differences between fungi and mammalian cells is that fungi have a cell wall that needs to be removed before they are lysed, and they have considerably less mRNA; with [Samira Massahi](https://www.mikehallett.science/team/samira-massahi/) and
 [Van Bettauer](https://www.mikehallett.science/team/van-bettauer/).
@@ -22,7 +22,7 @@ our assays:
 4. DART-seq [Saikia et al.](https://doi.org/10.1038/s41592-018-0259-9) is a modified DROP-seq protocol that allows for simultaneous multiplexed amplicon sequencing and transcriptome profiling of single cells.
 
 5. DRONC-seq [Habib et al.](https://www.nature.com/articles/nmeth.4407) is a DROP-seq based method to sequecing individual nuclei; we have been working to get this running in FFPE tumor material;
-[Samantha Yuen](https://www.mikehallett.science/team/sam-yuen/)
+[Samantha Yuen](https://www.mikehallett.science/team/sam-yuen/).
 
 
 6. sc-snare-seq2 [Chen et al.](https://doi.org/10.1038/s41587-019-0290-0), a DROP-seq approach that profiles both the transcriptome and chromatin accessibility of individual cells;
