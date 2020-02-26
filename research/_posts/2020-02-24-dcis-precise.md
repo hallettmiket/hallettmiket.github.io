@@ -38,7 +38,7 @@ From this data, we are developing molecular signatures that have the ability to 
 
 <img class="pull-left" height="50" width="50" src="/images/cihr_logo.jpg">
 <img class="pull-left" height="100" width="100" src="/images/logo-sb-hsc.png">
-<img class="pull-left" height="50" width="50" src="/images/concordia.logo.big.png">
+<img class="pull-left" height="100" width="100" src="/images/concordia.logo.big.png">
 
 
 

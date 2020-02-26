@@ -33,8 +33,18 @@ with [Vanessa Dumeaux](https://lab-dumeaux.science/) and [Suhani Patel](https://
 barcoding of cells without microfluidics;
 with [Brandon Finlay](http://www.findlaylab.ca/), [Shawn Simpson](https://www.mikehallett.science/team/shawn-simpson/).
 
+8. We are developing PERTURB-seq in mammalian systems. This work
+expands on many papers including the seminal manuscripts from 
+[Adamson et al](doi:10.1016/j.cell.2016.11.048) and [Dixit et al](http://dx.doi.org/10.1016/j.cell.2016.11.038).
+
 All of this work is supported by  bioinformatic pipelines for the basic processing and quality control of the resultant data. Our primary interest as a group however is in developing the data science expertise for the deep analysis of this work. 
 This includes methods from [statsitics, computational, data science, and deep learning](https://www.mikehallett.science/research/deep-learning/).
+
+
+
+This work has been developed with different members of our [team](https://www.mikehallett.science/team/) 
+but very often in collaboration with [Vanessa Dumeaux](https://lab-dumeaux.science/) at PERFORM, Concordia,
+and a broad range of additional collaborators.
 
 
 <img class="pull-left" height="50" width="70" src="/images/cihr_logo.jpg">
@@ -48,13 +58,3 @@ This includes methods from [statsitics, computational, data science, and deep le
 
 
 
-
-This work has been developed with different members of our [team](https://www.mikehallett.science/team/) 
-but very often in collaboration with [Vanessa Dumeaux](https://lab-dumeaux.science/) at PERFORM, Concordia,
-and a broad range of additional collaborators.
-
-
-<img class="pull-left" height="100" width="100" src="/images/nserc.png">
-<img class="pull-left" height="100" width="100" src="/images/crc.png">
-<img class="pull-left" height="100" width="100" src="/images/Innovation_Logo.png">
-<img class="pull-left" height="100" width="100" src="/images/concordia.logo.big.png">
