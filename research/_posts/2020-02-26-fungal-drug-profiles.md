@@ -12,7 +12,7 @@ We recently modified the DROP-seq  protocol from Macosko et al to function with 
 [Samira Massahi](https://www.mikehallett.science/team/samira-massahi/), 
 and [Van Bettauer](https://www.mikehallett.science/team/van-bettauer/) (computational biology) are leads on these projects.
 
-This is joint work with [Malcolm Whiteway](https://sites.google.com/site/whitewaylab/home) and [Vanessa Dumeaux](https://lab-dumeaux.science/cv) at Concordia. 
+This is joint work with [Malcolm Whiteway](https://sites.google.com/site/whitewaylab/home) and [Vanessa Dumeaux](https://lab-dumeaux.science/) at Concordia. 
 
 
 <img class="pull-left" height="100" width="100" src="/images/nserc.jpg">
