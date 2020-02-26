@@ -4,13 +4,15 @@ title: Single cell -omics
 author: Mike Hallett
 ---
 
-We have been actively developing single cell profiling assays 
+The wet lab portion of our group develops single cell profiling assays 
 across  different modalities and in different contexts.
+Our goal is not necessarily to advance genomics; rather we are focused on generating the right kind of data with good experimental design and an affordable cost.
 Although we do work with commerical systems including, for example, the Chromium system (10X Genomics Inc), 
 we are also interested in engineering these systems ourselves.
 Although our lab does not offer a service per se, 
 we  collaborate with many  groups in a research context with
 our assays described belief below.
+
 
 1. Transcriptional profiling via sc-DROP-seq as per [Macosko et al](http://dx.doi.org/10.1016/j.cell.2015.05.002)
 
@@ -37,7 +39,7 @@ with [Brandon Finlay](http://www.findlaylab.ca/), [Shawn Simpson](https://www.mi
 expands on many papers including the seminal manuscripts from 
 [Adamson et al](doi:10.1016/j.cell.2016.11.048) and [Dixit et al](http://dx.doi.org/10.1016/j.cell.2016.11.038).
 
-All of this work is supported by  bioinformatic pipelines for the basic processing and quality control of the resultant data. Our primary interest as a group however is in developing the data science expertise for the deep analysis of this work. 
+All of this work is supported by  bioinformatic pipelines for the basic processing and quality control of the resultant data. Our primary interest as a group however is in developing the data science expertise for the deep analysis of data towards   hypotheses specific to each project. 
 This includes methods from [statsitics, computational, data science, and deep learning](https://www.mikehallett.science/research/deep-learning/).
 
 
