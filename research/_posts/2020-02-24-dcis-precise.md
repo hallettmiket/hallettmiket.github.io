@@ -4,7 +4,7 @@ title: Predictive signatures of benefit from radiotherapy
 author: Mike Hallett
 ---
 
-This is a [CIHR](http://www.cihr-irsc.gc.ca/e/193.html) funded project. It is a collaboration with [Eileen Rakowitz](https://sunnybrook.ca/research/team/member.asp?t=12&page=529&m=137) at the [Sunnybrook Hospital](https://sunnybrook.ca/) in Toronto, Canada.
+This is a [CIHR](http://www.cihr-irsc.gc.ca/e/193.html) funded project. It is a collaboration with [Eileen Rakowitch](https://sunnybrook.ca/research/team/member.asp?t=12&page=529&m=137) at the [Sunnybrook Hospital](https://sunnybrook.ca/) in Toronto, Canada.
 
 Eileen is a radiotherapist who had great foresight and energy to build a cohort [tumor banking](https://en.wikipedia.org/wiki/Tumor_Bank) of many DCIS cases in Ontario from 1993 until present.
 
