@@ -14,7 +14,7 @@ particularly interested in approaches that promise clinical relevance in  health
 <li>We are a team that works towards scientific goals;
 </li>
 <li>We believe in peer review and the value of public discourse.</li>
-<li>We believe in open science where data, software, results and analyses are immediately publicly available; </li>
+<li>We believe in open science where data, software, results and analyses are  publicly available in a timely manner; </li>
 <li>
 We believe that open access isn't just information, but also extends to biotechnologies, assays, reagents, and other items - anything that is needed to explore and further science.
 </li>
@@ -31,7 +31,7 @@ We believe that open access isn't just information, but also extends to biotechn
 <li>To provide good ideas and starting points for projects; provide guidance throughout;</li>
 <li>To allow you as best possible within the rules of your funding source, practical considerations, and requirements of the university, the ability to explore projects that are of the most interest to you;</li>
 <li>To assist in undestanding the scientific and medical literature;</li>
-<li>To provide training in  project planning,  execution, communication, in addition to relevant technial assays and analytic approaches;</li>
+<li>To provide training in  project planning,  execution, communication, in addition to relevant technical assays and analytic approaches;</li>
 <li>To provide ad hoc training exercises, group events and venus to  strengthen our team;</li>
 <li>To provide an environment where ethical behavior is expected and where interpersonal conflicts and unethical behavior are handled in a professional manner;</li>
 <li>To facilitate a diverse, inclusive environment and to address any special needs of each individual;</li>
