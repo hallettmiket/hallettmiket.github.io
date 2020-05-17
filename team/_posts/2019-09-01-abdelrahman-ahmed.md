@@ -3,6 +3,7 @@ layout: member
 title: Abdelrahman Ahmed
 position: Genomics Diploma
 handle: aaybod
+alumni: true
 email:  abodofcairo@gmail.com
 image: /images/team/aaybod.jpg
 ---

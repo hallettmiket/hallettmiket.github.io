@@ -4,7 +4,7 @@ title: Ilhem Chaima Bousbait
 position: Concordia University Summer Research Assistant
 handle: ilhem
 email: bousbiat.ilhem@gmail.com
-bitbucket: ilhem
+bitbucket: IlhemChaimaBousbiat
 image: /images/team/ilhem.png
 ---
 
