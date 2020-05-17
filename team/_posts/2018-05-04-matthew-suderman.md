@@ -5,7 +5,7 @@ position: Research Associate
 handle: suderman
 email: matthew.suderman@bristol.ac.uk
 alumni: true
-image: suderman.jpg
+image: /images/team/suderman.jpg
 linkedin: https://www.linkedin.com/in/matthew-suderman-6431a626/
 ---
 
