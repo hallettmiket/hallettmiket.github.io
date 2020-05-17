@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Samira Massahi
-position: MSc
+position: PhD candidate
 handle: samira
 alumni: true
 email: samiram2244@gmail.com
