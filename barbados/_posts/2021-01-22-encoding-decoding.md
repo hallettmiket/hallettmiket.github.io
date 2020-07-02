@@ -2,7 +2,7 @@
 layout: post
 title: 20th Annual Workshop at Bellairs - Encoding and Decoding Function in the Genome 
 author: Mike Hallett
-image: /images/barbados/squid.jpg
+image: /images/barbados/drops.jpg
 ---
 
 <strong><p style="color:blue">Encoding an Decoding Function in the Genome. Friday January 22nd to Friday January 29th, 2021</p></strong>
