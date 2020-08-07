@@ -10,4 +10,4 @@ A lot of great talks.
 
 Mike spoke about drug tolerance in Candida albicans. The talk is available [here](https://www.youtube.com/watch?v=udbD0xTuGG8).
 Van spoke about a deep learning-based tool to recognize Candida albicans morphologies.
-The talk will be made available [here](https://www.youtube.com/channel/UCx3QJc2DZSo-mny8UERmywg/featured).
+The talk will be made available [here](https
