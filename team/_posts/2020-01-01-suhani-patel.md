@@ -4,6 +4,7 @@ title: Suhani Patel
 position: Genomics Diploma
 handle: suhani
 email:  suhanihpatel1996@gmail.com
+alumni: true
 image: /images/team/suhani.jpg
 ---
 
