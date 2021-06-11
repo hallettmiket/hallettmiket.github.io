@@ -1,0 +1,10 @@
+---
+layout: paper
+title: Candida albicans exhibits distinct cytoprotective responses to anti-fungal drugs that facilitate the evolution of drug resistance
+image: /images/papers/candida.jpg
+year: 2020
+ref: Bettauer V, Massahi S, et al.
+doi: https://doi.org/10.1101/2021.01.02.425083
+---
+
+We developed a modified protocol for nanolitre droplet-based single cell sequencing appropriate for fungal settings, and used it to transcriptionally profiled several thousands cells from a prototrophic Candida albicans population and several drug exposed colonies (incl. fluconazole, caspofungin and nystatin). Thousands of cells from each colony were profiled both at early and late time points post-treatment in order to infer survival trajectories from initial drug tolerance to drug resistance. We find that prototrophic C. albicans populations differentially and stochastically express cytoprotective epigenetic programs. For all drugs, there is evidence that tolerant individuals partition into distinct subpopulations, each with a unique survival strategy involving different regulatory programs. These responses are weakly related to changes in morphology (shift from white to opaque forms, or shift from yeast to filamentous forms). In turn, those subpopulations that successfully reach resistance each have a distinct multivariate epigenetic response that coordinates the expression of efflux pumps, chaperones, transport mechanisms, and cell wall maintenance. Live cell fluorescent imaging was used to validate predictions of which molecular responses most often led to survival after drug exposure. Together our findings provide evidence that C. albicans has a robust toolkit of short-term epigenetic cytoprotective responses designed to “buy time” and increase the chance of acquiring long-term resistance.
