@@ -5,7 +5,7 @@ author: Mike Hallett
 image: /images/barbados/drops.jpg
 ---
 
-<span style="color:blue">Encoding an Decoding Function in the Genome. Friday January 28th to Friday February 4th, 2022</span>
+<span style="color:blue">Encoding an Decoding Function in the Genome. Friday February 4th  to Friday February 11th, 2022</span>
 
 
 This meeting brings together researchers interested in approaches that systematically modify and perturb genomes in order 
