@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Candescence: deep learning-based approaches to capture the essence of Candida albicans morphologies
+title: Candescence, a deep learning-based approaches to capture the essence of Candida albicans morphologies
 image: /images/papers/candescence-logo-1.png
 year: 2021
 ref: Bettauer et al. 2021  
