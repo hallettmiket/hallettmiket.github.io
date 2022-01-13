@@ -2,13 +2,13 @@
 layout: post
 title: 14th Annual Workshop at Bellairs - Precursors to breast cancer and tumor evolution
 author: Therese Sorlie, Vanessa Dumeaux and Mike Hallett
-image: /images/barbados/early-breast-cancer.png
+image: /assets/images/barbados/early-breast-cancer.png
 ---
 
 The focus of this meeting was on computational models of tumorigenesis and tumoral evolution, and studies of early breast lesions.
 
 <table width="90%"><tbody><tr><td>
-<center><img src="/images/barbados/2015-group-picture.png" border="0" height="408" width="614"></center>
+<center><img src="/assets/images/barbados/2015-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
 <table class="t1" width="624" cellspacing="0" cellpadding="0">

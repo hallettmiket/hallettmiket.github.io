@@ -6,7 +6,8 @@ handle: aki
 email: e.kirbizakis@gmail.com
 github: 5Aki1
 bitbucket: e_kirbizakis
-image: /images/team/eftyhios_kirbizakis.jpg
+image: /assets/images/team/eftyhios_kirbizakis.jpg
+alumni: true
 ---
 
-Biological network inference using genetic perturbations.
+PhD Candidate at McGill University.

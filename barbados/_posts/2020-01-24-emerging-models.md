@@ -2,7 +2,7 @@
 layout: post
 title: 19th Annual Workshop at Bellairs - Emerging Model Systems 
 author: Mike Hallett
-image: /images/barbados/squid.jpg
+image: /assets/images/barbados/squid.jpg
 ---
 
 Emerging Model Systems. January 24th-31st.
@@ -10,7 +10,7 @@ Emerging Model Systems. January 24th-31st.
 
 
 <table width="90%"><tbody><tr><td>
-<center><img src="/images/barbados/2020-group-picture.jpg" border="0" height="408" width="614"></center>
+<center><img src="/assets/images/barbados/2020-group-picture.jpg" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
 This meeting brings together researchers interested in the development of new model organisms.

@@ -2,7 +2,7 @@
 layout: post
 title: 7th Annual Workshop at Bellairs - The Barbadome
 author: Sarah Jenna and Mike Hallett
-image: /images/barbados/interactome.png
+image: /assets/images/barbados/interactome.png
 ---
 
 The invitees discusssed protein-protein, genetic and chemical-genetic interactions in both model organsisms and humans.

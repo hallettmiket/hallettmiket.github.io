@@ -2,7 +2,7 @@
 layout: post
 title: 2nd Annual Workshop at Bellairs - Transcription
 author: Jens Lagergren and Mike Hallett
-image: /images/barbados/tfbs.png
+image: /assets/images/barbados/tfbs.png
 ---
 
 Our second Barbados workshop focused on the development of algorithms for identifying transcription factor binding sites.
@@ -10,7 +10,6 @@ Our second Barbados workshop focused on the development of algorithms for identi
 
 <hr>
 <table class="t1" width="624" cellspacing="0" cellpadding="0">
-<tbody>
 <tr>
 <td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
 <td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>

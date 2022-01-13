@@ -2,7 +2,7 @@
 layout: post
 title: 10th Annual Workshop at Bellairs - Systems Approaches to Translational Breast Cancer Research
 author: Vanessa Dumeaux and Mike Hallett
-image: /images/barbados/translational-research.png
+image: /assets/images/barbados/translational-research.png
 ---
 
 The central topic of this meeting was to explore the use of techniques from systems biology including high-throughput profiling, modelling and multivariate biomarker panels in the context of breast cancer.

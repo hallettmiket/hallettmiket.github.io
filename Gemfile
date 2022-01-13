@@ -1,17 +1,12 @@
 source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+#gem 'jekyll-sass-converter'
 
-# jekyll
-gem "jekyll", "3.1.1"
-gem "redcarpet"
-
-# compiling less
-gem 'therubyracer'
-gem 'less'
-
-# minifying
-gem 'jekyll-press'
-
-# octokit
-gem 'octokit'
+gem 'rake'
 gem 'netrc'
+gem "webrick"
 
+# Avoid polling for changes
+#gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+gem 'nokogiri'

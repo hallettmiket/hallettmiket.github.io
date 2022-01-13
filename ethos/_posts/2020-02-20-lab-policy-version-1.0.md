@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: The Axioms of our Lab
 author: Mike Hallett
 ---
@@ -7,7 +7,8 @@ author: Mike Hallett
 I have heavily borrowed from the excellent example from Anne Carpenter available [here](https://personal.broadinstitute.org/anne/lab_policy.html). 
 
 
-<h2><span style="color: #0000ff;"><span class="c6 c11">Our ethos</span></span></h2>
+# Our ethos
+
 <ul>
 <li>Our goal is to facilitate the construction of new tools and methods, and to use these tools to discover new biology. We are 
 particularly interested in approaches that promise clinical relevance in  health domains;</li>
@@ -25,7 +26,7 @@ We believe that open access isn't just information, but also extends to biotechn
 
 </ul>
 
-<h2><span style="color: #0000ff;"><span class="c6 c11">My responsiblity to the lab</span></span></h2>
+# My responsiblity to the lab
 
 <ul>
 <li>To provide good ideas and starting points for projects; provide guidance throughout;</li>
@@ -59,8 +60,7 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li>To oversee and take resonsibility for all core operations including (1) wet lab maintenance, (2) ordering and finances, (3) server administration, (4) serivce for collaborators, (5) logistics etc. It is our resonsibility to divide this work fairly and at the minimal load possible. It is also our responsibility to seek funds to obtain technical assistants to lighten this load from graduate students, whenever possible.</li>
 </ul>
 
-<h2><span style="color: #0000ff;"><span class="c6 c11">Your responsiblities
-</span></span></h2>
+# Your responsiblities
 
 <ul>
 <li>To do the absolute best science you  can;</li>
@@ -106,7 +106,7 @@ Generally, if we are using peoples' data we should involve them intellectually, 
 <li> Document your purchases according to our technology strategy. Be mindful of invoices and paperwork that the university will require for financial reconciliation.
 </li>
 </ul>
-<li>If you are doing consulting work or other employment, make sure that it falls within the legal guidelines from Concordia, your funding agencies, and timelines for your research. You have to also respect where your graduate student salary is coming from (taxpayers, donours, philantrophy). It is best to be open about these things. Consulting can be a very important experience for you, especially if it complements your research; </li>
+<li>If you are doing consulting work or other employment, make sure that it falls within the legal guidelines from the University, your funding agencies, and timelines for your research. You have to also respect where your graduate student salary is coming from (taxpayers, donours, philantrophy). It is best to be open about these things. Consulting can be a very important experience for you, especially if it complements your research; </li>
 <li>To discuss with Mike issues of protecting intellectual property appropriately;</li>
 <li>To mindfully consider the choice of venue for your work. Issues such as quality, open access, cost etc. should all be considered;</li>
 <li>To know your rights as a student and exercise them. This is especially important for foreign students, individuals with special needs, or individuals  who self-identify with a minority or marginalized status;</li>

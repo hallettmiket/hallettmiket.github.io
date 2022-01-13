@@ -1,0 +1,16 @@
+---
+layout: default
+title: "research"
+description: "short description of our research directions"
+group: navigation
+navorder: 2
+---
+{% include JB/setup %}
+{% for page in site.categories.misc %}
+{% if page.research %}
+	{% assign researchpage = page %}
+{% endif %}
+{% endfor %}
+
+<div class="bigspacer"></div>
+{{ researchpage.content }}

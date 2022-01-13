@@ -1,0 +1,13 @@
+---
+layout: default
+title: Join
+---
+{% include JB/setup %}
+{% for page in site.categories.misc %}
+{% if page.join %}
+	{% assign joinpage = page %}
+{% endif %}
+{% endfor %}
+
+<div class="bigspacer"></div>
+{{ joinpage.content }}

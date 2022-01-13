@@ -6,8 +6,8 @@ handle: van
 email: vcbettauer@gmail.com
 twitter: vanbettauer
 bitbucket: vanbettauer
-image: /images/team/van-bettauer.jpg
+image: /assets/images/team/van-bettauer.jpg
+alumina: true
 ---
 
-Research Project: Inference of transcriptional networks for single cell data.
-
+The alternative ethereum, riding a wave on subethereal particles. He might be rich.

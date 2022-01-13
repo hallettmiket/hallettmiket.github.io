@@ -2,7 +2,7 @@
 layout: post
 title: 11th Annual Workshop at Bellairs - Regulatory Networks
 author: Tim Hughes and Mike Hallett
-image: /images/barbados/regulatory-networks.png
+image: /assets/images/barbados/regulatory-networks.png
 ---
 
 This meeting focused on transcription factors, protein-DNA binding and the complex network of regulatory dependencies they induce.

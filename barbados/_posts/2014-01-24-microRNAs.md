@@ -2,13 +2,13 @@
 layout: post
 title: 13th Annual Workshop at Bellairs - 20 Years of microRNA Research
 author: Thomas Duchaine, Vanessa Dumeaux and Mike Hallett
-image: /images/barbados/microRNA.png
+image: /assets/images/barbados/microRNA.png
 ---
 
 This meeting brought down many members of the international microRNA community wheree we discussed research, current challenges and the way onward.
 
 <table width="90%"><tbody><tr><td>
-<center><img src="/images/barbados/2014-group-picture.png" border="0" height="408" width="614"></center>
+<center><img src="/assets/images/barbados/2014-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
 <table class="t1" width="624" cellspacing="0" cellpadding="0">

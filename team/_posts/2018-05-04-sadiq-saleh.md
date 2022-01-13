@@ -4,7 +4,7 @@ title: Dr Sadiq Saleh
 position: PhD
 handle: sadiq
 email: sadiq.saleh@gmail.com
-image: /images/team/sadiq-saleh.jpg
+image: /assets/images/team/sadiq-saleh.jpg
 linkedin: https://www.linkedin.com/in/smsaleh/
 alumni: true
 ---

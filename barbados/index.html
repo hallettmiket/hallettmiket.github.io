@@ -1,9 +1,10 @@
 ---
 layout: default
-title: hallett lab / barbados
+title: barbados
 categories:
  - barbados
-category: barbados
+group: navigation
+navorder: 5
 ---
 
 <div class="row">
@@ -14,12 +15,7 @@ category: barbados
 					<a class="off" href="/barbados/">
 						<i class="fa fa-refresh fa-fw"></i> Timeline
 					</a>
-				</li>
-				<li role="presentation">
-					<a class="off" href="/barbados/archive/">
-						<i class="fa fa-list-ul fa-fw"></i> Index
-					</a>
-				</li>
+				</li>  
 			</ul>
 		</div>
 		<div class="bigspacer"></div>
@@ -51,7 +47,7 @@ category: barbados
 							{{ barbados-post.date | date: "%-d %b %Y" }}
 							{% if barbados-post.author %}
 							by <a class="off" href="
-                {% for member in site.categories.team %}
+                {% for member in site.categories.barbados %}
                   {% if member.title == barbados-post.author %}
                     {{ member.url }}
                   {% endif %}
@@ -63,7 +59,7 @@ category: barbados
               {% if barbados-post.authors %}
               by
               <a class="off" href="
-                {% for member in site.categories.team %}
+                {% for member in site.categories.barbados %}
                   {% if member.title == barbados-post.authors.first %}
                     {{ member.url }}
                   {% endif %}
@@ -73,7 +69,7 @@ category: barbados
               </a>
               and
               <a class="off" href="
-                {% for member in site.categories.team %}
+                {% for member in site.categories.barbados %}
                   {% if member.title == barbados-post.authors.last %}
                     {{ member.url }}
                   {% endif %}
@@ -127,5 +123,3 @@ category: barbados
 	</div>
 </div>
 
-<!-- Infinite scroll -->
-<script async src="/js/infinite-scroll.js"></script>

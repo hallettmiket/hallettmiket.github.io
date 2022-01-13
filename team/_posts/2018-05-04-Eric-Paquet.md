@@ -6,7 +6,7 @@ handle: paquet
 linkedin: https://www.linkedin.com/in/%C3%A9ric-r-paquet-7aa70613/
 scholar: https://scholar.google.com/citations?user=MZv2fXwAAAAJ&hl=en
 alumni: true
-image: /images/team/eric-paquet.png
+image: /assets/images/team/eric-paquet.png
 ---
 
 <strong>Ph.D, Department of Biochemistry, McGill University</strong>

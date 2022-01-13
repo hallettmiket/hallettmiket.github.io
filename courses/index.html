@@ -1,9 +1,17 @@
 ---
 layout: default
-title: hallett lab / courses
-categories: 
-  - courses
+title: courses
+categories:
+ - courses
+category: courses
+group: navigation
+navorder: 3
+description: "course development"
 ---
+{% include JB/setup %}
+
+		<div class="bigspacer"></div>
+
  
 {% for course in site.categories.courses %}
     {% cycle 'add rows': '<div class="row">', nil, nil %}
@@ -23,4 +31,3 @@ categories:
         </div>
     {% cycle 'close rows': nil, nil, '</div>' %}
 {% endfor %}
-{% cycle 'close rows': nil, '</div>', '</div>' %}

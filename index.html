@@ -1,71 +1,111 @@
 ---
 layout: default
-title: hallett lab
-categories:
- - home
+title: Home
 ---
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
+{% include JB/setup %}
+{% for page in site.categories.misc %}
+{% if page.homepage %}
+	{% assign homepage = page %}
+{% endif %}
+{% endfor %}
 
+<div class="bigspacer"></div>
 
 <div class="row">
 	<div class="col-md-12">
-		<object class="pull-left biglogo" data="/images/logo.png" type="image/png"></object>
-		<div class="bigtitle logobox">
-			hallett lab in computational biology
-		</div>
+	<div class="carousel-overlay logotitle logobox">
+		<!-- {{ homepage.title }} -->
 	</div>
+	<div id="carousel" class="carousel carousel-fade" data-ride="carousel">
+	  <ol class="carousel-indicators">
+	    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+	    <li data-target="#carousel" data-slide-to="1"></li>
+	    <li data-target="#carousel" data-slide-to="2"></li>
+	    <!-- <li data-target="#carousel" data-slide-to="3"></li>
+	    <li data-target="#carousel" data-slide-to="4"></li>
+	    <li data-target="#carousel" data-slide-to="5"></li> -->
+	  </ol>
+	  <!-- Carousel items -->
+	  <!-- DAD: this should be dynamically populated. -->
+	  <div class="carousel-inner">
+	    <div class="active item">
+	    	<img src="/assets/images/winter_western.png" width='1200px' alt="">
+	    	<figcaption align="right"></figcaption>
+	    </div>
+	  </div>
+	  <!-- Carousel nav -->
+	  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+	    <span class="glyphicon glyphicon-chevron-left"></span>
+	    <!-- <span class="sr-only">Previous</span> -->
+	  </a>
+	  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+	    <span class="glyphicon glyphicon-chevron-right"></span>
+	    <!-- <span class="sr-only">Next</span> -->
+	  </a>
+	</div>
+	</div>				
 </div>
 
-<div class="bigspacer"></div>
+<div class="hugespacer"></div>
 
 <div class="row">
 	<div class="col-md-12">
 		<div class="smallhead">
-      <p>
-        The Hallett lab is moving to 
-        <a class="off" href="https://www.schulich.uwo.ca/biochem/">
-          Department of Biochemistry</a> 
-        at Western University, London, Canada.
-      </p>
-  <!--    <p>
-        <strong>
-          <h2><span style="color: #0000ff;"><span class="c6 c11">
-
-          <a class="off" href="https://mikehallett.science/videos/overview.html">        
-
-        Link to Lecture Videos for the Department of Biology            </a>
-
-        </span></span></h2>
-        <br>
-        
-        A temporary measure as courses swtich to on-line format to provide access to recorded classes.
-        </strong> </p>   --> 
+			{{ homepage.content }}
 		</div>
-	</div>
+	</div>				
 </div>
 
-<div class="bigspacer"></div>
-
+<div class="hugespacer"></div>
 
 <div class="row">
-
+	<!--<div class="col-md-4">-->
+		<!--<div class="head">-->
+			<!--<a class="off" href="/news/">News</a>-->
+		<!--</div>-->
+		<!--<div class="bigspacer"></div>-->
+		<!--<div class="feedbox pad-left">-->
+			<!--{% for news in site.categories.news limit:4 %}-->
+			
+				<!--{% for member in site.categories.team %}-->
+					<!--{% if member.handle == news.author_handle %}-->
+						<!--{% assign author = member %}-->
+					<!--{% endif %}-->
+				<!--{% endfor %}		-->
+				
+				<!--<div class="note-title">-->
+					<!--<i class="fa fa-bullhorn fa-fw"></i>-->
+					<!--<a class="off" href="{{ news.url }}">-->
+					<!--{{ news.title }}-->
+					<!--</a>-->
+				<!--</div>-->
+				<!--<div class="note">-->
+					<!--{{ news.content }}-->
+				<!--</div>-->
+				<!--<div class="smallspacer"></div>-->
+				<!--<div class="smallnote">-->
+					<!--Posted-->
+					<!--{{ news.date | date_to_string }}-->
+					<!--{% if author %}-->
+					<!--by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>-->
+					<!--{% endif %}						-->
+				<!--</div>-->
+				<!--<div class="spacer"></div>	-->
+				<!--<div class="spacer"></div>				-->
+			<!--{% endfor %}-->
+		<!--</div>-->
+		<!--<div class="bigspacer"></div>		-->
+	<!--</div>-->
 	<div class="col-md-4">
 		<div class="head">
 			<a class="off" href="/blog/">Blog</a>
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
-			{% for post in site.categories.blog limit:4 %}
-			
-				{% for member in site.categories.team %}
-					{% if member.handle == post.author_handle %}
-						{% assign author = member %}
-					{% endif %}
-				{% endfor %}		
+			{% for post in site.categories.blog limit:6 %}
 				
 				<div class="note-title">
-        <i class="far fa-comment"></i>
-
+					<i class="fa fa-comment-o fa-fw"></i>
 					<a class="off" href="{{ post.url }}">
 					{{ post.title }}
 					</a>
@@ -93,8 +133,7 @@ categories:
 		<div class="feedbox pad-left">		
 			{% for paper in site.categories.papers limit:4 %}
 				<div class="note-title">
-<i class="fas fa-book"></i>
-
+					<i class="fa fa-file-text-o fa-fw"></i>
 					<a class="off" href="{{ paper.url }}">
 					{{ paper.title }}
 					</a>
@@ -127,53 +166,11 @@ categories:
             <div class="bigspacer"></div>
             <a class="twitter-timeline" data-theme="light" 
                   data-chrome="noheader nofooter transparent noborders" 
-                  data-tweet-limit="3" href="https://twitter.com/hallettmichael">Tweets by hallettmichael</a> 
+                  data-tweet-limit="2" href="https://twitter.com/hallettmichael">Tweets by mike</a> 
             <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</div>
+		<div class="bigspacer"></div>		
 	</div>
 </div>
 
-
-
-
-
-
-
-<div class="row">
-	<div class="col-md-12">
-		<div class="head">
-			Misc
-		</div>
-		<div class="spacer"></div>
-	</div>
-</div>
-
-
-<div class="row">
-	<div class="col-md-12 reduced-gutter">
-		<div class="pad-left">
-			<ul class="list-inline">
-				{% for page in site.categories.misc %}
-				<li class="footernav">
-					<i class="fa fa-angle-right"></i> <a class="off" href="{{ page.url }}">{{ page.title }}</a>
-				</li>
-				{% endfor %}
-				<li class="footernav">
-					<i class="fas fa-beer"></i> <a class="off" href="/blog/">Blog</a>
-				</li>
-				<li class="footernav">
-          <i class="fas fa-university"></i>
-					<a class="off" href="http://www.uwo.ca/">
-					  <img class="pull-right" src="/images/western.logo.small.png"></a>
-				</li>
-
-	      
-	
-			</ul>
-		</div>
-		
-		
-		<div class="spacer"></div>
-	</div>
-</div>
-
+<div class="bigspacer"></div>

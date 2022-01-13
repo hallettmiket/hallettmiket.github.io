@@ -2,12 +2,11 @@
 layout: post
 title: 9th Annual Workshop at Bellairs - Chemical Genomics and its Application to Disease
 author: Sarah Jenna, David Thomas and Mike Hallett
-image: /images/barbados/chemical-genomics.png
+image: /assets/images/barbados/chemical-genomics.png
 ---
 
 
 <table class="t1" width="624" cellspacing="0" cellpadding="0">
-<tbody>
 <tr>
 <td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
 <td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
@@ -49,7 +48,7 @@ image: /images/barbados/chemical-genomics.png
 
 <tr ><td width="20%"><a href="http://www.rr-research.no/borresen/">Hege BK Landmark-H&oslash;yvik</a></td><td width="30%">Norwegian Radium Hospital</td><td width="50%">Blood gene expression to investigate response to and late side effects of radiotherapy</td></tr>
 
-<tr ><td width="20%"><a href="http://www.mcb.mcgill.ca/research/comblab/about/">Anna Y Lee</a></td><td width="30%">McGill University</td><td width="50%">Predicting antifungal synergy and therapeutic targets for genetic disorders</td></tr>
+<tr><td width="20%"><a href="http://www.mcb.mcgill.ca/research/comblab/about/">Anna Y Lee</a></td><td width="30%">McGill University</td><td width="50%">Predicting antifungal synergy and therapeutic targets for genetic disorders</td></tr>
 
 
 
@@ -70,5 +69,5 @@ image: /images/barbados/chemical-genomics.png
 <tr ><td width="20%"><a href="http://biology.technion.ac.il/faculty_websites/zilberstein/index.htm">Dan Zilberstein</a></td><td width="30%">Technion - Israel Institute of Technology</td><td width="50%">Leishmaniasis</td></tr>
 
 
-</tbody></table>
+</table>
 

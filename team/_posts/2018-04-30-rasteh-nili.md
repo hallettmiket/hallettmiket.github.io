@@ -5,7 +5,7 @@ position: MSc
 handle: rasteh
 email: rasteh95@gmail.com
 bitbucket: rasteh
-image: /images/team/rasteh-nili.jpg
+image: /assets/images/team/rasteh-nili.jpg
 alumni: true
 ---
 

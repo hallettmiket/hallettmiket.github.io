@@ -1,53 +1,70 @@
 ---
 layout: default
-title: hallett lab / blog
-categories: 
- - blog
+title: blog
+description: "The Hallett lab blog"
+group: navigation 
+navorder: 1
 ---
+{% include JB/setup %}
 
-<div class="row">
-	<div class="col-md-12">
-		<div class="bigtitle">
-			blog
-		</div>	
-	</div>
-</div>	
+
+<div class="pager">
+
+        {% if paginator.previous_page %}
+                {% if paginator.previous_page == 1 %}
+                <a class="prev" href="/{{ page.category }}/">
+                        <i class="fa fa-chevron-left fa-lg"></i>
+                </a>
+                {% else %}
+                <a class="prev" href="/{{ page.category }}/page{{ paginator.previous_page }}">
+                        <i class="fa fa-chevron-left fa-lg"></i>
+                </a>
+                {% endif %}
+        {% endif %}
+
+        {% if paginator.next_page %}
+        <a class="next" href="/{{ page.category }}/page{{ paginator.next_page }}">
+                <i class="fa fa-chevron-right fa-lg"></i>
+        </a>
+        {% endif %}
+
+</div>
+
+{% for post in site.categories.blog %}
+
+        <div class="bigspacer"></div>
+        <div class="row">
+                <div class="col-md-3">
+                        <div class="head">
+                                <a href="{{ post.url }}" class="off">{{ post.title }}</a>
+                        </div>
+                        <div class="smallnote">
+                                {{ post.date | date_to_string }}
+                                {% if author %}
+                                by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
+                                {% endif %}
+                        </div>
+                </div>
+                <div class="col-md-8">
+                        <div style="height:5px;"></div>
+                        {% if post.image %}
+                        <a href="{{ post.url }}"><img class="offset" src="{{ post.image }}"></a>
+                        {% endif %}
+                        <div class="post">
+                                {{ post.content }}
+                        </div>
+                </div>
+                <div class="col-md-1"></div>
+        </div>
+
+{% endfor %}
 
 <div class="bigspacer"></div>
-
-{% for event in site.categories.blog %}
-{% unless event.draft %}
-
-	{% for member in site.categories.team %}
-		{% if member.title == event.author %}
-			{% assign author = member %}
-		{% endif %}
-	{% endfor %}
-
-    {% cycle 'add rows': '<div class="row">', nil, nil %}
-		<div class="col-md-4 eventbox">
-			<div class="smallhead">
-				<a href="{{ event.url }}" class="off">{{ event.title }}</a>
-			</div>
-			<div class="smallspacer"></div>
-      {% if event.venue %}
-			<div class="note">
-				{{ event.event }} at {{ event.venue }} at {{ event.when }}
-			</div>
-      {% else %}
-      <div class="note">
-				{{ event.event }}
-			</div>
-      {% endif %}
-			<div class="smallspacer"></div>
-			<div class="smallnote">
-				{{ event.date | date: "%-d %b %Y" }}
-				by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
-			</div>
-			<div class="bigspacer"></div>
-			<div class="spacer"></div>
+<!-- <div class="row">
+        <div class="col-md-12 text-center">
+                <a class="off" href="/{{ page.category }}/archive/">
+                        <div class="smallhead">Archive</div>
+                        <i class="text-gray fa fa-chevron-circle-down fa-2x"></i>
+                </a>
         </div>
-    {% cycle 'close rows': nil, nil, '</div>' %}
-{% endunless %}
-{% endfor %}
-{% cycle 'close rows': nil, '</div>', '</div>' %}
+</div> -->

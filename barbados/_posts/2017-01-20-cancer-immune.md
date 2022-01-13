@@ -2,21 +2,21 @@
 layout: post
 title: 16th Annual Workshop at Bellairs - Cancer and the Immune System
 author: Therese Sorlie, Vanessa Dumeaux and Mike Hallett
-image: /images/barbados/cancer-immune.png
+image: /assets/images/barbados/cancer-immune.png
 ---
 
 Here we focused on the role of the immune system in cancer progression, and on the development of cancer immunotherapies.
 
 <table width="90%"><tbody><tr><td>
-<center><img src="/images/barbados/2017-group-picture.png" border="0" height="408" width="614"></center>
+<center><img src="/assets/images/barbados/2017-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
 
-<table width="174">
+<table width="800">
 <tbody>
 <tr>
-<td width="87" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Organizers&quot;}" data-sheets-formula="=importRange(&quot;1mRJWB2n8z8pLCjJqXknA6TVKHdCYuMgyw3nqSr0Mw7I&quot;, &quot;Sheet2!A1:C59&quot;)"><strong>Organizers</strong></td>
-<td width="87" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Institution&quot;}" data-sheets-ischild=""><strong>Institution</strong></td>
+<td width="400" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Organizers&quot;}" data-sheets-formula="=importRange(&quot;1mRJWB2n8z8pLCjJqXknA6TVKHdCYuMgyw3nqSr0Mw7I&quot;, &quot;Sheet2!A1:C59&quot;)"><strong>Organizers</strong></td>
+<td width="400" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Institution&quot;}" data-sheets-ischild=""><strong>Institution</strong></td>
 </tr>
 <tr>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Therese Sorlie&quot;}" data-sheets-ischild="">Therese Sorlie</td>
@@ -91,7 +91,7 @@ Here we focused on the role of the immune system in cancer progression, and on t
 </tr>
 <tr>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Johan Vallon Christersson&quot;}" data-sheets-ischild="">Johan Vallon Christersson</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lund University&quot;}" data-sheets-ischild=""><a href="http://www.lunduniversity.lu.se/lucat/user/eee958e3817b26c687f15e16b775ae05">Lund University</a></td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lund University&quot;}" data-sheets-ischild=""><a href="http://www.lunduniversity.lu.se/lucat/user/eee958e3817b26c6100f15e16b775ae05">Lund University</a></td>
 </tr>
 <tr>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jim Lorens&quot;}" data-sheets-ischild="">Jim Lorens</td>

@@ -2,7 +2,7 @@
 layout: post
 title: 8th Annual Workshop at Bellairs - Breast Cancer Genomics
 author: Morag Park and Mike Hallett
-image: /images/barbados/subtypes.png
+image: /assets/images/barbados/subtypes.png
 ---
 
 This meeting focused on genomics approaches in breast cancer to study both murine models and the human disease.

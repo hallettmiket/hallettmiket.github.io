@@ -2,7 +2,7 @@
 layout: post
 title: 12th Annual Workshop at Bellairs - Modern Biomarkers in Breast Cancer
 author: Sylvie Mader and Mike Hallett
-image: /images/barbados/modern-biomarkers.png
+image: /assets/images/barbados/modern-biomarkers.png
 ---
 
 This meeting focused on the development of genomics-based approaches for the identification and implementation of biomarkerss for patient prognosis and benefit to therapy.

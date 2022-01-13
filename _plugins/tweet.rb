@@ -1,6 +1,5 @@
 # Author: Trevor Bedford
 # License: MIT
-# Modified: M Hallett
 
 # Examples:
 #  {% tweet url description %}
@@ -18,7 +17,7 @@ module Jekyll
 			parsed = Liquid::Template.parse(@markup).render context
 			url = parsed.split(/ /).first
 			if url =~ /^\//
-				url = "http://hallettmiket.github.io" + url
+				url = "http://hallettmichael.github.io" + url
 			end				
 			text = parsed.split(/ /).drop(1).join(' ')
 			html = ""

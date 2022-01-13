@@ -1,0 +1,19 @@
+language: ruby
+rvm:
+  - 2.4
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
+  local_dir: _site
+  repo: hallettmiket.github.io
+  target_branch: master
+  fqdn: mikehallett.science
+notifications:
+  email:
+    recipients:
+      - hallett.mike.t@gmail.com
+    on_success: always
+    on_failure: always

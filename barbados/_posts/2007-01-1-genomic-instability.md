@@ -2,13 +2,13 @@
 layout: post
 title: 6th Annual Workshop at Bellairs - Dynamics of Genomic Instability
 author: Jens Lagergren, Ben Raphael and Mike Hallett
-image: /images/barbados/genomic-instability.png
+image: /assets/images/barbados/genomic-instability.png
 ---
 
 This meeting brought together researchers interested in understanding how genomic instability, and the evolution of neoplastic genomes, affects cancer progression.
 
 <table width="90%"><tbody><tr><td>
-<center><img src="/images/barbados/2007-group-picture.jpg" border="0" height="408" width="614"></center>
+<center><img src="/assets/images/barbados/2007-group-picture.jpg" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
 

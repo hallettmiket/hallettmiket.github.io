@@ -3,27 +3,24 @@ layout: member
 title: Mike Hallett
 position: Principal investigator
 handle: mhallett
-email: michael.hallett@concordia.ca
+email: hallett.mike.t@gmail.com
 twitter: hallettmichael
 github: hallettmiket
 bitbucket: hallettmichael
 scholar: aSl0gXwAAAAJ
 linkedin: https://www.linkedin.com/in/michael-hallett-27411991/
-image: /images/team/mike-hallett.jpg
+image: /assets/images/team/mike-hallett.jpg
 www: https://mikehallett.science
-cv: /pdfs/team/mike-hallett-cv.pdf
+cv: /assets/pdfs/team/mike-hallett-cv.pdf
+alumni: false
 ---
-
-At McGill, we developed computational  and systems biology approaches to the study of breast cancer.  We have been involved in  studies using high-throughput profiles in both mouse models of breast cancer and the human disease. Two of our main focuses in the lab have been (i) towards the development of  gene panel that are predictive of patient outcome, response to therapy, or disease progression, and (ii) towards the development of patient subtyping methdology. The lab has a tradition of analyzing microenvionmental, macroenvironmental and systemic patient repsones, with an emphasis on the development of methodology for surrogate tissue analyses. In this sense, we are interested in developing tool that provide a global perspective of the dynamics of the disease. 
-
-Now at Concordia, our interests are evolving. For breast cancer, we are developing methods for progression studies in both early and late stage cohorts using single cell profiling techniques. We are also initiating projects to study the reef microbiome and human-fungal interactions.
-Professor
 
 
 
 <p style="color: #0000ff;"><span style="color: #000000;"><strong>Education, Employment:</strong></span></p>
 
 <ul>
+ 	<li>2022-                         Professor, Department of Biochemnistry, Western University</li>
  	<li>2017-                         Professor, Department of Biology, Concordia</li>
  	<li>2017-                         Member, Centre for Applied Synthetic Biology, Concordia</li>
  	<li>2017-                         Member, Centre for Structural and Functional Genomics, Concordia</li>
@@ -45,12 +42,43 @@ Professor
 </ul>
 <strong>Awards and Scholarships:</strong>
 <ul>
- 	<li>2018                          CRC Tier 1 Algorithmic Bioinformatics</li>
- 	<li>2008                          Alexander von Humboldt Fellow, Germany</li>
- 	<li>2001                          FCAR (Fonds pour la Formation de Chercheurs), Quebec</li>
+ 	<li>2022-2027                          Western University Research Chair in Bioinformatics</li>
+ 	<li>2018-2022                          CRC Tier 1 Algorithmic Bioinformatics</li>
+ 	<li>2008                                   Alexander von Humboldt Fellow, Germany</li>
+ 	<li>2001                                   FCAR (Fonds pour la Formation de Chercheurs), Quebec</li>
 </ul>
+
+<strong>Non-academic</strong>
+<ul>
+<li>2020-2025      	Chief Scientific Officer and co-founder of SCIEL (Single Cell Integrative
+ 		Experimental Learning). A
+ A not-for-profit cooperative that brings
+ 		together quantitative and life science researchers offering support,
+ 		consultancy and the development of in house technologies. The
+cooperative is primarily focused on the development of single cell
+		technologies including perturb-seq fused with deep learning methodology.</li>
+		</ul>
+
+
 <strong>Invited Lectures (SELECTED)</strong>
 <ul>
+<li> 2021			SYNERGY Fungal Meeting, Francis Crick Institute. Invited talk.</li>
+<li> 2021			University of Western Ontario. Towards the development of causal 
+models in biology: Combinatorial-Intervention-Sequencing (COIN-seq). 
+Invited talk. </li>
+<li> 2021			CHUL/Laval University. Towards the development of causal models i
+in biology: Combinatorial-Intervention-Sequencing (COIN-seq). 
+Invited talk. </li>
+<li> 2021			Canadian Fungal Network London. Candescence: capturing the essence
+ 			of fungal morphologies. Invited talk.</li>
+<li> 2020 			Canadian Fungal Network, Guelph. Drug tolerance in Candida albicans: a
+single cell profiling approach. Invited talk. https://t.ly/uduj </li>
+<li> 2020			New York University, Gridiron Institute. New York. Candida albicans
+ 			exhibits distinct cytoprotective responses to anti-fungal drugs that facilitate
+ 			the evolution of drug resistance.</li>
+<li> 2020			19th Systems Biology Meeting, Bellairs, Barbados. Candida albicans
+ 			exhibits distinct cytoprotective responses to anti-fungal drugs that facilitate
+the evolution of drug resistance.</li>
 <li>2018 PERFORM Centre, Montreal, Canada. <em>Surveillance studies in breast cancer: novel approaches using single cell sequencing.</em></li>
 <li>2017 BIRS-CMO CMO Workshop Challenges and Synergies in the Analysis of Large- Scale Population-Based Biomedical Data, Oaxaca, Mexico. <em>Molecular interactions between the systemic response and the primary tumor in a cohort of breast cancer patients.</em></li>
 <li>2017 Concordia Department of Biochemistry Seminar, Montreal, Canada. <em>Gene set predictors in cancer to predict clinical end-points</em></li>
@@ -76,11 +104,16 @@ Professor
 </ul>
 <strong>Funding Committees, Editorial Boards:</strong>
 <ul>
+ 	<li>2021-2024.	NSERC RTI Grant Competition, Panel Member.	</li>
+  <li>2021.	Comité FCI-Leaders (CFI), Member.</li>
+  <li> 2021		CIHR CPS, ad hoc Member.</li>
+ 	<li>2016-2020	 Canada Research Chairs (CRC), Reviewer.</li>
+  <li>2019.	CIHR Foundation Grants Committee. 		Member. </li>
+ 	<li>2010, 11, 13, 18, 19. Ontario Research Foundation, Member.</li>
  	<li>2017-. Editorial board. PeerJ.</li>
  	<li>2014-2017. CIHR, Foundation Grants Competition, Virtual Chair.</li>
  	<li>2012-2016. CIHR, Genomics (GMX) panel, Chair.</li>
  	<li>2012-2014. Canadian Cancer Society Research Institute, Gene Regulation panel, Member.</li>
- 	<li>2010, 11, 13, 18. Ontario Research Foundation, Member.</li>
  	<li>2011-2012. Terry Fox Cancer Research Society, Panel Member.</li>
  	<li>2005-2010, 2012. CIHR, Genomics (GMX) panel, Member.</li>
  	<li>2009. CIHR, Biochemistry &amp; Molecular Biology – B panel, Member.</li>
@@ -91,6 +124,7 @@ Professor
 </ul>
 <strong>Conference Committees (SELECTED):</strong>
 <ul>
+  <li>2019. RECOMB-Comparative Genomics, Member, Scientific Committee.</li>
  	<li>2013. Canadian Cancer Research Conference, Cancer Informatics Symposium, Chair.</li>
  	<li>2013. Canadian Cancer Research Conference, General Program Committee, Member.</li>
  	<li>2006- present. RECOMB Satellite Cancer Computational Biology, Steering Committee &amp; Founder.</li>

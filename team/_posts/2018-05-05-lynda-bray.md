@@ -6,7 +6,7 @@ handle: lynda-bray
 email: lynda.bray@mcgill.ca
 alumni: true
 linkedin: https://www.linkedin.com/in/lynda-moore-bray-4211a726/
-image: /images/team/lynda-moore.jpg
+image: /assets/images/team/lynda-moore.jpg
 ---
 
 

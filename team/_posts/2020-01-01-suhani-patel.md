@@ -5,7 +5,7 @@ position: Genomics Diploma
 handle: suhani
 email:  suhanihpatel1996@gmail.com
 alumni: true
-image: /images/team/suhani.jpg
+image: /assets/images/team/suhani.jpg
 ---
 
 Single cell ATAC-seq for breast cancer.

@@ -5,8 +5,8 @@ position: Concordia  Summer Research Assistant/Undergraduate thesis
 handle: ilhem
 email: bousbiat.ilhem@gmail.com
 bitbucket: IlhemChaimaBousbiat
-image: /images/team/ilhem.png
+image: /assets/images/team/ilhem.png
 alumni: true
 ---
 
-Ductal carcinoma in situ: benefit of radiotherapy for in situ breast cancers.
+Ductal carcinoma in situ: benefit of radiotherapy for in situ breast cancers. MSc candidate at McGill.

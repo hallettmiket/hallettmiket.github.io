@@ -2,7 +2,7 @@
 layout: post
 title: 3rd Annual Workshop at Bellairs - The Bajan Proteome
 author: David Thomas and Mike Hallett
-image: /images/barbados/ppi.png
+image: /assets/images/barbados/ppi.png
 ---
 
 Our third Barbados workshop focused on proteomics including protein-protein interactions, mass spectrometry and general structural biology.

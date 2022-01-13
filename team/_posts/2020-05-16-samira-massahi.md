@@ -5,7 +5,8 @@ position: PhD candidate
 handle: samira
 email: samiram2244@gmail.com
 bitbucket: Samar-M
-image: /images/team/samira-massahi.jpg
+image: /assets/images/team/samira-massahi.jpg
+alumni: false
 ---
 
-Single cell sequencing of fungal populations.
+Phenptypic heterogeneity in fungi.

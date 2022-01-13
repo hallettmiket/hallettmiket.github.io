@@ -2,7 +2,7 @@
 layout: post
 title: 1st Annual Workshop at Bellairs - Genome Evolution
 author: Jens Lagergren and Mike Hallett
-image: /images/barbados/genome-evolution.png
+image: /assets/images/barbados/genome-evolution.png
 ---
 
 Our first Barbados workshop focused on the development of algorithms for exploring genome evolution. 
@@ -11,7 +11,6 @@ Our first Barbados workshop focused on the development of algorithms for explori
 
 <hr>
 <table class="t1" width="624" cellspacing="0" cellpadding="0">
-<tbody>
 <tr>
 <td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
 <td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>

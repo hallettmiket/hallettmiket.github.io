@@ -4,7 +4,7 @@ title: Nicholas Nolan
 position: Summer researcher
 handle: nick
 email: nnolan@uguelph.ca
-image: /images/team/nicholas-nolan.jpg
+image: /assets/images/team/nicholas-nolan.jpg
 alumni: true
 ---
 

@@ -6,7 +6,7 @@ handle: harb
 email: m-harbus@hotmail.com
 github: harbus
 bitbucket: matharb
-image: /images/team/mathieu-harb.jpg
+image: /assets/images/team/mathieu-harb.jpg
 alumni: true
 ---
 

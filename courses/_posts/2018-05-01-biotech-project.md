@@ -1,7 +1,7 @@
 ---
-layout: course
+layout: default
 title: Project in Biotechnology and Genomics
-image: /images/concordia.logo.png
+image: /assets/images/concordia.logo.png
 instructor:  Hallett MT
 instructorwww: https://mikehallett.science
 year: 2018
@@ -36,7 +36,7 @@ The course proceeds as follows.
 
 <br>
 
-<li>You and your supervisor must fill out the <strong> supervisor admission form</strong> (below). You need to send it, or an electronic version, to both the <a href="mailto:biograd.fas@concordia.ca">Graduate Program Administrator</a> and <a href="mailto:michael.hallett@concordia.ca">me</a>.</li>
+<li>You and your supervisor must fill out the <strong> supervisor admission form</strong> (below). You need to send it, or an electronic version, to both the <a href="mailto:biograd.fas@concordia.ca">Graduate Program Administrator</a> and <a href="mailto:hallett.mike.t@gmail.com">me</a>.</li>
 
 <li> After you have submitted your forms and with permission from the instructor, the <strong>graduate program administrator</strong> registers you for the course (you cannot do it yourself).</li>
 
@@ -50,16 +50,16 @@ The course proceeds as follows.
 
 </ol>
 
-This is the [supervisor admission form](/pdfs/courses/biol516/supervisor.admissions.pdf/).
+This is the [supervisor admission form](/assets/pdfs/courses/biol516/supervisor.admissions.pdf/).
 
-Here are [some hints for finding a supervisor.](/pdfs/courses/biol516/find.supervisor.pdf) 
+Here are [some hints for finding a supervisor.](/assets/pdfs/courses/biol516/find.supervisor.pdf) 
 
-The scheduling options are [here](/pdfs/courses/biol516/schedule.options.pdf).
+The scheduling options are [here](/assets/pdfs/courses/biol516/schedule.options.pdf).
 
-The format, expectations and structure of the 10 minute talk are described [here](/pdfs/courses/biol516/oral.presentation.pdf)
+The format, expectations and structure of the 10 minute talk are described [here](/assets/pdfs/courses/biol516/oral.presentation.pdf)
 
 
-Poster requirements and structure are described [here](/pdfs/courses/biol516/poster.guidelines.pdf).
+Poster requirements and structure are described [here](/assets/pdfs/courses/biol516/poster.guidelines.pdf).
 
 <br>
 <strong>Avoiding	plagiarism.</strong> Since	the	course	work	requires	written	works	(presentation	slides and poster),	I	need	to	remind	of	you	of	good	citation	practice.	Throughout	the	text,	you	should	be	clear	on	what	part	has	been	cited	from	which	articles.	Please	visit	the	[Academic	Integrity	Website](http://www.concordia.ca/students/academic-integrity.html).	

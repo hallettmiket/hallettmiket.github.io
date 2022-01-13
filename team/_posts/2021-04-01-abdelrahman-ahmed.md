@@ -1,10 +1,11 @@
 ---
 layout: member
 title: Abdelrahman Ahmed
-position: Research Assistnt
+position: Research Assistant
 handle: aaybod
 email:  abodofcairo@gmail.com
-image: /images/team/aaybod.jpg
+image: /assets/images/team/aaybod.jpg
+alumni: true
 ---
 
 A member of the Genome Canada/Genome Quebec Bioprocess Development for Lactose Valorisation synthetic biology team.

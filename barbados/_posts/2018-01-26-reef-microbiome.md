@@ -2,13 +2,13 @@
 layout: post
 title: 17th Annual Workshop at Bellairs - The Reef Microbiome
 author: David Walsh, Vanessa Dumeaux and Mike Hallett
-image: /images/barbados/reef-microbiome.png
+image: /assets/images/barbados/reef-microbiome.png
 ---
 
 Here we focused on the genomic of coral and its microbiome.
 
 <table width="90%"><tbody><tr><td>
-<center><img src="/images/barbados/2018-group-picture.png" border="0" height="408" width="614"></center>
+<center><img src="/assets/images/barbados/2018-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
 
