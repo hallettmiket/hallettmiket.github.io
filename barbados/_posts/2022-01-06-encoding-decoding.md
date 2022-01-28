@@ -26,5 +26,5 @@ Such systematic screens are central to exploring
 <li> to efficiently optimize systems  in the context of  synthetic biology.</li>
 </ul>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaN7y7oQ9gC_F--RWGClaUq-IPxa1q0BbMY1O_DFfZofc5chGzAxP45z_5MaNCgA29kL3dXel6tf5f/pubhtml?gid=1362159807&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaN7y7oQ9gC_F--RWGClaUq-IPxa1q0BbMY1O_DFfZofc5chGzAxP45z_5MaNCgA29kL3dXel6tf5f/pubhtml?gid=1362159807&amp;single=true&amp;widget=true&amp;headers=false" height="500" width="100%"></iframe>
 
