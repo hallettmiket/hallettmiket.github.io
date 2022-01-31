@@ -66,7 +66,7 @@ Poster requirements and structure are described [here](/assets/pdfs/courses/biol
 Also,	Concordia	University	Library	has	a	good	[referencing	guide](http://library.concordia.ca/research/subjects/biology/).	Watch this	[self-tutorial](http://library.concordia.ca/research/subjects/biology/plagiarism/plagiarism_video.htm)	on	how	to	acknowledge	information	sources	(prepared	by	Concordia	librarian	Ms.	Danielle	Dennie).
 
 <br>
-<s=strong>Plagiarism:	</strong>
+<strong>Plagiarism:	</strong>
 The	most	common	offense	under	the	Academic	Code	of	Conduct	is	plagiarism	which	the	Code	defines	as	"the	presentation	of	the	work	of	another	person	as	one's own	or	without	proper	acknowledgement."
 
 <br>
