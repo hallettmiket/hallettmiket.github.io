@@ -21,11 +21,11 @@ alumni: false
 
 <ul>
  	<li>2022-                         Professor, Department of Biochemnistry, Western University</li>
- 	<li>2017-                         Professor, Department of Biology, Concordia</li>
- 	<li>2017-                         Member, Centre for Applied Synthetic Biology, Concordia</li>
- 	<li>2017-                         Member, Centre for Structural and Functional Genomics, Concordia</li>
- 	<li>2017-                         Affiliate, Computer Science and Engineering, Concordia</li>
  	<li>2017-                        Adjunct Professor, McGill University</li>
+ 	<li>2017-2022                         Professor, Department of Biology, Concordia</li>
+ 	<li>2017-2022                         Member, Centre for Applied Synthetic Biology, Concordia</li>
+ 	<li>2017-2022                         Member, Centre for Structural and Functional Genomics, Concordia</li>
+ 	<li>2017-2022                         Affiliate, Computer Science and Engineering, Concordia</li>
  	<li>2006-2017  <strong>              </strong>Associate Professor, School of Computer Science, McGill</li>
  	<li>2004-2017                Associate Member, Department of Biochemistry, McGill</li>
  	<li>2009-2015                Director/PI, McGill-CIHR Training Program in Systems Biology</li>
