@@ -30,14 +30,14 @@ We all share the philosophy of modern data science: to maintain a sustained dial
 
 
 - There are many open positions at all levels.Here are the links to these groups that have different foci (see the Figure above).
--- [Tallulah Andrews, Biochemistry](https://www.schulich.uwo.ca/biochem/people/faculty/Andrews.html)
--- [Christina Castellani, Pathology and Laboraty Medicine](https://castellanilab.com/)
--- [Vanessa Dumeaux, Anatomy & Cell Biology](https://lab-dumeaux.science/)
--- [Greg Gloor, Biochemistry](https://gloorlab.github.io/)
--- [Jennifer Guthrie, Microbiology and Immunology](https://scholar.google.ca/citations?user=0sC2zvkAAAAJ&hl=en)
--- [Mike Hallett, Biochemistry](https://mikehallett.science)
--- [Pingzhao Hu, Biochemistry](http://www.hu-bioinformaticslab.org/)
--- [Art Poon, Pathology and Laboratory Medicine](https://www.schulich.uwo.ca/microbiologyandimmunology/people/Art%20Poon.html)
--- [Parisa Shooshtari, Pathology and Laboratory Medicine](https://shooshtarilab.com/)
+-- [Tallulah Andrews, Biochemistry](https://www.schulich.uwo.ca/biochem/people/faculty/Andrews.html)\\
+-- [Christina Castellani, Pathology and Laboraty Medicine](https://castellanilab.com/)\\
+-- [Vanessa Dumeaux, Anatomy & Cell Biology](https://lab-dumeaux.science/)\\
+-- [Greg Gloor, Biochemistry](https://gloorlab.github.io/)\\
+-- [Jennifer Guthrie, Microbiology and Immunology](https://scholar.google.ca/citations?user=0sC2zvkAAAAJ&hl=en)\\
+-- [Mike Hallett, Biochemistry](https://mikehallett.science)\\
+-- [Pingzhao Hu, Biochemistry](http://www.hu-bioinformaticslab.org/)\\
+-- [Art Poon, Pathology and Laboratory Medicine](https://www.schulich.uwo.ca/microbiologyandimmunology/people/Art%20Poon.html)\\
+-- [Parisa Shooshtari, Pathology and Laboratory Medicine](https://shooshtarilab.com/)\\
 
 
