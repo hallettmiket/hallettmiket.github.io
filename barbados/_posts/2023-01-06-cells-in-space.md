@@ -7,6 +7,5 @@ image: /assets/images/barbados/cell-space.jpg
 
 <span style="color:blue">Cells in Space.  February 2023</span>
 
-Coming soon...
 
 
