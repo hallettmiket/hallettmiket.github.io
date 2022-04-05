@@ -5,7 +5,7 @@ position: Research Technician (also part of Dumeaux lab)
 email: emucaki@uwo.ca
 scholar: https://scholar.google.com/citations?user=m0HoqwQAAAAJ
 image: /assets/images/team/Eliseos_Mucaki.Profile_Photo.jpg
-alum: false
+alumni: false
 ---
 
 I obtained my MSc at the University of Windsor, where I attempted to better understand the protein-protein interaction between heat shock protein 70 and the dual specificity phosphatase DUSP12. After graduating, I joined the labs of Dr. Peter Rogan and Dr. Joan Knoll as a Research Technician. Over 13 years, I lead multiple projects which included the discovery of common mRNA splice-altering single nucleotide polymorphisms, the prioritization of coding and non-coding mutations observed in breast cancer genes in tumor patients, the analysis of the RNAseq data from >10,000 patients in TCGA and ICGC in order to identify splice altering mutations, the development of gene expression-based chemotherapy and radiation response models using machine learning, and using geostatistical analysis to identify COVID-19 hotspots in Ontario at high-resolution from March 2020 to June 2021.
