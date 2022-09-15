@@ -20,6 +20,7 @@ layout: post
  -- Our 21st Systems Biology meeting at Bellairs is shaping up The topic this year is [Cells in Space](/barbados/cells-in-space).
  
  -- I am excited to be teaching [BIOCHEMISTRY/PATHOLOGY 4450A The genetic basis of human cancer](https://cancer-genetics-western.netlify.app/) this term. 
+
  
  -- Our first Candescence manuscript appeared in [Microbiology Spectrum](https://journals.asm.org/doi/10.1128/spectrum.01472-22)! 
  
