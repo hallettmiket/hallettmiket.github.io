@@ -24,4 +24,3 @@ We are excited to extend discussions to how a wide variety of external factors a
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwvw-xNUC-nk4o25gu1mrs8VlFyQs0jTGW7Bh6ouJGCrAiQmWALtxMTQGxolPzH7nHqUe-kmR0iJvF/pubhtml?gid=741533285&amp;single=true&amp;widget=true&amp;headers=false" height="1400" width="70%" style="border:none;"></iframe>
 
 
-
