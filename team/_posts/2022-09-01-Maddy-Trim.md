@@ -5,7 +5,7 @@ position: Undergraduate Honours Thesis
 email: mtrim3@uwo.ca
 linkedin: https://www.linkedin.com/in/maddy-trim/
 image: /assets/images/team/maddy_trim.jpg
-alumni: false
+alumni: true
 ---
 
 
