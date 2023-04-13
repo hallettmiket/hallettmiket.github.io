@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Remi Sampaleanu
-position: Undergraduate Biochemistry Researcher
+position: Undergraduate Biochemistry Researcher/NSERC USRA
 email: rsampale@uwo.ca
 linkedin: https://www.linkedin.com/in/rajan-leung/
 image: /assets/images/team/remi_sampaleanu.jpg
