@@ -6,7 +6,7 @@ email: jjacob59@uwo.ca
 twitter: juliaaa_jacob
 github: jjacob59
 image: /assets/images/team/julia_jacob.jpg
-alumni: false
+alumni: true
 ---
 
-Julia leads a Candescence project with Jehoshua Sharma and Rebecca Shapiro's lab at Guelph University.
+Julia led a Candescence project with Jehoshua Sharma and Rebecca Shapiro's lab at Guelph University.
