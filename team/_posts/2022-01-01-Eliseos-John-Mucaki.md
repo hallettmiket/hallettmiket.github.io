@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Eliseos John Mucaki 
-position: Research Technician (also part of Dumeaux lab)
+position: Research Associate (also part of Dumeaux lab)
 email: emucaki@uwo.ca
 scholar: https://scholar.google.com/citations?user=m0HoqwQAAAAJ
 image: /assets/images/team/Eliseos_Mucaki.Profile_Photo.jpg
