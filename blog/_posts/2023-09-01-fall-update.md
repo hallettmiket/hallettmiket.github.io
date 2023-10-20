@@ -1,5 +1,5 @@
 ---
-title: "Semester Start"
+title: "Fall 2023"
 subtitle: ""
 excerpt: "An update"
 author: "Mike Hallett"
