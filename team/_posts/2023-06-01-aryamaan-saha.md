@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Aryamaan Saha
-position: MITACS Globallink Scholar
+position: MITACS Globallink Scholar/ IIT Madras
 email: be19b014@smail.iitm.ac.in
 image: /assets/images/team/aryamaan_pic.jpg
 alumni: false
