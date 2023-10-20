@@ -26,3 +26,5 @@ layout: post
 - We received a CIHR project grant in the Spring 2023 competition with [E. Rakovitch](https://sunnybrook.ca/research/team/member.asp?t=12&page=529&m=137) at Sunnybrook Hospital in Toronto. This grant will allow us to continue our effort to idenify signatures of DCIS patients who will or will not benefit from radiotherapy.
 
 - Thanks to  the CFI, a group of bio-data scientists at Western have received funding to build a substantial and secure computing infrastructure to drive our research. 
+
+- The next Bellairs Systems Biology meeting (February 2024) is focused on [computational methods in biology](barbados/computational-paradigms).
