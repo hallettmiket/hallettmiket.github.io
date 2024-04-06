@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Candida albicans exhibits distinct cytoprotective responses to anti-fungal drugs that facilitate the evolution of drug resistance
-image: /images/papers/candida.jpg
+image: /assests/images/papers/candida.jpg
 year: 2020
 ref: Bettauer V, Massahi S, et al.
 doi: https://doi.org/10.1101/2021.01.02.425083
