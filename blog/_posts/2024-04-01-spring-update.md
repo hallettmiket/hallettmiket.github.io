@@ -28,3 +28,4 @@ layout: post
 - Our team remains highly focused on our combinatorial intervention sequencing  (COIN-seq) assay with our first data and manuscripts to appear this year in 2024.
 
 - Our [Barbados 2024 - Computational Paradigms in Molecular Biology Revisited](/barbados) workshop was nice. The meeting had a great mix of laboratory and computational scientists of different types. Next year, our intended topic is along the lines of "the analysis challegnes of small but many organisms", a phrase that is supposed to cover metagenomics of fungi, bacteria and viruses. 
+
