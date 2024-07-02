@@ -12,6 +12,4 @@ This year’s workshop aims to bring ~50 researchers together to discuss challen
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGWwPnokEfsBJe7dlXSm7s2s6FwjPeDqWzmrA9Cd8iUNZbtrYL-a0SaXiXXHqYiHuP8x6-J67U1CAG/pubhtml?widget=true&amp;headers=false height="500" width="90%" style="border:none;"></iframe>
 
-
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGWwPnokEfsBJe7dlXSm7s2s6FwjPeDqWzmrA9Cd8iUNZbtrYL-a0SaXiXXHqYiHuP8x6-J67U1CAG/pubhtml?widget=true&amp;headers=false" height="1000" width="90%" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGWwPnokEfsBJe7dlXSm7s2s6FwjPeDqWzmrA9Cd8iUNZbtrYL-a0SaXiXXHqYiHuP8x6-J67U1CAG/pubhtml?gid=741533285&amp;single=true&amp;widget=true&amp;headers=false" height="500" width="90%" style="border:none;"></iframe>
