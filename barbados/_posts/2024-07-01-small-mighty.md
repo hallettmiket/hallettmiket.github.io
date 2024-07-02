@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 23rd Annual Workshop at Bellairs - Small but mighty: challenges of microbial and viral metagenomics 
+title: 23rd Annual Workshop at Bellairs - Small but mighty - challenges of microbial and viral metagenomics 
 author: Mike Hallett
 image: /assets/images/barbados/microbiome.jpg
 ---
