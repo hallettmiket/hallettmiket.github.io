@@ -3,7 +3,7 @@ layout: member
 title: Bhavnit Randhawa
 position: Undergraduate thesis
 email: bhavnit07@gmail.com
-image: /assets/images/team/bhavnit.png
+image: /assets/images/team/bhavnit.jpg
 alumni: false
 ---
 
