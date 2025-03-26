@@ -6,7 +6,7 @@ image: /assets/images/barbados/microbiome.jpg
 ---
 
 
-This working session will take place from February 7 - February 14, 2025
+This  working session will take place from February 7 - February 14, 2025
 
 This year, we will bring together  ~50 researchers and trainees to discuss new methods and cutting-edge approaches for high-throughput sequencing analysis. The theme is virus and microbial genomics
  Technologies to profile these extremely complex communities of ‘’small organisms’’ have developed very quickly 
