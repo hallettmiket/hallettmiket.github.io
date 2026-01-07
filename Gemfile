@@ -1,13 +1,17 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-#gem 'jekyll-sass-converter'
+
+# Use Jekyll 4.x (NOT compatible with github-pages gem)
+gem "jekyll", "~> 4.3"
+gem "webrick", "~> 1.8"
+gem "liquid", "~> 5.4"
 
 gem 'rake'
 gem 'netrc'
-gem "webrick"
-
-# Avoid polling for changes
-#gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-
-gem 'ffi', '>=1.16.3'
+gem 'ffi', '>= 1.16.3'
 gem 'nokogiri'
+
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-seo-tag", "~> 2.8"
+  # add other plugins you need
+end
