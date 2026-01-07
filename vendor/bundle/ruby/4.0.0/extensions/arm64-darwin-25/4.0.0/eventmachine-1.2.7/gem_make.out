@@ -1,0 +1,224 @@
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-41655-dl8jjr sitelibdir\=./.gem.20260107-41655-dl8jjr clean
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-41655-dl8jjr sitelibdir\=./.gem.20260107-41655-dl8jjr
+compiling mapper.cpp
+compiling rubymain.cpp
+rubymain.cpp:53:12: warning: 'rb_data_object_wrap_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
+   53 |         VALUE v = Data_Wrap_Struct (Mapper, 0, mapper_dt, (void*)m);
+      |                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:202:5: note: expanded from macro 'Data_Wrap_Struct'
+  202 |     rb_data_object_wrap(                          \
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:366:31: note: expanded from macro 'rb_data_object_wrap'
+  366 | #define rb_data_object_wrap   RUBY_MACRO_SELECT(rb_data_object_wrap_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:184:1: note: expanded from here
+  184 | rb_data_object_wrap_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:364:31: note: expanded from macro 'rb_data_object_wrap_1'
+  364 | #define rb_data_object_wrap_1 rb_data_object_wrap_warning
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:280:1: note: 'rb_data_object_wrap_warning' has been explicitly marked deprecated here
+  280 | RBIMPL_ATTRSET_UNTYPED_DATA_FUNC()
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:47:5: note: expanded from macro 'RBIMPL_ATTRSET_UNTYPED_DATA_FUNC'
+   47 |     RBIMPL_ATTR_DEPRECATED(("by TypedData"))
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/attr/deprecated.h:36:53: note: expanded from macro 'RBIMPL_ATTR_DEPRECATED'
+   36 | # define RBIMPL_ATTR_DEPRECATED(msg) __attribute__((__deprecated__ msg))
+      |                                                     ^
+rubymain.cpp:65:2: warning: 'rb_data_object_get_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
+   65 |         Data_Get_Struct (self, Mapper_t, m);
+      |         ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:205:1: note: expanded from here
+  205 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:317:1: note: 'rb_data_object_get_warning' has been explicitly marked deprecated here
+  317 | RBIMPL_ATTRSET_UNTYPED_DATA_FUNC()
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:47:5: note: expanded from macro 'RBIMPL_ATTRSET_UNTYPED_DATA_FUNC'
+   47 |     RBIMPL_ATTR_DEPRECATED(("by TypedData"))
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/attr/deprecated.h:36:53: note: expanded from macro 'RBIMPL_ATTR_DEPRECATED'
+   36 | # define RBIMPL_ATTR_DEPRECATED(msg) __attribute__((__deprecated__ msg))
+      |                                                     ^
+rubymain.cpp:88:2: warning: 'rb_data_object_get_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
+   88 |         Data_Get_Struct (self, Mapper_t, m);
+      |         ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:216:1: note: expanded from here
+  216 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:317:1: note: 'rb_data_object_get_warning' has been explicitly marked deprecated here
+  317 | RBIMPL_ATTRSET_UNTYPED_DATA_FUNC()
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:47:5: note: expanded from macro 'RBIMPL_ATTRSET_UNTYPED_DATA_FUNC'
+   47 |     RBIMPL_ATTR_DEPRECATED(("by TypedData"))
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/attr/deprecated.h:36:53: note: expanded from macro 'RBIMPL_ATTR_DEPRECATED'
+   36 | # define RBIMPL_ATTR_DEPRECATED(msg) __attribute__((__deprecated__ msg))
+      |                                                     ^
+rubymain.cpp:102:2: warning: 'rb_data_object_get_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
+  102 |         Data_Get_Struct (self, Mapper_t, m);
+      |         ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:237:1: note: expanded from here
+  237 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:317:1: note: 'rb_data_object_get_warning' has been explicitly marked deprecated here
+  317 | RBIMPL_ATTRSET_UNTYPED_DATA_FUNC()
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:47:5: note: expanded from macro 'RBIMPL_ATTRSET_UNTYPED_DATA_FUNC'
+   47 |     RBIMPL_ATTR_DEPRECATED(("by TypedData"))
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/attr/deprecated.h:36:53: note: expanded from macro 'RBIMPL_ATTR_DEPRECATED'
+   36 | # define RBIMPL_ATTR_DEPRECATED(msg) __attribute__((__deprecated__ msg))
+      |                                                     ^
+rubymain.cpp:53:12: warning: call to 'rb_data_object_wrap_warning(unsigned long, void*, void (*)(void*), void (*)(void*))' declared with 'warning' attribute: untyped Data is unsafe; use TypedData instead [-Wattribute-warning]
+   53 |         VALUE v = Data_Wrap_Struct (Mapper, 0, mapper_dt, (void*)m);
+      |                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:202:5: note: expanded from macro 'Data_Wrap_Struct'
+  202 |     rb_data_object_wrap(                          \
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:366:31: note: expanded from macro 'rb_data_object_wrap'
+  366 | #define rb_data_object_wrap   RUBY_MACRO_SELECT(rb_data_object_wrap_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:184:1: note: expanded from here
+  184 | rb_data_object_wrap_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:364:31: note: expanded from macro 'rb_data_object_wrap_1'
+  364 | #define rb_data_object_wrap_1 rb_data_object_wrap_warning
+      |                               ^
+rubymain.cpp:102:2: warning: call to 'rb_data_object_get_warning(unsigned long)' declared with 'warning' attribute: untyped Data is unsafe; use TypedData instead [-Wattribute-warning]
+  102 |         Data_Get_Struct (self, Mapper_t, m);
+      |         ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:237:1: note: expanded from here
+  237 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+rubymain.cpp:88:2: warning: call to 'rb_data_object_get_warning(unsigned long)' declared with 'warning' attribute: untyped Data is unsafe; use TypedData instead [-Wattribute-warning]
+   88 |         Data_Get_Struct (self, Mapper_t, m);
+      |         ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:216:1: note: expanded from here
+  216 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+rubymain.cpp:65:2: warning: call to 'rb_data_object_get_warning(unsigned long)' declared with 'warning' attribute: untyped Data is unsafe; use TypedData instead [-Wattribute-warning]
+   65 |         Data_Get_Struct (self, Mapper_t, m);
+      |         ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:205:1: note: expanded from here
+  205 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+8 warnings generated.
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-41655-dl8jjr sitelibdir\=./.gem.20260107-41655-dl8jjr install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20260107-41655-dl8jjr
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260107-41655-dl8jjr sitelibdir\=./.gem.20260107-41655-dl8jjr clean

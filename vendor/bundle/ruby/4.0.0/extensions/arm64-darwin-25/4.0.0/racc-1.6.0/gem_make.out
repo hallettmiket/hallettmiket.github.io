@@ -1,0 +1,20 @@
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.0/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.0/ext/racc/cparse
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-50769-a63lkg sitelibdir\=./.gem.20260107-50769-a63lkg clean
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.0/ext/racc/cparse
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-50769-a63lkg sitelibdir\=./.gem.20260107-50769-a63lkg
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.0/ext/racc/cparse
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-50769-a63lkg sitelibdir\=./.gem.20260107-50769-a63lkg install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260107-50769-a63lkg/racc
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260107-50769-a63lkg sitelibdir\=./.gem.20260107-50769-a63lkg clean

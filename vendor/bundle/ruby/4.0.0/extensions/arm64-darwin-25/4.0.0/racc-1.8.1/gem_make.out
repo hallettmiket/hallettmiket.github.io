@@ -1,0 +1,18 @@
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-41655-psmylm sitelibdir\=./.gem.20260107-41655-psmylm clean
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-41655-psmylm sitelibdir\=./.gem.20260107-41655-psmylm
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-41655-psmylm sitelibdir\=./.gem.20260107-41655-psmylm install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260107-41655-psmylm/racc
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260107-41655-psmylm sitelibdir\=./.gem.20260107-41655-psmylm clean

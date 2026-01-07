@@ -1,0 +1,13 @@
+prefix=/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxml2/2.9.12
+exec_prefix=${prefix}
+libdir=/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxml2/2.9.12/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.9.12
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private:  -lpthread -lz -L/opt/homebrew/Cellar/xz/5.8.1/lib -llzma  -liconv -lm  
+Cflags: -I${includedir}/libxml2 

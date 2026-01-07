@@ -1,10 +1,10 @@
 ---
 layout: member
-title: Yassmin Ibrahmin
+title: Yassmin Ibrahim
 position: Undergraduate research project
 email: yibrah9@uwo.ca
-image: /assets/images/team/yassmin.jpg
-alumni: false
+image: /assets/images/team/jacob_madeira.png
+alumni: true
 ---
 
-COIN-seq: optimizations of guide targetting
+COIN-seq optimization

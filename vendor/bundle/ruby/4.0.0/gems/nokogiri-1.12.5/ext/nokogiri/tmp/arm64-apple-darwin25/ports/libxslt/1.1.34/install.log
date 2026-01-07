@@ -1,0 +1,165 @@
+Making install in libxslt
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib'
+ /bin/sh ../libtool   --mode=install /usr/bin/install -c   libxslt.la '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib'
+libtool: install: /usr/bin/install -c .libs/libxslt.lai /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/libxslt.la
+libtool: install: /usr/bin/install -c .libs/libxslt.a /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/libxslt.a
+libtool: install: chmod 644 /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/libxslt.a
+libtool: install: /usr/bin/ranlib /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/libxslt.a
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  install-exec-hook
+.././install-sh -c -d "/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/libxslt-plugins"
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/man/man3'
+ /usr/bin/install -c -m 644 libxslt.3 '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/man/man3'
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/include/libxslt'
+ /usr/bin/install -c -m 644 xsltconfig.h '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/include/libxslt'
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/include/libxslt'
+ /usr/bin/install -c -m 644 xslt.h xsltutils.h pattern.h templates.h variables.h keys.h numbersInternals.h extensions.h extra.h functions.h namespaces.h imports.h attributes.h documents.h preproc.h transform.h security.h xsltInternals.h xsltexports.h xsltlocale.h '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/include/libxslt'
+Making install in libexslt
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib'
+ /bin/sh ../libtool   --mode=install /usr/bin/install -c   libexslt.la '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib'
+libtool: install: /usr/bin/install -c .libs/libexslt.lai /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/libexslt.la
+libtool: install: /usr/bin/install -c .libs/libexslt.a /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/libexslt.a
+libtool: install: chmod 644 /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/libexslt.a
+libtool: install: /usr/bin/ranlib /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/libexslt.a
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/include/libexslt'
+ /usr/bin/install -c -m 644 exslt.h exsltexports.h '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/include/libexslt'
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/man/man3'
+ /usr/bin/install -c -m 644 libexslt.3 '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/man/man3'
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/include/libexslt'
+ /usr/bin/install -c -m 644 exsltconfig.h '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/include/libexslt'
+Making install in xsltproc
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/bin'
+  /bin/sh ../libtool   --mode=install /usr/bin/install -c xsltproc '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/bin'
+libtool: install: /usr/bin/install -c xsltproc /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/bin/xsltproc
+make[2]: Nothing to be done for `install-data-am'.
+Making install in doc
+Rebuilding the man pages from the xml
+I/O error : Attempt to load network entity http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd
+./xsltproc.xml:8: warning: failed to load external entity "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd"
+]>
+  ^
+I/O error : Attempt to load network entity http://cdn.docbook.org/release/xsl/current//manpages/docbook.xsl
+warning: failed to load external entity "http://cdn.docbook.org/release/xsl/current//manpages/docbook.xsl"
+error
+xsltParseStylesheetFile : cannot parse http://cdn.docbook.org/release/xsl/current//manpages/docbook.xsl
+compilation error: file ./xsltproc.xml line 10 element refentry
+xsltParseStylesheetProcess : document is not a stylesheet
+make[1]: [xsltproc.1] Error 5 (ignored)
+make[2]: Nothing to be done for `install-exec-am'.
+.././install-sh -c -d /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html
+/usr/bin/install -c -m 0644 ./*.html /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html
+/usr/bin/install -c -m 0644 ./*.gif /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html
+.././install-sh -c -d /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html/html
+/usr/bin/install -c -m 0644 ./html/*.html /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html/html
+/usr/bin/install -c -m 0644 ./html/*.png /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html/html
+.././install-sh -c -d /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html/EXSLT
+/usr/bin/install -c -m 0644 ./EXSLT/*.html /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html/EXSLT
+.././install-sh -c -d /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html/tutorial
+/usr/bin/install -c -m 0644 ./tutorial/* /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html/tutorial
+.././install-sh -c -d /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html/tutorial2
+/usr/bin/install -c -m 0644 ./tutorial2/* /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/doc/libxslt-1.1.34/html/tutorial2
+Rebuilding the man pages from the xml
+I/O error : Attempt to load network entity http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd
+./xsltproc.xml:8: warning: failed to load external entity "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd"
+]>
+  ^
+I/O error : Attempt to load network entity http://cdn.docbook.org/release/xsl/current//manpages/docbook.xsl
+warning: failed to load external entity "http://cdn.docbook.org/release/xsl/current//manpages/docbook.xsl"
+error
+xsltParseStylesheetFile : cannot parse http://cdn.docbook.org/release/xsl/current//manpages/docbook.xsl
+compilation error: file ./xsltproc.xml line 10 element refentry
+xsltParseStylesheetProcess : document is not a stylesheet
+make[2]: [xsltproc.1] Error 5 (ignored)
+ .././install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/man/man1'
+ /usr/bin/install -c -m 644 xsltproc.1 '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/man/man1'
+Making install in tests
+Making install in docs
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in REC1
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in REC2
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in REC
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in general
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in namespaces
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in keys
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in numbers
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in documents
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in extensions
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in reports
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in xmlspec
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in multiple
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in xinclude
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in XSLTMark
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in docbook
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in exslt
+Making install in common
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in functions
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in math
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in saxon
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in sets
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in strings
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in dynamic
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in date
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in plugins
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in fuzz
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+ ./install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/bin'
+ /usr/bin/install -c xslt-config '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/bin'
+ ./install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib'
+ /usr/bin/install -c -m 644 xsltConf.sh '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib'
+ ./install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/aclocal'
+ /usr/bin/install -c -m 644 libxslt.m4 '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/share/aclocal'
+ ./install-sh -c -d '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/pkgconfig'
+ /usr/bin/install -c -m 644 libxslt.pc libexslt.pc '/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib/pkgconfig'

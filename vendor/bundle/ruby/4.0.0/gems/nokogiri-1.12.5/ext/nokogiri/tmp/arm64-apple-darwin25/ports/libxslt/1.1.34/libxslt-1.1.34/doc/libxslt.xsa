@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE xsa PUBLIC "-//LM Garshol//DTD XML Software Autoupdate 1.0//EN//XML" "http://www.garshol.priv.no/download/xsa/xsa.dtd">
+<xsa>
+  <vendor>
+    <name>Daniel Veillard</name>
+    <email>daniel@veillard.com</email>
+    <url>http://veillard.com/</url>
+  </vendor>
+  <product id="libxslt">
+    <name>libxslt</name>
+    <version>v1.1.33</version>
+    <last-release> Jan 03 2019</last-release>
+    <info-url>http://xmlsoft.org/XSLT/</info-url>
+    <changes>   - Portability:
+  Variables need 'extern' in static lib on Cygwin (Nick Wellnhofer),
+  Really declare dllexport/dllimport for Cygwin (Michael Haubenwallner),
+  Fix callback signatures in Python bindings (Nick Wellnhofer),
+  Fix transform callback signatures (Nick Wellnhofer),
+  Fix extension callback signatures (Nick Wellnhofer),
+  Fix deallocator signatures (Nick Wellnhofer),
+  Fix XPath callback signatures (Nick Wellnhofer),
+  Fix hash callback signatures (Nick Wellnhofer)
+  
+   - Bug Fixes:
+  Don't cache direct evaluation of patterns with variables (Nick Wellnhofer),
+  Move function result RVTs to context variable (Nick Wellnhofer),
+  Fix EXSLT functions returning RVTs from outer scopes (Nick Wellnhofer),
+  Fix handling of RVTs returned from nested EXSLT functions (Nick Wellnhofer),
+  Fix typos (Nick Wellnhofer)
+  
+   - Improvements:
+  Run Travis ASan tests with "sudo: required" (Nick Wellnhofer)
+  
+   - Cleanups:
+  Remove doc/libxslt-decl.txt (Nick Wellnhofer),
+  Docs for 1.1.32 release (Daniel Veillard)
+  
+
+</changes>
+  </product>
+</xsa>

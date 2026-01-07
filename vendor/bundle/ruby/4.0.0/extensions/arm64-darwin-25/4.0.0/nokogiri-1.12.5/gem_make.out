@@ -1,0 +1,142 @@
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ext/nokogiri
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for whether -std=c99 is accepted as CFLAGS... yes
+checking for whether -Wno-declaration-after-statement is accepted as CFLAGS... yes
+checking for whether -g is accepted as CFLAGS... yes
+checking for whether -Winline is accepted as CFLAGS... yes
+checking for whether -Wmissing-noreturn is accepted as CFLAGS... yes
+checking for whether -Wno-error=unused-command-line-argument-hard-error-in-future is accepted as CFLAGS... no
+Building nokogiri using packaged libraries.
+Static linking is enabled.
+Cross build is disabled.
+checking for iconv.h... yes
+checking for gzdopen() in -lz... yes
+Using mini_portile version 2.6.1
+checking for iconv using --with-opt-* flags... yes
+---------- IMPORTANT NOTICE ----------
+Building Nokogiri with a packaged version of libxml2-2.9.12.
+Configuration options: --host\=arm64-apple-darwin25 --enable-static --disable-shared --libdir\=/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxml2/2.9.12/lib --with-iconv\=yes --disable-dependency-tracking --without-python --without-readline --with-c14n --with-debug --with-threads --disable-shared --enable-static CPPFLAGS\=-I/opt/homebrew/opt/libyaml/include\ -I/opt/homebrew/opt/openssl@3/include LDFLAGS\=-L/opt/homebrew/opt/libyaml/lib\ -L/opt/homebrew/opt/openssl@3/lib RANLIB\=/usr/bin/ranlib AR\=/usr/bin/ar CFLAGS\=-O2\ -U_FORTIFY_SOURCE\ -g\ -fPIC
+The following patches are being applied:
+  - 0001-Remove-script-macro-support.patch
+  - 0002-Update-entities-to-remove-handling-of-ssi.patch
+  - 0003-libxml2.la-is-in-top_builddir.patch
+  - 0004-use-glibc-strlen.patch
+  - 0005-avoid-isnan-isinf.patch
+  - 0006-update-automake-files-for-arm64.patch
+  - 0007-Fix-XPath-recursion-limit.patch
+
+The Nokogiri maintainers intend to provide timely security updates, but if
+this is a concern for you and want to use your OS/distro system library
+instead, then abort this installation process and install nokogiri as
+instructed at:
+
+  https://nokogiri.org/tutorials/installing_nokogiri.html#installing-using-standard-system-libraries
+
+Note, however, that nokogiri cannot guarantee compatibility with every
+version of libxml2 that may be provided by OS/package vendors.
+
+Extracting libxml2-2.9.12.tar.gz into tmp/arm64-apple-darwin25/ports/libxml2/2.9.12... OK
+Running git apply with /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/patches/libxml2/0001-Remove-script-macro-support.patch... OK
+Running git apply with /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/patches/libxml2/0002-Update-entities-to-remove-handling-of-ssi.patch... OK
+Running git apply with /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/patches/libxml2/0003-libxml2.la-is-in-top_builddir.patch... OK
+Running git apply with /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/patches/libxml2/0004-use-glibc-strlen.patch... OK
+Running git apply with /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/patches/libxml2/0005-avoid-isnan-isinf.patch... OK
+Running git apply with /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/patches/libxml2/0006-update-automake-files-for-arm64.patch... OK
+Running git apply with /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/patches/libxml2/0007-Fix-XPath-recursion-limit.patch... OK
+Running 'configure' for libxml2 2.9.12... OK
+Running 'compile' for libxml2 2.9.12... OK
+Running 'install' for libxml2 2.9.12... OK
+Activating libxml2 2.9.12 (from /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxml2/2.9.12)...
+Using mini_portile version 2.6.1
+---------- IMPORTANT NOTICE ----------
+Building Nokogiri with a packaged version of libxslt-1.1.34.
+Configuration options: --host\=arm64-apple-darwin25 --enable-static --disable-shared --libdir\=/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib --disable-dependency-tracking --without-python --without-crypto --with-debug --with-libxml-prefix\=/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxml2/2.9.12 --disable-shared --enable-static RANLIB\=/usr/bin/ranlib AR\=/usr/bin/ar CFLAGS\=-O2\ -U_FORTIFY_SOURCE\ -g\ -fPIC
+The following patches are being applied:
+  - 0001-update-automake-files-for-arm64.patch
+  - 0002-Fix-xml2-config-check-in-configure-script.patch
+
+The Nokogiri maintainers intend to provide timely security updates, but if
+this is a concern for you and want to use your OS/distro system library
+instead, then abort this installation process and install nokogiri as
+instructed at:
+
+  https://nokogiri.org/tutorials/installing_nokogiri.html#installing-using-standard-system-libraries
+
+Extracting libxslt-1.1.34.tar.gz into tmp/arm64-apple-darwin25/ports/libxslt/1.1.34... OK
+Running git apply with /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/patches/libxslt/0001-update-automake-files-for-arm64.patch... OK
+Running git apply with /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/patches/libxslt/0002-Fix-xml2-config-check-in-configure-script.patch... OK
+Running 'configure' for libxslt 1.1.34... OK
+Running 'compile' for libxslt 1.1.34... OK
+Running 'install' for libxslt 1.1.34... OK
+Activating libxslt 1.1.34 (from /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34)...
+checking for whether -DNOKOGIRI_PACKAGED_LIBRARIES is accepted as CPPFLAGS... yes
+checking for whether -DNOKOGIRI_LIBXML2_PATCHES="\"0001-Remove-script-macro-support.patch 0002-Update-entities-to-remove-handling-of-ssi.patch 0003-libxml2.la-is-in-top_builddir.patch 0004-use-glibc-strlen.patch 0005-avoid-isnan-isinf.patch 0006-update-automake-files-for-arm64.patch 0007-Fix-XPath-recursion-limit.patch\"" is accepted as CPPFLAGS... yes
+checking for -llzma... yes
+checking for whether -DNOKOGIRI_LIBXSLT_PATCHES="\"0001-update-automake-files-for-arm64.patch 0002-Fix-xml2-config-check-in-configure-script.patch\"" is accepted as CPPFLAGS... yes
+checking for xmlParseDoc() in libxml/parser.h... yes
+checking for xsltParseStylesheetDoc() in libxslt/xslt.h... yes
+checking for exsltFuncRegister() in libexslt/exslt.h... yes
+Using mini_portile version 2.6.1
+---------- IMPORTANT NOTICE ----------
+Building Nokogiri with a packaged version of libgumbo-1.0.0-nokogiri.
+Configuration options: --disable-shared --enable-static CFLAGS\=-fPIC
+Copying gumbo-parser files into tmp/arm64-apple-darwin25/ports/libgumbo/1.0.0-nokogiri/gumbo-parser...
+Running 'compile' for libgumbo 1.0.0-nokogiri... OK
+Activating libgumbo 1.0.0-nokogiri (from ports/arm64-apple-darwin25/libgumbo/1.0.0-nokogiri)...
+checking for whether -I/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ext/nokogiri/ports/arm64-apple-darwin25/libgumbo/1.0.0-nokogiri/include is accepted as CPPFLAGS... yes
+checking for gumbo_parse_with_options() in gumbo.h... no
+-----
+extconf.rb:276:in 'Object#ensure_func'
+gumbo_parse_with_options is missing. Please locate mkmf.log to investigate how it is failing.
+-----
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--with-opt-include=${opt-dir}/include
+	--without-opt-include
+	--with-opt-lib=${opt-dir}/lib
+	--without-opt-lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/opt/homebrew/Cellar/ruby/4.0.0/bin/$(RUBY_BASE_NAME)
+	--help
+	--clean
+	--prevent-strip
+	--enable-system-libraries
+	--disable-system-libraries
+	--use-system-libraries
+	--enable-system-libraries
+	--disable-system-libraries
+	--use-system-libraries
+	--enable-static
+	--disable-static
+	--enable-cross-build
+	--disable-cross-build
+	--with-zlib-dir
+	--without-zlib-dir
+	--with-zlib-include=${zlib-dir}/include
+	--without-zlib-include
+	--with-zlib-lib=${zlib-dir}/lib
+	--without-zlib-lib
+	--with-iconv-dir
+	--without-iconv-dir
+	--with-iconv-include=${iconv-dir}/include
+	--without-iconv-include
+	--with-iconv-lib=${iconv-dir}/lib
+	--without-iconv-lib
+	--with-xml2-source-dir
+	--with-xslt-source-dir
+	--enable-cross-build
+	--disable-cross-build
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/extensions/arm64-darwin-25/4.0.0/nokogiri-1.12.5/mkmf.log
+
+extconf failed, exit code 1

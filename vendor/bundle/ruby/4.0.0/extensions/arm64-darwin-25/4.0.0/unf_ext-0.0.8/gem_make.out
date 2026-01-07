@@ -1,0 +1,72 @@
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/unf_ext-0.0.8/ext/unf_ext
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/unf_ext-0.0.8/ext/unf_ext
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-41655-advjo0 sitelibdir\=./.gem.20260107-41655-advjo0 clean
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/unf_ext-0.0.8/ext/unf_ext
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-41655-advjo0 sitelibdir\=./.gem.20260107-41655-advjo0
+compiling unf.cc
+unf.cc:52:5: warning: 'rb_data_object_get_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
+   52 |     Data_Get_Struct(self, UNF::Normalizer, ptr);
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:129:1: note: expanded from here
+  129 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:317:1: note: 'rb_data_object_get_warning' has been explicitly marked deprecated here
+  317 | RBIMPL_ATTRSET_UNTYPED_DATA_FUNC()
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:47:5: note: expanded from macro 'RBIMPL_ATTRSET_UNTYPED_DATA_FUNC'
+   47 |     RBIMPL_ATTR_DEPRECATED(("by TypedData"))
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/attr/deprecated.h:36:53: note: expanded from macro 'RBIMPL_ATTR_DEPRECATED'
+   36 | # define RBIMPL_ATTR_DEPRECATED(msg) __attribute__((__deprecated__ msg))
+      |                                                     ^
+unf.cc:52:5: warning: call to 'rb_data_object_get_warning(unsigned long)' declared with 'warning' attribute: untyped Data is unsafe; use TypedData instead [-Wattribute-warning]
+   52 |     Data_Get_Struct(self, UNF::Normalizer, ptr);
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:129:1: note: expanded from here
+  129 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.0/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+2 warnings generated.
+linking shared-object unf_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lc++'
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/unf_ext-0.0.8/ext/unf_ext
+make -j13 DESTDIR\= sitearchdir\=./.gem.20260107-41655-advjo0 sitelibdir\=./.gem.20260107-41655-advjo0 install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20260107-41655-advjo0
+
+current directory: /Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260107-41655-advjo0 sitelibdir\=./.gem.20260107-41655-advjo0 clean

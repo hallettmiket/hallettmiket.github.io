@@ -1,0 +1,119 @@
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  all-recursive
+Making all in libxslt
+  CC       attrvt.lo
+  CC       xslt.lo
+  CC       xsltlocale.lo
+  CC       xsltutils.lo
+  CC       pattern.lo
+  CC       templates.lo
+  CC       variables.lo
+  CC       keys.lo
+  CC       numbers.lo
+  CC       extensions.lo
+  CC       extra.lo
+  CC       functions.lo
+  CC       namespaces.lo
+  CC       imports.lo
+  CC       attributes.lo
+  CC       documents.lo
+  CC       preproc.lo
+  CC       transform.lo
+  CC       security.lo
+  CCLD     libxslt.la
+Making all in libexslt
+  CC       exslt.lo
+  CC       common.lo
+  CC       crypto.lo
+  CC       math.lo
+  CC       sets.lo
+  CC       functions.lo
+  CC       strings.lo
+  CC       date.lo
+  CC       saxon.lo
+  CC       dynamic.lo
+  CCLD     libexslt.la
+Making all in xsltproc
+  CC       xsltproc.o
+  CCLD     xsltproc
+  CC       testThreads.o
+  CCLD     testThreads
+Making all in doc
+Rebuilding the man pages from the xml
+I/O error : Attempt to load network entity http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd
+./xsltproc.xml:8: warning: failed to load external entity "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd"
+]>
+  ^
+I/O error : Attempt to load network entity http://cdn.docbook.org/release/xsl/current//manpages/docbook.xsl
+warning: failed to load external entity "http://cdn.docbook.org/release/xsl/current//manpages/docbook.xsl"
+error
+xsltParseStylesheetFile : cannot parse http://cdn.docbook.org/release/xsl/current//manpages/docbook.xsl
+compilation error: file ./xsltproc.xml line 10 element refentry
+xsltParseStylesheetProcess : document is not a stylesheet
+make[2]: [xsltproc.1] Error 5 (ignored)
+I/O error : Attempt to load network entity http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+./news.html:2: warning: failed to load external entity "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+ 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+                                                                               ^
+Making all in tests
+Making all in docs
+make[3]: Nothing to be done for `all'.
+Making all in REC1
+make[3]: Nothing to be done for `all'.
+Making all in REC2
+make[3]: Nothing to be done for `all'.
+Making all in REC
+make[3]: Nothing to be done for `all'.
+Making all in general
+make[3]: Nothing to be done for `all'.
+Making all in namespaces
+make[3]: Nothing to be done for `all'.
+Making all in keys
+make[3]: Nothing to be done for `all'.
+Making all in numbers
+make[3]: Nothing to be done for `all'.
+Making all in documents
+make[3]: Nothing to be done for `all'.
+Making all in extensions
+make[3]: Nothing to be done for `all'.
+Making all in reports
+make[3]: Nothing to be done for `all'.
+Making all in xmlspec
+make[3]: Nothing to be done for `all'.
+Making all in multiple
+make[3]: Nothing to be done for `all'.
+Making all in xinclude
+make[3]: Nothing to be done for `all'.
+Making all in XSLTMark
+make[3]: Nothing to be done for `all'.
+Making all in docbook
+make[3]: Nothing to be done for `all'.
+Making all in exslt
+Making all in common
+make[4]: Nothing to be done for `all'.
+Making all in functions
+make[4]: Nothing to be done for `all'.
+Making all in math
+make[4]: Nothing to be done for `all'.
+Making all in saxon
+make[4]: Nothing to be done for `all'.
+Making all in sets
+make[4]: Nothing to be done for `all'.
+Making all in strings
+make[4]: Nothing to be done for `all'.
+Making all in dynamic
+make[4]: Nothing to be done for `all'.
+Making all in date
+make[4]: Nothing to be done for `all'.
+make[4]: Nothing to be done for `all-am'.
+Making all in plugins
+make[3]: Nothing to be done for `all'.
+Making all in fuzz
+make[3]: Nothing to be done for `all'.
+make[3]: Nothing to be done for `all-am'.
+sed -e 's?\@XSLT_LIBDIR\@?-L/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib?g' \
+	    -e 's?\@XSLT_INCLUDEDIR\@?-I/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/include?g' \
+	    -e 's?\@VERSION\@?1.1.34?g' \
+	    -e 's?\@XSLT_LIBS\@?-lxslt -L/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxml2/2.9.12/lib -lxml2 -lz -L/opt/homebrew/Cellar/xz/5.8.1/lib -llzma -lpthread -liconv -lm ?g' \
+	    -e 's?\@XSLT_PRIVATE_LIBS\@??g' \
+	       < ./xsltConf.sh.in > xsltConf.tmp \
+	&& mv xsltConf.tmp xsltConf.sh

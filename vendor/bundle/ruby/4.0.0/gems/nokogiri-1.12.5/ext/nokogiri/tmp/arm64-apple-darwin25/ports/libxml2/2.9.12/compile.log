@@ -1,0 +1,116 @@
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  all-recursive
+Making all in include
+Making all in libxml
+make[3]: Nothing to be done for `all'.
+make[3]: Nothing to be done for `all-am'.
+Making all in .
+  CC       xmllint.o
+  CC       SAX.lo
+  CC       entities.lo
+entities.c:599:68: warning: unused parameter 'attr' [-Wunused-parameter]
+  599 | xmlEncodeEntitiesInternal(xmlDocPtr doc, const xmlChar *input, int attr) {
+      |                                                                    ^
+1 warning generated.
+  CC       encoding.lo
+encoding.c:505:26: warning: cast from 'const unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+  505 |     unsigned short* in = (unsigned short*) inb;
+      |                          ^~~~~~~~~~~~~~~~~~~~~
+encoding.c:592:27: warning: cast from 'unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+  592 |     unsigned short* out = (unsigned short*) outb;
+      |                           ^~~~~~~~~~~~~~~~~~~~~~
+encoding.c:748:26: warning: cast from 'const unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+  748 |     unsigned short* in = (unsigned short*) inb;
+      |                          ^~~~~~~~~~~~~~~~~~~~~
+encoding.c:834:27: warning: cast from 'unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+  834 |     unsigned short* out = (unsigned short*) outb;
+      |                           ^~~~~~~~~~~~~~~~~~~~~~
+encoding.c:2632:9: warning: variable 'output' set but not used [-Wunused-but-set-variable]
+ 2632 |     int output = 0;
+      |         ^
+5 warnings generated.
+  CC       error.lo
+  CC       parserInternals.lo
+  CC       parser.lo
+  CC       tree.lo
+  CC       hash.lo
+  CC       list.lo
+  CC       xmlIO.lo
+  CC       xmlmemory.lo
+  CC       uri.lo
+  CC       valid.lo
+  CC       xlink.lo
+  CC       HTMLparser.lo
+  CC       HTMLtree.lo
+  CC       debugXML.lo
+  CC       xpath.lo
+xpath.c:10498:9: warning: variable 'len' set but not used [-Wunused-but-set-variable]
+ 10498 |     int len = 0, l;
+       |         ^
+xpath.c:13642:9: warning: variable 'nb_nodes' set but not used [-Wunused-but-set-variable]
+ 13642 |     int nb_nodes = 0;
+       |         ^
+2 warnings generated.
+  CC       xpointer.lo
+  CC       xinclude.lo
+  CC       nanohttp.lo
+  CC       nanoftp.lo
+  CC       catalog.lo
+catalog.c:2187:9: warning: variable 'count' set but not used [-Wunused-but-set-variable]
+ 2187 |     int count = 0;
+      |         ^
+1 warning generated.
+  CC       globals.lo
+  CC       threads.lo
+  CC       c14n.lo
+  CC       xmlstring.lo
+  CC       buf.lo
+  CC       xmlregexp.lo
+  CC       xmlschemas.lo
+xmlschemas.c:21858:9: warning: variable 'count' set but not used [-Wunused-but-set-variable]
+ 21858 |     int count = 0;
+       |         ^
+1 warning generated.
+  CC       xmlschemastypes.lo
+  CC       xmlunicode.lo
+  CC       xmlreader.lo
+  CC       relaxng.lo
+  CC       dict.lo
+dict.c:1006:30: warning: variable 'nbi' set but not used [-Wunused-but-set-variable]
+ 1006 |     unsigned long key, okey, nbi = 0;
+      |                              ^
+1 warning generated.
+  CC       SAX2.lo
+  CC       xmlwriter.lo
+  CC       legacy.lo
+  CC       chvalid.lo
+  CC       pattern.lo
+  CC       xmlsave.lo
+  CC       xmlmodule.lo
+  CC       schematron.lo
+  CC       xzlib.lo
+  CCLD     libxml2.la
+  CCLD     xmllint
+  CC       xmlcatalog.o
+  CCLD     xmlcatalog
+  CC       testdso.lo
+  CCLD     testdso.la
+sed -e 's?\@XML_LIBDIR\@?-L/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxml2/2.9.12/lib?g' \
+	    -e 's?\@XML_INCLUDEDIR\@?-I/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxml2/2.9.12/include/libxml2?g' \
+	    -e 's?\@VERSION\@?2.9.12?g' \
+	    -e 's?\@XML_LIBS\@?-lxml2?g' \
+	    -e 's?\@XML_PRIVATE_LIBS\@?-lz -L/opt/homebrew/Cellar/xz/5.8.1/lib -llzma -lpthread  -liconv  -lm ?g' \
+	       < ./xml2Conf.sh.in > xml2Conf.tmp \
+	&& mv xml2Conf.tmp xml2Conf.sh
+Making all in doc
+Making all in .
+make[3]: Nothing to be done for `all-am'.
+Making all in devhelp
+make[3]: Nothing to be done for `all'.
+Making all in examples
+make[3]: Nothing to be done for `all'.
+Making all in example
+make[2]: Nothing to be done for `all'.
+Making all in fuzz
+make[2]: Nothing to be done for `all'.
+Making all in xstc
+make[2]: Nothing to be done for `all'.

@@ -1,0 +1,13 @@
+prefix=/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34
+exec_prefix=${prefix}
+libdir=/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxslt/1.1.34/lib
+includedir=${prefix}/include
+
+
+Name: libxslt
+Version: 1.1.34
+Description: XSLT library version 2.
+Requires: libxml-2.0
+Cflags: -I${includedir}
+Libs: -L${libdir} -lxslt -L/Users/mth/repos/hallettmiket.github.io/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.12.5/ports/arm64-apple-darwin25/libxml2/2.9.12/lib -lxml2 -lz -L/opt/homebrew/Cellar/xz/5.8.1/lib -llzma -lpthread -liconv -lm 
+Libs.private: 
