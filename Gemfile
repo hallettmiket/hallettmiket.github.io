@@ -9,8 +9,7 @@ gem 'netrc'
 gem 'ffi', '>= 1.16.3'
 gem 'nokogiri'
 
+
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.17"
-  gem "jekyll-seo-tag", "~> 2.8"
-  # add other plugins you need
+  gem "jekyll-redirect-from"
 end
