@@ -3,7 +3,6 @@ source 'https://rubygems.org'
 # Use Jekyll 4.x (NOT compatible with github-pages gem)
 gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.8"
-gem "liquid", "~> 5.4"
 
 gem 'rake'
 gem 'netrc'
