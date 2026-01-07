@@ -3,7 +3,7 @@ layout: member
 title: Joseph Kozman
 position: Undergraduate research project
 email: jkozman@uwo.ca
-image: /assets/images/team/joseph_kozman.png
+image: /assets/images/team/joseph_kozman.jpeg
 alumni: false
 ---
 
