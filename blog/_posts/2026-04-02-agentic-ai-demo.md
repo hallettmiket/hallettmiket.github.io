@@ -37,6 +37,6 @@ This seminar is designed for researchers at all levels of computational experien
 
 ### Event Details
 
-**Date & Time:** TBA | **Location:** TBA
+**Date & Time:** April 10, 2026 at 10:30 AM | **Location:** MSB-384
 
 Contact: [michael.hallett@uwo.ca](mailto:michael.hallett@uwo.ca)
