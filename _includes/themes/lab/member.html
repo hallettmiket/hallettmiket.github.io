@@ -39,16 +39,27 @@
 		</div>		
 		<div class="bigspacer"></div>		
 		{% endif %}	  		
-		{% if member.twitter %}		
+		{% if member.bluesky %}
+		<div class="smallhead">
+			Bluesky
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-cloud fa-fw"></i>
+			<a class="off" href="https://bsky.app/profile/{{ member.bluesky }}">@{{ member.bluesky }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+		{% if member.twitter %}
 		<div class="smallhead">
 			Twitter
-		</div>	
+		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-twitter fa-fw"></i>
 			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
-		</div>		
-		<div class="bigspacer"></div>				
+		</div>
+		<div class="bigspacer"></div>
 		{% endif %}	
 		{% if member.github %}
 		<div class="smallhead">

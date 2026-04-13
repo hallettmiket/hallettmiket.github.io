@@ -4,7 +4,7 @@ title: Mike Hallett
 position: Principal investigator
 handle: mhallett
 email: hallett.mike.t@gmail.com
-twitter: hallettmichael
+bluesky: hallettmiket.bsky.social
 github: hallettmiket
 bitbucket: hallettmichael
 scholar: aSl0gXwAAAAJ

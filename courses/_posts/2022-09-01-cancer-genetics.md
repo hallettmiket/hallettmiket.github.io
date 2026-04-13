@@ -11,4 +11,4 @@ coursenumber: Biochem/Pathology 4450A
 <br><br><br>
 
 The course can be accessed here:
-[Moecular Genetics of Human Cancer](https://cancer-genetics-western.netlify.app/).
+[Molecular Genetics of Human Cancer](https://www.schulich.uwo.ca/biochem/undergraduate/course_information.html).
