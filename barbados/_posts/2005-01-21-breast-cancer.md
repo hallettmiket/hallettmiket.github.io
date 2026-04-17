@@ -5,89 +5,39 @@ author: Morag Park and Mike Hallett
 image: /assets/images/barbados/breast-cancer.png
 ---
 
-This was the first of our Barbados meetings to focus on breast cancer. 
+This was the first of our Barbados meetings to focus on breast cancer.
 
-<table class="t1" width="624" cellspacing="0" cellpadding="0">
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
-<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr>
-<tr>   <td WIDTH="20%"><a href="mailto:hallett@mcb.mcgill.ca">Michael 
-      Hallett</a></td>
-    <td WIDTH="33%"><a href="http://www.mcb.mcgill.ca/~hallett">Bioinformatics, McGill</a></td>
-    <td>Bioinformatics</td>
-</tr>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+</tbody>
+</table>
 
-  <tr>
-    <td width="12%"><a href="mailto:morag.park@McGill.ca">Morag Park</a></td>
-    <td width="26%"><a href="http://www.mcgill.ca/biochemistry/department/faculty/park/">Oncology, Biochem, Medicine,
-      McGill </a></td> <td>Breast Cancer</td></tr>
-  
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr><td><a href="https://parklabmcgill.wordpress.com/">Morag Park</a></td><td>Oncology, Biochem, Medicine, McGill</td></tr>
+</tbody>
+</table>
 
-  <tr> 
-    <td WIDTH="12%"><strong>Participant</strong></td>
-    <td WIDTH="26%"><strong>Affiliation</strong></td>
-<td WIDTH="26%"><strong>Specialty</strong></td>    </tr>
-  <tr> 
-    <td><a href="mailto:juris@ai.toronto.edu">T. Brown</a></td>
-    <td><a href="http://www.cs.toronto.edu/~juris">U. of Toronto </a></td>
-<td>Microrrays</td>  </tr>
-
-
-    <tr> 
-    <td><a href="mailto:jenny@stat.ubc.ca">J. Bryan</a></td>
-    <td><a href="http://hajek.stat.ubc.ca/~jenny/">Statistics, UBC </a></td>
-<td>Microrrays</td>  </tr>
-
-<tr> 
-    <td><a href="mailto:haiying4316@yahoo.com">H. Chen</a></td>
-    <td><a href="http://www.mcgill.ca/oncology">Mol. Oncology, McGill </a>
-<td>LCM, Microarrays</td>  </tr>
-
-
-  <tr>
-    <td><a href="mailto:finak@mcb.mcgill.ca">G. Finak</a></td> 
-    <td><a href="http://www.mcb.mcgill.ca/~finak">Biochemistry, McGill </a></td> <td>Bioinformatics</td>
-     </tr>
-
-
-<tr>
-<td><a href="mailto:alifilali2003@yahoo.ca">A. Filali</a></td> 
-<td><a href="http://www.icm.qc.ca/">Inst. du cancer, U. de Mont.  </a></td> 
-<td>Bioinformatics</td>
-     </tr>
-
-   <tr> 
-    <td><a href="mailto:juris@ai.toronto.edu">I. Jurisica</a></td> <td> <a href="http://www.cs.toronto.edu/~juris">U. of Toronto </a> </td>
-    <td>Bioinfo/Ovarian Cancer
-           </tr> 
-           <tr>
-     <td><a href="mailto:muller@molonc.mcgill.ca">B. Muller</a></td> <td><a href="http://www.mcgill.ca/biochemistry/department/faculty/muller/">Mol. Oncology, McGill </a></td> <td>Her2 Mouse Models</td>
-   </tr>
-  <tr> 
-        <td><a href="mailto:francois@mcb.mcgill.ca">F. Pepin</a></td> <td><a href="http://www.mcb.mcgill.ca">Bioinformatics, McGill </a></td><td>Bioinfo/TGF-Beta</td>
-    </tr> 
-    <tr>
-     <td><a href="mailto:stephanie.petkiewicz@muhc.mcgill.ca">S. Petkiewicz</a></td><td><a href="http://www.mcgill.ca/biochemistry/department/faculty/park/">Oncology, Biochem, Medicine,
-      McGill  </a> </td>
-     <td>Met, Breast Cancer
-     </tr> 
-        <tr> 
-     <td><a href="mailto:peter.siegel@mcgill.ca">B. Schade</a></td><td><a href="http://www.mcgill.ca/biochemistry/">Mol. Oncology, McGill </a></td><td>Her2 Mouse Models</td>
-        </tr> 
-        <tr>
-     <td><a href="mailto:peter.siegel@mcgill.ca">P. Siegel</a></td><td><a href="http://www.medicine.mcgill.ca/">Medicine, McGill </a></td><td>TGF-Beta/Neu</td>
-   </tr> 
-   <tr>
-     <td><a href="mailto:david.thomas@mcgill.ca">D. Thomas</a></td><td><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">Biochemistry, McGill </a></td><td>Chemical Genomic Screens</td>
-     </tr> 
-     <tr>
-    <td><a href="mailto:ctognon@interchange.ubc.ca">C. Tognon</a></td><td><a href="http://www.bcricwh.bc.ca/our_research/researchers/researcher_by_name/poul_sorenson.htm">
-    BCRI, UBC </a></td><td>Fusion Proteins</td>
-      </tr> 
-   <tr> 
-    <td><a href="mailto:zohar_yakhini@agilent.com ">Z. Yakhini</a></td><td><a href="http://www.labs.agilent.com/">Agilent </a></td><td>Microarrays </td></tr>
-  <tr> 
-    <td><a href="mailto:wulfkuhle@cber.fda.gov">J. Wulfkuhle</a></td><td><a href="http://www.labs.agilent.com/">Center for Cancer Research, NCI </a></td><td>Proteomics/Breast Cancer</td> </tr>
-
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr><td>T. Brown</td><td>U. of Toronto</td></tr>
+<tr><td>J. Bryan</td><td>Statistics, UBC</td></tr>
+<tr><td>H. Chen</td><td>Mol. Oncology, McGill LCM, Microarrays</td></tr>
+<tr><td>G. Finak</td><td>Biochemistry, McGill</td></tr>
+<tr><td>A. Filali</td><td>Inst. du cancer, U. de Mont.</td></tr>
+<tr><td>I. Jurisica</td><td>U. of Toronto</td></tr>
+<tr><td>B. Muller</td><td>Mol. Oncology, McGill</td></tr>
+<tr><td>F. Pepin</td><td>Bioinformatics, McGill</td></tr>
+<tr><td>S. Petkiewicz</td><td>Oncology, Biochem, Medicine, McGill</td></tr>
+<tr><td>B. Schade</td><td>Mol. Oncology, McGill</td></tr>
+<tr><td><a href="https://petersiegel.lab.mcgill.ca/">P. Siegel</a></td><td>Medicine, McGill</td></tr>
+<tr><td>D. Thomas</td><td>Biochemistry, McGill</td></tr>
+<tr><td>C. Tognon</td><td>BCRI, UBC</td></tr>
+<tr><td>Z. Yakhini</td><td>Agilent</td></tr>
+<tr><td>J. Wulfkuhle</td><td>Center for Cancer Research, NCI</td></tr>
+</tbody>
 </table>

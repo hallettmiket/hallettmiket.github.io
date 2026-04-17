@@ -11,210 +11,59 @@ The focus of this meeting had much of the CCBR-Donnelly in attendance. It was on
 <center><img src="/assets/images/barbados/2016-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
 <tbody>
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
-<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Brenda Andrews</td>
-<td class="td2" valign="middle"><a href="http://thedonnellycentre.utoronto.ca/members/brenda_andrews.html">University of Toronto</a></td>
+<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+</tbody>
+</table>
 
-</tr>
-<tr>
-<td class="td1" valign="middle">Vanessa Dumeaux</td>
-<td class="td2" valign="middle"><a href="http://www.bci.mcgill.ca/home/?page_id=58">McGill University</a></td>
-</tr>
-<tr>
-<td class="td1" valign="middle"> Mike Hallett</td>
-<td class="td2" valign="middle"> <a href="http://www.bci.mcgill.ca/home/?page_id=19">McGill University</a></td>
-</tr>
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Organizing </strong></span><b>committee</b></td>
-<td class="td2" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Ben Grys</td>
-<td class="td2" valign="middle">University of Toronto</td>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr><td><a href="https://andrewslab.ccbr.utoronto.ca/">Brenda Andrews</a></td><td>University of Toronto</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University</td></tr>
+<tr><td>Ben Grys</td><td>University of Toronto</td></tr>
+<tr><td>Natasha Pascoe</td><td>University of Toronto</td></tr>
+<tr><td>Dara Lo</td><td>University of Toronto</td></tr>
+<tr><td>Michael Costanzo</td><td>University of Toronto</td></tr>
+</tbody>
+</table>
 
-</tr>
-<tr>
-<td class="td1" valign="middle">Natasha Pascoe</td>
-<td class="td2" valign="middle">University of Toronto</td>
-</tr>
-<tr>
-<td class="td1" valign="middle"> Dara Lo</td>
-<td class="td2" valign="middle"> University of Toronto</td>
-</tr>
-<tr>
-<td class="td1" valign="middle"> Michael Costanzo</td>
-<td class="td2" valign="middle"> University of Toronto</td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle"> <span class="p1"><strong>Invitees</strong></span></td>
-<td class="td2" valign="middle"></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Fritz Roth</td>
-<td class="td2" valign="middle"><a href="http://llama.mshri.on.ca/">University of Toronto</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Charlie Boone</td>
-<td class="td2" valign="middle"><a href="http://sites.utoronto.ca/boonelab/">University of Toronto</a></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Andy Fraser</td>
-<td class="td2" valign="middle"><a href="http://www.fraserlab.org/">University of Toronto</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Brendan Frey</td>
-<td class="td2" valign="middle"><a href="http://www.psi.toronto.edu/~frey/">University of Toronto</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Marian Walhout</td>
-<td class="td2" valign="middle"><a href="http://walhoutlab.umassmed.edu/HomePage/">University of Massachusetts</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Malcolm Whiteway</td>
-<td class="td2" valign="middle"><a href="http://www.concordia.ca/faculty/malcolm-whiteway.html">Concordia University</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Tim Hughes</td>
-<td class="td2" valign="middle"><a href="http://hugheslab.med.utoronto.ca/">University of Toronto</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Alejandro Reyes</td>
-<td class="td2" valign="middle"><a href="http://www.embl.de/research/units/genome_biology/huber/members/index.php?s_personId=CP-60012180">EMBL, Germany</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Olga Troyanskaya</td>
-<td class="td2" valign="middle"><a href="http://reducio.princeton.edu/cm/ogt">Princeton University</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Mike Tyers</td>
-<td class="td2" valign="middle"><a href="http://www.iric.ca/en/research/principal-investigators/michael-tyers/">IRIC, University of Montreal</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Maitreya Dunham</td>
-<td class="td2" valign="middle"><a href="http://dunham.gs.washington.edu/">University of Washington</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Chris Loewen</td>
-<td class="td2" valign="middle"><a href="http://celldevelopment.ubc.ca/research/researchers/dr-chris-loewen/">University of British Columbia</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Dave Gresham</td>
-<td class="td2" valign="middle"><a href="http://biology.as.nyu.edu/object/DavidGresham.html">NYU</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Doug Fowler</td>
-<td class="td2" valign="middle"><a href="http://www.gs.washington.edu/faculty/fowler.htm">U Washington</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Jason Moffat</td>
-<td class="td2" valign="middle"><a href="http://moffatlab.ccbr.utoronto.ca/people.html">University of Toronto</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Eric Brown</td>
-<td class="td2" valign="middle"><a href="http://www.brownlab.ca/">McMaster</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Phil Hieter</td>
-<td class="td2" valign="middle"><a href="http://hieterlab.msl.ubc.ca/">University of British Columbia</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Jussi Taipale</td>
-<td class="td2" valign="middle"><a href="http://www.bionut.ki.se/taipale/">Karonlinska Institute</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Sarah Jenna</td>
-<td class="td2" valign="middle"><a href="https://pharmaqam.uqam.ca/en/direction/sarah-jenna.html">University of Quebec at Montreal</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Jens Lagergren</td>
-<td class="td2" valign="middle"><a href="http://www.nada.kth.se/~jensl/">Karolinska University</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Mikko Taipale</td>
-<td class="td2" valign="middle"><a href="http://www.thedonnellycentre.utoronto.ca/members/Mikko_Taipale.html">University of Toronto</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Kris Gunsalus</td>
-<td class="td2" valign="middle"><a href="http://biology.as.nyu.edu/object/KrisGunsalus.html">NYU</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Michael Boutros</td>
-<td class="td2" valign="middle"><a href="http://www.dkfz.de/signaling/">DKFZ</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Stirling Churchman</td>
-<td class="td2" valign="middle"><a href="http://churchman.med.harvard.edu/">Harvard</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Lars Steinmetz</td>
-<td class="td2" valign="middle"><a href="https://med.stanford.edu/profiles/lars-steinmetz">Stanford</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Quaid Morris</td>
-<td class="td2" valign="middle"><a href="http://morrislab.med.utoronto.ca/homepage.html">University of Toronto</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Rich Bonneau</td>
-<td class="td2" valign="middle"><a href="http://bonneaulab.bio.nyu.edu/">NYU</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Sebastian Nijmen</td>
-<td class="td2" valign="middle"><a href="http://www.ludwig.ox.ac.uk/sebastian-nijman-group-page">Oxford U</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Thijn Brummelkamp</td>
-<td class="td2" valign="middle"><a href="http://research.nki.nl/brummelkamplab/Welcome.html">Netherland Cancer Institute</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Wolfgang Huber</td>
-<td class="td2" valign="middle"><a href="http://www.embl.de/research/units/genome_biology/huber/">EMBL</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Gregor Jansen</td>
-<td class="td2" valign="middle">McGill University</td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Bjorn Fjukstad</td>
-<td class="td2" valign="middle"><a href="https://fjukstad.github.io/">The Arctic University of Norway</a></td>
-
-</tr>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr><td><a href="https://www.lunenfeld.ca/?page=roth-frederick">Fritz Roth</a></td><td>University of Toronto</td></tr>
+<tr><td><a href="https://boonelab.ccbr.utoronto.ca/">Charlie Boone</a></td><td>University of Toronto</td></tr>
+<tr><td><a href="https://fraserlab.squarespace.com/">Andy Fraser</a></td><td>University of Toronto</td></tr>
+<tr><td>Brendan Frey</td><td>University of Toronto</td></tr>
+<tr><td><a href="https://walhoutlab.org/">Marian Walhout</a></td><td>University of Massachusetts</td></tr>
+<tr><td><a href="https://www.concordia.ca/faculty/malcolm-whiteway.html">Malcolm Whiteway</a></td><td>Concordia University</td></tr>
+<tr><td><a href="https://hugheslab.med.utoronto.ca/">Tim Hughes</a></td><td>University of Toronto</td></tr>
+<tr><td>Alejandro Reyes</td><td>EMBL, Germany</td></tr>
+<tr><td><a href="https://function.princeton.edu/">Olga Troyanskaya</a></td><td>Princeton University</td></tr>
+<tr><td>Mike Tyers</td><td>IRIC, University of Montreal</td></tr>
+<tr><td>Maitreya Dunham</td><td>University of Washington</td></tr>
+<tr><td><a href="https://cps.med.ubc.ca/faculty/loewen/">Chris Loewen</a></td><td>University of British Columbia</td></tr>
+<tr><td><a href="https://as.nyu.edu/faculty/david-gresham.html">Dave Gresham</a></td><td>NYU</td></tr>
+<tr><td><a href="https://fowlerlab.gs.washington.edu/">Doug Fowler</a></td><td>U Washington</td></tr>
+<tr><td>Jason Moffat</td><td>University of Toronto</td></tr>
+<tr><td>Eric Brown</td><td>McMaster</td></tr>
+<tr><td><a href="https://www.msl.ubc.ca/people/dr-phil-hieter/">Phil Hieter</a></td><td>University of British Columbia</td></tr>
+<tr><td><a href="https://www.taipalelabs.org/">Jussi Taipale</a></td><td>Karonlinska Institute</td></tr>
+<tr><td>Sarah Jenna</td><td>University of Quebec at Montreal</td></tr>
+<tr><td><a href="https://lagergrenlab.org/">Jens Lagergren</a></td><td>Karolinska University</td></tr>
+<tr><td><a href="https://thedonnellycentre.utoronto.ca/faculty/mikko-taipale">Mikko Taipale</a></td><td>University of Toronto</td></tr>
+<tr><td><a href="https://gunsaluspiano.bio.nyu.edu/">Kris Gunsalus</a></td><td>NYU</td></tr>
+<tr><td><a href="https://www.dkfz.de/en/signaling/boutros_en.html">Michael Boutros</a></td><td>DKFZ</td></tr>
+<tr><td><a href="https://churchman.med.harvard.edu/">Stirling Churchman</a></td><td>Harvard</td></tr>
+<tr><td><a href="https://steinmetzlab.stanford.edu/">Lars Steinmetz</a></td><td>Stanford</td></tr>
+<tr><td><a href="https://www.mskcc.org/research/ski/labs/quaid-morris">Quaid Morris</a></td><td>University of Toronto</td></tr>
+<tr><td><a href="https://www.gene.com/scientists/our-scientists/richard-bonneau">Rich Bonneau</a></td><td>NYU</td></tr>
+<tr><td>Sebastian Nijmen</td><td>Oxford U</td></tr>
+<tr><td><a href="https://www.nki.nl/research/research-groups/thijn-brummelkamp">Thijn Brummelkamp</a></td><td>Netherland Cancer Institute</td></tr>
+<tr><td><a href="https://www.huber.embl.de/">Wolfgang Huber</a></td><td>EMBL</td></tr>
+<tr><td>Gregor Jansen</td><td>McGill University</td></tr>
+<tr><td><a href="https://fjukstad.io/">Bjorn Fjukstad</a></td><td>The Arctic University of Norway</td></tr>
 </tbody>
 </table>

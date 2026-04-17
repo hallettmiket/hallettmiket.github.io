@@ -14,8 +14,53 @@ This meeting brings together researchers interested in exploring cells in their 
 
 The invitees collectively champion the development and/or application of EXPERIMENTAL approaches to identify the physical location of cells based on sequencing or imaging methods, and COMPUTATIONAL models to analyze cellular information and/or predict its location.  
 
-We are excited to extend discussions to how a wide variety of external factors and stressors, such as space travel, the exposure to microgravity and space radiation, the synergistic effect of microbiomes, infection processes, tumor microenvironments, etc., influence or alter cellular expression and epigenetics programs. 
+We are excited to extend discussions to how a wide variety of external factors and stressors, such as space travel, the exposure to microgravity and space radiation, the synergistic effect of microbiomes, infection processes, tumor microenvironments, etc., influence or alter cellular expression and epigenetics programs.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwvw-xNUC-nk4o25gu1mrs8VlFyQs0jTGW7Bh6ouJGCrAiQmWALtxMTQGxolPzH7nHqUe-kmR0iJvF/pubhtml?gid=1362159807&amp;single=true&amp;widget=true&amp;headers=false" height="500" width="90%" style="border:none;"></iframe>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
+<tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
+<tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
+<tr><td>Brenda Andrews</td><td>University of Toronto, Canada</td></tr>
+<tr><td>David Gresham</td><td>NYU, USA</td></tr>
+<tr><td>Rich Bonneau</td><td>Prescient Design / Genentech, USA</td></tr>
+<tr><td>Stefania Giacomello</td><td>SciLifeLab, KTH, Sweden</td></tr>
+<tr><td>Elodie Ghedin</td><td>NIH / NIAID, USA</td></tr>
+</tbody>
+</table>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwvw-xNUC-nk4o25gu1mrs8VlFyQs0jTGW7Bh6ouJGCrAiQmWALtxMTQGxolPzH7nHqUe-kmR0iJvF/pubhtml?gid=741533285&amp;single=true&amp;widget=true&amp;headers=false" height="1000" width="90%" style="border:none;"></iframe>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr><td>Tallulah Andrews</td><td>Western University</td></tr>
+<tr><td>Parisa Shooshtari</td><td>Western University</td></tr>
+<tr><td>Elisios John Mucaki</td><td>Western University</td></tr>
+<tr><td>Qianrui(Ray) Wang</td><td>Western University</td></tr>
+</tbody>
+</table>
+
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr><td>Anna Kuchina</td><td>Institute for Systems Biology</td></tr>
+<tr><td>Florian Schmidt</td><td>ETH</td></tr>
+<tr><td>Artem Babaian</td><td>University of Toronto</td></tr>
+<tr><td>Kathryn Rozen-Gagnon</td><td>University of Toronto</td></tr>
+<tr><td>Greg Gloor</td><td>Western University</td></tr>
+<tr><td>Mojca Mattiazzi-Usaj</td><td>Metropolitan University of Toronto (Ryerson)</td></tr>
+<tr><td>Adam Z Rosenthal</td><td>UNC Chapel Hill</td></tr>
+<tr><td>Ryan McNulty</td><td>Princeton</td></tr>
+<tr><td>Kai Tan</td><td>University of Pennsylvania</td></tr>
+<tr><td>Lindsay LaFave</td><td>Albert Einstein College of Medicine</td></tr>
+<tr><td>Nozomu Yachie</td><td>UBC</td></tr>
+<tr><td>Kieran Campbell</td><td>Toronto/Lunenfeld-Tanenbaum</td></tr>
+<tr><td>Pablo G Cámara</td><td>U Penn</td></tr>
+<tr><td>Sorana Morrissy</td><td>University of Calgary</td></tr>
+<tr><td>Varsha Thoppey Manoharan</td><td>University of Calgary</td></tr>
+<tr><td>Aly Abdelkareem</td><td>University of Calgary</td></tr>
+<tr><td>Ken Chen</td><td>MD Anderson</td></tr>
+<tr><td>Andy Fraser</td><td>The Donnelly Centre, University of Toronto</td></tr>
+<tr><td>Rozita Razavi</td><td>The Donnelly Centre, University of Toronto</td></tr>
+</tbody>
+</table>

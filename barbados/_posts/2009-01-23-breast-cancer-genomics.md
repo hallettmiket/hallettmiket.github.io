@@ -7,79 +7,53 @@ image: /assets/images/barbados/subtypes.png
 
 This meeting focused on genomics approaches in breast cancer to study both murine models and the human disease.
 
-<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
 <tbody>
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
-<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr>
-<tr>
-<td width="10%"><a href="http://www.mcb.mcgill.ca/%7Ehallett/">Mike Hallett</a></td><td width="45%">McGill University</td></tr>
-<tr><td width="10%"><a href="http://www.mcgill.ca/mog/research/park/">Morag Park</a></td><td width="45%">McGill University</td></tr>
-<tr>
-<td class="td1" valign="middle"> <span class="p1"><strong>Invitees</strong></span></td>
-<td class="td2" valign="middle"></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr><td width="20%"><a href="http://www.rr-research.no/borresen/?k=Group%20members&amp;aid=2747">Jørgen Aarøe</a></td><td width="30%">Rikshospitalet Institute for Cancer Research</td><td width="50%">Genomic alterations and systemic changes in early breast cancer.</td></tr>
+<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+</tbody>
+</table>
 
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/park/bcfgg/">Nicholas Bertos</a></td><td width="30%">McGill University</td><td width="50%">DTCs/CTCs in breast cancer.</td></tr>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr><td>Morag Park</td><td>McGill University</td></tr>
+</tbody>
+</table>
 
-<tr><td width="20%"><a href="http://www.mcb.mcgill.ca/research/comblab/about/">Sean Cory</a></td><td width="30%">McGill University</td><td width="50%">Bioinformatics of breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/muller/lab/">Rachelle Dillon</a></td><td width="30%">McGill University</td><td width="50%">Erbb2 mouse models of breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.rr-research.no/borresen/?k=Group%20members&amp;aid=3663">Vanessa Dumeaux</a></td><td width="30%">Rikshospitalet Institute for Cancer Research/Princeton</td><td width="50%">Breast density, epidemiology.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mapageweb.umontreal.ca/maders/theteam/index.html">Slim Fourati</a></td><td width="30%">University of Montreal</td><td width="50%">Estrogen positive breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/biochemistry/department/faculty/gehring/">Kalle Gehring</a></td><td width="30%">McGill University</td><td width="50%">Structural biology, endocytosis.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/giguere/">Vincent Giguère</a></td><td width="30%">McGill University</td><td width="50%">Receptor signaling in breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://bmi.osu.edu/~khuang/">Kun Huang</a></td><td width="30%">Ohio State University</td><td width="50%">Bioinformatics of cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">Gregor Jansen</a></td><td width="30%">McGill University</td><td width="50%">Cell signaling pathways.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/park/">Jennifer Knight</a></td><td width="30%">McGill University</td><td width="50%">Met mouse models of breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/park/">Julie Laferrière</a></td><td width="30%">McGill University</td><td width="50%">Metastases and the microenvironment in breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.cancergenetics.med.ohio-state.edu/2848.cfm">Gustavo Leone</a></td><td width="30%">Ohio State University</td><td width="50%">Breast tumor microenvironment.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcb.mcgill.ca/research/comblab/about/">Robert Lesurf</a></td><td width="30%">McGill University</td><td width="50%">Bionformatics in breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.recherche.umontreal.ca/chercheurs_unites/chercheur_affichage.asp?noseq_chercheur=137">Jason Madore</a></td><td width="30%">University of Montreal</td><td width="50%">Tissue microarrays for ovarian cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.recherche.umontreal.ca/chercheurs_unites/chercheur_affichage.asp?noseq_chercheur=137">Anne-Marie Mes-Masson</a></td><td width="30%">University of Montreal</td><td width="50%">Identification and characterization of expression patterns in cancer progression.</td></tr>
-
-<tr><td width="20%"><a href="http://www.rr-research.no/borresen/?k=Group%20members&amp;aid=3650">Aslaug Aamodt Muggerud</a></td><td width="30%">Rikshospitalet Institute for Cancer Research</td><td width="50%">DCIS in breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/muller/">William Muller</a></td><td width="30%">McGill University</td><td width="50%">Role of the Epidermal Growth Factor Receptor (EGFR) family in the induction and progression of breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/nepveu/">Alain Nepveu</a></td><td width="30%">McGill University</td><td width="50%">CDP/Cux.</td></tr>
-
-<tr><td width="20%"><a href="http://mmr.med.ohio-state.edu/~mostrowski/">Michael Ostrowski</a></td><td width="30%">Ohio State University</td><td width="50%">Breast tumor microenvironment.</td></tr>
-
-<tr><td width="20%"><a href="http://parvinlab.bmi.ohio-state.edu/index.php?title=Main_Page">Jeff Parvin</a></td><td width="30%">Ohio State University</td><td width="50%">The biology of BRCA1.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcb.mcgill.ca/research/comblab/about/">François Pepin</a></td><td width="30%">McGill University</td><td width="50%">Microenvironment in breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/muller/lab/">Jill Ranger</a></td><td width="30%">McGill University</td><td width="50%">STAT3.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/microimm/department/associate_adjunct_prof/saleh/">Maya Saleh</a></td><td width="30%">McGill University</td><td width="50%">Apoptosis, inflammation and host response to infections.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/muller/lab/">Babette Schade</a></td><td width="30%">McGill University</td><td width="50%">Mouse models of meastases.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcb.mcgill.ca/research/comblab/about/">Solmaz Shahahlizadeh</a></td><td width="30%">McGill University</td><td width="50%">Metapredictors in breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://people.muhc.ca/peter.siegel/">Peter Siegel</a></td><td width="30%">McGill University</td><td width="50%">Breast cancer metastases to bone and soft tissues.</td></tr>
-
-<tr><td width="20%"><a href="http://www.medicine.mcgill.ca/biochem/siegellab/sebastientabaries.htm">Sebastien Tabaries</a></td><td width="30%">McGill University</td><td width="50%">Breast cancer metastases.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">David Thomas</a></td><td width="30%">McGill University</td><td width="50%">Cell signaling pathways and their role in infectious diseases; molecular chaperone systems in the endoplasmic reticulum.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/muller/lab/">Josie Ursini-Siegel</a></td><td width="30%">McGill University</td><td width="50%">Erbb2 mouse models of breast cancer.</td></tr>
-
-<tr><td width="20%"><a href="http://www.mcgill.ca/mog/research/nepveu/lab/">Charles Vadnais</a></td><td width="30%">McGill University</td><td width="50%">ChIP-Chip/transcription in breast cancer.</td></tr>
-</tbody></table>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr><td>Jørgen Aarøe</td><td>Rikshospitalet Institute for Cancer Research</td></tr>
+<tr><td>Nicholas Bertos</td><td>McGill University</td></tr>
+<tr><td>Sean Cory</td><td>McGill University</td></tr>
+<tr><td>Rachelle Dillon</td><td>McGill University</td></tr>
+<tr><td>Vanessa Dumeaux</td><td>Rikshospitalet Institute for Cancer Research/Princeton</td></tr>
+<tr><td><a href="http://www.mapageweb.umontreal.ca/maders/theteam/index.html">Slim Fourati</a></td><td>University of Montreal</td></tr>
+<tr><td>Kalle Gehring</td><td>McGill University</td></tr>
+<tr><td>Vincent Giguère</td><td>McGill University</td></tr>
+<tr><td><a href="http://bmi.osu.edu/~khuang/">Kun Huang</a></td><td>Ohio State University</td></tr>
+<tr><td>Gregor Jansen</td><td>McGill University</td></tr>
+<tr><td>Jennifer Knight</td><td>McGill University</td></tr>
+<tr><td>Julie Laferrière</td><td>McGill University</td></tr>
+<tr><td>Gustavo Leone</td><td>Ohio State University</td></tr>
+<tr><td>Robert Lesurf</td><td>McGill University</td></tr>
+<tr><td>Jason Madore</td><td>University of Montreal</td></tr>
+<tr><td>Anne-Marie Mes-Masson</td><td>University of Montreal</td></tr>
+<tr><td>Aslaug Aamodt Muggerud</td><td>Rikshospitalet Institute for Cancer Research</td></tr>
+<tr><td>William Muller</td><td>McGill University</td></tr>
+<tr><td>Alain Nepveu</td><td>McGill University</td></tr>
+<tr><td>Michael Ostrowski</td><td>Ohio State University</td></tr>
+<tr><td>Jeff Parvin</td><td>Ohio State University</td></tr>
+<tr><td>François Pepin</td><td>McGill University</td></tr>
+<tr><td>Jill Ranger</td><td>McGill University</td></tr>
+<tr><td>Maya Saleh</td><td>McGill University</td></tr>
+<tr><td>Babette Schade</td><td>McGill University</td></tr>
+<tr><td>Solmaz Shahahlizadeh</td><td>McGill University</td></tr>
+<tr><td>Peter Siegel</td><td>McGill University</td></tr>
+<tr><td>Sebastien Tabaries</td><td>McGill University</td></tr>
+<tr><td>David Thomas</td><td>McGill University</td></tr>
+<tr><td>Josie Ursini-Siegel</td><td>McGill University</td></tr>
+<tr><td>Charles Vadnais</td><td>McGill University</td></tr>
+</tbody>
+</table>

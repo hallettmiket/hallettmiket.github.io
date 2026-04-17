@@ -11,53 +11,55 @@ This meeting brought down many members of the international microRNA community w
 <center><img src="/assets/images/barbados/2014-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
 <tbody>
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
-<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr>
-<tr><td width="25%">Thomas Duchaine</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
-<tr><td width="25%">Vanessa Dumeaux</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
-<tr><td width="25%">Mike Hallett</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
+<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+</tbody>
+</table>
 
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Invitees</strong></span></td>
-<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr> 
-<tr><td width="25%">Julie Pelloux</td><td width="30%">Universite de Montreal</td><td width="30%"></td></tr>
-<tr><td width="25%">Chris Hillier</td><td width="30%">University of the West Indies</td><td width="30%"></td></tr>
-<tr><td width="25%">Ali Tofigh</td><td width="30%">McGill University</td><td width="30%"></td></tr>
-<tr><td width="25%">Frank Slack</td><td width="30%">Yale University</td><td width="30%">MicroRNA-based therapeutics in cancer</td></tr>
-<tr><td width="25%">Brenda Andrews</td><td width="30%">University of Toronto</td><td width="30%">Using yeast functional genomics to explore biological pathways and non-coding RNA function</td></tr>
-<tr><td width="25%">Eric Lai</td><td width="30%">Memorial Sloan-Kettering Cancer Center</td><td width="30%">MicroRNAs and other post-transcriptional regulation</td></tr>
-<tr><td width="25%">Jens Lagergren</td><td width="30%">SciLifeLab Stockholm</td><td width="30%"></td></tr>
-<tr><td width="25%">Marie &Ouml;hman</td><td width="30%">Stockholm University</td><td width="30%">Regulation of miRNAs by RNA editing in neurons</td></tr>
-<tr><td width="25%">Chris Hammell</td><td width="30%">Cold Spring Harbor Laboratory</td><td width="30%">Temporal regulation of miRNA expression during C. elegans post-embryonic development</td></tr>
-<tr><td width="25%">Ren&eacute Ketting</td><td width="30%">Institute of Molecular Biology (IMB)</td><td width="30%">Diversity of small RNA pathways in germ cells</td></tr>
-<tr><td width="25%">Colin Crist</td><td width="30%">McGill University</td><td width="30%">Post-transcriptional mechanisms regulating skeletal muscle stem cell activity</td></tr>
-<tr><td width="25%">Martin Simard</td><td width="30%">Laval University Cancer Research Center</td><td width="30%">Understanding small RNA pathways through the Argonautes</td></tr>
-<tr><td width="25%">Marc Fabian</td><td width="30%">Lady Davis Institute for Medical Research</td><td width="30%">Insights into recruitment of the CCR4-NOT complex by mammalian gene silencing platforms</td></tr>
-<tr><td width="25%">Amy Pasquinelli</td><td width="30%">UC San Diego</td><td width="30%">The multifaceted miRISC</td></tr>
-<tr><td width="25%">Helge Grosshans</td><td width="30%">Friedrich Miescher Institute for Biomedical Research</td><td width="30%">Towards a quantitative understanding of miRNA function and regulation in physiology</td></tr>
-<tr><td width="25%">Antonio Giraldez</td><td width="30%">Yale University</td><td width="30%">Using ribosome footprinting to analyze the coding genome</td></tr>
-<tr><td width="25%">Eric Miska</td><td width="30%">Gurdon Institute</td><td width="30%">C. elegans piRNAs</td></tr>
-<tr><td width="25%">Nada Jabado</td><td width="30%">McGill University</td><td width="30%">Fusion of TTYH1 with the C19MC microRNA cluster in the embryonal brain tumor ETMR</td></tr>
-<tr><td width="25%">Tim Hughes</td><td width="30%">University of Toronto</td><td width="30%">Exploring the universe of RNA-binding proteins</td></tr>
-<tr><td width="25%">Sohail Tavazoie</td><td width="30%">The Rockefeller University</td><td width="30%">microRNAs as molecular probes into the biology of metastasis</td></tr>
-<tr><td width="25%">Nikolaus Rajewsky</td><td width="30%">Max Delbruck Center for Molecular Medicine</td><td width="30%">RNA-protein interactions</td></tr>
-<tr><td width="25%">Richard Carthew</td><td width="30%">Northwestern University</td><td width="30%">MicroRNAs in Drosophila</td></tr>
-<tr><td width="25%">Hin Hark Gan</td><td width="30%">New York University</td><td width="30%">3D Modeling of miRISC-Target Interactions</td></tr>
-<tr><td width="25%">Yifei Yan</td><td width="30%">Universite de Montreal</td><td width="30%">Designing small artificial miRNAs to inhibit HIV production</td></tr>
-<tr><td width="25%">Paul Boutros</td><td width="30%">Ontario Institute for Cancer Research (OICR)</td><td width="30%">miRNA-Based Biomarkers for Cancer: Challenges & Successes</td></tr>
-<tr><td width="25%">Nathanael Weill</td><td width="30%">Universite de Montreal</td><td width="30%">Modeling miRNA-induced gene expression regulation</td></tr>
-<tr><td width="25%">Lill-Tove Busund</td><td width="30%">Universitetet i Troms&oslash;</td><td width="30%">Detection of microRNA in tissue blocks or MicroRNA in the clinic</td></tr>
-<tr><td width="25%">Line Moi</td><td width="30%">University hospital of North Norwayl</td><td width="30%">microRNAs as biomarkers in breast cancer</td></tr>
-<tr><td width="25%">Francois Major</td><td width="30%">Universite de Montreal</td><td width="30%">RNA transient structures control the microRNA maturation pathway</td></tr>
-<tr><td width="25%">Ahilya Sawh</td><td width="30%">McGill University</td><td width="30%">The post-translational life of DCR-1</td></tr>
-<tr><td width="25%">Ariel Donayo</td><td width="30%">McGill University</td><td width="30%">Regulation of the maturation of pri-miR-17~92 in normal and cancer cells</td></tr>
-<tr><td width="25%">Mathieu Flamand</td><td width="30%">McGill University</td><td width="30%">A non-canonical site reveals multiple cooperative mechanisms in microRNA-mediated silencing</td></tr>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr><td><a href="https://www.duchainelab.org/">Thomas Duchaine</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University, Canada</td></tr>
+</tbody>
+</table>
 
-</tbody></table> 
-
- 
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr><td>Julie Pelloux</td><td>Universite de Montreal</td></tr>
+<tr><td>Chris Hillier</td><td>University of the West Indies</td></tr>
+<tr><td>Ali Tofigh</td><td>McGill University</td></tr>
+<tr><td><a href="https://research.bidmc.org/frank-slack">Frank Slack</a></td><td>Yale University</td></tr>
+<tr><td><a href="https://andrewslab.ccbr.utoronto.ca/">Brenda Andrews</a></td><td>University of Toronto</td></tr>
+<tr><td><a href="https://www.mskcc.org/research/ski/labs/eric-lai">Eric Lai</a></td><td>Memorial Sloan-Kettering Cancer Center</td></tr>
+<tr><td><a href="https://lagergrenlab.org/">Jens Lagergren</a></td><td>SciLifeLab Stockholm</td></tr>
+<tr><td>Marie Öhman</td><td>Stockholm University</td></tr>
+<tr><td><a href="https://www.cshl.edu/research/faculty-staff/christopher-hammell/">Chris Hammell</a></td><td>Cold Spring Harbor Laboratory</td></tr>
+<tr><td><a href="https://www.imb.de/students-postdocs/international-phd-programme/ipp-groups/rene-ketting">René Ketting</a></td><td>Institute of Molecular Biology (IMB)</td></tr>
+<tr><td><a href="https://cristlab.com/">Colin Crist</a></td><td>McGill University</td></tr>
+<tr><td><a href="https://www.fmed.ulaval.ca/recherche/repertoire-profs/profil/Martin-Simard/411">Martin Simard</a></td><td>Laval University Cancer Research Center</td></tr>
+<tr><td><a href="https://www.ladydavis.ca/en/researcher/marc-fabian/">Marc Fabian</a></td><td>Lady Davis Institute for Medical Research</td></tr>
+<tr><td><a href="https://pasquinellilab.biosci.ucsd.edu/">Amy Pasquinelli</a></td><td>UC San Diego</td></tr>
+<tr><td><a href="https://www.fmi.ch/research-groups/groupleader.html?group=113">Helge Grosshans</a></td><td>Friedrich Miescher Institute for Biomedical Research</td></tr>
+<tr><td><a href="https://www.giraldezlab.org/">Antonio Giraldez</a></td><td>Yale University</td></tr>
+<tr><td><a href="https://www.ericmiskalab.org/">Eric Miska</a></td><td>Gurdon Institute</td></tr>
+<tr><td><a href="https://www.jabadolab.com/">Nada Jabado</a></td><td>McGill University</td></tr>
+<tr><td><a href="https://hugheslab.med.utoronto.ca/">Tim Hughes</a></td><td>University of Toronto</td></tr>
+<tr><td><a href="https://www.tavazoie-lab.org">Sohail Tavazoie</a></td><td>The Rockefeller University</td></tr>
+<tr><td><a href="https://www.mdc-berlin.de/n-rajewsky">Nikolaus Rajewsky</a></td><td>Max Delbruck Center for Molecular Medicine</td></tr>
+<tr><td><a href="https://groups.molbiosci.northwestern.edu/carthew/home.htm">Richard Carthew</a></td><td>Northwestern University</td></tr>
+<tr><td>Hin Hark Gan</td><td>New York University</td></tr>
+<tr><td>Yifei Yan</td><td>Universite de Montreal</td></tr>
+<tr><td><a href="https://www.uclahealth.org/departments/urology/iuo/research/faculty-labs/dr-paul-boutros-lab">Paul Boutros</a></td><td>Ontario Institute for Cancer Research (OICR)</td></tr>
+<tr><td>Nathanael Weill</td><td>Universite de Montreal</td></tr>
+<tr><td>Lill-Tove Busund</td><td>Universitetet i Tromsø</td></tr>
+<tr><td>Line Moi</td><td>University hospital of North Norwayl</td></tr>
+<tr><td><a href="https://major.iric.ca/">Francois Major</a></td><td>Universite de Montreal</td></tr>
+<tr><td>Ahilya Sawh</td><td>McGill University</td></tr>
+<tr><td>Ariel Donayo</td><td>McGill University</td></tr>
+<tr><td>Mathieu Flamand</td><td>McGill University</td></tr>
+</tbody>
+</table>

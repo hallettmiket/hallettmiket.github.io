@@ -11,257 +11,67 @@ The focus of this meeting was on computational models of tumorigenesis and tumor
 <center><img src="/assets/images/barbados/2015-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
 <tbody>
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
-<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr>
-<tr><td width="25%">Therese Sorlie</td><td width="30%">Oslo University, Norway</td><td width="25%"></td></tr> 
-<tr><td width="25%">Vanessa Dumeaux</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
-<tr><td width="25%">Mike Hallett</td><td width="30%">McGill University, Canada</td><td width="25%"></td></tr> 
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
-<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr>
-<tr>
-<td class="td1" valign="middle"><span class="p1">Therese Sorlie</span></td>
-<td class="td2" valign="middle"><a title="Sorlie Lab" href="http://ous-research.no/sorlie/" target="_blank"><span class="p2">Oslo University Hospital, Norway</span></a></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Vanessa Dumeaux</td>
-<td class="td2" valign="middle"><a title="BCI McGill" href="http://www.bci.mcgill.ca/home/?page_id=58" target="_blank"><span class="p2">McGill University, Montreal, Canada</span></a></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Mike Hallett</td>
-<td class="td2" valign="middle"><a title="BCI McGill" href="http://www.bci.mcgill.ca/home/?page_id=19" target="_blank"><span class="p2">McGill University, Montreal, Canada</span></a></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle"> <span class="p1"><strong>Organizing Committee</strong></span></td>
-<td class="td2" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Sadiq Saleh</td>
-<td class="td2" valign="middle"><span class="p2"><a title="BCI McGill" href="http://www.bci.mcgill.ca/home/?page_id=240" target="_blank"><span class="p2">McGill University, Montreal, Canada</span></a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Eric Paquet</td>
-<td class="td2" valign="middle"><a title="BCI McGill" href="http://www.bci.mcgill.ca/home/?page_id=291" target="_blank"><span class="p2">McGill University, Montreal, Canada</span></a></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Daniel Del Balso</td>
-<td class="td2" valign="middle"><a title="BCI McGill" href="http://www.bci.mcgill.ca/home/?page_id=456" target="_blank"><span class="p2">McGill University, Montreal, Canada</span></a></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Jens Henrik Norum</td>
-<td class="td2" valign="middle"><a href="http://www.ous-research.no/home/sorlie/Group%20members/12739"><span style="text-decoration: underline;">Oslo University Hospital, Norway</span></a></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Tina Gruosso</td>
-<td class="td2" valign="middle"><a href="https://parklabmcgill.wordpress.com/people/"><span style="text-decoration: underline;">McGill University, Canada</span></a></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Paul Savage</td>
-<td class="td2" valign="middle"><a href="https://parklabmcgill.wordpress.com/people/"><span style="text-decoration: underline;">McGill University, Canada</span></a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle"> <span class="p1"><strong>Invitees</strong></span></td>
-<td class="td2" valign="middle"></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Piyush Gupta</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Gupta Lab" href="http://wi.mit.edu/people/faculty/gupta" target="_blank">Whitehead Institute, Boston, USA</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Fraser Symmans</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Symmans Profile" href="http://www.bcrfcure.org/action_grantees_symmans.html" target="_blank">MD Anderson, Texas, USA</a></span></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Christopher Greenman</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Greenman Profile" href="http://www.uea.ac.uk/computing/people/profile/c-greenman" target="_blank">University of East Anglia, UK</a></span></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Florian Markowetz</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Markowetz Lab" href="http://www.markowetzlab.org/" target="_blank">University of Cambridge, UK</a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Rene Villadsen</td>
-<td class="td2" valign="middle"><a href="http://danstem.ku.dk/people/petersen_lab/?pure=en%2Fpersons%2Frene-villadsen(0537b6ee-7669-46e5-bec9-6f6985878934)%2Fpublications.html">The Danish Stem Cell Center</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Nicholas Navin</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Navin Lab" href="http://faculty.mdanderson.org/Nicholas_Navin/Default.asp?SNID=2113230403" target="_blank">MD Anderson, Texas, USA</a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Nicholas McGranahan</td>
-<td class="td2" valign="middle"><a href="http://www.london-research-institute.org.uk/research/charles-swanton">Swanton Lab, London Research Institute, UK</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Carlo Maley</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Maley Lab" href="http://maleylab.surgery.ucsf.edu/" target="_blank">UCSF, USA</a></span></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">C Athena Aktipis</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Aktipis Lab" href="http://athenaaktipis.com/Home.html">UCSF, Arizona</a></span></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Þórarinn Guðjónsson</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Guðjónsson Lab" href="http://lifvisindi.hi.is/staff/thorarinn-gudjonsson" target="_blank">University of Iceland, Iceland</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Niko Beerenwinkel</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Beerenwinkel Lab" href="http://www.bsse.ethz.ch/cbg/people/nikob" target="_blank">ETH-Zuerich, Switzerland</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Andrew Beck</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Beck Lab" href="http://www.dfhcc.harvard.edu/membership/profile/member/1929/0/" target="_blank">Dana-Farber, Harvard Cancer Centre, USA</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Robert Clarke</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Clarke Lab" href="http://explore.georgetown.edu/people/clarker/" target="_blank">Georgetown University, Washington DC, USA</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Alexander RA Anderson</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Anderson Lab" href="http://labpages.moffitt.org/andersona/members.html" target="_blank">Moffit Cancer Centre, Florida, USA</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Yuval Kluger</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Kluger Lab" href="http://bbs.yale.edu/people/yuval_kluger.profile" target="_blank">Yale, CT, USA</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Alexandre Bouchard-Cote</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Bouchard-Cote Lab" href="http://www.stat.ubc.ca/~bouchard/" target="_blank">UBC, Vancouver, Canada</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Mark Basik</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Basik Lab" href="http://www.ladydavis.ca/en/basiklab" target="_blank">Lady Davis Institute, McGill University</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Adriana Aguilar</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Basik Lab" href="http://www.ladydavis.ca/en/basiklab" target="_blank">Lady Davis Institute, McGill University</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Gunhild Mælandsmo</td>
-<td class="td2" valign="middle"><span class="p2"><a href="http://ous-research.no/malandsmo/" target="_blank">Oslo University Hospital, Norway</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Kristin Andersen</td>
-<td class="td2" valign="middle"><span class="p2"><a href="http://www.ous-research.no/home/malandsmo/Group%20members/2526" target="_blank">Oslo University Hospital, Norway</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Jim Lorens</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Lorens Lab" href="http://www.uib.no/personer/Jim.Lorens" target="_blank">University of Bergen, Norway</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Quaid Morris</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Morris Lab" href="http://morrislab.med.utoronto.ca/homepage.html" target="_blank">University of Toronto, Canada</a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Benjamin Haibe-Kains</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Haibe-Kains Lab" href="http://www.pmgenomics.ca/bhklab/" target="_blank">Princess Margaret Hospital, Toronto, Canada</a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Paul Boutros</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Boutros Lab" href="http://oicr.on.ca/person/oicr-investigator/paul-boutros">OICR, Toronto, Canada</a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Sohrab Shah</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Shah Lab" href="http://compbio.bccrc.ca/about/dr-sohrab-shah/">BCCA, Vancouver, Canada</a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Lars Ailo Bongo</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Akavia Lab" href="http://en.uit.no/om/enhet/ansatte/person?p_document_id=66818&amp;p_dimension_id=88138">UiT Artic University of Norway</a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Uri David Akavia</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Akavia Lab" href="https://www.mcgill.ca/biochemistry/about-us/department/faculty-members/uri-david-akavia">McGill, Montreal, Canada</a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Silje H. Nord</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Kristensen Lab" href="http://www.ous-research.no/home/kristensen/Group%20members/2738">Oslo University Hospital, Norway</a></span></td>
-<td class="td3" valign="middle"></td>
-</tr>
-<tr>
-<td class="td1" valign="middle">Nicholas Bertos</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Bertos Lab" href="http://cancercentre.mcgill.ca/research/index.php?option=com_content&amp;view=article&amp;id=216:microdissectionmicroarray-platform&amp;catid=21:core-facilities&amp;Itemid=194&amp;lang=en">McGill, Montreal, Canada</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Jens Lagergren</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Lagergren Lab" href="http://www.nada.kth.se/~jensl/">SciLifeLab &amp; KTH, Stockholm, Sweden</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Mark Labarge</td>
-<td class="td2" valign="middle"><a href="http://www.lbl.gov/LBL-Programs/lifesciences/LaBargeLab/Site/LaBarge_Lab_Home.html">Berkeley Laboratory, USA</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Zohar Yakhini</td>
-<td class="td2" valign="middle"><a href="http://bioinfo.cs.technion.ac.il/people/zohar/">Israel Institute of Technology, Israel</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Gary Bader</td>
-<td class="td2" valign="middle"><a href="http://www.baderlab.org/">CCBR, University of Toronto</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Sylvie Mader</td>
-<td class="td2" valign="middle"><a href="http://www.mapageweb.umontreal.ca/maders/theteam/index.html">IRIC; Université de Montréal</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Celia Greenwood</td>
-<td class="td2" valign="middle"><a href="http://www.medicine.mcgill.ca/oncology/fac/facandstaff_show.asp?Oncology_ID=283">Jewish General Hospital; McGill</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Ingrid Hedenfalk</td>
-<td class="td2" valign="middle"><a href="http://www.med.lu.se/english/klinvetlund/oncology_and_pathology/research/canceromics_branch/research_units/breast_ovarian_cancer_genomics">Lunds universitet</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Christos Hatzis</td>
-<td class="td2" valign="middle"><a href="http://medicine.yale.edu/christos_hatzis-2.profile?source=news">Yale University</a></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Ben J. Raphael</td>
-<td class="td2" valign="middle"><a href="https://cs.brown.edu/people/faculty/braphael.html">Brown University</a></td>
-
-</tr>
+<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
- 
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr><td><a href="https://ous-research.no/sorlie/">Therese Sorlie</a></td><td>Oslo University, Norway</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University, Canada</td></tr>
+<tr><td>Sadiq Saleh</td><td>McGill University, Montreal, Canada</td></tr>
+<tr><td>Eric Paquet</td><td>McGill University, Montreal, Canada</td></tr>
+<tr><td>Daniel Del Balso</td><td>McGill University, Montreal, Canada</td></tr>
+<tr><td>Jens Henrik Norum</td><td>Oslo University Hospital, Norway</td></tr>
+<tr><td>Tina Gruosso</td><td>McGill University, Canada</td></tr>
+<tr><td>Paul Savage</td><td>McGill University, Canada</td></tr>
+</tbody>
+</table>
+
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr><td><a href="https://wi.mit.edu/people/faculty/gupta">Piyush Gupta</a></td><td>Whitehead Institute, Boston, USA</td></tr>
+<tr><td>Fraser Symmans</td><td>MD Anderson, Texas, USA</td></tr>
+<tr><td><a href="https://research-portal.uea.ac.uk/en/persons/christopher-greenman/">Christopher Greenman</a></td><td>University of East Anglia, UK</td></tr>
+<tr><td><a href="https://www.cruk.cam.ac.uk/research-groups/markowetz-group/">Florian Markowetz</a></td><td>University of Cambridge, UK</td></tr>
+<tr><td>Rene Villadsen</td><td>The Danish Stem Cell Center%2Fpublications.html)</td></tr>
+<tr><td><a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/navin-laboratory.html">Nicholas Navin</a></td><td>MD Anderson, Texas, USA</td></tr>
+<tr><td><a href="https://www.ucl.ac.uk/medical-sciences/divisions/cancer/our-research/cancer-genome-evolution">Nicholas McGranahan</a></td><td>Swanton Lab, London Research Institute, UK</td></tr>
+<tr><td><a href="https://www.maleylab.com/">Carlo Maley</a></td><td>UCSF, USA</td></tr>
+<tr><td><a href="https://www.athenaaktipis.org/">C Athena Aktipis</a></td><td>UCSF, Arizona</td></tr>
+<tr><td><a href="https://english.hi.is/staff/tgudjons">Þórarinn Guðjónsson</a></td><td>University of Iceland, Iceland</td></tr>
+<tr><td><a href="https://bsse.ethz.ch/cbg/group/people/person-detail.niko-beerenwinkel.html">Niko Beerenwinkel</a></td><td>ETH-Zuerich, Switzerland</td></tr>
+<tr><td>Andrew Beck</td><td>Dana-Farber, Harvard Cancer Centre, USA</td></tr>
+<tr><td><a href="https://hi.umn.edu/research/faculty/robert-clarke-phd-dsc">Robert Clarke</a></td><td>Georgetown University, Washington DC, USA</td></tr>
+<tr><td>Alexander RA Anderson</td><td>Moffit Cancer Centre, Florida, USA</td></tr>
+<tr><td><a href="https://medicine.yale.edu/profile/yuval-kluger/">Yuval Kluger</a></td><td>Yale, CT, USA</td></tr>
+<tr><td><a href="https://www.stat.ubc.ca/~bouchard/">Alexandre Bouchard-Cote</a></td><td>UBC, Vancouver, Canada</td></tr>
+<tr><td><a href="https://www.ladydavis.ca/en/laboratory/mark-basik/">Mark Basik</a></td><td>Lady Davis Institute, McGill University</td></tr>
+<tr><td>Adriana Aguilar</td><td>Lady Davis Institute, McGill University</td></tr>
+<tr><td><a href="https://ous-research.no/malandsmo/">Gunhild Mælandsmo</a></td><td>Oslo University Hospital, Norway</td></tr>
+<tr><td>Kristin Andersen</td><td>Oslo University Hospital, Norway</td></tr>
+<tr><td><a href="https://www.uib.no/en/rg/lorens">Jim Lorens</a></td><td>University of Bergen, Norway</td></tr>
+<tr><td><a href="https://www.mskcc.org/research/ski/labs/quaid-morris">Quaid Morris</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://bhklab.ca/">Benjamin Haibe-Kains</a></td><td>Princess Margaret Hospital, Toronto, Canada</td></tr>
+<tr><td><a href="https://www.uclahealth.org/departments/urology/iuo/research/faculty-labs/dr-paul-boutros-lab">Paul Boutros</a></td><td>OICR, Toronto, Canada</td></tr>
+<tr><td><a href="https://www.mskcc.org/research-areas/labs/sohrab-shah">Sohrab Shah</a></td><td>BCCA, Vancouver, Canada</td></tr>
+<tr><td>Lars Ailo Bongo</td><td>UiT Artic University of Norway</td></tr>
+<tr><td><a href="https://www.mcgill.ca/qls/researchers/uri-david-akavia">Uri David Akavia</a></td><td>McGill, Montreal, Canada</td></tr>
+<tr><td>Silje H. Nord</td><td>Oslo University Hospital, Norway</td></tr>
+<tr><td>Nicholas Bertos</td><td>McGill, Montreal, Canada</td></tr>
+<tr><td><a href="https://lagergrenlab.org/">Jens Lagergren</a></td><td>SciLifeLab & KTH, Stockholm, Sweden</td></tr>
+<tr><td><a href="https://www.cityofhope.org/research/beckman-research-institute/population-sciences/mark-labarge-lab">Mark Labarge</a></td><td>Berkeley Laboratory, USA</td></tr>
+<tr><td>Zohar Yakhini</td><td>Israel Institute of Technology, Israel</td></tr>
+<tr><td><a href="https://baderlab.org/">Gary Bader</a></td><td>CCBR, University of Toronto</td></tr>
+<tr><td><a href="https://www.iric.ca/en/research/principal-investigators/sylvie-mader">Sylvie Mader</a></td><td>IRIC; Université de Montréal</td></tr>
+<tr><td><a href="https://www.ladydavis.ca/en/researcher/celia-mt-greenwood/">Celia Greenwood</a></td><td>Jewish General Hospital; McGill</td></tr>
+<tr><td><a href="https://portal.research.lu.se/en/persons/ingrid-hedenfalk/">Ingrid Hedenfalk</a></td><td>Lunds universitet</td></tr>
+<tr><td>Christos Hatzis</td><td>Yale University</td></tr>
+<tr><td><a href="https://raphael-group.github.io/">Ben J. Raphael</a></td><td>Brown University</td></tr>
+</tbody>
+</table>

@@ -7,59 +7,49 @@ image: /assets/images/barbados/regulatory-networks.png
 
 This meeting focused on transcription factors, protein-DNA binding and the complex network of regulatory dependencies they induce.
 
-
-<table class="t1" width="624" cellspacing="0" cellpadding="0">
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
 <tbody>
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
-<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr>
-<tr><td width="25%"><a href="mailto:hallett@mcb.mcgill.ca">Mike Hallett</a></td><td width="35%">McGill University, Canada</td><td width="40%"></td></tr> 
-<tr><td width="25%"><a href="mailto:t.hughes@utoronto.ca">Tim Hughes</a></td><td width="35%">University of Toronto, Canada</td><td width="40%"></td></tr> 
-<tr>
-<td class="td1" valign="middle"><span class="p1"><strong>Organizers</strong></span></td>
-<td class="td2" valign="middle"><span class="p1"><strong>Institution</strong></span></td>
-</tr> 
-<tr><td width="25%"><a href="mailto:brenda.andrews@utoronto.ca">Brenda Andrews</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">Yeast network biology</td></tr> 
-<tr><td width="25%"><a href="mailto:philip.benfey@duke.edu">Phil Benfey</a></td><td width="35%">Duke University, USA</td><td width="40%">Gene expression in Arabidopsis</td></tr> 
- 
-<tr><td width="25%"><a href="mailto:kcg1@nyu.edu">Kris Gunsalus</a></td><td width="35%">New York University, USA</td><td width="40%">C. elegans functional genomics and post-transcriptional regulation</td></tr> 
-<tr><td width="25%"><a href="mailto:h.krause@utoronto.ca">Henry Krause</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">transcriptional and post-transcriptional regulation in Drosophila and zebrafish</td></tr> 
- 
-<tr><td width="25%"><a href="mailto:JLieb@bio.unc.edu">Jason Lieb</a></td><td width="35%">UNC Chapel Hill, USA</td><td width="40%">Functional genomics, gene regulation, and chromatin</td></tr> 
-<tr><td width="25%"><a href="mailto:Howard.Lipshitz@utoronto.ca">Howard Lipshitz</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">posttranscriptional regulation of gene expression in Drosophila</td></tr> 
- 
-<tr><td width="25%"><a href="mailto:moerman@zoology.ubc.ca">Don Moerman</a> 🕯 <em>(in memoriam)</em></td><td width="35%">University of British Columbia, Canada</td><td width="40%">Basic genetics, transposon biology, genetic methodology, genomics and muscle development in Caenorhabditis elegans</td></tr> 
-<tr><td width="25%"><a href="mailto:quaid.morris@gmail.com">Quaid Morris</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">Computational biology</td></tr> 
- 
-<tr><td width="25%"><a href="mailto:toplanding@gmail.com">Corey Nislow</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">Systems biology</td></tr> 
-<tr><td width="25%"><a href="mailto:fp1@nyu.edu">Fabio Piano</a></td><td width="35%">New York University, USA</td><td width="40%">Systems biology, C. elegans embryogenesis</td></tr> 
- 
-<tr><td width="25%"><a href="mailto:eran.segal@weizmann.ac.il">Eran Segal</a></td><td width="35%">Weizmann Institute, Israel</td><td width="40%">Computational biology</td></tr> 
-<tr><td width="25%"><a href="mailto:c.smibert@utoronto.ca">Craig Smibert</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">Regulation of translation</td></tr> 
- 
-<tr><td width="25%"><a href="mailto:jussi.taipale@ki.se">Jussi Taipale</a></td><td width="35%">Karolinska Institutet, Sweden</td><td width="40%">RNAi screening, identification of transcriptional regulatory mechanisms, and identification of the sequence specificities of DNA-binding proteins</td></tr> 
-<tr><td width="25%"><a href="mailto:vinsonc@dc37a.nci.nih.gov">Charles Vinson</a></td><td width="35%">National Institutes of Health, USA</td><td width="40%">promoter analysis, transcription factors, DNA methylation</td></tr> 
- 
-<tr><td width="25%"><a href="mailto:watersto@u.washington.edu">Bob Waterston</a></td><td width="35%">University of Washington, USA</td><td width="40%">Genome science</td></tr> 
-<tr><td width="25%"><a href="mailto:ljstubbs@illinois.edu">Lisa Stubbs</a></td><td width="35%">University of Illinois, USA</td><td width="40%">C2H2 zinc finger transcription factors</td></tr> 
- 
-<tr><td width="25%"><a href="mailto:luscombe@ebi.ac.uk">Nick Luscombe</a></td><td width="35%">EBI, UK</td><td width="40%">Computational biology</td></tr> 
-<tr><td width="25%"><a href="mailto:">Alain Nepveu</a></td><td width="35%">McGill University, Canada</td><td width="40%">Transcriptional regulation in mammalian cells</td></tr> 
- 
-<tr><td width="25%"><a href="mailto:matt.weirauch@utoronto.ca">Matt Weirauch</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">Computational methods for transcription regulation</td></tr> 
+<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+</tbody>
+</table>
 
-<tr><td width="25%"><a href="mailto:">Anna Lee</a></td><td width="35%">University of Toronto, Canada</td><td width="40%"></td></tr> 
-<tr><td width="25%"><a href="mailto:kate.cook@gmail.com">Kate Cook</a></td><td width="35%">University of Toronto, Canada</td><td width="40%"></td></tr> 
- 
-<tr><td width="25%"><a href="mailto:">Hilal Kazan</a></td><td width="35%">University of Toronto, Canada</td><td width="40%"></td></tr> 
-<tr><td width="25%"><a href="mailto:">Xiao Li</a></td><td width="35%">University of Toronto, Canada</td><td width="40%"></td></tr> 
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr><td><a href="https://hugheslab.med.utoronto.ca/">Tim Hughes</a></td><td>University of Toronto, Canada</td></tr>
+</tbody>
+</table>
 
-<tr><td width="25%"><a href="mailto:">Guillaume Bourque</a></td><td width="35%">McGill University and Genome Quebec Innovation Center, Canada</td><td width="40%"></td></tr> 
-<tr><td width="25%"><a href="mailto:">Jens Lagergren</a></td><td width="35%">Science for Life Laboratory, Sweden</td><td width="40%"></td></tr>
-
-<tr><td width="25%"><a href="mailto:susanne.groebner@yahoo.ca">Susanne Groebner</a></td><td width="35%">University of Heidelberg, Germany</td><td width="40%"></td></tr>
-  
-
-<tr><td width="25%"><a href="mailto:boucher.benjamin@courrier.uqam.ca">Benjamin Boucher</a></td><td width="35%">University of Quebec in Montreal, Canada</td><td width="40%"></td></tr> 
-</tbody></table>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr><td><a href="https://andrewslab.ccbr.utoronto.ca/">Brenda Andrews</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://biology.duke.edu/news/cells-crops-philip-benfey-found-keys-success-hidden-half-plants">Phil Benfey</a></td><td>Duke University, USA</td></tr>
+<tr><td><a href="https://gunsaluspiano.bio.nyu.edu/">Kris Gunsalus</a></td><td>New York University, USA</td></tr>
+<tr><td><a href="http://sites.utoronto.ca/flylab/">Henry Krause</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td>Jason Lieb</td><td>UNC Chapel Hill, USA</td></tr>
+<tr><td><a href="http://sites.utoronto.ca/flylab/">Howard Lipshitz</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td>Don Moerman <span title="in memoriam">🕯</span></td><td>University of British Columbia, Canada <em>(in memoriam)</em></td></tr>
+<tr><td><a href="https://www.mskcc.org/research/ski/labs/quaid-morris">Quaid Morris</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td>Corey Nislow</td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://gunsaluspiano.bio.nyu.edu/">Fabio Piano</a></td><td>New York University, USA</td></tr>
+<tr><td><a href="https://www.weizmann.ac.il/mcb/prof-eran-segal">Eran Segal</a></td><td>Weizmann Institute, Israel</td></tr>
+<tr><td><a href="https://moleculargenetics.utoronto.ca/faculty/craig-smibert">Craig Smibert</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://www.taipalelabs.org/">Jussi Taipale</a></td><td>Karolinska Institutet, Sweden</td></tr>
+<tr><td>Charles Vinson</td><td>National Institutes of Health, USA</td></tr>
+<tr><td><a href="https://www.gs.washington.edu/faculty/waterston.htm">Bob Waterston</a></td><td>University of Washington, USA</td></tr>
+<tr><td><a href="https://experts.illinois.edu/en/persons/lisa-j-stubbs/">Lisa Stubbs</a></td><td>University of Illinois, USA</td></tr>
+<tr><td>Nick Luscombe</td><td>EBI, UK</td></tr>
+<tr><td><a href="https://www.mcgill.ca/biochemistry/faculty-members/nepveu">Alain Nepveu</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://www.cincinnatichildrens.org/research/divisions/a/genomics-etiology/labs/weirauch">Matt Weirauch</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td>Anna Lee</td><td>University of Toronto, Canada</td></tr>
+<tr><td>Kate Cook</td><td>University of Toronto, Canada</td></tr>
+<tr><td>Hilal Kazan</td><td>University of Toronto, Canada</td></tr>
+<tr><td>Xiao Li</td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://computationalgenomics.ca/BourqueLab/">Guillaume Bourque</a></td><td>McGill University and Genome Quebec Innovation Center, Canada</td></tr>
+<tr><td><a href="https://lagergrenlab.org/">Jens Lagergren</a></td><td>Science for Life Laboratory, Sweden</td></tr>
+<tr><td>Susanne Groebner</td><td>University of Heidelberg, Germany</td></tr>
+<tr><td>Benjamin Boucher</td><td>University of Quebec in Montreal, Canada</td></tr>
+</tbody>
+</table>

@@ -7,38 +7,74 @@ image: /assets/images/barbados/squid.jpg
 
 Emerging Model Systems. January 24th-31st.
 
-
-
 <table width="90%"><tbody><tr><td>
 <center><img src="/assets/images/barbados/2020-group-picture.jpg" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-This meeting brings together researchers interested in the development of new model organisms.
-Such models either facilitate exciting new questions that can be asked for the first time, or 
-facilitate unprecedented ability to explore long-standing fundamental questions central to the life sciences.
-The emergence of  many new "non-model" model systems recently is at least in part due to recent advancements in gene editing technologies,  cellular imaging, and single cell genomics. Therefore,
-the workshop also seeks to bring investigators interested in the advancement of  such techniques to better exploit the unique biological features of these organisms.
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
+<tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
+<tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
+<tr><td>Brenda Andrews</td><td>University of Toronto, Canada</td></tr>
+<tr><td>David Gresham</td><td>NYU, USA</td></tr>
+<tr><td>Rich Bonneau</td><td>Prescient Design / Genentech, USA</td></tr>
+<tr><td>Stefania Giacomello</td><td>SciLifeLab, KTH, Sweden</td></tr>
+<tr><td>Elodie Ghedin</td><td>NIH / NIAID, USA</td></tr>
+</tbody>
+</table>
 
-The invitees  collectively champion emerging model systems across a broad swath of the Tree of Life. This includes 
-<ul>
-<li> Protist, bacterial and fungal unicellular model systems for studying, for example, carbon sequestration in marine sytems, single cellular regeneration, and  genome organization.</li>
-<li>
-Individuals who have developed novel models in multicellular organisms including sytems to study regeneration, tissue morphology,  and neural function. </li>
-<li> Researchers with models  that may more accurately recapitulate key aspects of human disease in comparison to current systems.
-</li>
-<li>
-Researchers interested in the development of models to study  organismal interactions  in different environments.
-</li>
-<li>
-Experts in developing synthetic biology, -omics, microscopy and computational/statistical biology approaches to model systems.
-</li>
-</ul>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr><td>Laura Campitelli</td><td>The Donnelly Centre, University of Toronto</td></tr>
+<tr><td>Ariane Lismer</td><td>McGill University</td></tr>
+<tr><td>Brittany Greco</td><td>Concordia University</td></tr>
+<tr><td>Devina Singh</td><td>Concordia University</td></tr>
+<tr><td>Sanny Khurdia</td><td>Concordia University</td></tr>
+<tr><td>Shawn Simpson</td><td>Concordia University</td></tr>
+<tr><td>Matt Harbus</td><td>Concordia University</td></tr>
+<tr><td>Aki Kirbizakis</td><td>Concordia University</td></tr>
+</tbody>
+</table>
 
-
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4hgmW4jIqDyDQbjGDEX3_lLs9-GYBjtYyMYra2gZlVpc5NlZyjlp5R8B9c2aJGRLOKY0WueIDR5K/pubhtml?gid=1362159807&amp;single=true&amp;widget=true&amp;headers=false" height="500" width="100%" style="border:none;"></iframe>
-
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4hgmW4jIqDyDQbjGDEX3_lLs9-GYBjtYyMYra2gZlVpc5NlZyjlp5R8B9c2aJGRLOKY0WueIDR5K/pubhtml?gid=741533285&amp;single=true&amp;widget=true&amp;headers=false" height="1400" width="70%" style="border:none;"></iframe>
-
-
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr><td>Sally Warring</td><td>American Museum of Natural History</td></tr>
+<tr><td>Brooke Crowley</td><td>Cincinnati</td></tr>
+<tr><td>Patrick Lemaire</td><td>CNRS/Montpellier</td></tr>
+<tr><td>Aashiq Kachroo</td><td>Concordia University</td></tr>
+<tr><td>Malcolm Whiteway</td><td>Concordia University</td></tr>
+<tr><td>James Umen</td><td>Donald Danforth</td></tr>
+<tr><td>Snezhana Oliferenko</td><td>Francis Crick</td></tr>
+<tr><td>Joshua Rosenthal</td><td>MBL, Univ. of Chicago</td></tr>
+<tr><td>Loretta Roberson</td><td>MBL, Univ. of Chicago</td></tr>
+<tr><td>Karen Echeverri</td><td>MBL, Univ. of Chicago</td></tr>
+<tr><td>Sarah Kimmins</td><td>McGill University</td></tr>
+<tr><td>Shuji Shigenobu</td><td>NIBB, Japan</td></tr>
+<tr><td>Hemali Phatnani</td><td>NY Genome Center</td></tr>
+<tr><td>Silas Maniatis</td><td>NY Genome Center</td></tr>
+<tr><td>Emily Adney</td><td>NYU</td></tr>
+<tr><td>Jane Carlton</td><td>NYU</td></tr>
+<tr><td>Jordan Orosco</td><td>NYU</td></tr>
+<tr><td>Liam Holt</td><td>NYU</td></tr>
+<tr><td>Lionel Christiaen</td><td>NYU</td></tr>
+<tr><td>Marcus Noyes</td><td>NYU</td></tr>
+<tr><td>Matt Rockman</td><td>NYU</td></tr>
+<tr><td>Yvonne Valles</td><td>NYU Abu Dhabi</td></tr>
+<tr><td>Michael J. Metzger</td><td>PNRI</td></tr>
+<tr><td>Megan Albertelli</td><td>Stanford</td></tr>
+<tr><td>Matt Gibson</td><td>Stowers Institute</td></tr>
+<tr><td>Quaid Morris</td><td>The Donnelly Centre, University of Toronto</td></tr>
+<tr><td>Rozita Razavi</td><td>The Donnelly Centre, University of Toronto</td></tr>
+<tr><td>Douglas B Menke</td><td>University of Georgia</td></tr>
+<tr><td>Catherine Grueber</td><td>University of Sydney</td></tr>
+<tr><td>Bret Pearson</td><td>UofT/SickKids</td></tr>
+<tr><td>Henri Valles</td><td>UWI Cave Hill</td></tr>
+<tr><td>Makedonka Mitreva</td><td>WUSTL</td></tr>
+<tr><td>Matt Weirauch</td><td>Cincinnati Children's Hospital</td></tr>
+<tr><td>Andrew Fraser</td><td>UofT</td></tr>
+</tbody>
+</table>

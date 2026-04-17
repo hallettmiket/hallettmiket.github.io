@@ -11,7 +11,51 @@ Computational Paradigms in Molecular Biology Revisited will take place from Febr
 
 The past decade has witnessed the rapid development of new computational techniques and paradigms in computational biology. These approaches emerged from the machine learning, probabilistic modeling, statistical inference and artificial intelligence communities and have been further refined within the context of a broad range of applications in molecular biology. This meeting brings together researchers who have expertise with generative modeling and deep learning across a range of different applications including structural biology, drug repositioning and discovery, generative models for single cell analyses, metagenomics, and molecular imaging. Many of our invitees are also committed to the development of computational devices with clinical utility. Such endpoints also raise important ethical and socioeconomic considerations that also must be addressed for AI-related tools to be fully incorporated into modern molecular biology and clinical applications.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROluE4cmkWROWRyeYzGGPjhGYMVHIyq9EAG3YOT_vD6ufmlVr7_DvCjCrG9PR8OPSFf5dJ5khPLJtG/pubhtml?gid=1362159807&amp;single=true&amp;widget=true&amp;headers=false" height="500" width="90%" style="border:none;"></iframe>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
+<tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
+<tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
+<tr><td>Brenda Andrews</td><td>University of Toronto, Canada</td></tr>
+<tr><td>David Gresham</td><td>NYU, USA</td></tr>
+<tr><td>Rich Bonneau</td><td>Prescient Design / Genentech, USA</td></tr>
+<tr><td>Stefania Giacomello</td><td>SciLifeLab, KTH, Sweden</td></tr>
+<tr><td>Elodie Ghedin</td><td>NIH / NIAID, USA</td></tr>
+</tbody>
+</table>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROluE4cmkWROWRyeYzGGPjhGYMVHIyq9EAG3YOT_vD6ufmlVr7_DvCjCrG9PR8OPSFf5dJ5khPLJtG/pubhtml?gid=741533285&amp;single=true&amp;widget=true&amp;headers=false" height="1000" width="90%" style="border:none;"></iframe>
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr><td>Eliseos John Mucaki</td><td>Western University</td></tr>
+<tr><td>Vaibhav Gupta</td><td>Western University</td></tr>
+<tr><td>Thomas Qu</td><td>Western University</td></tr>
+</tbody>
+</table>
 
+<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr><td>Tallulah Andrews</td><td>Western University</td></tr>
+<tr><td>Sara Mostafavi</td><td>University of Washington</td></tr>
+<tr><td>Victor Greiff</td><td>University of Oslo</td></tr>
+<tr><td>Jennifer Listgarten</td><td>UC Berkeley</td></tr>
+<tr><td>Pingzhao Hu</td><td>Western University</td></tr>
+<tr><td>Aleks Goeva</td><td>Broad Institute</td></tr>
+<tr><td>John Morris</td><td>NYU</td></tr>
+<tr><td>Artem Babaian</td><td>U of Toronto</td></tr>
+<tr><td>Sorana Morrissy</td><td>U of Calgary</td></tr>
+<tr><td>Carl de Boer</td><td>U of British Columbia</td></tr>
+<tr><td>Jussi Taipale</td><td>U of Cambrige/Helsinki/Karolinska Institute</td></tr>
+<tr><td>John Tsang</td><td>Yale</td></tr>
+<tr><td>Greg Gloor</td><td>Western University</td></tr>
+<tr><td>Jian Carrot-Zhang</td><td>MSK</td></tr>
+<tr><td>Phil Kim</td><td>The Donnelly Centre, U of Toronto</td></tr>
+<tr><td>Jeff Vierstra</td><td>Altius Research</td></tr>
+<tr><td>Aiden Hiller</td><td>University of Toronto</td></tr>
+<tr><td>Ian Hoffecker</td><td>SciLifeLabs</td></tr>
+<tr><td>Kaitlin Laverty</td><td>The Donnelly Centre, U of Toronto</td></tr>
+<tr><td>Jovan Tanevski</td><td>Uni Heidelberg</td></tr>
+</tbody>
+</table>
