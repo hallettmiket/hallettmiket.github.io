@@ -32,9 +32,15 @@ We are excited to extend discussions to how a wide variety of external factors a
 
 <table class="barbados-roster">
 <tbody>
-<tr class="roster-head"><th colspan="2">Organizers</th></tr>
+<tr class="roster-head"><th colspan="2">Scientific Committee</th></tr>
 <tr><td>Tallulah Andrews</td><td>Western University</td></tr>
 <tr><td>Parisa Shooshtari</td><td>Western University</td></tr>
+</tbody>
+</table>
+
+<table class="barbados-roster">
+<tbody>
+<tr class="roster-head"><th colspan="2">Organizers</th></tr>
 <tr><td>Elisios John Mucaki</td><td>Western University</td></tr>
 <tr><td>Qianrui(Ray) Wang</td><td>Western University</td></tr>
 </tbody>

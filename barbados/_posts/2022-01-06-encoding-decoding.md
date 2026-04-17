@@ -24,3 +24,28 @@ image: /assets/images/barbados/drops.jpg
 <tr><td>Elodie Ghedin</td><td>NIH / NIAID, USA</td></tr>
 </tbody>
 </table>
+
+<table class="barbados-roster">
+<tbody>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
+<tr><td>Anna Kuchina</td><td>Institute for Systems Biology</td></tr>
+<tr><td>Florian Schmidt</td><td>ETH</td></tr>
+<tr><td>Artem Babaian</td><td>University of Toronto</td></tr>
+<tr><td>Kathryn Rozen-Gagnon</td><td>University of Toronto</td></tr>
+<tr><td>Greg Gloor</td><td>Western University</td></tr>
+<tr><td>Mojca Mattiazzi-Usaj</td><td>Metropolitan University of Toronto (Ryerson)</td></tr>
+<tr><td>Adam Z Rosenthal</td><td>UNC Chapel Hill</td></tr>
+<tr><td>Ryan McNulty</td><td>Princeton</td></tr>
+<tr><td>Kai Tan</td><td>University of Pennsylvania</td></tr>
+<tr><td>Lindsay LaFave</td><td>Albert Einstein College of Medicine</td></tr>
+<tr><td>Nozomu Yachie</td><td>UBC</td></tr>
+<tr><td>Kieran Campbell</td><td>Toronto/Lunenfeld-Tanenbaum</td></tr>
+<tr><td>Pablo G Cámara</td><td>U Penn</td></tr>
+<tr><td>Sorana Morrissy</td><td>University of Calgary</td></tr>
+<tr><td>Varsha Thoppey Manoharan</td><td>University of Calgary</td></tr>
+<tr><td>Aly Abdelkareem</td><td>University of Calgary</td></tr>
+<tr><td>Ken Chen</td><td>MD Anderson</td></tr>
+<tr><td>Andy Fraser</td><td>The Donnelly Centre, University of Toronto</td></tr>
+<tr><td>Rozita Razavi</td><td>The Donnelly Centre, University of Toronto</td></tr>
+</tbody>
+</table>

@@ -31,9 +31,9 @@ The invitees this year cover domains such as the microbiome of the human gut/ora
 
 <table class="barbados-roster">
 <tbody>
-<tr class="roster-head"><th colspan="2">Organizers</th></tr>
-<tr><td>Artem Babaian</td><td>Toronto</td></tr>
-<tr><td>Greg Gloor</td><td>Western</td></tr>
+<tr class="roster-head"><th colspan="2">Scientific Committee</th></tr>
+<tr><td>Artem Babaian</td><td>University of Toronto</td></tr>
+<tr><td>Greg Gloor</td><td>Western University</td></tr>
 </tbody>
 </table>
 
