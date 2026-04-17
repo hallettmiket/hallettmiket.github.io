@@ -10,8 +10,8 @@ This meeting focused on genomics approaches in breast cancer to study both murin
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-<tr><td>Morag Park</td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://parklabmcgill.wordpress.com/">Morag Park</a></td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
@@ -22,9 +22,9 @@ This meeting focused on genomics approaches in breast cancer to study both murin
 <tr><td>Nicholas Bertos</td><td>McGill University</td></tr>
 <tr><td>Sean Cory</td><td>McGill University</td></tr>
 <tr><td>Rachelle Dillon</td><td>McGill University</td></tr>
-<tr><td>Vanessa Dumeaux</td><td>Rikshospitalet Institute for Cancer Research/Princeton</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>Rikshospitalet Institute for Cancer Research/Princeton</td></tr>
 <tr><td><a href="http://www.mapageweb.umontreal.ca/maders/theteam/index.html">Slim Fourati</a></td><td>University of Montreal</td></tr>
-<tr><td>Kalle Gehring</td><td>McGill University</td></tr>
+<tr><td><a href="https://www.gehringlab.net">Kalle Gehring</a></td><td>McGill University</td></tr>
 <tr><td>Vincent Giguère</td><td>McGill University</td></tr>
 <tr><td><a href="http://bmi.osu.edu/~khuang/">Kun Huang</a></td><td>Ohio State University</td></tr>
 <tr><td>Gregor Jansen</td><td>McGill University</td></tr>
@@ -36,7 +36,7 @@ This meeting focused on genomics approaches in breast cancer to study both murin
 <tr><td>Anne-Marie Mes-Masson</td><td>University of Montreal</td></tr>
 <tr><td>Aslaug Aamodt Muggerud</td><td>Rikshospitalet Institute for Cancer Research</td></tr>
 <tr><td>William Muller</td><td>McGill University</td></tr>
-<tr><td>Alain Nepveu</td><td>McGill University</td></tr>
+<tr><td><a href="https://www.mcgill.ca/biochemistry/faculty-members/nepveu">Alain Nepveu</a></td><td>McGill University</td></tr>
 <tr><td>Michael Ostrowski</td><td>Ohio State University</td></tr>
 <tr><td>Jeff Parvin</td><td>Ohio State University</td></tr>
 <tr><td>François Pepin</td><td>McGill University</td></tr>

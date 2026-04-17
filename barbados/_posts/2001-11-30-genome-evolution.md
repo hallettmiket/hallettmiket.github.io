@@ -10,8 +10,8 @@ Our first Barbados workshop focused on the development of algorithms for explori
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Jens Lagergren</td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://lagergrenlab.org/">Jens Lagergren</a></td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 

@@ -14,9 +14,9 @@ Here we focused on the role of the immune system in cancer progression, and on t
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-<tr><td>Therese Sorlie</td><td>Oslo University Hospital, Norway</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://ous-research.no/sorlie/">Therese Sorlie</a></td><td>Oslo University Hospital, Norway</td></tr>
 </tbody>
 </table>
 
@@ -49,21 +49,21 @@ Here we focused on the role of the immune system in cancer progression, and on t
 <tr><td><a href="https://www.uib.no/en/rg/halberg">Nils Halberg</a></td><td>University of Bergen</td></tr>
 <tr><td><a href="https://reimandlab.org/">Juri Reimand</a></td><td>OICR, U of Toronto</td></tr>
 <tr><td><a href="https://www.uhnresearch.ca/researcher/pamela-s-ohashi">Pam Ohashi</a></td><td>UHN, U of Toronto</td></tr>
-<tr><td><a href="http://www.jennifer.listgarten.com/">Jenn Listgarten</a></td><td>Microsoft Research</td></tr>
+<tr><td><a href="http://www.jennifer.listgarten.com/">Jenn Listgarten</a></td><td><a href="http://research.microsoft.com/en-us/um/people/jennl/">Microsoft Research</a></td></tr>
 <tr><td><a href="https://www.bccrc.ca/dept/drc/people/brad-nelson">Brad Nelson</a></td><td>BC Cancer Agency</td></tr>
 <tr><td><a href="https://www.mn.uio.no/ifi/english/people/aca/ole/">Ole Christian Lingjaerde</a></td><td>Oslo University</td></tr>
 <tr><td><a href="https://www.mskcc.org/profile/andrew-mcpherson">Andrew McPherson</a></td><td>University of British Columbia</td></tr>
-<tr><td><a href="https://www.iric.ca/en/research/principal-investigators/sylvie-mader">Sylvie Mader</a></td><td>IRIC, U of Montreal</td></tr>
+<tr><td><a href="https://www.iric.ca/en/research/principal-investigators/sylvie-mader">Sylvie Mader</a></td><td><a href="https://www.iric.ca/en/research/principal-investigators/etienne-gagnon/">IRIC, U of Montreal</a></td></tr>
 <tr><td><a href="https://hi.umn.edu/research/faculty/robert-clarke-phd-dsc">Bob Clarke</a></td><td>Georgetown University</td></tr>
-<tr><td><a href="https://www.chumontreal.qc.ca/en/crchum/chercheurs/rejean-lapointe">Rejean Lapointe</a></td><td>CRCHUM, U of Montreal</td></tr>
+<tr><td><a href="https://www.chumontreal.qc.ca/en/crchum/chercheurs/rejean-lapointe">Rejean Lapointe</a></td><td><a href="http://crchum.chumontreal.qc.ca/en/researchers/lapointe-rejean">CRCHUM, U of Montreal</a></td></tr>
 <tr><td><a href="https://www.chumontreal.qc.ca/en/crchum/chercheurs/john-stagg">John Stagg</a></td><td>University of Montreal</td></tr>
 <tr><td>Sandra Pommey</td><td>University of Montreal</td></tr>
 <tr><td><a href="https://www.med.upenn.edu/wherrylab/">E. John Werry</a></td><td>University of Pennsylvania</td></tr>
 <tr><td><a href="https://my.vanderbilt.edu/irishlab/">Jonathan Irish</a></td><td>Vanderbilt University</td></tr>
 <tr><td>Rebecca Ihrie</td><td>Vanderbilt University</td></tr>
 <tr><td>Christos Hatzis</td><td>Yale University</td></tr>
-<tr><td>Celine Laumont</td><td>IRIC, U of Montreal</td></tr>
-<tr><td><a href="https://www.iric.ca/en/research/principal-investigators/etienne-gagnon">Etienne Gagnon</a></td><td>IRIC, U of Montreal</td></tr>
+<tr><td>Celine Laumont</td><td><a href="https://www.iric.ca/en/research/principal-investigators/etienne-gagnon/">IRIC, U of Montreal</a></td></tr>
+<tr><td><a href="https://www.iric.ca/en/research/principal-investigators/etienne-gagnon">Etienne Gagnon</a></td><td><a href="https://www.iric.ca/en/research/principal-investigators/etienne-gagnon/">IRIC, U of Montreal</a></td></tr>
 <tr><td><a href="https://www.ladydavis.ca/en/laboratory/mark-basik/">Mark Basik</a></td><td>Jewish General Hospital and McGill</td></tr>
 <tr><td><a href="http://www.rubinsteyn.com/">Alex Rubinsteyn</a></td><td>Mount Sinai hospital, NY</td></tr>
 </tbody>

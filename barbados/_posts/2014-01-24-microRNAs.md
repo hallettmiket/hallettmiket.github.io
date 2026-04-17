@@ -14,9 +14,9 @@ This meeting brought down many members of the international microRNA community w
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-<tr><td>Thomas Duchaine</td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://www.duchainelab.org/">Thomas Duchaine</a></td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 

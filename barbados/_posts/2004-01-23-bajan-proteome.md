@@ -13,7 +13,7 @@ Our third Barbados workshop focused on proteomics including protein-protein inte
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
 <tr><td>David Thomas</td><td>Biochemistry, McGill University</td></tr>
 </tbody>
 </table>

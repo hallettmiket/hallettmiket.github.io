@@ -14,9 +14,9 @@ This meeting brought together researchers interested in understanding how genomi
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-<tr><td>Jens Lagergren</td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
-<tr><td>Ben Raphael</td><td>Brown University, USA</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://lagergrenlab.org/">Jens Lagergren</a></td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
+<tr><td><a href="https://raphael-group.github.io/">Ben Raphael</a></td><td>Brown University, USA</td></tr>
 </tbody>
 </table>
 
@@ -27,8 +27,8 @@ This meeting brought together researchers interested in understanding how genomi
 <tr><td>Collin Collins</td><td>UCSF Cancer Center</td></tr>
 <tr><td>Greg Finak</td><td>MCB, Biochemistry, McGill University</td></tr>
 <tr><td>William Muller</td><td>Molecular Oncology, McGill University</td></tr>
-<tr><td>Alain Nepveu</td><td>Biochemistry, Molecular Oncology, McGill University</td></tr>
-<tr><td>Morag Park</td><td>Biochemistry, Molecular Oncology, McGill University</td></tr>
+<tr><td><a href="https://www.mcgill.ca/biochemistry/faculty-members/nepveu">Alain Nepveu</a></td><td>Biochemistry, Molecular Oncology, McGill University</td></tr>
+<tr><td><a href="https://parklabmcgill.wordpress.com/">Morag Park</a></td><td>Biochemistry, Molecular Oncology, McGill University</td></tr>
 <tr><td>Francois Pepin</td><td>MCB, Biochemistry, McGill University</td></tr>
 <tr><td>Babette Schade</td><td>Molecular Oncology, McGill University</td></tr>
 <tr><td>Peter Siegel</td><td>Medicine, McGill University</td></tr>

@@ -10,9 +10,9 @@ This meeting focused on transcription factors, protein-DNA binding and the compl
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-<tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://hugheslab.med.utoronto.ca/">Tim Hughes</a></td><td>University of Toronto, Canada</td></tr>
 </tbody>
 </table>
 

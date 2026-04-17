@@ -14,9 +14,9 @@ The focus of this meeting was on computational models of tumorigenesis and tumor
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-<tr><td>Therese Sorlie</td><td>Oslo University, Norway</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://ous-research.no/sorlie/">Therese Sorlie</a></td><td>Oslo University, Norway</td></tr>
 </tbody>
 </table>
 

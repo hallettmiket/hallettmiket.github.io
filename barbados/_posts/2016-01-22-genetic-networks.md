@@ -14,9 +14,9 @@ The focus of this meeting had much of the CCBR-Donnelly in attendance. It was on
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-<tr><td>Brenda Andrews</td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://andrewslab.ccbr.utoronto.ca/">Brenda Andrews</a></td><td>University of Toronto, Canada</td></tr>
 </tbody>
 </table>
 
@@ -48,7 +48,7 @@ The focus of this meeting had much of the CCBR-Donnelly in attendance. It was on
 <tr><td><a href="https://as.nyu.edu/faculty/david-gresham.html">Dave Gresham</a></td><td>NYU</td></tr>
 <tr><td><a href="https://fowlerlab.gs.washington.edu/">Doug Fowler</a></td><td>U Washington</td></tr>
 <tr><td>Jason Moffat</td><td>University of Toronto</td></tr>
-<tr><td>Eric Brown</td><td>McMaster</td></tr>
+<tr><td>Eric Brown</td><td><a href="http://www.brownlab.ca/">McMaster</a></td></tr>
 <tr><td><a href="https://www.msl.ubc.ca/people/dr-phil-hieter/">Phil Hieter</a></td><td>University of British Columbia</td></tr>
 <tr><td><a href="https://www.taipalelabs.org/">Jussi Taipale</a></td><td>Karonlinska Institute</td></tr>
 <tr><td>Sarah Jenna</td><td>University of Quebec at Montreal</td></tr>

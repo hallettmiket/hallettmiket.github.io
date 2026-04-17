@@ -10,8 +10,8 @@ The central topic of this meeting was to explore the use of techniques from syst
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Vanessa Dumeaux</td><td>University of Tromsø, Norway</td></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>University of Tromsø, Norway</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
@@ -21,7 +21,7 @@ The central topic of this meeting was to explore the use of techniques from syst
 <tr><td>Nicholas Bertos</td><td>McGill University, Canada</td></tr>
 <tr><td>Margarethe Biong</td><td>Oslo University Hospital, Norway</td></tr>
 <tr><td>Sean Cory</td><td>McGill University, Canada</td></tr>
-<tr><td>Slim Fourati</td><td>Universite de Montreal, Canada</td></tr>
+<tr><td><a href="http://www.mapageweb.umontreal.ca/maders/theteam/index.html">Slim Fourati</a></td><td>Universite de Montreal, Canada</td></tr>
 <tr><td>Gregor Jansen</td><td>McGill University, Canada</td></tr>
 <tr><td><a href="http://www.rr-research.no/kristensen/">Vessela Kristensen</a></td><td>Oslo University Hospital, Norway</td></tr>
 <tr><td>Hege Landmark-Hoyvik</td><td>Oslo University Hospital, Norway</td></tr>
@@ -31,7 +31,7 @@ The central topic of this meeting was to explore the use of techniques from syst
 <tr><td><a href="http://www.mapageweb.umontreal.ca/maders/theteam/index.html">Sylvie Mader</a></td><td>Universite de Montreal, Canada</td></tr>
 <tr><td>Hans-Kristian Moen-Vollan</td><td>Oslo University Hospital, Norway</td></tr>
 <tr><td>William Muller</td><td>McGill University, Canada</td></tr>
-<tr><td>Morag Park</td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://parklabmcgill.wordpress.com/">Morag Park</a></td><td>McGill University, Canada</td></tr>
 <tr><td>Sandra Caroline Plancade</td><td>University of Tromso, Norway</td></tr>
 <tr><td>Irene Pylypenko</td><td>McGill University, Canada</td></tr>
 <tr><td>Hege Russness</td><td>Harvard University, USA</td></tr>
@@ -40,7 +40,7 @@ The central topic of this meeting was to explore the use of techniques from syst
 <tr><td>Sadiq Saleh</td><td>McGill University, Canada</td></tr>
 <tr><td>Babette Schade</td><td>McGill University, Canada</td></tr>
 <tr><td>Bita Sehat</td><td>McGill University, Canada</td></tr>
-<tr><td>Sohrab Shah</td><td>University of British Columbia, Canada</td></tr>
+<tr><td><a href="https://www.mskcc.org/research-areas/labs/sohrab-shah">Sohrab Shah</a></td><td>University of British Columbia, Canada</td></tr>
 <tr><td>Peter Siegel</td><td>McGill University, Canada</td></tr>
 <tr><td><a href="https://research-information.bris.ac.uk/en/persons/matthew-j-suderman/">Matthew Suderman</a></td><td>McGill University, Canada</td></tr>
 <tr><td>David Thomas</td><td>McGill University, Canada</td></tr>

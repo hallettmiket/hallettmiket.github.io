@@ -18,14 +18,14 @@ Focus Areas:
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
-<tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
-<tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
-<tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
-<tr><td>Brenda Andrews</td><td>University of Toronto, Canada</td></tr>
-<tr><td>David Gresham</td><td>NYU, USA</td></tr>
-<tr><td>Rich Bonneau</td><td>Prescient Design / Genentech, USA</td></tr>
-<tr><td>Stefania Giacomello</td><td>SciLifeLab, KTH, Sweden</td></tr>
-<tr><td>Elodie Ghedin</td><td>NIH / NIAID, USA</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>Western University, Canada</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>Western University, Canada</td></tr>
+<tr><td><a href="https://hugheslab.med.utoronto.ca/">Tim Hughes</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://andrewslab.ccbr.utoronto.ca/">Brenda Andrews</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://as.nyu.edu/faculty/david-gresham.html">David Gresham</a></td><td>NYU, USA</td></tr>
+<tr><td><a href="https://www.gene.com/scientists/our-scientists/richard-bonneau">Rich Bonneau</a></td><td>Prescient Design / Genentech, USA</td></tr>
+<tr><td><a href="https://www.spatialresearch.org/research-giacomello-lab/">Stefania Giacomello</a></td><td>SciLifeLab, KTH, Sweden</td></tr>
+<tr><td><a href="https://ghedinlab.org/">Elodie Ghedin</a></td><td>NIH / NIAID, USA</td></tr>
 </tbody>
 </table>
 
@@ -45,7 +45,7 @@ Focus Areas:
 <tr><td>Greg Gloor</td><td>Western University</td></tr>
 <tr><td>Michael Constanzo</td><td>UofT</td></tr>
 <tr><td>Ashley Libby</td><td>University of Toronto</td></tr>
-<tr><td>Quaid Morris</td><td>Sloan Kettering Institute</td></tr>
+<tr><td><a href="https://www.mskcc.org/research/ski/labs/quaid-morris">Quaid Morris</a></td><td>Sloan Kettering Institute</td></tr>
 <tr><td>Artem Babaian</td><td>University of Toronto</td></tr>
 <tr><td>Khalid Al-Zahrani</td><td>University of Toronto</td></tr>
 <tr><td>Ilaria Testa</td><td>KTH/SciLifeLab</td></tr>
@@ -56,6 +56,6 @@ Focus Areas:
 <tr><td>Charlotte Stadler</td><td>KTH/SciLifeLab</td></tr>
 <tr><td>Wilder Scott</td><td>Sunnybrook</td></tr>
 <tr><td>Alexandre Denadai Souza</td><td>KU Leuven</td></tr>
-<tr><td>Jussi Taipale</td><td>Cambridge</td></tr>
+<tr><td><a href="https://www.taipalelabs.org/">Jussi Taipale</a></td><td>Cambridge</td></tr>
 </tbody>
 </table>

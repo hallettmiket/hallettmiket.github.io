@@ -14,14 +14,14 @@ The past decade has witnessed the rapid development of new computational techniq
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
-<tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
-<tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
-<tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
-<tr><td>Brenda Andrews</td><td>University of Toronto, Canada</td></tr>
-<tr><td>David Gresham</td><td>NYU, USA</td></tr>
-<tr><td>Rich Bonneau</td><td>Prescient Design / Genentech, USA</td></tr>
-<tr><td>Stefania Giacomello</td><td>SciLifeLab, KTH, Sweden</td></tr>
-<tr><td>Elodie Ghedin</td><td>NIH / NIAID, USA</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>Western University, Canada</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>Western University, Canada</td></tr>
+<tr><td><a href="https://hugheslab.med.utoronto.ca/">Tim Hughes</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://andrewslab.ccbr.utoronto.ca/">Brenda Andrews</a></td><td>University of Toronto, Canada</td></tr>
+<tr><td><a href="https://as.nyu.edu/faculty/david-gresham.html">David Gresham</a></td><td>NYU, USA</td></tr>
+<tr><td><a href="https://www.gene.com/scientists/our-scientists/richard-bonneau">Rich Bonneau</a></td><td>Prescient Design / Genentech, USA</td></tr>
+<tr><td><a href="https://www.spatialresearch.org/research-giacomello-lab/">Stefania Giacomello</a></td><td>SciLifeLab, KTH, Sweden</td></tr>
+<tr><td><a href="https://ghedinlab.org/">Elodie Ghedin</a></td><td>NIH / NIAID, USA</td></tr>
 </tbody>
 </table>
 
@@ -46,13 +46,13 @@ The past decade has witnessed the rapid development of new computational techniq
 <tr><td>John Morris</td><td>NYU</td></tr>
 <tr><td>Artem Babaian</td><td>U of Toronto</td></tr>
 <tr><td>Sorana Morrissy</td><td>U of Calgary</td></tr>
-<tr><td>Carl de Boer</td><td>U of British Columbia</td></tr>
-<tr><td>Jussi Taipale</td><td>U of Cambrige/Helsinki/Karolinska Institute</td></tr>
+<tr><td><a href="https://deboer.bme.ubc.ca/">Carl de Boer</a></td><td>U of British Columbia</td></tr>
+<tr><td><a href="https://www.taipalelabs.org/">Jussi Taipale</a></td><td>U of Cambrige/Helsinki/Karolinska Institute</td></tr>
 <tr><td>John Tsang</td><td>Yale</td></tr>
 <tr><td>Greg Gloor</td><td>Western University</td></tr>
 <tr><td>Jian Carrot-Zhang</td><td>MSK</td></tr>
-<tr><td>Phil Kim</td><td>The Donnelly Centre, U of Toronto</td></tr>
-<tr><td>Jeff Vierstra</td><td>Altius Research</td></tr>
+<tr><td><a href="https://www.kimlab.org/">Phil Kim</a></td><td>The Donnelly Centre, U of Toronto</td></tr>
+<tr><td><a href="http://www.vierstra.org/">Jeff Vierstra</a></td><td>Altius Research</td></tr>
 <tr><td>Aiden Hiller</td><td>University of Toronto</td></tr>
 <tr><td>Ian Hoffecker</td><td>SciLifeLabs</td></tr>
 <tr><td>Kaitlin Laverty</td><td>The Donnelly Centre, U of Toronto</td></tr>

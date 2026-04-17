@@ -10,8 +10,8 @@ This was the first of our Barbados meetings to focus on breast cancer.
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-<tr><td>Morag Park</td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://parklabmcgill.wordpress.com/">Morag Park</a></td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
@@ -22,7 +22,7 @@ This was the first of our Barbados meetings to focus on breast cancer.
 <tr><td>J. Bryan</td><td>Statistics, UBC</td></tr>
 <tr><td>H. Chen</td><td>Mol. Oncology, McGill LCM, Microarrays</td></tr>
 <tr><td>G. Finak</td><td>Biochemistry, McGill</td></tr>
-<tr><td>A. Filali</td><td>Inst. du cancer, U. de Mont.</td></tr>
+<tr><td>A. Filali</td><td><a href="http://www.icm.qc.ca/">Inst. du cancer, U. de Mont.</a></td></tr>
 <tr><td>I. Jurisica</td><td>U. of Toronto</td></tr>
 <tr><td>B. Muller</td><td>Mol. Oncology, McGill</td></tr>
 <tr><td>F. Pepin</td><td>Bioinformatics, McGill</td></tr>

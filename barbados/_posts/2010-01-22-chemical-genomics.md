@@ -9,7 +9,7 @@ image: /assets/images/barbados/chemical-genomics.png
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Committee</th></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr><td><a href="https://mikehallett.science">Mike Hallett</a></td><td>McGill University, Canada</td></tr>
 <tr><td>Sarah Jenna</td><td>Université de Québec à Montréal</td></tr>
 <tr><td>David Thomas</td><td>Biochemistry, McGill University</td></tr>
 </tbody>
@@ -18,13 +18,13 @@ image: /assets/images/barbados/chemical-genomics.png
 <table class="barbados-roster">
 <tbody>
 <tr class="roster-head"><th colspan="2">Invitees</th></tr>
-<tr><td>Brenda Andrews</td><td>University of Toronto</td></tr>
+<tr><td><a href="https://andrewslab.ccbr.utoronto.ca/">Brenda Andrews</a></td><td>University of Toronto</td></tr>
 <tr><td>Suzana Anjos</td><td>McGill University</td></tr>
 <tr><td>Bill Balch</td><td>The Scripps Research Institute</td></tr>
 <tr><td>Margarethe Biong</td><td>Norwegian Radium Hospital</td></tr>
 <tr><td><a href="https://www.gene.com/scientists/our-scientists/richard-bonneau">Rich Bonneau</a></td><td>New York University</td></tr>
 <tr><td>Fabiana Ciciriello</td><td>McGill University</td></tr>
-<tr><td>Vanessa Dumeaux</td><td>University of Tromso</td></tr>
+<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>University of Tromso</td></tr>
 <tr><td><a href="http://www.nrc-cnrc.gc.ca/eng/ibp/bri/groups/health/genetic.html">Elias Epp</a></td><td>McGill University</td></tr>
 <tr><td>Guri Giaever</td><td>University of Toronto</td></tr>
 <tr><td>Sara JC Gosline</td><td>McGill University</td></tr>
