@@ -11,12 +11,6 @@ The invitees discusssed protein-protein, genetic and chemical-genetic interactio
 <tbody>
 <tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
 <tr><td>Sarah Jenna</td><td>Université de Québec à Montréal</td></tr>
 </tbody>
 </table>

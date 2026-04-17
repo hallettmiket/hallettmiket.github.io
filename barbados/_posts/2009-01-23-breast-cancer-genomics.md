@@ -11,13 +11,7 @@ This meeting focused on genomics approaches in breast cancer to study both murin
 <tbody>
 <tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td>Morag Park</td><td>McGill University</td></tr>
+<tr><td>Morag Park</td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 

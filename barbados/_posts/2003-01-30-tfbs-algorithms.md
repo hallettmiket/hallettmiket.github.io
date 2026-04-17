@@ -10,14 +10,8 @@ Our second Barbados workshop focused on the development of algorithms for identi
 <table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
 <tbody>
 <tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Jens Lagergren</td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="http://www.nada.kth.se/%7Ejensl/index-en.html">Jens Lagergren</a></td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
 </tbody>
 </table>
 

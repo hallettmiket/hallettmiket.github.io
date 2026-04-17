@@ -31,13 +31,6 @@ Focus Areas:
 
 <table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td colspan="2"><em>No entries</em></td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
 <tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
 <tr><td>Tyler Stephens Browne</td><td>Western University</td></tr>
 <tr><td>Ali Fathi</td><td>The Donnelly Centre, U of Toronto</td></tr>

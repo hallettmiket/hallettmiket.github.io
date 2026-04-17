@@ -15,14 +15,8 @@ This meeting brought together researchers interested in understanding how genomi
 <tbody>
 <tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="http://www.nada.kth.se/~jensl">Jens Lagergren</a></td><td>Stockholm Bioinformatics Centre</td></tr>
-<tr><td>Ben Raphael</td><td>Univerisity of California, San Diego</td></tr>
+<tr><td>Jens Lagergren</td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
+<tr><td>Ben Raphael</td><td>Brown University, USA</td></tr>
 </tbody>
 </table>
 

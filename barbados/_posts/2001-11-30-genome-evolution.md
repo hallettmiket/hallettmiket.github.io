@@ -10,14 +10,8 @@ Our first Barbados workshop focused on the development of algorithms for explori
 <table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
 <tbody>
 <tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr><td>Jens Lagergren</td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="https://lagergrenlab.org/">Jens Lagergren</a></td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
 </tbody>
 </table>
 
@@ -30,7 +24,7 @@ Our first Barbados workshop focused on the development of algorithms for explori
 <tr><td><a href="https://bioalgorithms.ucsd.edu/">Pavel Pevzner</a></td><td>University of Southern California, U.S.A.</td></tr>
 <tr><td>Alberto Caprara <span title="in memoriam">🕯</span></td><td>Università di Bologna, Italy <em>(in memoriam)</em></td></tr>
 <tr><td><a href="https://panconesi.di.uniroma1.it/">Allessandro Panconesi</a></td><td>Università La Sapienza di Roma, Italy</td></tr>
-<tr><td>Nadia El-Mabrouk</td><td>Université de Montréal, Canada</td></tr>
+<tr><td><a href="https://www.iro.umontreal.ca/~mabrouk/index-anglais.html">Nadia El-Mabrouk</a></td><td>Université de Montréal, Canada</td></tr>
 <tr><td><a href="https://www.maths.otago.ac.nz/~dbryant/">David Bryant</a></td><td>McGill University, Canada</td></tr>
 <tr><td><a href="https://people.epfl.ch/bernard.moret">Bernard Moret</a></td><td>University of New Mexico, U.S.A.</td></tr>
 <tr><td><a href="https://www.mcgill.ca/mathstat/louigi-addario-berry">Louigi Addario-Berry</a></td><td>McGill University, Canada</td></tr>

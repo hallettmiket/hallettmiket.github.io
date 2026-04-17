@@ -24,17 +24,3 @@ image: /assets/images/barbados/drops.jpg
 <tr><td>Elodie Ghedin</td><td>NIH / NIAID, USA</td></tr>
 </tbody>
 </table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td colspan="2"><em>No entries</em></td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
-<tr><td colspan="2"><em>No entries</em></td></tr>
-</tbody>
-</table>
