@@ -11,18 +11,18 @@ The focus of this meeting had much of the CCBR-Donnelly in attendance. It was on
 <center><img src="/assets/images/barbados/2016-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr><td>Brenda Andrews</td><td>University of Toronto, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="https://andrewslab.ccbr.utoronto.ca/">Brenda Andrews</a></td><td>University of Toronto</td></tr>
-<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University</td></tr>
+<tr class="roster-head"><th colspan="2">Organizers</th></tr>
 <tr><td>Ben Grys</td><td>University of Toronto</td></tr>
 <tr><td>Natasha Pascoe</td><td>University of Toronto</td></tr>
 <tr><td>Dara Lo</td><td>University of Toronto</td></tr>
@@ -30,9 +30,9 @@ The focus of this meeting had much of the CCBR-Donnelly in attendance. It was on
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td><a href="https://www.lunenfeld.ca/?page=roth-frederick">Fritz Roth</a></td><td>University of Toronto</td></tr>
 <tr><td><a href="https://boonelab.ccbr.utoronto.ca/">Charlie Boone</a></td><td>University of Toronto</td></tr>
 <tr><td><a href="https://fraserlab.squarespace.com/">Andy Fraser</a></td><td>University of Toronto</td></tr>

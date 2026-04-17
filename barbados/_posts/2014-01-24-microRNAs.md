@@ -11,24 +11,18 @@ This meeting brought down many members of the international microRNA community w
 <center><img src="/assets/images/barbados/2014-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr><td>Thomas Duchaine</td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="https://www.duchainelab.org/">Thomas Duchaine</a></td><td>McGill University, Canada</td></tr>
-<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University, Canada</td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Julie Pelloux</td><td>Universite de Montreal</td></tr>
 <tr><td>Chris Hillier</td><td>University of the West Indies</td></tr>
 <tr><td>Ali Tofigh</td><td>McGill University</td></tr>

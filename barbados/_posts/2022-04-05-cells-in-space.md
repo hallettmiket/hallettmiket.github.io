@@ -16,9 +16,9 @@ The invitees collectively champion the development and/or application of EXPERIM
 
 We are excited to extend discussions to how a wide variety of external factors and stressors, such as space travel, the exposure to microgravity and space radiation, the synergistic effect of microbiomes, infection processes, tumor microenvironments, etc., influence or alter cellular expression and epigenetics programs.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
 <tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
 <tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
@@ -30,9 +30,9 @@ We are excited to extend discussions to how a wide variety of external factors a
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Organizers</th></tr>
 <tr><td>Tallulah Andrews</td><td>Western University</td></tr>
 <tr><td>Parisa Shooshtari</td><td>Western University</td></tr>
 <tr><td>Elisios John Mucaki</td><td>Western University</td></tr>
@@ -40,9 +40,9 @@ We are excited to extend discussions to how a wide variety of external factors a
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Anna Kuchina</td><td>Institute for Systems Biology</td></tr>
 <tr><td>Florian Schmidt</td><td>ETH</td></tr>
 <tr><td>Artem Babaian</td><td>University of Toronto</td></tr>

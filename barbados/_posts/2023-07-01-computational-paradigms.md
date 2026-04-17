@@ -11,9 +11,9 @@ Computational Paradigms in Molecular Biology Revisited will take place from Febr
 
 The past decade has witnessed the rapid development of new computational techniques and paradigms in computational biology. These approaches emerged from the machine learning, probabilistic modeling, statistical inference and artificial intelligence communities and have been further refined within the context of a broad range of applications in molecular biology. This meeting brings together researchers who have expertise with generative modeling and deep learning across a range of different applications including structural biology, drug repositioning and discovery, generative models for single cell analyses, metagenomics, and molecular imaging. Many of our invitees are also committed to the development of computational devices with clinical utility. Such endpoints also raise important ethical and socioeconomic considerations that also must be addressed for AI-related tools to be fully incorporated into modern molecular biology and clinical applications.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
 <tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
 <tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
@@ -25,18 +25,18 @@ The past decade has witnessed the rapid development of new computational techniq
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Organizers</th></tr>
 <tr><td>Eliseos John Mucaki</td><td>Western University</td></tr>
 <tr><td>Vaibhav Gupta</td><td>Western University</td></tr>
 <tr><td>Thomas Qu</td><td>Western University</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Tallulah Andrews</td><td>Western University</td></tr>
 <tr><td>Sara Mostafavi</td><td>University of Washington</td></tr>
 <tr><td>Victor Greiff</td><td>University of Oslo</td></tr>

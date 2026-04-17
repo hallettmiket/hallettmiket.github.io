@@ -15,9 +15,9 @@ Focus Areas:
 -	Cellular and tissue ecosystem dynamics including the tumor microenvironment
 -	Complex networks across marine, terrestrial, microbial systems and human disease.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
 <tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
 <tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
@@ -29,9 +29,9 @@ Focus Areas:
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Tyler Stephens Browne</td><td>Western University</td></tr>
 <tr><td>Ali Fathi</td><td>The Donnelly Centre, U of Toronto</td></tr>
 <tr><td>Carolina Tropini</td><td>University of British Columbia</td></tr>

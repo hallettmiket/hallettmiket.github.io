@@ -7,17 +7,17 @@ image: /assets/images/barbados/interactome.png
 
 The invitees discusssed protein-protein, genetic and chemical-genetic interactions in both model organsisms and humans.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 <tr><td>Sarah Jenna</td><td>Université de Québec à Montréal</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Brenda Andrews</td><td>Donnelly CCBR, University of Toronto</td></tr>
 <tr><td><a href="https://www.gene.com/scientists/our-scientists/richard-bonneau">Richard Bonneau</a></td><td>Biology/Computer Science, NYU</td></tr>
 <tr><td>Charlie Boone</td><td>BBDMR, Donnelly CCBR, University of Toronto</td></tr>

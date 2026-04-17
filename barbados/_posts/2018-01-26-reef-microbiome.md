@@ -11,27 +11,27 @@ Here we focused on the genomic of coral and its microbiome.
 <center><img src="/assets/images/barbados/2018-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
-<tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr><td>Vanessa Dumeaux</td><td>Concordia University, Canada</td></tr>
+<tr><td>Mike Hallett</td><td>Concordia University, Canada</td></tr>
+<tr><td>David Walsh</td><td>Concordia University, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="https://www.concordia.ca/faculty/david-walsh.html">David Walsh</a></td><td>Concordia University, Canada</td></tr>
-<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>Concordia University, Canada</td></tr>
+<tr class="roster-head"><th colspan="2">Organizers</th></tr>
 <tr><td>Arthi Ramachandran</td><td>Concordia University, Canada</td></tr>
 <tr><td>Shawn Simpson</td><td>Concordia University, Canada</td></tr>
 <tr><td>Kaitlin Laverty</td><td>University of Toronto, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td><a href="https://www2.whoi.edu/site/amy-apprill/">Amy Apprill</a></td><td>Woods Hole Oceanographic Institute</td></tr>
 <tr><td><a href="https://johnarchibald.ca/">John Archibald</a></td><td>Dalhousie University, Canada</td></tr>
 <tr><td><a href="https://bhattacharyalab.com/">Debashish Bhattacharya</a></td><td>Rutgers University</td></tr>

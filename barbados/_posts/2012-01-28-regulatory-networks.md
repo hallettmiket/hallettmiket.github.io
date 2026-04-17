@@ -7,23 +7,17 @@ image: /assets/images/barbados/regulatory-networks.png
 
 This meeting focused on transcription factors, protein-DNA binding and the complex network of regulatory dependencies they induce.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="https://hugheslab.med.utoronto.ca/">Tim Hughes</a></td><td>University of Toronto, Canada</td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td><a href="https://andrewslab.ccbr.utoronto.ca/">Brenda Andrews</a></td><td>University of Toronto, Canada</td></tr>
 <tr><td><a href="https://biology.duke.edu/news/cells-crops-philip-benfey-found-keys-success-hidden-half-plants">Phil Benfey</a></td><td>Duke University, USA</td></tr>
 <tr><td><a href="https://gunsaluspiano.bio.nyu.edu/">Kris Gunsalus</a></td><td>New York University, USA</td></tr>

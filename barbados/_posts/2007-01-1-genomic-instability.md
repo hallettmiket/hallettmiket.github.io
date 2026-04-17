@@ -11,18 +11,18 @@ This meeting brought together researchers interested in understanding how genomi
 <center><img src="/assets/images/barbados/2007-group-picture.jpg" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 <tr><td>Jens Lagergren</td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
 <tr><td>Ben Raphael</td><td>Brown University, USA</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Ake Borg</td><td>Lund Stem Cell Center</td></tr>
 <tr><td>Collin Collins</td><td>UCSF Cancer Center</td></tr>
 <tr><td>Greg Finak</td><td>MCB, Biochemistry, McGill University</td></tr>

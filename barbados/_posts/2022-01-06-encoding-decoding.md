@@ -11,9 +11,9 @@ image: /assets/images/barbados/drops.jpg
 <center><img src="/assets/images/barbados/2022-group-picture.jpg" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
 <tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
 <tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>

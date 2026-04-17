@@ -7,17 +7,17 @@ image: /assets/images/barbados/endoplasmic-reticulum.png
 
 This meeting brought together researchers interested in diseases of the secretory pathway with special emphasis on the endoplasmic reticulum
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>David Thomas</td><td>Biochemistry, McGill University</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Christina Haston</td><td>Dept. of Medicine, McGill</td></tr>
 <tr><td>Sara Calafell</td><td>Bioinformatics, McGill</td></tr>
 <tr><td>Eric Chevet</td><td>Cell Biology/Surgery, McGill</td></tr>

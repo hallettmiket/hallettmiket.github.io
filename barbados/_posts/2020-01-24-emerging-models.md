@@ -11,9 +11,9 @@ Emerging Model Systems. January 24th-31st.
 <center><img src="/assets/images/barbados/2020-group-picture.jpg" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
 <tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
 <tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
@@ -25,9 +25,9 @@ Emerging Model Systems. January 24th-31st.
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Organizers</th></tr>
 <tr><td>Laura Campitelli</td><td>The Donnelly Centre, University of Toronto</td></tr>
 <tr><td>Ariane Lismer</td><td>McGill University</td></tr>
 <tr><td>Brittany Greco</td><td>Concordia University</td></tr>
@@ -39,9 +39,9 @@ Emerging Model Systems. January 24th-31st.
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Sally Warring</td><td>American Museum of Natural History</td></tr>
 <tr><td>Brooke Crowley</td><td>Cincinnati</td></tr>
 <tr><td>Patrick Lemaire</td><td>CNRS/Montpellier</td></tr>

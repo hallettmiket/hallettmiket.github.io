@@ -418,7 +418,7 @@ img {
 	font-weight: $font-weight-base;
 	font-size: $font-size-base;
 	color: $primary-color;
-	line-height: 1.5;
+	line-height: 1.45;
 }
 .barbados p,
 .barbados span,
@@ -431,22 +431,44 @@ img {
 	font-size: $font-size-base !important;
 	font-weight: $font-weight-base !important;
 	color: $primary-color;
+	line-height: 1.45;
 }
 .barbados strong,
-.barbados b {
+.barbados b,
+.barbados .roster-head th {
 	font-weight: $heavy-font-weight !important;
 }
-.barbados table {
-	margin: 0.75em 0;
-	border-collapse: collapse;
-}
-.barbados td,
-.barbados th {
-	padding: 4px 10px;
-	vertical-align: top;
-	border: 0;
+.barbados p {
+	margin: 0 0 0.8em 0;
 }
 .barbados a {
 	color: $primary-color;
 	text-decoration: underline;
+}
+
+/* Workshop roster tables: Standing Committee / Organizers / Invitees.
+   Hard-pin row spacing so every year renders identically regardless of
+   the legacy inline attributes the source files once carried. */
+.barbados-roster {
+	width: 100%;
+	margin: 0.6em 0 1.6em 0;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.barbados-roster th,
+.barbados-roster td {
+	padding: 2px 10px;
+	border: 0;
+	vertical-align: baseline;
+	line-height: 1.45;
+}
+.barbados-roster tr.roster-head th {
+	padding-top: 0.8em;
+	padding-bottom: 0.3em;
+	border-bottom: 1px solid #ddd;
+	text-align: left;
+}
+.barbados-roster td:first-child {
+	width: 40%;
+	white-space: nowrap;
 }

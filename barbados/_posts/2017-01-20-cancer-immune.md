@@ -11,18 +11,18 @@ Here we focused on the role of the immune system in cancer progression, and on t
 <center><img src="/assets/images/barbados/2017-group-picture.png" border="0" height="408" width="614"></center>
 </td></tr></tbody></table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr><td>Therese Sorlie</td><td>Oslo University Hospital, Norway</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="https://ous-research.no/sorlie/">Therese Sorlie</a></td><td>Oslo University Hospital</td></tr>
-<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill Universiy</td></tr>
+<tr class="roster-head"><th colspan="2">Organizers</th></tr>
 <tr><td><a href="https://fjukstad.io/">Bjorn Fjukstad</a></td><td>The Arctic University of Norway</td></tr>
 <tr><td>Silje Nord</td><td>Oslo University Hospital</td></tr>
 <tr><td>Ali Madani</td><td>Princess Margaret Hospital, U of Toronto</td></tr>
@@ -31,9 +31,9 @@ Here we focused on the role of the immune system in cancer progression, and on t
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td><a href="https://www.mskcc.org/research/ski/labs/dana-pe-er">Dana Pe’er</a></td><td>Columbia University</td></tr>
 <tr><td>Fraser Symmans</td><td>MD Anderson</td></tr>
 <tr><td><a href="https://www.mskcc.org/research/ski/labs/quaid-morris">Quaid Morris</a></td><td>University of Toronto</td></tr>

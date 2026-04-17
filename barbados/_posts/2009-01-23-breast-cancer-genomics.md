@@ -7,17 +7,17 @@ image: /assets/images/barbados/subtypes.png
 
 This meeting focused on genomics approaches in breast cancer to study both murine models and the human disease.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 <tr><td>Morag Park</td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Jørgen Aarøe</td><td>Rikshospitalet Institute for Cancer Research</td></tr>
 <tr><td>Nicholas Bertos</td><td>McGill University</td></tr>
 <tr><td>Sean Cory</td><td>McGill University</td></tr>

@@ -7,23 +7,17 @@ image: /assets/images/barbados/translational-research.png
 
 The central topic of this meeting was to explore the use of techniques from systems biology including high-throughput profiling, modelling and multivariate biomarker panels in the context of breast cancer.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr><td>Vanessa Dumeaux</td><td>University of Tromsø, Norway</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>University of Tromso, Norway</td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Nicholas Bertos</td><td>McGill University, Canada</td></tr>
 <tr><td>Margarethe Biong</td><td>Oslo University Hospital, Norway</td></tr>
 <tr><td>Sean Cory</td><td>McGill University, Canada</td></tr>

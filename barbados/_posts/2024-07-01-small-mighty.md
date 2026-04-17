@@ -15,9 +15,9 @@ and it is now routine and cost effective to sample the microbiome across a broad
 The days are organized as discussions around specific themes, with one-on-one exchanges between experts and trainees. 
 The invitees this year cover domains such as the microbiome of the human gut/oral/respiratory/urogenital in the context of health and disease; clinical metagenomics; of animals in relation to food production systems; the microbiome and diet; fungal viruses; approaches for identifying new microbes. The meeting will also cover high-throughput systems level approaches for studying microbes including genetic screens, single-cell bacterial/fungal profiling, microfluidic sample handling, improved CRISPR/CasX modification toolkits, synthetic biology along with core biostatistical computational approaches including generative modeling in microscopy, sample decomposition and compositional data (CODA) analyses.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>Western University, Canada</td></tr>
 <tr><td>Vanessa Dumeaux</td><td>Western University, Canada</td></tr>
 <tr><td>Tim Hughes</td><td>University of Toronto, Canada</td></tr>
@@ -29,17 +29,17 @@ The invitees this year cover domains such as the microbiome of the human gut/ora
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Organizers</th></tr>
 <tr><td>Artem Babaian</td><td>Toronto</td></tr>
 <tr><td>Greg Gloor</td><td>Western</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Justin Silverman</td><td>PSU</td></tr>
 <tr><td>Erika Ganda</td><td>PSU</td></tr>
 <tr><td>Matthew Chung</td><td>NIH</td></tr>

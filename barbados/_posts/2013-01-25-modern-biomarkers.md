@@ -7,23 +7,17 @@ image: /assets/images/barbados/modern-biomarkers.png
 
 This meeting focused on the development of genomics-based approaches for the identification and implementation of biomarkerss for patient prognosis and benefit to therapy.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
+<tr><td>Sylvie Mader</td><td>Université de Montréal, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Organizers</strong></th></tr>
-<tr><td><a href="https://www.iric.ca/en/research/principal-investigators/sylvie-mader">Sylvie Mader</a></td><td>Universite de Montreal, Canada</td></tr>
-</tbody>
-</table>
-
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
-<tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td><a href="https://lab-dumeaux.science/">Vanessa Dumeaux</a></td><td>McGill University, Canada</td></tr>
 <tr><td>Justyna Kulpa</td><td>Universite de Montreal</td></tr>
 <tr><td><a href="https://www.mcgill.ca/qls/researchers/uri-david-akavia">Uri David Akavia</a></td><td>Columbia University</td></tr>

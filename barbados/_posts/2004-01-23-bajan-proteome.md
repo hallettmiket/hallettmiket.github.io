@@ -10,17 +10,17 @@ Our third Barbados workshop focused on proteomics including protein-protein inte
 
 <br>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 <tr><td>David Thomas</td><td>Biochemistry, McGill University</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>Catherine Au</td><td>Anatomy and Cell Biology, McGill University</td></tr>
 <tr><td><a href="https://www.mcgill.ca/anatomy/john-jm-bergeron">John Bergeron</a></td><td>Anatomy and Cell Biology, McGill University</td></tr>
 <tr><td>Charlotte-Ann Berglund</td><td>Stockholm Bioinformatics Centre</td></tr>

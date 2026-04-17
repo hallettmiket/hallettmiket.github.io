@@ -7,17 +7,17 @@ image: /assets/images/barbados/breast-cancer.png
 
 This was the first of our Barbados meetings to focus on breast cancer.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 <tr><td>Morag Park</td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td>T. Brown</td><td>U. of Toronto</td></tr>
 <tr><td>J. Bryan</td><td>Statistics, UBC</td></tr>
 <tr><td>H. Chen</td><td>Mol. Oncology, McGill LCM, Microarrays</td></tr>

@@ -7,17 +7,17 @@ image: /assets/images/barbados/genome-evolution.png
 
 Our first Barbados workshop focused on the development of algorithms for exploring genome evolution.
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Standing Committee</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
 <tr><td>Jens Lagergren</td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 </tbody>
 </table>
 
-<table class="barbados-roster" width="100%" cellspacing="0" cellpadding="4">
+<table class="barbados-roster">
 <tbody>
-<tr><th colspan="2" style="text-align:left"><strong>Invitees</strong></th></tr>
+<tr class="roster-head"><th colspan="2">Invitees</th></tr>
 <tr><td><a href="https://www.cs.tau.ac.il/research/benny.chor/">Benny Chor</a> <span title="in memoriam">🕯</span></td><td>Technion, Israel <em>(in memoriam)</em></td></tr>
 <tr><td><a href="https://tandy.cs.illinois.edu/">Tandy Warnow</a></td><td>University of Texas at Austin, U.S.A.</td></tr>
 <tr><td><a href="https://www.cs.mun.ca/~harold/">Todd Wareham</a></td><td>Memorial University of Newfoundland, Canada</td></tr>
