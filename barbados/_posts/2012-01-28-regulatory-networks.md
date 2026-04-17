@@ -29,7 +29,7 @@ This meeting focused on transcription factors, protein-DNA binding and the compl
 <tr><td width="25%"><a href="mailto:JLieb@bio.unc.edu">Jason Lieb</a></td><td width="35%">UNC Chapel Hill, USA</td><td width="40%">Functional genomics, gene regulation, and chromatin</td></tr> 
 <tr><td width="25%"><a href="mailto:Howard.Lipshitz@utoronto.ca">Howard Lipshitz</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">posttranscriptional regulation of gene expression in Drosophila</td></tr> 
  
-<tr><td width="25%"><a href="mailto:moerman@zoology.ubc.ca">Don Moerman</a></td><td width="35%">University of British Columbia, Canada</td><td width="40%">Basic genetics, transposon biology, genetic methodology, genomics and muscle development in Caenorhabditis elegans</td></tr> 
+<tr><td width="25%"><a href="mailto:moerman@zoology.ubc.ca">Don Moerman</a> 🕯 <em>(in memoriam)</em></td><td width="35%">University of British Columbia, Canada</td><td width="40%">Basic genetics, transposon biology, genetic methodology, genomics and muscle development in Caenorhabditis elegans</td></tr> 
 <tr><td width="25%"><a href="mailto:quaid.morris@gmail.com">Quaid Morris</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">Computational biology</td></tr> 
  
 <tr><td width="25%"><a href="mailto:toplanding@gmail.com">Corey Nislow</a></td><td width="35%">University of Toronto, Canada</td><td width="40%">Systems biology</td></tr> 

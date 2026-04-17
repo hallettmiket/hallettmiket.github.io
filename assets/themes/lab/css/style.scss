@@ -408,3 +408,45 @@ img {
 	display: table-cell;
   vertical-align: top;
 }
+
+/* Barbados/Bellairs workshop posts: normalize the inline typography
+   across 20+ years of heterogeneous source markup. Every post goes
+   inside a `.barbados` wrapper (see barbados/index.html), so any
+   inline spans/tables inherit one consistent font and size here. */
+.barbados {
+	font-family: $font-stack;
+	font-weight: $font-weight-base;
+	font-size: $font-size-base;
+	color: $primary-color;
+	line-height: 1.5;
+}
+.barbados p,
+.barbados span,
+.barbados table,
+.barbados td,
+.barbados th,
+.barbados li,
+.barbados div {
+	font-family: $font-stack !important;
+	font-size: $font-size-base !important;
+	font-weight: $font-weight-base !important;
+	color: $primary-color;
+}
+.barbados strong,
+.barbados b {
+	font-weight: $heavy-font-weight !important;
+}
+.barbados table {
+	margin: 0.75em 0;
+	border-collapse: collapse;
+}
+.barbados td,
+.barbados th {
+	padding: 4px 10px;
+	vertical-align: top;
+	border: 0;
+}
+.barbados a {
+	color: $primary-color;
+	text-decoration: underline;
+}

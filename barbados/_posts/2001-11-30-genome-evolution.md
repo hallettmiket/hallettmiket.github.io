@@ -19,7 +19,7 @@ Our first Barbados workshop focused on the development of algorithms for explori
     <td width="15%">Michael Hallett</td>
     <td width="30%">McGill University, Canada</td>
     <td width="8%">&nbsp;</td>
-    <td width="24%">Benny Chor</td>
+    <td width="24%">Benny Chor 🕯 <em>(in memoriam)</em></td>
     <td width="23%">Technicon, Israel</td>
   </tr>
   <tr> 
@@ -49,7 +49,7 @@ Our first Barbados workshop focused on the development of algorithms for explori
     <td width="15%"></td>
     <td width="30%"></td>
     <td width="8%">&nbsp;</td>
-    <td width="24%">Alberto Caprara</td>
+    <td width="24%">Alberto Caprara 🕯 <em>(in memoriam)</em></td>
     <td width="23%"> Universitš di Bologna, Italy</td>
   </tr>
   <tr> 

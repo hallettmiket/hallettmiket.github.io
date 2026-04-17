@@ -182,10 +182,6 @@ Here we focused on the role of the immune system in cancer progression, and on t
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IRIC, U of Montreal&quot;}" data-sheets-ischild=""><a href="https://www.iric.ca/en/research/principal-investigators/claude-perreault/?section=team">IRIC, U of Montreal</a></td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Claudia Kleinman&quot;}" data-sheets-ischild="">Claudia Kleinman</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jewish General Hospital and McGill &quot;}" data-sheets-ischild=""><a href="http://www.functionalgenomics.ca/wp/">Jewish General Hospital and McGill </a></td>
-</tr>
-<tr>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Etienne Gagnon&quot;}" data-sheets-ischild="">Etienne Gagnon</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IRIC, U of Montreal&quot;}" data-sheets-ischild=""><a href="https://www.iric.ca/en/research/principal-investigators/etienne-gagnon/">IRIC, U of Montreal</a></td>
 </tr>

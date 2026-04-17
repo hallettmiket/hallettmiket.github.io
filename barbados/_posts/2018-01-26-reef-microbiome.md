@@ -37,7 +37,6 @@ Here we focused on the genomic of coral and its microbiome.
 <tr><td width="35%">Stefan Bertilsson</td><td width="65%">Uppsala University, SciLifeLabs	</td></tr> 
 <tr><td width="35%">Erin Bertrand</td><td width="65%">Dalhousie University, Canada</td></tr> 
 <tr><td width="35%">Adrienne Correa</td><td width="65%">Rice University	</td></tr> 
-<tr><td width="35%">Ford Doolittle</td><td width="65%">Dalhousie University</td></tr> 
 <tr><td width="35%">Stephen Giovannoni</td><td width="65%">Oregon State University</td></tr> 
 <tr><td width="35%">Hans-Peter Grossart</td><td width="65%">Leibniz-Institute of Freshwater Ecology and Inland Fisheries</td></tr> 
 <tr><td width="35%">Lee Henry</td><td width="65%">Queen Mary, University of London</td></tr> 

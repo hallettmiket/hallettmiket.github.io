@@ -102,11 +102,6 @@ The focus of this meeting had much of the CCBR-Donnelly in attendance. It was on
 
 </tr>
 <tr>
-<td class="td1" valign="middle">Steve Scherer</td>
-<td class="td2" valign="middle"><a href="http://www.tcag.ca/scherer/">University of Toronto</a></td>
-
-</tr>
-<tr>
 <td class="td1" valign="middle">Mike Tyers</td>
 <td class="td2" valign="middle"><a href="http://www.iric.ca/en/research/principal-investigators/michael-tyers/">IRIC, University of Montreal</a></td>
 

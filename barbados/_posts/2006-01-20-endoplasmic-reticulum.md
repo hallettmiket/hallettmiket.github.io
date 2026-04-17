@@ -103,12 +103,6 @@ C. Elegans, UPR</td>  </tr>
 <td> Secretory system</td>  </tr>
 
   <tr> 
-    <td><a href="mailto:lindquist_admin@wi.mit.edu">Susan Lindquist</a></td>
-    <td><a href="http://www.wi.mit.edu/research/faculty/lindquist.html">Whitehead/MIT </a> </td>
-<td> Stress response/chaperones</td>  </tr>
-
-
-  <tr> 
     <td><a href="mailto:glukacs@sickkids.on.ca">Gergely Lukacs</a></td>
     <td><a href="http://icarus.med.utoronto.ca/patho/faculty.asp?FacultyID=182">Sick Kids Research, Univ. of Toronto </a> </td>
 <td> CFTR</td>  </tr>

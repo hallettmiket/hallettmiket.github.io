@@ -38,7 +38,6 @@ The invitees discusssed protein-protein, genetic and chemical-genetic interactio
 <tr><td><a href="http://polaris.icmb.utexas.edu/home.html">Edward Marcotte</a></td><td>CSSB, ICMB, University of Texas</td><td>Protein function and interaction informatics</td></tr>
 <tr><td><a href="http://http://michnick.bcm.umontreal.ca/">Stephen Michnick</a></td><td>Biochemistry, Universit&eacute; de Montr&eacute;al</td><td>Biochemical and genetic networks, HTP protein interaction studies</td></tr>
 <tr><td><a href="http://www.utoronto.ca/medicalgenetics/PIs/nislow.htm">Corey Nislow</a></td><td>BBDMR, Donnelly CCBR, University of Toronto</td><td>Nucleosome occupancy, chemical genomics</td></tr>
-<tr><td><a href="http://pawsonlab.mshri.on.ca/">Tony Pawson</a></td><td>SLRI, University of Toronto</td><td>Signal transduction</td></tr>
 <tr><td><a href="http://www.nyu.edu/fas/dept/biology/faculty/piano/">Fabio Piano</a></td><td>Biology, NYU</td><td>Functional genomics, early embryogenesis in nematodes</td></tr>
 <tr><td><a href="http://umr599-en.marseille.inserm.fr/-Functional-Genomics-AVENIR-Group-.html">J&eacute;r&ocirc;me Reboul</a></td><td>Functional Genomics, Marseilles Cancer Research Center, INSERM</td><td>Molecular networks implicated in epithelial polarity, <i>C. elegans</i></td></tr>
 <tr><td><a href="http://llama.med.harvard.edu/">Fritz Roth</a></td><td>CCSB, Biological Chemistry and Molecular Pharmacology, Harvard Medical School</td><td>genetic pathways, alternative splicing, integration informatics</td></tr>
@@ -46,6 +45,5 @@ The invitees discusssed protein-protein, genetic and chemical-genetic interactio
 <tr><td><a href="http://www.mcgill.ca/biochemistry/department/faculty/thomas/">David Thomas</a></td><td>Biochemistry, McGill University</td><td>Chemical genomics, cell signaling, endoplasmic reticulum</td></tr>
 <tr><td><a href="http://polaris.icmb.utexas.edu/people/cvogel/">Christine Vogel</a></td><td>CSSB, ICMB, University of Texas</td><td>Bioinformatics for genome evolution, protein expression</td></tr>
 <tr><td><a href="http://www.umassmed.edu/igp/faculty/walhout.cfm">AJ Marian Walhout</a></td><td>Molecular Medicine, Gene Function and Expression, UMass Medical School</td><td>Transcription regulatory circuits in <i>C. elegans</i></td></tr>
-<tr><td><a href="http://biology.mcgill.ca/faculty/zetka/index.html">Monique Zetka</a></td><td>Biology, McGill University</td><td>Meiosis in <i>C. elegans</i></td></tr>
 </tbody>
 </table>

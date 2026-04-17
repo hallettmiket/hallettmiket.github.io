@@ -81,16 +81,6 @@ The focus of this meeting was on computational models of tumorigenesis and tumor
 
 </tr>
 <tr>
-<td class="td1" valign="middle">Charlotte Kuperwasser</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Kupperwasser Profile" href="http://sackler.tufts.edu/Faculty-and-Research/Faculty-Profiles/Charlotte-Kuperwasser-Profile" target="_blank">Tufts University, Boston, USA</a></span></td>
-
-</tr>
-<tr>
-<td class="td1" valign="middle">Jorge Reis-Filho</td>
-<td class="td2" valign="middle"><span class="p2"><a title="Reis-Filho Profile" href="http://www.mskcc.org/research/lab/jorge-reis-filho" target="_blank">Memorial Sloan-Kettering, NY, USA</a></span></td>
-
-</tr>
-<tr>
 <td class="td1" valign="middle">Fraser Symmans</td>
 <td class="td2" valign="middle"><span class="p2"><a title="Symmans Profile" href="http://www.bcrfcure.org/action_grantees_symmans.html" target="_blank">MD Anderson, Texas, USA</a></span></td>
 </tr>
