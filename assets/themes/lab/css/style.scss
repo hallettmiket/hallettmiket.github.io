@@ -472,3 +472,18 @@ img {
 	width: 40%;
 	white-space: nowrap;
 }
+
+/* Delineate each workshop year on the /barbados/ timeline page with a
+   subtle divider + alternating background. The outer `.barbados` wrapper
+   is a direct child of `.post-list`; the inner `.barbados` (the post
+   body) is nested deeper and unaffected. */
+.post-list > .barbados {
+	padding: 2.5em 1em;
+	border-top: 2px solid #cfcfcf;
+}
+.post-list > .barbados:first-child {
+	border-top: 0;
+}
+.post-list > .barbados:nth-child(even) {
+	background-color: #f5f5f5;
+}
