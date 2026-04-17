@@ -13,7 +13,7 @@ Here we focused on the genomic of coral and its microbiome.
 
 <table class="barbados-roster">
 <tbody>
-<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr class="roster-head"><th colspan="2">Committee</th></tr>
 <tr><td>Vanessa Dumeaux</td><td>Concordia University, Canada</td></tr>
 <tr><td>Mike Hallett</td><td>Concordia University, Canada</td></tr>
 <tr><td>David Walsh</td><td>Concordia University, Canada</td></tr>

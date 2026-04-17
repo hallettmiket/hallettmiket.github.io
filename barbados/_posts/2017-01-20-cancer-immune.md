@@ -13,7 +13,7 @@ Here we focused on the role of the immune system in cancer progression, and on t
 
 <table class="barbados-roster">
 <tbody>
-<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr class="roster-head"><th colspan="2">Committee</th></tr>
 <tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 <tr><td>Therese Sorlie</td><td>Oslo University Hospital, Norway</td></tr>

@@ -8,7 +8,7 @@ image: /assets/images/barbados/chemical-genomics.png
 
 <table class="barbados-roster">
 <tbody>
-<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr class="roster-head"><th colspan="2">Committee</th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 <tr><td>Sarah Jenna</td><td>Université de Québec à Montréal</td></tr>
 <tr><td>David Thomas</td><td>Biochemistry, McGill University</td></tr>

@@ -13,7 +13,7 @@ The focus of this meeting had much of the CCBR-Donnelly in attendance. It was on
 
 <table class="barbados-roster">
 <tbody>
-<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr class="roster-head"><th colspan="2">Committee</th></tr>
 <tr><td>Vanessa Dumeaux</td><td>McGill University, Canada</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 <tr><td>Brenda Andrews</td><td>University of Toronto, Canada</td></tr>

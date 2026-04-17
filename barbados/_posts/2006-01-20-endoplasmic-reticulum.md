@@ -9,7 +9,7 @@ This meeting brought together researchers interested in diseases of the secretor
 
 <table class="barbados-roster">
 <tbody>
-<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr class="roster-head"><th colspan="2">Committee</th></tr>
 <tr><td>David Thomas</td><td>Biochemistry, McGill University</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 </tbody>

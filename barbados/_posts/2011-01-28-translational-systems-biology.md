@@ -9,7 +9,7 @@ The central topic of this meeting was to explore the use of techniques from syst
 
 <table class="barbados-roster">
 <tbody>
-<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr class="roster-head"><th colspan="2">Committee</th></tr>
 <tr><td>Vanessa Dumeaux</td><td>University of Tromsø, Norway</td></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 </tbody>

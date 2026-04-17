@@ -13,7 +13,7 @@ This meeting brought together researchers interested in understanding how genomi
 
 <table class="barbados-roster">
 <tbody>
-<tr class="roster-head"><th colspan="2">Standing Committee</th></tr>
+<tr class="roster-head"><th colspan="2">Committee</th></tr>
 <tr><td>Mike Hallett</td><td>McGill University, Canada</td></tr>
 <tr><td>Jens Lagergren</td><td>Stockholm Bioinformatics Centre, Sweden</td></tr>
 <tr><td>Ben Raphael</td><td>Brown University, USA</td></tr>
