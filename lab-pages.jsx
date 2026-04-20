@@ -24,7 +24,7 @@ const CAROUSEL_IMAGES = [
   { src: GH_IMG + 'web_images/Photo%2011.jpg', caption: 'Hallett Lab', pos: 'center 35%' },
   { src: GH_IMG + 'web_images/76N0xTT1_400x400.jpg', caption: 'Hallett Lab', pos: 'center 35%' },
   { src: GH_IMG + 'web_images/candescence-pix.jpg', caption: 'Candescence', pos: 'center 35%' },
-  { src: GH_IMG + 'web_images/candescence-logo%20copy.png', caption: 'Candescence', pos: 'center 35%', fit: 'contain', bg: '#f0ede6' },
+  { src: GH_IMG + 'web_images/candescence-logo.png', caption: 'Candescence', pos: 'center 35%', fit: 'contain', bg: '#f0ede6' },
   { src: GH_IMG + 'web_images/preffect.png', caption: 'PREFFECT', pos: 'center 35%', fit: 'contain', bg: '#f0ede6' },
   { src: GH_IMG + 'web_images/western_profilepix.jpeg', caption: 'Hallett Lab, Western University', pos: 'center 35%' },
   { src: GH_IMG + 'web_images/DSC08259.jpg', caption: 'Hallett Lab', pos: 'center 45%' },

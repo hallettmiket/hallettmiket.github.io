@@ -109,8 +109,7 @@ Standalone) are loaded from CDN and retain their own licenses.
 
 **The MIT License (MIT)**
 
-Copyright (c) 2013–2016 Trevor Bedford (original Jekyll template)
-Copyright (c) 2017–2026 Hallett Lab
+Copyright (c) 2013–2026 Hallett Lab, Western University
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
