@@ -401,7 +401,7 @@ const ResearchDetailCandida = ({ onBack }) => (
 
     <div style={{ display: 'flex', alignItems: 'center', gap: 10, margin: '28px 0 12px' }}>
       <div style={{ width: 4, height: 24, background: PURPLE, borderRadius: 2 }} />
-      <img src="https://raw.githubusercontent.com/hallettmiket/hallettmiket.github.io/master/assets/images/candescence-logo.png" alt="Candescence" style={{ height: 32, objectFit: 'contain' }} />
+      <img src="https://raw.githubusercontent.com/hallettmiket/hallettmiket.github.io/master/assets/images/web_images/candescence-logo%20copy.png" alt="Candescence" style={{ height: 32, objectFit: 'contain' }} />
       <h2 style={{ fontFamily: "'EB Garamond', Georgia, serif", fontSize: 22, fontWeight: 600, color: TEXT, margin: 0 }}>Candescence: convolutional networks for fungal morphology</h2>
     </div>
     <p style={{ fontSize: 14, lineHeight: 1.85, color: TEXT, margin: '0 0 14px', textWrap: 'pretty' }}>
@@ -455,7 +455,7 @@ const ResearchDetailDeepLearning = ({ onBack }) => (
     {/* Candescence */}
     <div style={{ display: 'flex', alignItems: 'center', gap: 10, margin: '28px 0 12px' }}>
       <div style={{ width: 4, height: 24, background: PURPLE, borderRadius: 2 }} />
-      <img src="https://raw.githubusercontent.com/hallettmiket/hallettmiket.github.io/master/assets/images/candescence-logo.png" alt="Candescence" style={{ height: 32, objectFit: 'contain' }} />
+      <img src="https://raw.githubusercontent.com/hallettmiket/hallettmiket.github.io/master/assets/images/web_images/candescence-logo%20copy.png" alt="Candescence" style={{ height: 32, objectFit: 'contain' }} />
       <h2 style={{ fontFamily: "'EB Garamond', Georgia, serif", fontSize: 22, fontWeight: 600, color: TEXT, margin: 0 }}>Candescence: convolutional networks for fungal morphology</h2>
     </div>
     <p style={{ fontSize: 14, lineHeight: 1.85, color: TEXT, margin: '0 0 14px', textWrap: 'pretty' }}>

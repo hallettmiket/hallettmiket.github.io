@@ -1,103 +1,133 @@
-# Hallett Lab research website
+# Hallett Lab website
 
+Source for <https://mikehallett.science> (also served at
+<https://hallettmiket.github.io>).
 
-## Build site
+The site is a single-page React application, transpiled in-browser
+via Babel Standalone. **No build step is required** — GitHub Pages
+serves the files directly.
 
-To build the website locally, clone the repo with:
-
-```
-git clone --recurse-submodules https://github.com/vdumeaux/researchweb.git
-```
-
-Then install necessary Ruby dependencies by running:
+## Repository layout
 
 ```
-bundle install
+index.html              React entry point + Babel runtime
+lab-components.jsx      Shared UI (Nav, Footer, team helpers, …)
+lab-pages.jsx           Page components — Home, Research, Team,
+                        Blog, Software, Courses, Ethos, Contact,
+                        Join, and the Carousel.
+lab-research-detail.jsx Detail pages for the four research areas.
+lab-barbados-data.jsx   Barbados workshop roster data (2001-2026).
+
+CNAME                   Custom domain for GitHub Pages.
+.nojekyll               Tells GitHub Pages to skip Jekyll.
+ready_to_delete.md      Running checklist of obsolete files still
+                        in the repo (mostly the old Jekyll tree).
+
+assets/
+  images/
+    barbados/           Per-workshop group photos and theme images
+                        referenced by the Barbados page.
+    funding_agencies/   Logos shown on research pages.
+    site/               Site-chrome images (Western/Schulich logos,
+                        lab-logo, nav/headshot PNGs).
+    team/               Current-member headshots referenced by the
+                        Team page. Filenames are declared inline in
+                        lab-pages.jsx (`TEAM` array, `img` field).
+    web_images/         Photos cycled by the Home-page carousel.
+  pdfs/                 Any PDFs linked from page content.
 ```
 
-from within the `shahwebsite` directory. If you do not have root permissions you may need to run:
+## Local preview
 
-```
-bundle install --path vendor/bundle
-```
+GitHub Pages renders everything it needs straight from `index.html`,
+but during development it's handy to run a tiny web server so that
+relative paths work the same way they do in production:
 
-After this, the site can be be built with:
-
-```
-bundle exec jekyll build
-```
-
-(If you are getting errors at this stage, it may be due to your version of `bundle`. Try `gem uninstall bundler` + `gem install bundler -v 1.13.1`.)
-
-To view the site, run `bundle exec jekyll serve` and point a browser to `http://localhost:4000/`. More information on Jekyll can be found [here](http://jekyllrb.com/).
-
-To include projects, preprocessing scripts are necessary to clone project repos and update Jekyll metadata. This can be accomplished with:
-
-```
-bundle exec ruby _scripts/update-and-preprocess.rb
+```bash
+python3 -m http.server 8000
+# then open http://localhost:8000/
 ```
 
-> Note that you need to create a .netrc file to allow the ruby script to pull data using the github api.
+React + React DOM + Babel Standalone are loaded from `unpkg.com`
+CDN URLs in `index.html` — nothing to install.
 
-Then `bundle exec jekyll build` works as normal.
+## Editing content
 
-In short, running `bundle install && bundle exec ruby _scripts/update-and-preprocess.rb && bundle exec jekyll build && bundle exec jekyll serve` will do everything you need.
+- **Research projects**: update `lab-research-detail.jsx`. The four
+  research pages each live in their own component
+  (`ResearchDetailBreast`, `ResearchDetailCoinSeq`,
+  `ResearchDetailCandida`, `ResearchDetailDeepLearning`).
+- **Team members**: update the `TEAM` array near the top of
+  `lab-pages.jsx`. Drop the headshot into
+  `assets/images/team/<handle>.jpg` and reference it as
+  `team/<handle>.jpg` in the `img` field.
+- **Home carousel**: edit the `CAROUSEL_IMAGES` array at the top of
+  `lab-pages.jsx`. Put images in `assets/images/web_images/`.
+- **Blog posts**: update the `BLOG_POSTS` array in `lab-pages.jsx`.
+- **Barbados workshops**: data lives in `lab-barbados-data.jsx`;
+  per-workshop rosters (Standing Committee, Organizers, Invitees)
+  and group-photo pointers.
 
-## Updating
+Open `index.html` in an editor; the hot-refresh workflow is simply
+"save → reload the browser tab". There is no bundler.
 
-The website is built using Travis, with builds triggered for each commit. If you commit your changes to a branch and do a pull request, Travis will build your branch and you will be able to check your changes build correctly before going live. Commit your changes to master and they will go live in a few minutes.
+## Hosting
 
-## Contribute
+- **Domain**: `mikehallett.science` (primary) and
+  `www.mikehallett.science`, managed by Netlify DNS but served by
+  GitHub Pages. A records point to
+  `185.199.108–111.153`; CNAME `www` → `hallettmiket.github.io`.
+- **HTTPS**: Let's Encrypt certificate auto-issued by GitHub Pages.
+  Toggled on in repo **Settings → Pages → Enforce HTTPS**.
+- **Publishing**: every push to `master` triggers a GitHub Pages
+  rebuild; deploys in under a minute.
 
-Blog posts just require YAML top matter that looks something like:
+## Deployment checklist when updating
 
-```
----
-layout: post
-title: Newton Institute presentation
-author_handle: Trevor Bedford
-link: http://www.newton.ac.uk/programmes/IDD/seminars/2013082213301.html
-image: /images/blog/transmission.png
----
-```
+1. Edit the relevant `.jsx` file.
+2. Reload `http://localhost:8000/` or the live URL to verify.
+3. `git add`, `git commit`, `git push origin master`.
 
-The `layout`, `title` and `author_handle` tags are required, while `link` and `image` tags are optional. Just save a Markdown file with this top matter as something like `blog/_posts/2013-08-27-newton-institute.md`, where `2013-08-27` is the date of the post and `newton-institute` is the short title. The `author_handle` tag on the blog post must match the `handle` tag in the `.md` file of the team member authoring the post (team member `.md` files can be found in `team/_posts`). This short title is used in the URL of the post, so this becomes `blog/newton-institute/`, so the short title should be long enough and unique enough not to cause conflicts with other posts.
+No Rake tasks, no `bundle exec`, no Jekyll preprocessing any more.
 
-## Adding a new publication
+## History
 
-Specific to the Shah Lab, for each new paper added
-
-1) Find the relevant entry on Pubmed, note the numerical pubmed ID
-    e.g.: https://www.ncbi.nlm.nih.gov/pubmed/29449679
-2) Obtain the metadata XML from Pubmed:
-    - From the link found in 1) click the Send to in the top right
-    - Select File radio button, Format XML drop down, then Create File
-    - Insert the PubmedArticle entry into ./assets/pubmed_results.xml
-3) Download the PDF, rename and place into the assets directory:
-    e.g.: ./assets/pdfs/papers/29449679.pdf
-4) Create a image for the paper, preferably a square .png file, name and place:
-    e.g.: ./assets/images/papers/29449679.png
-5) Run the following command `bundle exec ruby _scripts/add-papers.rb` to generate a page for your paper, and then make sure it appears on the website when the site is hosted locally (use `bundle exec jekyll build && bundle exec jekyll serve` to host a local server)
-6) If the local server's website looks okay, commit your changes and push to production
-
-
-## For more information
-
-* How to add [papers](https://github.com/shahcompbio/shahwebsite)
-* Look over the [metadata format guide](http://bedford.io/guide/format/)
-* Look over the [Markdown style guide](http://bedford.io/guide/style/)
-
+The previous version of this site was a Jekyll build with
+collections for team, papers, blog, barbados, software, courses,
+ethos, and misc. All of that was migrated into the React data
+files in April 2026 and the Jekyll scaffolding was removed. The
+old asset inventory still being cleaned up is tracked in
+[`ready_to_delete.md`](ready_to_delete.md).
 
 ## License
 
-All source code in this repository, consisting of files with extensions `.html`, `.css`, `.less`, `.rb` or `.js`, is freely available under an MIT license, unless otherwise noted within a file.
+Content: Copyright © 2013–2026 Hallett Lab, Western University.
+
+Source code (`.html`, `.jsx`, `.css`) is released under the MIT
+License (see below). Some third-party components (React, Babel
+Standalone) are loaded from CDN and retain their own licenses.
 
 **The MIT License (MIT)**
 
-Copyright (c) 2013-2016 Trevor Bedford
+Copyright (c) 2013–2016 Trevor Bedford (original Jekyll template)
+Copyright (c) 2017–2026 Hallett Lab
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
