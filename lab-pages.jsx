@@ -17,7 +17,7 @@ const CAROUSEL_IMAGES = [
   { src: GH_IMG + 'web_images/IMG_2443.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
   { src: GH_IMG + 'web_images/IMG_2456.jpeg', caption: 'Hallett Lab', pos: 'center 60%' },
   { src: GH_IMG + 'web_images/IMG_2532.JPG', caption: 'Hallett Lab', pos: 'center 20%' },
-  { src: GH_IMG + 'web_images/IMG_2532.jpeg', caption: 'Hallett Lab', pos: 'center 75%' },
+  { src: GH_IMG + 'web_images/IMG_2532.jpeg', caption: 'Hallett Lab', pos: 'center 90%' },
   { src: GH_IMG + 'web_images/IMG_2595.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
   { src: GH_IMG + 'web_images/IMG_2758.jpeg', caption: 'Hallett Lab', pos: 'center 55%' },
   { src: GH_IMG + 'web_images/candescence-pix.jpg', caption: 'Candescence', pos: 'center 35%' },
