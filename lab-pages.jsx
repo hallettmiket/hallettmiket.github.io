@@ -17,14 +17,14 @@ const CAROUSEL_IMAGES = [
   { src: GH_IMG + 'web_images/IMG_2443.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
   { src: GH_IMG + 'web_images/IMG_2456.jpeg', caption: 'Hallett Lab', pos: 'center 60%' },
   { src: GH_IMG + 'web_images/IMG_2532.JPG', caption: 'Hallett Lab', pos: 'center 20%' },
-  { src: GH_IMG + 'web_images/IMG_2532.jpeg', caption: 'Hallett Lab', pos: 'center 55%' },
+  { src: GH_IMG + 'web_images/IMG_2532.jpeg', caption: 'Hallett Lab', pos: 'center 65%' },
   { src: GH_IMG + 'web_images/IMG_2595.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
-  { src: GH_IMG + 'web_images/IMG_2758.jpeg', caption: 'Hallett Lab', pos: 'center 45%' },
+  { src: GH_IMG + 'web_images/IMG_2758.jpeg', caption: 'Hallett Lab', pos: 'center 55%' },
   { src: GH_IMG + 'web_images/candescence-pix.jpg', caption: 'Candescence', pos: 'center 35%' },
   { src: GH_IMG + 'web_images/candescence-logo.png', caption: 'Candescence', pos: 'center 35%', fit: 'contain', bg: '#f0ede6' },
   { src: GH_IMG + 'web_images/preffect.png', caption: 'PREFFECT', pos: 'center 35%', fit: 'contain', bg: '#f0ede6' },
   { src: GH_IMG + 'web_images/western_profilepix.jpeg', caption: 'Hallett Lab, Western University', pos: 'center 35%' },
-  { src: GH_IMG + 'web_images/DSC08259.jpg', caption: 'Hallett Lab', pos: 'center 55%' },
+  { src: GH_IMG + 'web_images/DSC08259.jpg', caption: 'Hallett Lab', pos: 'center 65%' },
 ];
 
 const Carousel = ({ navigate }) => {
