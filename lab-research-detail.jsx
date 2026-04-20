@@ -264,11 +264,11 @@ const CoinSeqGraphic = () => (
 );
 
 const CandidaGraphic = () => (
-  <div style={{ margin: '24px 0' }}>
+  <div style={{ margin: '24px 0', textAlign: 'center' }}>
     <img
       src="https://raw.githubusercontent.com/hallettmiket/hallettmiket.github.io/master/assets/images/elife.jpg"
       alt="Candida albicans phenotypic heterogeneity"
-      style={{ width: '100%', borderRadius: 2, border: `1px solid ${BORDER}`, display: 'block' }}
+      style={{ width: '50%', maxWidth: 460, borderRadius: 2, border: `1px solid ${BORDER}`, display: 'inline-block' }}
     />
   </div>
 );
