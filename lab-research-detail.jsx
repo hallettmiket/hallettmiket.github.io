@@ -448,7 +448,6 @@ const ResearchDetailDeepLearning = ({ onBack }) => (
     <div style={{ fontFamily: "'Courier Prime', monospace", fontSize: 11, color: MUTED, marginBottom: 6 }}>04</div>
     <h1 style={{ fontFamily: "'EB Garamond', Georgia, serif", fontSize: 36, fontWeight: 400, color: TEXT, margin: '0 0 6px', letterSpacing: '-0.5px' }}>Deep Learning in the Life Sciences</h1>
     <p style={{ fontSize: 14, color: MUTED, margin: '0 0 24px', fontStyle: 'italic' }}>Generative models, neural architectures, and probabilistic methods applied across our research programs</p>
-    <DeepLearningGraphic />
     <p style={{ fontSize: 14, lineHeight: 1.85, color: TEXT, margin: '0 0 16px', textWrap: 'pretty' }}>
       Deep learning and generative modelling are not peripheral to our work — they are central to how we analyze molecular data across all four of our research programs. Probabilistic modelling, Bayesian inference, generative modelling and neural network theory are core to our research goals.
     </p>
@@ -512,6 +511,6 @@ const AREA_PAPERS = {};
 
 Object.assign(window, {
   ResearchDetailBreast, ResearchDetailCoinSeq, ResearchDetailCandida, ResearchDetailDeepLearning,
-  CoinSeqGraphic, CandidaGraphic, DeepLearningGraphic, BreastCancerGraphic: ClassificationGraphic,
+  CoinSeqGraphic, CandidaGraphic, BreastCancerGraphic: ClassificationGraphic,
   AREA_PAPERS, PaperCard,
 });
