@@ -1,122 +1,147 @@
----
-layout: default
-title: Home
----
-{% include JB/setup %}
-{% for page in site.categories.misc %}
-{% if page.homepage %}
-	{% assign homepage = page %}
-{% endif %}
-{% endfor %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hallett Lab · Western University</title>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body { background: #faf8f5; font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #1a1a1a; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; text-decoration: none; }
+  /* Content links: dotted bottom border instead of underline */
+  a[href][style*="color"] {
+    text-decoration: none;
+    border-bottom: 1px dotted currentColor;
+    opacity: 0.9;
+    transition: opacity 0.15s;
+  }
+  a[href][style*="color"]:hover { opacity: 1; }
+  button { font-family: inherit; }
+  #root { min-height: 100vh; display: flex; flex-direction: column; }
 
-<div class="bigspacer"></div>
+  /* Tweaks panel */
+  #tweaks-panel {
+    position: fixed; bottom: 24px; right: 24px; z-index: 2000;
+    background: #fff; border: 2px solid #1a1a1a; border-radius: 2px;
+    box-shadow: 4px 4px 0 #1a1a1a; width: 220px; padding: 16px;
+    display: none;
+  }
+  .tweaks-title { font-family: 'EB Garamond', Georgia, serif; font-size: 18px; font-weight: 600; color: #4F2683; margin-bottom: 14px; }
+  .tweak-row { margin-bottom: 12px; }
+  .tweak-row label { display: block; font-size: 10px; text-transform: uppercase; letter-spacing: 1px; color: #888; margin-bottom: 5px; }
+  .tweak-row select { width: 100%; font-size: 12px; padding: 4px; border: 1px solid #ddd; }
+  .tweak-check { display: flex; align-items: center; gap: 6px; font-size: 12px; color: #555; }
+</style>
+</head>
+<body>
+<div id="root"></div>
 
-<div class="row">
-	<!-- Left column (col 1): Blog, full length -->
-	<div class="col-md-4">
-		<div class="head">
-			<a class="off" href="/blog/">Blog</a>
-		</div>
-		<div class="bigspacer"></div>
-		<div class="feedbox pad-left">
-			{% for post in site.categories.blog limit:20 %}
-
-				<div class="note-title">
-					<i class="fa fa-comment-o fa-fw"></i>
-					<a class="off" href="{{ post.url }}">
-					{{ post.title }}
-					</a>
-				</div>
-				<div class="smallspacer"></div>
-				<div class="smallnote">
-					Posted
-					{{ post.date | date_to_string }}
-					{% if author %}
-					by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
-					{% endif %}
-				</div>
-				<div class="spacer"></div>
-				<div class="spacer"></div>
-			{% endfor %}
-		</div>
-		<div class="bigspacer"></div>
-	</div>
-
-	<!-- Right side (cols 2-3): image across the top, then content, then Bluesky + Papers -->
-	<div class="col-md-8">
-		<div class="carousel-overlay logotitle logobox">
-			<!-- {{ homepage.title }} -->
-		</div>
-		<div id="carousel" class="carousel carousel-fade" data-ride="carousel">
-		  <ol class="carousel-indicators">
-		    <li data-target="#carousel" data-slide-to="0" class="active"></li>
-		    <li data-target="#carousel" data-slide-to="1"></li>
-		    <li data-target="#carousel" data-slide-to="2"></li>
-		  </ol>
-		  <div class="carousel-inner">
-		    <div class="active item">
-		    	<img src="/assets/images/summer_western.png" style="max-width: 400px; width: 100%; height: auto;" alt="">
-		    	<figcaption align="right"></figcaption>
-		    </div>
-		  </div>
-		  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-		    <span class="glyphicon glyphicon-chevron-left"></span>
-		  </a>
-		  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-		    <span class="glyphicon glyphicon-chevron-right"></span>
-		  </a>
-		</div>
-
-		<div class="hugespacer"></div>
-
-		<div class="smallhead">
-			{{ homepage.content }}
-		</div>
-
-		<div class="hugespacer"></div>
-
-		<div class="row">
-			<div class="col-md-6">
-				<div class="head">
-					<a class="off" href="https://bsky.app/profile/hallettmiket.bsky.social">Bluesky</a>
-				</div>
-				<div class="bigspacer"></div>
-				<div class="feedbox pad-left">
-					<script async src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" type="module"></script>
-					<bsky-embed username="hallettmiket.bsky.social" limit="5" mode="light"></bsky-embed>
-				</div>
-				<div class="bigspacer"></div>
-			</div>
-			<div class="col-md-6">
-				<div class="head">
-					<a class="off" href="/papers/">Papers</a>
-				</div>
-				<div class="bigspacer"></div>
-				<div class="feedbox pad-left">
-					{% for paper in site.categories.papers limit:4 %}
-						<div class="note-title">
-							<i class="fa fa-file-text-o fa-fw"></i>
-							<a class="off" href="{{ paper.url }}">
-							{{ paper.title }}
-							</a>
-							<br/>
-							<div class='shortref note'>
-							{{ paper.shortref }}
-							</div>
-						</div>
-						<div class="smallspacer"></div>
-						<div class="smallnote">
-							Published
-							{{ paper.date | date_to_string }}
-						</div>
-						<div class="spacer"></div>
-						<div class="spacer"></div>
-					{% endfor %}
-				</div>
-				<div class="bigspacer"></div>
-			</div>
-		</div>
-	</div>
+<!-- Tweaks panel -->
+<div id="tweaks-panel">
+  <div class="tweaks-title">Tweaks</div>
+  <div class="tweak-row">
+    <label>Navigate to page</label>
+    <select id="tweak-page" onchange="window.__setPage && window.__setPage(this.value)">
+      <option value="home">Home</option>
+      <option value="blog">Blog</option>
+      <option value="research">Research</option>
+      <option value="team">Team</option>
+      <option value="software">Software</option>
+      <option value="courses">Courses</option>
+      <option value="barbados">Barbados</option>
+      <option value="ethos">Ethos</option>
+      <option value="contact">Contact</option>
+      <option value="join">Join Us</option>
+    </select>
+  </div>
+  <div class="tweak-row">
+    <div class="tweak-check">
+      <input type="checkbox" id="tweak-serif-body" onchange="document.body.style.fontFamily=this.checked?'\'EB Garamond\',Georgia,serif':''">
+      <span>Serif body text</span>
+    </div>
+  </div>
+  <div class="tweak-row">
+    <div class="tweak-check">
+      <input type="checkbox" id="tweak-wide" onchange="applyWide(this.checked)">
+      <span>Wider layout</span>
+    </div>
+  </div>
 </div>
 
-<div class="bigspacer"></div>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<script type="text/babel" src="lab-components.jsx"></script>
+<script type="text/babel" src="lab-barbados-data.jsx"></script>
+<script type="text/babel" src="lab-research-detail.jsx"></script>
+<script type="text/babel" src="lab-pages.jsx"></script>
+
+<script type="text/babel">
+const { useState, useEffect } = React;
+const SAVED_KEY = 'hallettlab_page_v2';
+
+function App() {
+  const [page, setPage] = useState(() => localStorage.getItem(SAVED_KEY) || 'home');
+
+  const navigate = (p) => {
+    setPage(p);
+    localStorage.setItem(SAVED_KEY, p);
+    const sel = document.getElementById('tweak-page');
+    if (sel) sel.value = p;
+    window.scrollTo(0, 0);
+  };
+
+  useEffect(() => {
+    window.__setPage = navigate;
+    const sel = document.getElementById('tweak-page');
+    if (sel) sel.value = page;
+  }, [page]);
+
+  const renderPage = () => {
+    switch(page) {
+      case 'home':     return <HomePage navigate={navigate} />;
+      case 'blog':     return <BlogPage />;
+      case 'research': return <ResearchPage navigate={navigate} />;
+      case 'team':     return <TeamPage navigate={navigate} />;
+      case 'software': return <SoftwarePage />;
+      case 'courses':  return <CoursesPage />;
+      case 'barbados': return <BarbadosPage />;
+      case 'ethos':     return <EthosPage />;
+      case 'contact':  return <ContactPage />;
+      case 'join':     return <JoinPage navigate={navigate} />;
+      default:         return <HomePage navigate={navigate} />;
+    }
+  };
+
+  return (
+    <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+      <Nav currentPage={page} navigate={navigate} />
+      <div style={{ paddingTop: 55, flexGrow: 1 }}>
+        {renderPage()}
+      </div>
+      <Footer navigate={navigate} />
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+
+<script>
+function applyWide(wide) {
+  document.querySelectorAll('[style*="max-width"]').forEach(el => {
+    if (wide) el.style.maxWidth = '1400px';
+    else el.style.maxWidth = '';
+  });
+}
+window.addEventListener('message', e => {
+  if (e.data?.type === '__activate_edit_mode')   document.getElementById('tweaks-panel').style.display = 'block';
+  if (e.data?.type === '__deactivate_edit_mode') document.getElementById('tweaks-panel').style.display = 'none';
+});
+window.parent.postMessage({ type: '__edit_mode_available' }, '*');
+</script>
+</body>
+</html>
