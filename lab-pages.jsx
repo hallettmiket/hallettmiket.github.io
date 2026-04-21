@@ -371,8 +371,8 @@ const PAPERS = [
 
 const CURRENT_MEMBERS = [
   { name: 'Eliseos John Mucaki', role: 'Research Associate', img: 'team/Eliseos_Mucaki.Profile_Photo.jpg',
-    desc: 'Eliseos obtained his MSc at the University of Windsor, then spent 13+ years with Dr. Peter Rogan and Dr. Joan Knoll at Western, leading projects on mRNA splice-altering SNPs, prioritization of coding and non-coding mutations in breast cancer genes, analysis of RNAseq data from >10,000 TCGA/ICGC patients, and development of machine learning models for chemotherapy and radiation response. He also developed geostatistical approaches to identify COVID-19 hotspots in Ontario.',
-    links: [['Scholar','https://scholar.google.com/citations?user=m0HoqwQAAAAJ'],['Email','mailto:emucaki@uwo.ca']] },
+    desc: 'Eliseos John Mucaki is a bioinformatics researcher and technologist in the Department of Biochemistry at Western University (London, Ontario), currently affiliated with the Mike Hallett Lab. He holds an M.Sc. in Biochemistry from the University of Windsor. His research interests include molecular biochemistry, genomics, and machine learning. Combining wet-lab and computational approaches, his projects span building predictive molecular signatures of clinical response, identifying and interpreting novel DNA variants in cancer, and using generative-modelling frameworks to correct transcriptomic profiling data sourced from archival clinical material (FFPE).',
+    links: [['Scholar','https://scholar.google.com/citations?user=m0HoqwQAAAAJ'],['LinkedIn','https://www.linkedin.com/in/eliseos-mucaki/'],['ORCID','https://orcid.org/0000-0002-6195-5535'],['ResearchGate','https://www.researchgate.net/profile/Eliseos-Mucaki'],['Email','mailto:emucaki@uwo.ca']] },
   { name: 'Vaibhav Gupta', role: 'PhD candidate', img: 'team/vaibhav_gupta.jpg',
     desc: 'Vaibhav is a PhD candidate in Biochemistry at Western University (2022–present). He holds a BSc in Biotechnology from Thapar University and an MSc in Life Sciences from Tel Aviv University (2015–2021). His doctoral research focuses on ....',
     links: [['Email','mailto:vgupta88@uwo.ca']] },
