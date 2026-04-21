@@ -561,7 +561,7 @@ const HomePage = ({ navigate }) => (
         <div>
           <SectionHead>Location</SectionHead>
           <div style={{ fontSize: 13, color: TEXT, lineHeight: 2.1 }}>
-            Office: MSB-360 · Wet labs: M359A &amp; M433<br />1151 Richmond St<br />London, ON N6A 3K7, Canada
+            Office: MSB-360 · Dry lab: MSB-309A · Wet labs: M359A &amp; M433<br />1151 Richmond St<br />London, ON N6A 3K7, Canada
           </div>
         </div>
         <div>
