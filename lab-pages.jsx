@@ -36,8 +36,8 @@ const Carousel = ({ navigate }) => {
   }, []);
   return (
     <div style={{ position: 'relative', overflow: 'hidden', borderRadius: 2 }}>
-      <img src={imgs[idx].src} alt={imgs[idx].caption}
-           style={{ width: '100%', height: 260, objectFit: imgs[idx].fit || 'cover', objectPosition: imgs[idx].pos || 'center 20%', background: imgs[idx].bg || 'transparent', display: 'block', transition: 'opacity 0.4s' }}
+      <img key={idx} src={imgs[idx].src} alt={imgs[idx].caption}
+           style={{ width: '100%', height: 260, objectFit: imgs[idx].fit || 'cover', objectPosition: imgs[idx].pos || 'center 20%', background: imgs[idx].bg || 'transparent', display: 'block' }}
            onError={e => e.target.style.display='none'} />
       <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, background: 'rgba(32,20,54,0.7)', padding: '6px 10px' }}>
         <div style={{ fontSize: 11, color: 'rgba(255,255,255,0.85)', fontFamily: "'Courier Prime', monospace" }}>{imgs[idx].caption}</div>
