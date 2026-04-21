@@ -17,7 +17,7 @@ const CAROUSEL_IMAGES = [
   { src: GH_IMG + 'web_images/IMG_2443.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
   { src: GH_IMG + 'web_images/IMG_2456.jpeg', caption: 'Hallett Lab', pos: 'center 60%' },
   { src: GH_IMG + 'web_images/IMG_2532.JPG', caption: 'Hallett Lab', pos: 'center 20%' },
-  { src: GH_IMG + 'web_images/IMG_2532.jpeg', caption: 'Hallett Lab', pos: 'center 72%' },
+  { src: GH_IMG + 'web_images/IMG_2532.jpeg', caption: 'Hallett Lab', pos: 'center 57%' },
   { src: GH_IMG + 'web_images/IMG_2595.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
   { src: GH_IMG + 'web_images/IMG_2758.jpeg', caption: 'Hallett Lab', pos: 'center 55%' },
   { src: GH_IMG + 'web_images/candescence-pix.jpg', caption: 'Candescence', pos: 'center 35%' },
@@ -510,7 +510,7 @@ const HomePage = ({ navigate }) => (
   <div>
     <div style={{ background: WARM_BG, borderBottom: `1px solid ${BORDER}`, padding: '40px 28px 36px' }}>
       <div style={{ maxWidth: 1200, margin: '0 auto', display: 'flex', gap: 32, alignItems: 'center' }}>
-        <img src="assets/images/site/lab-logo-hi-res.jpg" alt="Hallett Lab" style={{ width: 130, height: 130, objectFit: 'cover', borderRadius: 4, flexShrink: 0, border: `1px solid ${BORDER}` }} />
+        <img src="assets/images/site/lab-logo-hi-res.jpg" alt="Hallett Lab" style={{ width: 130, height: 130, objectFit: 'cover', borderRadius: 4, flexShrink: 0, border: `1px solid ${BORDER}`, mixBlendMode: 'multiply' }} />
         <div>
           <h1 style={{ fontFamily: "'EB Garamond', Georgia, serif", fontSize: 34, fontWeight: 400, color: TEXT, lineHeight: 1.25, margin: '0 0 10px', letterSpacing: '-0.5px' }}>
             Experimental &amp; analytic approaches<br />to perturbing biological systems.
