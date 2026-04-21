@@ -567,7 +567,7 @@ const HomePage = ({ navigate }) => (
         <div>
           <SectionHead>Contact</SectionHead>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-            {[['Email','mailto:michael.hallett@uwo.ca','michael.hallett@uwo.ca'],['Bluesky','https://bsky.app/profile/hallettmiket.bsky.social','@hallettmiket.bsky.social'],['GitHub','https://github.com/hallettmiket','hallettmiket'],['OSF','https://osf.io/jz64u/','osf.io/jz64u']].map(([label,href,val]) => (
+            {[['Email','mailto:michael.hallett@uwo.ca','michael.hallett@uwo.ca'],['ORCID','https://orcid.org/0000-0001-6738-6786','0000-0001-6738-6786'],['Bluesky','https://bsky.app/profile/hallettmiket.bsky.social','@hallettmiket.bsky.social'],['GitHub','https://github.com/hallettmiket','hallettmiket'],['OSF','https://osf.io/jz64u/','osf.io/jz64u']].map(([label,href,val]) => (
               <div key={label} style={{ display: 'flex', gap: 10 }}>
                 <span style={{ fontSize: 10, fontFamily: 'monospace', color: MUTED, minWidth: 48, textTransform: 'uppercase', letterSpacing: '0.5px', paddingTop: 2 }}>{label}</span>
                 <a href={href} target="_blank" style={{ fontSize: 13, color: PURPLE, textDecoration: 'none' }}>{val}</a>
@@ -689,7 +689,7 @@ const TeamPage = ({ navigate }) => {
             PhD (Computer Science, University of Victoria, 1996). Previously at ETH Zürich, McGill University (2000–2017), and Concordia University (2018–2021). Western University (2022-). Alexander von Humboldt Fellow, Canada Research Chair Tier 1.
           </p>
           <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-            {[['michael.hallett@uwo.ca','mailto:michael.hallett@uwo.ca'],['Google Scholar','https://scholar.google.com/citations?user=aSl0gXwAAAAJ'],['Bluesky','https://bsky.app/profile/hallettmiket.bsky.social'],['GitHub','https://github.com/hallettmiket'],['OSF','https://osf.io/jz64u/'],['LinkedIn','https://www.linkedin.com/in/michael-hallett-27411991/']].map(([label,href]) => (
+            {[['michael.hallett@uwo.ca','mailto:michael.hallett@uwo.ca'],['Google Scholar','https://scholar.google.com/citations?user=aSl0gXwAAAAJ'],['ORCID','https://orcid.org/0000-0001-6738-6786'],['Bluesky','https://bsky.app/profile/hallettmiket.bsky.social'],['GitHub','https://github.com/hallettmiket'],['OSF','https://osf.io/jz64u/'],['LinkedIn','https://www.linkedin.com/in/michael-hallett-27411991/']].map(([label,href]) => (
               <a key={label} href={href} target="_blank" style={{ fontSize: 11, color: PURPLE, border: `1px solid ${PURPLE}`, padding: '4px 10px', textDecoration: 'none', fontWeight: 600 }}>{label}</a>
             ))}
           </div>
@@ -1088,7 +1088,7 @@ const ContactPage = () => (
         <div style={{ fontSize: 13, lineHeight: 2, color: TEXT }}>1151 Richmond St<br />London, ON N6A 3K7, Canada</div>
         <Divider />
         <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-          {[['Email','michael.hallett@uwo.ca','mailto:michael.hallett@uwo.ca'],['Bluesky','@hallettmiket.bsky.social','https://bsky.app/profile/hallettmiket.bsky.social'],['GitHub','hallettmiket','https://github.com/hallettmiket'],['OSF','osf.io/jz64u','https://osf.io/jz64u/']].map(([label,value,href]) => (
+          {[['Email','michael.hallett@uwo.ca','mailto:michael.hallett@uwo.ca'],['ORCID','0000-0001-6738-6786','https://orcid.org/0000-0001-6738-6786'],['Bluesky','@hallettmiket.bsky.social','https://bsky.app/profile/hallettmiket.bsky.social'],['GitHub','hallettmiket','https://github.com/hallettmiket'],['OSF','osf.io/jz64u','https://osf.io/jz64u/']].map(([label,value,href]) => (
             <div key={label} style={{ display: 'flex', gap: 10, alignItems: 'baseline' }}>
               <span style={{ fontSize: 10, fontFamily: 'monospace', color: MUTED, minWidth: 50, textTransform: 'uppercase', letterSpacing: '0.5px' }}>{label}</span>
               <a href={href} target="_blank" style={{ fontSize: 13, color: PURPLE, textDecoration: 'none' }}>{value}</a>
