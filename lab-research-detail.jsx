@@ -264,11 +264,11 @@ const CoinSeqGraphic = () => (
 );
 
 const CandidaGraphic = () => (
-  <div style={{ margin: '24px 0', textAlign: 'center' }}>
+  <div style={{ margin: '24px 0' }}>
     <img
       src="https://raw.githubusercontent.com/hallettmiket/hallettmiket.github.io/master/assets/images/elife.jpg"
       alt="Candida albicans phenotypic heterogeneity"
-      style={{ width: '50%', maxWidth: 460, borderRadius: 2, border: `1px solid ${BORDER}`, display: 'inline-block' }}
+      style={{ width: '100%', borderRadius: 2, border: `1px solid ${BORDER}`, display: 'block' }}
     />
   </div>
 );
@@ -440,6 +440,23 @@ const ResearchDetailCandida = ({ onBack }) => (
   </div>
 );
 
+const DeepLearningGraphic = () => (
+  <svg viewBox="0 0 600 190" style={{ width: '100%', height: 'auto', margin: '24px 0' }}>
+    <text x="300" y="16" textAnchor="middle" fill={PURPLE} fontSize="12" fontFamily="monospace" fontWeight="700">PROBABILISTIC DEEP LEARNING FOR MOLECULAR DATA</text>
+    {[40,65,90,115,140].map((y,i)=>(<circle key={i} cx={30} cy={y} r={10} fill={i<4?PURPLE:'#E0E0E2'} opacity={i<4?0.9:0.5}/>))}
+    <text x="30" y="162" textAnchor="middle" fill="#818284" fontSize="9" fontFamily="monospace">genomics</text>
+    {[50,78,106,134].map((y,i)=>(<circle key={i} cx={150} cy={y} r={12} fill="#8F55E0" opacity={0.85}/>))}
+    {[55,90,125].map((y,i)=>(<circle key={i} cx={270} cy={y} r={14} fill={PURPLE} opacity={0.85}/>))}
+    {[50,78,106,134].map((y,i)=>(<circle key={i} cx={390} cy={y} r={12} fill="#8F55E0" opacity={0.85}/>))}
+    {[60,90,120].map((y,i)=>(<circle key={i} cx={510} cy={y} r={11} fill="#F0A757" opacity={0.9}/>))}
+    {['subtype','prognosis','response'].map((label,i)=>(<text key={i} x={525} y={60+i*30+5} fill="#818284" fontSize="10" fontFamily="monospace">{label}</text>))}
+    {[[30,90,150,78],[30,65,150,106],[150,78,270,90],[150,134,270,55],[270,90,390,78],[270,55,390,106],[390,78,510,60],[390,106,510,90],[390,134,510,120]].map(([x1,y1,x2,y2],i)=>(
+      <line key={i} x1={x1} y1={y1} x2={x2} y2={y2} stroke="#8F55E0" strokeWidth="1" opacity={0.3}/>
+    ))}
+    <text x="300" y="178" textAnchor="middle" fill="#818284" fontSize="10" fontFamily="monospace">VAEs · graph neural networks · generative models</text>
+  </svg>
+);
+
 // ── DEEP LEARNING DETAIL PAGE ─────────────────────────────────────────────────
 
 const ResearchDetailDeepLearning = ({ onBack }) => (
@@ -448,6 +465,7 @@ const ResearchDetailDeepLearning = ({ onBack }) => (
     <div style={{ fontFamily: "'Courier Prime', monospace", fontSize: 11, color: MUTED, marginBottom: 6 }}>04</div>
     <h1 style={{ fontFamily: "'EB Garamond', Georgia, serif", fontSize: 36, fontWeight: 400, color: TEXT, margin: '0 0 6px', letterSpacing: '-0.5px' }}>Deep Learning in the Life Sciences</h1>
     <p style={{ fontSize: 14, color: MUTED, margin: '0 0 24px', fontStyle: 'italic' }}>Generative models, neural architectures, and probabilistic methods applied across our research programs</p>
+    <DeepLearningGraphic />
     <p style={{ fontSize: 14, lineHeight: 1.85, color: TEXT, margin: '0 0 16px', textWrap: 'pretty' }}>
       Deep learning and generative modelling are not peripheral to our work — they are central to how we analyze molecular data across all four of our research programs. Probabilistic modelling, Bayesian inference, generative modelling and neural network theory are core to our research goals.
     </p>
@@ -511,6 +529,6 @@ const AREA_PAPERS = {};
 
 Object.assign(window, {
   ResearchDetailBreast, ResearchDetailCoinSeq, ResearchDetailCandida, ResearchDetailDeepLearning,
-  CoinSeqGraphic, CandidaGraphic, BreastCancerGraphic: ClassificationGraphic,
+  CoinSeqGraphic, CandidaGraphic, DeepLearningGraphic, BreastCancerGraphic: ClassificationGraphic,
   AREA_PAPERS, PaperCard,
 });

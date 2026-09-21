@@ -12,19 +12,9 @@ const CAROUSEL_IMAGES = [
   { src: GH_IMG + 'web_images/IMG_1510.jpeg', caption: 'Hallett Lab', pos: 'center 20%' },
   { src: GH_IMG + 'web_images/IMG_1513.jpeg', caption: 'Hallett Lab', pos: 'center 55%' },
   { src: GH_IMG + 'web_images/IMG_2320.jpeg', caption: 'Hallett Lab', pos: 'center 20%' },
+  { src: GH_IMG + 'web_images/IMG_2363.jpeg', caption: 'Hallett Lab', pos: 'center 20%', fit: 'contain', bg: '#f0ede6' },
   { src: GH_IMG + 'web_images/IMG_2386.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
-  { src: GH_IMG + 'web_images/IMG_2400.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
-  { src: GH_IMG + 'web_images/IMG_2443.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
-  { src: GH_IMG + 'web_images/IMG_2456.jpeg', caption: 'Hallett Lab', pos: 'center 60%' },
-  { src: GH_IMG + 'web_images/IMG_2532.JPG', caption: 'Hallett Lab', pos: 'center 20%' },
-  { src: GH_IMG + 'web_images/IMG_2532.jpeg', caption: 'Hallett Lab', pos: 'center 57%' },
-  { src: GH_IMG + 'web_images/IMG_2595.jpeg', caption: 'Hallett Lab', pos: 'center 35%' },
-  { src: GH_IMG + 'web_images/IMG_2758.jpeg', caption: 'Hallett Lab', pos: 'center 55%' },
-  { src: GH_IMG + 'web_images/candescence-pix.jpg', caption: 'Candescence', pos: 'center 35%' },
-  { src: GH_IMG + 'web_images/candescence-logo.png', caption: 'Candescence', pos: 'center 35%', fit: 'contain', bg: '#f0ede6' },
-  { src: GH_IMG + 'web_images/preffect.png', caption: 'PREFFECT', pos: 'center 35%', fit: 'contain', bg: '#f0ede6' },
-  { src: GH_IMG + 'web_images/western_profilepix.jpeg', caption: 'Hallett Lab, Western University', pos: 'center 35%' },
-  { src: GH_IMG + 'web_images/DSC08259.jpg', caption: 'Hallett Lab', pos: 'center 70%' },
+  { src: GH_IMG + 'web_images/DSC08259.jpg', caption: 'Hallett Lab', pos: 'center 45%' },
 ];
 
 const Carousel = ({ navigate }) => {
@@ -36,8 +26,8 @@ const Carousel = ({ navigate }) => {
   }, []);
   return (
     <div style={{ position: 'relative', overflow: 'hidden', borderRadius: 2 }}>
-      <img key={idx} src={imgs[idx].src} alt={imgs[idx].caption}
-           style={{ width: '100%', height: 260, objectFit: imgs[idx].fit || 'cover', objectPosition: imgs[idx].pos || 'center 20%', background: imgs[idx].bg || 'transparent', display: 'block' }}
+      <img src={imgs[idx].src} alt={imgs[idx].caption}
+           style={{ width: '100%', height: 260, objectFit: imgs[idx].fit || 'cover', objectPosition: imgs[idx].pos || 'center 20%', background: imgs[idx].bg || 'transparent', display: 'block', transition: 'opacity 0.4s' }}
            onError={e => e.target.style.display='none'} />
       <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, background: 'rgba(32,20,54,0.7)', padding: '6px 10px' }}>
         <div style={{ fontSize: 11, color: 'rgba(255,255,255,0.85)', fontFamily: "'Courier Prime', monospace" }}>{imgs[idx].caption}</div>
@@ -371,8 +361,8 @@ const PAPERS = [
 
 const CURRENT_MEMBERS = [
   { name: 'Eliseos John Mucaki', role: 'Research Associate', img: 'team/Eliseos_Mucaki.Profile_Photo.jpg',
-    desc: 'Eliseos John Mucaki is a bioinformatics researcher and technologist in the Department of Biochemistry at Western University (London, Ontario), currently affiliated with the Mike Hallett Lab. He holds an M.Sc. in Biochemistry from the University of Windsor. His research interests include molecular biochemistry, genomics, and machine learning. Combining wet-lab and computational approaches, his projects span building predictive molecular signatures of clinical response, identifying and interpreting novel DNA variants in cancer, and using generative-modelling frameworks to correct transcriptomic profiling data sourced from archival clinical material (FFPE).',
-    links: [['Scholar','https://scholar.google.com/citations?user=m0HoqwQAAAAJ'],['LinkedIn','https://www.linkedin.com/in/eliseos-mucaki/'],['ORCID','https://orcid.org/0000-0002-6195-5535'],['ResearchGate','https://www.researchgate.net/profile/Eliseos-Mucaki'],['Email','mailto:emucaki@uwo.ca']] },
+    desc: 'Eliseos obtained his MSc at the University of Windsor, then spent 13+ years with Dr. Peter Rogan and Dr. Joan Knoll at Western, leading projects on mRNA splice-altering SNPs, prioritization of coding and non-coding mutations in breast cancer genes, analysis of RNAseq data from >10,000 TCGA/ICGC patients, and development of machine learning models for chemotherapy and radiation response. He also developed geostatistical approaches to identify COVID-19 hotspots in Ontario.',
+    links: [['Scholar','https://scholar.google.com/citations?user=m0HoqwQAAAAJ'],['Email','mailto:emucaki@uwo.ca']] },
   { name: 'Vaibhav Gupta', role: 'PhD candidate', img: 'team/vaibhav_gupta.jpg',
     desc: 'Vaibhav is a PhD candidate in Biochemistry at Western University (2022–present). He holds a BSc in Biotechnology from Thapar University and an MSc in Life Sciences from Tel Aviv University (2015–2021). His doctoral research focuses on ....',
     links: [['Email','mailto:vgupta88@uwo.ca']] },
@@ -510,7 +500,7 @@ const HomePage = ({ navigate }) => (
   <div>
     <div style={{ background: WARM_BG, borderBottom: `1px solid ${BORDER}`, padding: '40px 28px 36px' }}>
       <div style={{ maxWidth: 1200, margin: '0 auto', display: 'flex', gap: 32, alignItems: 'center' }}>
-        <img src="assets/images/site/lab-logo-hi-res.jpg" alt="Hallett Lab" style={{ width: 130, height: 130, objectFit: 'cover', borderRadius: 4, flexShrink: 0, border: `1px solid ${BORDER}`, mixBlendMode: 'multiply' }} />
+        <img src="assets/images/site/lab-logo-hi-res.jpg" alt="Hallett Lab" style={{ width: 130, height: 130, objectFit: 'cover', borderRadius: 4, flexShrink: 0, border: `1px solid ${BORDER}` }} />
         <div>
           <h1 style={{ fontFamily: "'EB Garamond', Georgia, serif", fontSize: 34, fontWeight: 400, color: TEXT, lineHeight: 1.25, margin: '0 0 10px', letterSpacing: '-0.5px' }}>
             Experimental &amp; analytic approaches<br />to perturbing biological systems.
@@ -561,13 +551,13 @@ const HomePage = ({ navigate }) => (
         <div>
           <SectionHead>Location</SectionHead>
           <div style={{ fontSize: 13, color: TEXT, lineHeight: 2.1 }}>
-            Office: MSB-360 · Dry lab: MSB-309A · Wet labs: M359A &amp; M433<br />1151 Richmond St<br />London, ON N6A 3K7, Canada
+            Office: MSB-360 · Wet labs: M359A &amp; M433<br />1151 Richmond St<br />London, ON N6A 3K7, Canada
           </div>
         </div>
         <div>
           <SectionHead>Contact</SectionHead>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-            {[['Email','mailto:michael.hallett@uwo.ca','michael.hallett@uwo.ca'],['ORCID','https://orcid.org/0000-0001-6738-6786','0000-0001-6738-6786'],['Bluesky','https://bsky.app/profile/hallettmiket.bsky.social','@hallettmiket.bsky.social'],['GitHub','https://github.com/hallettmiket','hallettmiket'],['OSF','https://osf.io/jz64u/','osf.io/jz64u']].map(([label,href,val]) => (
+            {[['Email','mailto:michael.hallett@uwo.ca','michael.hallett@uwo.ca'],['Bluesky','https://bsky.app/profile/hallettmiket.bsky.social','@hallettmiket.bsky.social'],['GitHub','https://github.com/hallettmiket','hallettmiket'],['OSF','https://osf.io/jz64u/','osf.io/jz64u']].map(([label,href,val]) => (
               <div key={label} style={{ display: 'flex', gap: 10 }}>
                 <span style={{ fontSize: 10, fontFamily: 'monospace', color: MUTED, minWidth: 48, textTransform: 'uppercase', letterSpacing: '0.5px', paddingTop: 2 }}>{label}</span>
                 <a href={href} target="_blank" style={{ fontSize: 13, color: PURPLE, textDecoration: 'none' }}>{val}</a>
@@ -689,7 +679,7 @@ const TeamPage = ({ navigate }) => {
             PhD (Computer Science, University of Victoria, 1996). Previously at ETH Zürich, McGill University (2000–2017), and Concordia University (2018–2021). Western University (2022-). Alexander von Humboldt Fellow, Canada Research Chair Tier 1.
           </p>
           <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-            {[['michael.hallett@uwo.ca','mailto:michael.hallett@uwo.ca'],['Google Scholar','https://scholar.google.com/citations?user=aSl0gXwAAAAJ'],['ORCID','https://orcid.org/0000-0001-6738-6786'],['Bluesky','https://bsky.app/profile/hallettmiket.bsky.social'],['GitHub','https://github.com/hallettmiket'],['OSF','https://osf.io/jz64u/'],['LinkedIn','https://www.linkedin.com/in/michael-hallett-27411991/']].map(([label,href]) => (
+            {[['michael.hallett@uwo.ca','mailto:michael.hallett@uwo.ca'],['Google Scholar','https://scholar.google.com/citations?user=aSl0gXwAAAAJ'],['Bluesky','https://bsky.app/profile/hallettmiket.bsky.social'],['GitHub','https://github.com/hallettmiket'],['OSF','https://osf.io/jz64u/'],['LinkedIn','https://www.linkedin.com/in/michael-hallett-27411991/']].map(([label,href]) => (
               <a key={label} href={href} target="_blank" style={{ fontSize: 11, color: PURPLE, border: `1px solid ${PURPLE}`, padding: '4px 10px', textDecoration: 'none', fontWeight: 600 }}>{label}</a>
             ))}
           </div>
@@ -1088,7 +1078,7 @@ const ContactPage = () => (
         <div style={{ fontSize: 13, lineHeight: 2, color: TEXT }}>1151 Richmond St<br />London, ON N6A 3K7, Canada</div>
         <Divider />
         <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-          {[['Email','michael.hallett@uwo.ca','mailto:michael.hallett@uwo.ca'],['ORCID','0000-0001-6738-6786','https://orcid.org/0000-0001-6738-6786'],['Bluesky','@hallettmiket.bsky.social','https://bsky.app/profile/hallettmiket.bsky.social'],['GitHub','hallettmiket','https://github.com/hallettmiket'],['OSF','osf.io/jz64u','https://osf.io/jz64u/']].map(([label,value,href]) => (
+          {[['Email','michael.hallett@uwo.ca','mailto:michael.hallett@uwo.ca'],['Bluesky','@hallettmiket.bsky.social','https://bsky.app/profile/hallettmiket.bsky.social'],['GitHub','hallettmiket','https://github.com/hallettmiket'],['OSF','osf.io/jz64u','https://osf.io/jz64u/']].map(([label,value,href]) => (
             <div key={label} style={{ display: 'flex', gap: 10, alignItems: 'baseline' }}>
               <span style={{ fontSize: 10, fontFamily: 'monospace', color: MUTED, minWidth: 50, textTransform: 'uppercase', letterSpacing: '0.5px' }}>{label}</span>
               <a href={href} target="_blank" style={{ fontSize: 13, color: PURPLE, textDecoration: 'none' }}>{value}</a>
