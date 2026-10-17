@@ -90,6 +90,15 @@ const MdContent = ({ text }) => {
 // ── DATA ──────────────────────────────────────────────────────────────────────
 
 const BLOG_POSTS = [
+  { date: 'Oct 2026', title: 'New: Using AI Well in the Lab', tags: ['AI', 'News'],
+    content: `### Using AI Well in the Lab
+
+We have written down how we use AI in our science. In short: use it widely and creatively, wherever it makes our work more correct, more reproducible, more inclusive and better made, and remember that you remain the author and are responsible for everything you hand in.
+
+The page covers uses you may not have tried, five habits for everyone, who does what, where your data can and cannot go, equity and wellbeing, and why good science needs many reviewers.
+
+[Read Using AI Well in the Lab](https://mikehallett.science/#ai)`,
+  },
   { date: 'Oct 2026', title: 'Agentic AI in Research: Physiology and Pharmacology Seminar', tags: ['AI', 'Talk'],
     video: 'https://biodatweb.schulich.uwo.ca/mhallet/murmurent_seminar/fizzfarm_2026_10.html',
     content: `### Agentic AI in Research
