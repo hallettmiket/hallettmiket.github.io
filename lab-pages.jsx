@@ -90,6 +90,15 @@ const MdContent = ({ text }) => {
 // ── DATA ──────────────────────────────────────────────────────────────────────
 
 const BLOG_POSTS = [
+  { date: 'Sep 29, 2026', title: 'Murmurent: Our Preprint Is on bioRxiv', tags: ['AI', 'Paper'],
+    content: `### An agentic AI environment to support biomedical research in collaborative academic environments
+
+Murmurent is shared software that sits underneath an agentic AI tool such as Claude Code and gives a lab the procedures, specialist agents and safeguards it would otherwise have to build itself: agents for statistics, literature, figures and methods review, a memory for research decisions, and a record of who did what and why. The preprint describes the system and follows it through a real project, a search for Pin1 inhibitors.
+
+Timothy Wu, Tyler S. Browne and colleagues, with Michael T. Hallett.
+
+[Read the preprint on bioRxiv](https://www.biorxiv.org/content/10.64898/2026.09.24.753565v1)`,
+  },
   { date: 'Oct 2026', title: 'New: Using AI Well in the Lab', tags: ['AI', 'News'],
     content: `### Using AI Well in the Lab
 
