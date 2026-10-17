@@ -82,19 +82,38 @@
 
 <script type="text/babel">
 const { useState, useEffect } = React;
-const SAVED_KEY = 'hallettlab_page_v2';
+const PAGES = ['home','blog','research','team','software','courses','barbados','ethos','ai','contact','join'];
+
+// The page lives in the address bar as #name (e.g. mikehallett.science/#barbados),
+// so every page has a shareable link and a plain visit always opens Home.
+const pageFromHash = () => {
+  const h = window.location.hash.replace(/^#\/?/, '').toLowerCase();
+  return PAGES.includes(h) ? h : 'home';
+};
 
 function App() {
-  // A link such as mikehallett.science/#ai opens that page directly.
-  const [page, setPage] = useState(() => window.location.hash.slice(1) || localStorage.getItem(SAVED_KEY) || 'home');
+  const [page, setPage] = useState(pageFromHash);
 
   const navigate = (p) => {
+    const target = p === 'home' ? '' : '#' + p;
+    if (window.location.hash !== target) {
+      history.pushState(null, '', target || window.location.pathname);
+    }
     setPage(p);
-    localStorage.setItem(SAVED_KEY, p);
-    const sel = document.getElementById('tweak-page');
-    if (sel) sel.value = p;
     window.scrollTo(0, 0);
   };
+
+  useEffect(() => {
+    // Back/forward buttons and hand-edited addresses.
+    const onPop = () => { setPage(pageFromHash()); window.scrollTo(0, 0); };
+    window.addEventListener('popstate', onPop);
+    window.addEventListener('hashchange', onPop);
+    try { localStorage.removeItem('hallettlab_page_v2'); } catch (e) {}
+    return () => {
+      window.removeEventListener('popstate', onPop);
+      window.removeEventListener('hashchange', onPop);
+    };
+  }, []);
 
   useEffect(() => {
     window.__setPage = navigate;

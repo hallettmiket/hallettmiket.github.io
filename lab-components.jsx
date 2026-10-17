@@ -45,12 +45,12 @@ const Nav = ({ currentPage, navigate }) => {
         </div>
         <div style={navC.links}>
           {links.map(({ label, page }) => (
-            <a key={page} onClick={() => navigate(page)}
+            <a key={page} href={'#' + page} onClick={(e) => { e.preventDefault(); navigate(page); }}
                style={{ ...navC.link, ...(currentPage === page ? navC.linkActive : {}) }}>
               {label}
             </a>
           ))}
-          <a onClick={() => navigate('join')} style={navC.cta}>Join Us</a>
+          <a href="#join" onClick={(e) => { e.preventDefault(); navigate('join'); }} style={navC.cta}>Join Us</a>
         </div>
       </div>
     </nav>
@@ -70,7 +70,7 @@ const Footer = ({ navigate }) => (
       <span style={{ fontSize: 11, color: '#555', flexGrow: 1 }}>Department of Biochemistry · London, ON, Canada</span>
       <div style={{ display: 'flex', gap: 18 }}>
         {[['Contact', 'contact'], ['Join Us', 'join']].map(([label, page]) => (
-          <a key={page} onClick={() => navigate(page)} style={{ fontSize: 11, color: '#777', cursor: 'pointer' }}>{label}</a>
+          <a key={page} href={'#' + page} onClick={(e) => { e.preventDefault(); navigate(page); }} style={{ fontSize: 11, color: '#777', cursor: 'pointer', textDecoration: 'none' }}>{label}</a>
         ))}
       </div>
     </div>
