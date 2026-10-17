@@ -90,8 +90,17 @@ const MdContent = ({ text }) => {
 // ── DATA ──────────────────────────────────────────────────────────────────────
 
 const BLOG_POSTS = [
+  { date: 'Oct 2026', title: 'Agentic AI in Research: Physiology and Pharmacology Seminar', tags: ['AI', 'Talk'],
+    video: 'https://biodatweb.schulich.uwo.ca/mhallet/murmurent_seminar/fizzfarm_2026_10.html',
+    content: `### Agentic AI in Research
+
+A talk for the Department of Physiology and Pharmacology seminar series (FizzFarm), October 2026, on how agentic AI can support research in a collaborative academic setting.
+
+[Watch the video](https://biodatweb.schulich.uwo.ca/mhallet/murmurent_seminar/fizzfarm_2026_10.html)`,
+  },
   { date: 'Apr 2, 2026', title: 'Live Demonstration: Agentic AI in Biochemistry', tags: ['AI', 'Demo'],
     slides: 'https://mikehallett.science/assets/demo_presentation.html',
+    video: 'https://biodatweb.schulich.uwo.ca/mhallet/murmurent_seminar/agentic_ai_demo_2026_04.html',
     content: `### A Live Demonstration of Agentic AI in Biochemistry
 
 You've finished generating data and are ready to start the analysis. Where do you start? Perhaps you have little experience with stats and even less with programming? How do you organize yourself? What can you do in an hour?
@@ -747,6 +756,7 @@ const BlogPage = () => {
         <div style={{ display: 'flex', gap: 6, marginBottom: 24, alignItems: 'center' }}>
           {post.tags.map(t => <Tag key={t}>{t}</Tag>)}
           {post.slides && <a href={post.slides} target="_blank" style={{ fontSize: 12, color: PURPLE, fontWeight: 600, border: `1px solid ${PURPLE}`, padding: '3px 10px', textDecoration: 'none', marginLeft: 8 }}>Slides →</a>}
+          {post.video && <a href={post.video} target="_blank" style={{ fontSize: 12, color: PURPLE, fontWeight: 600, border: `1px solid ${PURPLE}`, padding: '3px 10px', textDecoration: 'none', marginLeft: 8 }}>Video →</a>}
         </div>
         <div style={{ borderTop: `1px solid ${BORDER}`, paddingTop: 24 }}>
           <MdContent text={post.content} />
@@ -772,6 +782,7 @@ const BlogPage = () => {
                   <div style={{ display: 'flex', gap: 5, flexWrap: 'wrap' }}>
                     {post.tags.map(t => <Tag key={t}>{t}</Tag>)}
                     {post.slides && <a href={post.slides} target="_blank" style={{ fontSize: 10, color: PURPLE, fontWeight: 600, border: `1px solid ${PURPLE}`, padding: '2px 7px', textDecoration: 'none', borderRadius: 1 }}>Slides</a>}
+                    {post.video && <a href={post.video} target="_blank" style={{ fontSize: 10, color: PURPLE, fontWeight: 600, border: `1px solid ${PURPLE}`, padding: '2px 7px', textDecoration: 'none', borderRadius: 1 }}>Video</a>}
                   </div>
                 </div>
               </div>
