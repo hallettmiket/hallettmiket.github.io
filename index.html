@@ -52,6 +52,7 @@
       <option value="courses">Courses</option>
       <option value="barbados">Barbados</option>
       <option value="ethos">Ethos</option>
+      <option value="ai">AI in the Lab</option>
       <option value="contact">Contact</option>
       <option value="join">Join Us</option>
     </select>
@@ -84,7 +85,8 @@ const { useState, useEffect } = React;
 const SAVED_KEY = 'hallettlab_page_v2';
 
 function App() {
-  const [page, setPage] = useState(() => localStorage.getItem(SAVED_KEY) || 'home');
+  // A link such as mikehallett.science/#ai opens that page directly.
+  const [page, setPage] = useState(() => window.location.hash.slice(1) || localStorage.getItem(SAVED_KEY) || 'home');
 
   const navigate = (p) => {
     setPage(p);
@@ -110,6 +112,7 @@ function App() {
       case 'courses':  return <CoursesPage />;
       case 'barbados': return <BarbadosPage />;
       case 'ethos':     return <EthosPage />;
+      case 'ai':        return <AIPage />;
       case 'contact':  return <ContactPage />;
       case 'join':     return <JoinPage navigate={navigate} />;
       default:         return <HomePage navigate={navigate} />;

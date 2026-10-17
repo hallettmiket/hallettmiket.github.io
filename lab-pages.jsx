@@ -1061,6 +1061,130 @@ const EthosPage = () => {
   );
 };
 
+// ── AI IN THE LAB PAGE ─────────────────────────────────────────────────────────
+// Adapted from the department-wide draft "Using AI Well in Biochemistry"
+// (October 2026), written with murmurent's agents and checked by them.
+
+const AIPage = () => {
+  const serif = "'EB Garamond', Georgia, serif";
+  const A = ({ href, children }) => <a href={href} target="_blank" rel="noopener" style={{ color: PURPLE }}>{children}</a>;
+  const H2 = ({ children, color = PURPLE }) => (
+    <div style={{ display: 'flex', alignItems: 'center', gap: 12, margin: '44px 0 16px' }}>
+      <div style={{ width: 4, height: 28, background: color, borderRadius: 2 }} />
+      <h2 style={{ fontFamily: serif, fontSize: 28, fontWeight: 600, color: TEXT, margin: 0 }}>{children}</h2>
+    </div>
+  );
+  const P = ({ children }) => <p style={{ fontSize: 15, lineHeight: 1.75, color: TEXT, margin: '0 0 14px', textWrap: 'pretty' }}>{children}</p>;
+  const Items = ({ items, ordered }) => (
+    <div style={{ display: 'flex', flexDirection: 'column' }}>
+      {items.map(([lead, rest], i) => (
+        <div key={i} style={{ display: 'flex', gap: 14, padding: '10px 0', borderBottom: `1px solid ${BORDER}` }}>
+          <div style={{ width: 22, height: 22, borderRadius: '50%', background: ordered ? PURPLE : TIGER, flexShrink: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', marginTop: 2 }}>
+            <span style={{ fontSize: 10, color: '#fff', fontWeight: 700 }}>{ordered ? i + 1 : ''}</span>
+          </div>
+          <p style={{ fontSize: 15, lineHeight: 1.7, color: TEXT, margin: 0, textWrap: 'pretty' }}><strong>{lead}</strong> {rest}</p>
+        </div>
+      ))}
+    </div>
+  );
+
+  const uses = [
+    ['Study:', 'generate practice questions for an exam, then quiz you on the ones you miss.'],
+    ['New methods:', 'search the literature for a method that complements yours, then build a tutorial on it, on the spot, at your level.'],
+    ['Rules and law:', 'explain the legal or ethics questions in a complicated case, such as a data-sharing agreement, in hours rather than weeks, so your conversation with the right office starts well informed.'],
+    ['Equity:', 'scan a draft for EDID issues and for SGBA (sex- and gender-based analysis: whether sex and gender were considered in design and reporting), and highlight what you might have missed.'],
+    ['Craft:', 'sketch diagrams, illustrations, animations, narration and slides, and refine how your work looks and sounds.'],
+    ['Place and language:', 'adapt your work for another language or audience, or find the local rules, resources and communities that bear on your project.'],
+    ['Computing:', 'install software, set up an analysis environment or reach a server in minutes, work that once needed an IT specialist and days of waiting.'],
+  ];
+  const habits = [
+    ['Say how AI helped.', 'Readers need to know what a person did and what a tool did.'],
+    ['Check every claim, number and citation.', 'AI invents references and makes confident errors.'],
+    ['Keep governed data out of public tools.', 'What you paste there leaves your control.'],
+    ['Be able to explain it.', 'If you cannot walk someone through a step, it is not yet your work.'],
+    ['Ask whose data, and who is affected.', 'Errors fall hardest on people the data leave out.'],
+  ];
+  const roles = [
+    ['Learning', 'Attempt the work first. Then ask AI to explain and quiz you.', 'Build the core skills of your field yourself.', 'State in each course outline whether AI use is acceptable, allowed in some situations, or not. Assess understanding, aloud or in writing: "walk me through this step".'],
+    ['Disclosure', 'Follow each course outline.', 'Every thesis states its use or non-use of generative AI. A short log of what you asked and changed makes this easy.', 'Disclose AI use as journals and funders require. A chatbot cannot be an author.'],
+    ['Supervision', 'Ask when the rules are unclear.', 'Agree AI use with your supervisor and committee; we recommend writing it down.', 'Agree AI use in writing at the start. Name the skills to build without AI.'],
+    ['Review and marking', '', 'As a teaching assistant, never put student work, names or grades into public tools.', "Never put a grant or manuscript you are reviewing into any online AI tool; check the funder's or journal's own rule."],
+  ];
+  const data = [
+    ['Public data', 'with no reasonable expectation of privacy need no ethics review, but their licence terms still apply. Controlled-access data are not public.'],
+    ['Human-subject data,', 'even de-identified, go into an online AI tool only if your ethics approval and any data-sharing agreement cover that use; if unsure, ask the Office of Human Research Ethics. A model running entirely on your own computer is fine within your approval. Agents such as Claude Code run on your computer but send what they read to an online model.'],
+    ['Your Western login', "gives Copilot Chat Western's data protection, which a personal account does not. That is not ethics approval: still enter no health records or student numbers."],
+    ['Data from First Nations, Inuit or Métis communities', 'usually come under a research agreement with the community, which can limit who else may receive them and how they are reused (TCPS 2, articles 9.18 to 9.20). Check that it allows an online AI tool before you use one; if unsure, ask the Office of Human Research Ethics.'],
+    ["Others' unpublished work", 'needs their written permission before it goes into any online AI tool. As a reviewer, students follow the same rule as professors.'],
+    ['Images that are data', '(gels, blots, micrographs) are never made or altered by AI. Label any AI-made illustration where it appears.'],
+    ['Inventions:', "describing one to a public AI tool may count as public disclosure and cost patent rights. Talk to Western's Technology Transfer Office first."],
+    ['Never paste passwords or keys', 'into a chat or an agent. Anything an agent can read, it can send.'],
+  ];
+  const cell = { padding: '10px 12px', borderBottom: `1px solid ${BORDER}`, verticalAlign: 'top', fontSize: 14, lineHeight: 1.6, color: TEXT, textAlign: 'left' };
+
+  return (
+    <div style={{ maxWidth: 880, margin: '0 auto', padding: '40px 28px 80px' }}>
+      <div style={{ display: 'flex', gap: 20, alignItems: 'center', marginBottom: 32 }}>
+        <img src="assets/images/site/lab-logo-hi-res.jpg" alt="Hallett Lab" style={{ width: 64, height: 64, objectFit: 'cover', borderRadius: 2, border: `1px solid ${BORDER}` }} />
+        <div>
+          <h1 style={{ fontFamily: serif, fontSize: 40, fontWeight: 400, color: TEXT, margin: '0 0 4px', letterSpacing: '-0.5px' }}>Using AI Well in the Lab</h1>
+          <p style={{ fontSize: 13, color: MUTED, margin: 0 }}>How we use AI in our science · version 1.0, October 2026 · M. Hallett</p>
+        </div>
+      </div>
+
+      <H2>Our position</H2>
+      <P>We encourage everyone in the lab to use AI, for writing, images, sound, data analysis, protein models and more, wherever it makes our science more correct, more reproducible, more inclusive and better made. AI uses real energy and water, so use it where it adds something. One principle governs every use: <strong>you remain the author</strong>. You are responsible for everything you hand in, publish or teach, however much AI helped. You decide what is claimed, you check it, you can explain it, and you say how AI helped. If AI made an error and you passed it on, the error is yours.</P>
+
+      <H2 color={TIGER}>Uses you may not have tried</H2>
+      <P>AI is far more than a drafting tool, and its uses have no fixed boundary. A few that people often miss:</P>
+      <Items items={uses} />
+      <div style={{ height: 14 }} />
+      <P>Be creative. Push AI in new directions, bring your expertise to it, and let it extend what you can do. The people who know the science best are the ones who will define how AI serves it.</P>
+
+      <H2>Five habits for everyone</H2>
+      <Items items={habits} ordered />
+      <div style={{ height: 14 }} />
+      <P>These follow Western's five principles: transparency, integrity, privacy, accountability and inclusion.</P>
+
+      <H2 color={TIGER}>Who does what</H2>
+      <div style={{ overflowX: 'auto' }}>
+        <table style={{ width: '100%', borderCollapse: 'collapse', minWidth: 620 }}>
+          <thead>
+            <tr style={{ background: '#f3eef9' }}>
+              {['', 'Undergraduates', 'Graduate students', 'Supervisors and instructors'].map((h, i) => <th key={i} style={{ ...cell, fontWeight: 700 }}>{h}</th>)}
+            </tr>
+          </thead>
+          <tbody>
+            {roles.map((r, i) => (
+              <tr key={i}>{r.map((c, j) => <td key={j} style={{ ...cell, fontWeight: j === 0 ? 700 : 400 }}>{c}</td>)}</tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <H2>Where your data can go</H2>
+      <Items items={data} />
+
+      <H2 color={TIGER}>Equity and wellbeing</H2>
+      <P>Not every tool is free or open to everyone. If one you cannot access would genuinely improve your science, discuss it with your supervisor or the university rather than paying privately or using a personal account. Using AI to polish English you wrote is legitimate where the course or supervisor allows it; disclose what it did. An accessibility need is arranged as a formal accommodation through Accessible Education, and you disclose the tool, never your reasons. Most people in genetic studies are of European ancestry, so a variant common elsewhere can look rare and be misread.</P>
+      <P>AI also has social and psychological costs worth knowing about. It can amplify bias, wear down skills we stop practising, and heavy reliance on chatbots has been linked to isolation, depression and other mental-health harms in some people. Notice how it affects you and the people around you, and talk to someone if it is not helping.</P>
+
+      <H2>Quality needs many reviewers</H2>
+      <P>Good science is checked from several sides: sound methods, fairness to the people behind the data, law and privacy, security, and craft. AI lets one person produce more than any one reviewer can check, and nobody holds every side in mind at once. So build the checks into how you work: ask for a separate review of each side, by a colleague or by an AI given one question at a time.</P>
+      <P>AI itself can supply those reviews. Some research environments now place, beside the assistant doing the work, separate agents that each ask one question: one audits methods against published reporting guidelines; one reviews for equity and colonial framing, but never speaks for communities; one sends intellectual-property and data questions to the right office; one scans outgoing work for passwords and patient identifiers; one helps make figures honest and clear. Such tools help people judge; they do not judge for them.</P>
+
+      <H2 color={TIGER}>Sources</H2>
+      <div style={{ fontSize: 14, lineHeight: 1.9, color: TEXT }}>
+        <div>Western: <A href="https://ai.uwo.ca/using-ai/principles-of-using-ai.html">Principles of using AI</A>; <A href="https://ai.uwo.ca/using-ai/copilot.html">Copilot</A>; <A href="https://www.uwo.ca/univsec/pdf/academic_policies/exam/courseoutlines.pdf">Course outlines policy</A>; <A href="https://www.uwo.ca/research/support/commercialization/process.html">Commercialization process</A></div>
+        <div>SGPS: <A href="https://www.grad.uwo.ca/about_us/policies_procedures_regulations/ai.html">Generative AI guidance</A>; <A href="https://www.uwo.ca/univsec/pdf/academic_policies/grad_postdoc/thesis_procedures_format.pdf">Thesis procedures, section 4.7</A></div>
+        <div><A href="https://www.science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/guidance-use-artificial-intelligence-development-and-review-research-grant-proposals">Tri-agency guidance on AI in grant proposals</A>; <A href="https://www.icmje.org/recommendations/browse/artificial-intelligence/ai-use-by-authors.html">ICMJE on AI use by authors</A></div>
+        <div>TCPS 2: <A href="https://ethics.gc.ca/eng/tcps2-eptc2_2022_chapter2-chapitre2.html">Chapter 2</A>, <A href="https://ethics.gc.ca/eng/tcps2-eptc2_2022_chapter5-chapitre5.html">Chapter 5</A>, <A href="https://ethics.gc.ca/eng/tcps2-eptc2_2022_chapter9-chapitre9.html">Chapter 9</A>; <A href="https://www.gwasdiversitymonitor.com/">GWAS Diversity Monitor</A></div>
+        <div>On the social and psychological costs, and adapted with thanks from: the <A href="https://www.schulich.uwo.ca/pathol//gps/research_programs/pdf/PaLM_genAI_guidelines-6.pdf">Pathology and Laboratory Medicine graduate policy</A> (section 3)</div>
+      </div>
+    </div>
+  );
+};
+
 // ── CONTACT PAGE ───────────────────────────────────────────────────────────────
 
 const ContactPage = () => (
@@ -1110,4 +1234,4 @@ const JoinPage = () => (
   </div>
 );
 
-Object.assign(window, { HomePage, ResearchPage, TeamPage, BlogPage, SoftwarePage, CoursesPage, BarbadosPage, EthosPage, ContactPage, JoinPage, MemberImg, Avatar, MdContent, TIGER, Carousel });
+Object.assign(window, { HomePage, ResearchPage, TeamPage, BlogPage, SoftwarePage, CoursesPage, BarbadosPage, EthosPage, AIPage, ContactPage, JoinPage, MemberImg, Avatar, MdContent, TIGER, Carousel });

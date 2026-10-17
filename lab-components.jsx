@@ -34,6 +34,7 @@ const Nav = ({ currentPage, navigate }) => {
     { label: 'Courses', page: 'courses' },
     { label: 'Barbados', page: 'barbados' },
     { label: 'Ethos', page: 'ethos' },
+    { label: 'AI in the Lab', page: 'ai' },
   ];
   return (
     <nav style={navC.nav}>
