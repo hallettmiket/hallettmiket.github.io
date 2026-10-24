@@ -109,12 +109,13 @@ The page covers uses you may not have tried, five habits for everyone, who does 
 [Read Using AI Well in the Lab](https://mikehallett.science/#ai)`,
   },
   { date: 'Oct 2026', title: 'Agentic AI in Research: Physiology and Pharmacology Seminar', tags: ['AI', 'Talk'],
+    slides: 'https://mikehallett.science/assets/fizzfarm_2026_10_presentation.html',
     video: 'https://biodatweb.schulich.uwo.ca/mhallet/murmurent_seminar/fizzfarm_2026_10.html',
     content: `### Agentic AI in Research
 
 A talk for the Department of Physiology and Pharmacology seminar series (FizzFarm), October 2026, on how agentic AI can support research in a collaborative academic setting.
 
-[Watch the video](https://biodatweb.schulich.uwo.ca/mhallet/murmurent_seminar/fizzfarm_2026_10.html)`,
+[Watch the video](https://biodatweb.schulich.uwo.ca/mhallet/murmurent_seminar/fizzfarm_2026_10.html) · [See the slides](https://mikehallett.science/assets/fizzfarm_2026_10_presentation.html)`,
   },
   { date: 'Apr 2, 2026', title: 'Live Demonstration: Agentic AI in Biochemistry', tags: ['AI', 'Demo'],
     slides: 'https://mikehallett.science/assets/demo_presentation.html',
