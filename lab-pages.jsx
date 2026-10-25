@@ -149,7 +149,7 @@ Timothy Wu, Tyler S. Browne and colleagues, with Michael T. Hallett.
 
 We have written down how we use AI in our science. In short: use it widely and creatively, wherever it makes our work more correct, more reproducible, more inclusive and better made, and remember that you remain the author and are responsible for everything you hand in.
 
-The page covers uses you may not have tried, five habits for everyone, who does what, where your data can and cannot go, equity and wellbeing, and why good science needs many reviewers.
+The page covers uses you may not have tried, nine habits for everyone, who does what, where your data can and cannot go, equity and wellbeing, and why good science needs many reviewers.
 
 [Read Using AI Well in the Lab](https://mikehallett.science/#ai)`,
   },
@@ -1173,10 +1173,14 @@ const AIPage = () => {
     ['Computing:', 'install software, set up an analysis environment or reach a server in minutes, work that once needed an IT specialist and days of waiting.'],
   ];
   const habits = [
+    ['Give it context first.', 'Before you ask anything, link in the manuscript, the data description, the related papers and the slides. An empty session guesses; a briefed one works from your science.'],
+    ['Work in rounds.', 'Start broad, inspect the result, then refine. One giant prompt that expects perfection the first time rarely gets it.'],
+    ['Use controls.', 'You would not trust an assay without them, and AI deserves the same. Give it a question you already know the answer to, and a case that should fail, and see whether it gets both right before you trust it on the case you care about. A shuffled dataset, a known positive, a planted error: the same controls you use at the bench.'],
+    ['Check every claim, number and citation.', 'AI invents references and makes confident errors. Never accept an output as ground truth: ask for the evidence, ask for the reasoning, and when the answer came from a computation, ask for the code and read it.'],
+    ['Have the work checked by someone other than its author.', 'An agent marking its own homework finds few of its mistakes. Ask a second, skeptical agent to audit each step, or audit it yourself, before the result goes anywhere.'],
+    ['Be able to explain it.', 'If you cannot walk someone through a step, it is not yet your work. AI multiplies your expertise; it does not replace it. You bring the science, it brings the compute.'],
     ['Say how AI helped.', 'Readers need to know what a person did and what a tool did.'],
-    ['Check every claim, number and citation.', 'AI invents references and makes confident errors.'],
     ['Keep governed data out of public tools.', 'What you paste there leaves your control.'],
-    ['Be able to explain it.', 'If you cannot walk someone through a step, it is not yet your work.'],
     ['Ask whose data, and who is affected.', 'Errors fall hardest on people the data leave out.'],
   ];
   const roles = [
@@ -1203,7 +1207,7 @@ const AIPage = () => {
         <img src="assets/images/site/lab-logo-hi-res.jpg" alt="Hallett Lab" style={{ width: 64, height: 64, objectFit: 'cover', borderRadius: 2, border: `1px solid ${BORDER}` }} />
         <div>
           <h1 style={{ fontFamily: serif, fontSize: 40, fontWeight: 400, color: TEXT, margin: '0 0 4px', letterSpacing: '-0.5px' }}>Using AI Well in the Lab</h1>
-          <p style={{ fontSize: 13, color: MUTED, margin: 0 }}>How we use AI in our science · version 1.0, October 2026 · M. Hallett</p>
+          <p style={{ fontSize: 13, color: MUTED, margin: 0 }}>How we use AI in our science · version 1.1, October 2026 · M. Hallett</p>
         </div>
       </div>
 
@@ -1216,7 +1220,7 @@ const AIPage = () => {
       <div style={{ height: 14 }} />
       <P>Be creative. Push AI in new directions, bring your expertise to it, and let it extend what you can do. The people who know the science best are the ones who will define how AI serves it.</P>
 
-      <H2>Five habits for everyone</H2>
+      <H2>Nine habits for everyone</H2>
       <Items items={habits} ordered />
       <div style={{ height: 14 }} />
       <P>These follow Western's five principles: transparency, integrity, privacy, accountability and inclusion.</P>
