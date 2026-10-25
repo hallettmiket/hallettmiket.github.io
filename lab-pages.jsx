@@ -121,11 +121,17 @@ Every link below I checked by opening it. Runtimes are real.
 **On clustering**
 - [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA) — Josh Starmer, 8:30.
 
-### One thing I could not find
+### One thing I could not find, so I built it
 
-I wanted a video comparing model sizes from the 1950s to now, and there isn't a good one. What there is instead is a great many confident articles, written to be found by search engines, that disagree with each other about which models exist and what they cost. Some describe models withdrawn a year ago.
+**[How big have these things got?](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/model_growth.html)** — 69 seconds, no sound
 
-That turned out to be useful. It is now the first thing the module teaches, before any theory: when the secondary literature is abundant, confident and contradictory, go to the primary source. For this, that means the companies' own documentation — [Anthropic's](https://platform.claude.com/docs/en/about-claude/models/overview) and [Google's](https://ai.google.dev/gemini-api/docs/models) — which are dated and maintained. Nearly everything else is not.
+I used to show students a video comparing model sizes from the 1950s to now. It has since been deleted from YouTube, which is the standing risk with borrowing a link, and nothing good has replaced it. What there is instead is a great many confident articles, written to be found by search engines, that disagree with each other about which models exist and what they cost. Some describe models withdrawn a year ago.
+
+So this one is built from [Epoch AI's](https://epoch.ai/data/notable_ai_models.csv) maintained dataset and regenerates from a script, rather than being something I have to go and find again. It runs from Theseus in 1950 — a mechanical mouse at Bell Labs with forty connections — to the present, and it draws two lines across the chart: the 86 billion neurons in a human brain, and the roughly 150 trillion synapses in a human cortex. A parameter is one connection, so the synapse line is the fair comparison. These systems passed the first line years ago and are still nowhere near the second.
+
+Canadian models are maple leaves. There are more than you would expect, and **AlexNet** — the one that started deep learning — is one of them.
+
+The last card is the part I did not plan. There is not a single Anthropic model in the dataset, and Google appears only through its small on-device Gemini Nano, because those labs no longer publish how big their systems are. Of the ninety systems published since the start of 2025, seventy-nine are open-weight models from Chinese labs. It is a chart of who publishes, not of who builds, and that is the first thing the module teaches: when the secondary literature is abundant, confident and contradictory, go to the primary source — the companies' own documentation, [Anthropic's](https://platform.claude.com/docs/en/about-claude/models/overview) and [Google's](https://ai.google.dev/gemini-api/docs/models), which are dated and maintained. Nearly everything else is not.
 
 Happy to share the slides and tutorials with anyone teaching something similar. The material was built with [murmurent](https://github.com/hallettmiket/murmurent), and reviewed by its teaching and equity agents before it went anywhere near a student.`,
   },
