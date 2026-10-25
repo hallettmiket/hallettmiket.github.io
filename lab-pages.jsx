@@ -90,6 +90,45 @@ const MdContent = ({ text }) => {
 // ── DATA ──────────────────────────────────────────────────────────────────────
 
 const BLOG_POSTS = [
+  { date: 'Oct 25, 2026', title: 'Teaching AI to Biomedical Students: Module 4 Resources', tags: ['AI', 'Teaching'],
+    content: `### MEDSCI 3391 — Module 4 — Machine Learning and Artificial Intelligence
+
+I teach three weeks on AI inside *Truth and Lies in Biomedical Big Data*, a third-year course for Medical Sciences students. Most of them have never programmed.
+
+This year I rebuilt the module around a simple inversion: **they use a working AI system in week one, before they understand any of it, and we spend weeks two and three taking it apart.** Week one is a real research project run by AI agents, and a tutorial where students build a blood-brain-barrier classifier themselves. Week two opens the box: the perceptron, and why one of them is not enough. Week three is what happens when nobody labels your data — clustering, and then the trick that made modern AI possible.
+
+Two sessions happen on their feet. In week two the floor is taped into two axes, students stand at the coordinates of a molecule, and a rope across the room is the decision boundary — its angle is the weights, its position is the bias. Then a second set of cards that no straight rope can separate, which is the XOR problem and the reason you need layers. In week three they each act as a whole network learning by self-supervision: six rounds of filling in a blanked word, writing down their current rule after each one, until they correctly predict a word most of them have never heard.
+
+### The material I send students to beforehand
+
+Every link below I checked by opening it. Runtimes are real.
+
+**On what a model is**
+- [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) — 3Blue1Brown, 7:58. Built for a museum audience. What a parameter is, and what a billion of them looks like.
+- [bbycroft.net/llm](https://bbycroft.net/llm) — a tiny model and a very large one side by side at true scale. Scroll it.
+
+**On neural networks**
+- [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) — 3Blue1Brown, 18:40.
+- [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w) — 3Blue1Brown, 20:33.
+- [Neural Network 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y) — Denis Dmitriev, 2:45, and [Marijn van Vliet's version](https://www.youtube.com/watch?v=sDDjJRnnHao), 2:45. A trained network reading handwritten digits, every neuron firing. No narration. There is no step where the network works out what the digit is.
+
+**Things to play with in class**
+- [TensorFlow Playground](https://playground.tensorflow.org/) — build a network by clicking. Set the activation to Linear and watch it fail however many layers you add.
+- [Neuron Sandbox](https://teaching.gureckislab.org/ccm/pages/neuronsandbox.html) — three sliders and a truth table. Build AND, build OR, then fail at XOR with your own hands.
+- [Visualizing K-Means Clustering](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) — its two buttons are exactly the two steps of the classroom version.
+- [What Have Language Models Learned?](https://pair.withgoogle.com/explorables/fill-in-the-blank/) — Google PAIR. Type a sentence, blank a word, watch a real model fill it in. What it fills in is what it read.
+
+**On clustering**
+- [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA) — Josh Starmer, 8:30.
+
+### One thing I could not find
+
+I wanted a video comparing model sizes from the 1950s to now, and there isn't a good one. What there is instead is a great many confident articles, written to be found by search engines, that disagree with each other about which models exist and what they cost. Some describe models withdrawn a year ago.
+
+That turned out to be useful. It is now the first thing the module teaches, before any theory: when the secondary literature is abundant, confident and contradictory, go to the primary source. For this, that means the companies' own documentation — [Anthropic's](https://platform.claude.com/docs/en/about-claude/models/overview) and [Google's](https://ai.google.dev/gemini-api/docs/models) — which are dated and maintained. Nearly everything else is not.
+
+Happy to share the slides and tutorials with anyone teaching something similar. The material was built with [murmurent](https://github.com/hallettmiket/murmurent), and reviewed by its teaching and equity agents before it went anywhere near a student.`,
+  },
   { date: 'Sep 29, 2026', title: 'Murmurent: Our Preprint Is on bioRxiv', tags: ['AI', 'Paper'],
     content: `### An agentic AI environment to support biomedical research in collaborative academic environments
 
