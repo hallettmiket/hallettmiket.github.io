@@ -105,7 +105,7 @@ Every link below I checked by opening it. Runtimes are real.
 
 **On what a model is**
 - [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) — 3Blue1Brown, 7:58. Built for a museum audience. What a parameter is, and what a billion of them looks like.
-- [bbycroft.net/llm](https://bbycroft.net/llm) — a tiny model and a very large one side by side at true scale. Scroll it.
+- [Brendan Bycroft's LLM visualiser](https://bbycroft.net/llm) — a tiny model and a very large one side by side at true scale. Scroll it.
 
 **On neural networks**
 - [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) — 3Blue1Brown, 18:40.
