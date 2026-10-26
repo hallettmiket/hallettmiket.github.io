@@ -98,6 +98,7 @@ The first week of Module 4 is a real research project, start to finish, run almo
 
 - **[Before the lecture](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/prep_1.html)**. Read this first. Two short pages and one eight-minute video to look at before Wednesday, and the one thing to install at home before Thursday's tutorial.
 - **[Lecture 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/lecture_1.html)**. The slides. Open them in a browser and use the arrow keys.
+- **[Getting started with Murmurent](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/murmurent_getting_started.html)**. The seven-minute video shown in the lecture, on the system the research project was run with.
 - **[Tutorial 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/tutorial_1.html)**. Thursday's guided session, in which you build a blood-brain barrier classifier yourselves in Google Antigravity.
 - **[Quiz 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/quiz_1.html)**. Twenty questions on the lecture and the tutorial, labelled easy, moderate and hard.`,
   },
