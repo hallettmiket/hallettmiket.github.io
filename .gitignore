@@ -19,3 +19,24 @@ projects/
 # follow them on the runner and the upload step exits 1.
 .claude/agents/
 .claude/settings.json
+
+# >>> murmurent: per-machine agent links, never commit (issue #150)
+.claude/agents/adversary.md
+.claude/agents/artist.md
+.claude/agents/blacksmith.md
+.claude/agents/bookworm.md
+.claude/agents/cable_guy.md
+.claude/agents/centre_cable_guy.md
+.claude/agents/centre_millwright.md
+.claude/agents/conscience.md
+.claude/agents/judge.md
+.claude/agents/lab_oracle.md
+.claude/agents/lawyer.md
+.claude/agents/millwright.md
+.claude/agents/oracle.md
+.claude/agents/receptionist.md
+.claude/agents/registrar.md
+.claude/agents/scribe.md
+.claude/agents/security_guard.md
+.claude/agents/teacher.md
+# <<< murmurent agent links
