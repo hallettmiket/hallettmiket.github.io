@@ -12,3 +12,4 @@ projects/
 .Rproj.user
 .Rhistory
 .RData
+.claude/settings.json

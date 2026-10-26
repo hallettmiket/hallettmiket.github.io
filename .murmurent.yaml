@@ -1,0 +1,18 @@
+murmurent: 1
+lab: mh
+ready_since: '2026-07-16'
+bootstrap_version: 2026.7.0
+agents:
+- adversary
+- artist
+- blacksmith
+- bookworm
+- cable_guy
+- centre_cable_guy
+- conscience
+- lab_oracle
+- lawyer
+- oracle
+- receptionist
+- registrar
+- security_guard
