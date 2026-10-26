@@ -13,3 +13,9 @@ projects/
 .Rhistory
 .RData
 .claude/settings.json
+
+# Agent links point at an absolute path in one person's home folder.
+# Committing them breaks the GitHub Pages build: tar --dereference cannot
+# follow them on the runner and the upload step exits 1.
+.claude/agents/
+.claude/settings.json

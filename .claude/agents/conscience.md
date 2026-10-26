@@ -1,1 +1,0 @@
-/Users/mth/repos/murmurent/agents/conscience.md
