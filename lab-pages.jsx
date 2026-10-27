@@ -133,6 +133,8 @@ This year I rebuilt the module around a simple inversion: **they use a working A
 
 Two sessions happen on their feet. In week two the floor is taped into two axes, students stand at the coordinates of a molecule, and a rope across the room is the decision boundary — its angle is the weights, its position is the bias. Then a second set of cards that no straight rope can separate, which is the XOR problem and the reason you need layers. In week three they each act as a whole network learning by self-supervision: six rounds of filling in a blanked word, writing down their current rule after each one, until they correctly predict a word most of them have never heard.
 
+**[Learning objectives](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/learning_objectives.html)** for the module, week by week: what a student should be able to do after each one.
+
 ### The material I send students to beforehand
 
 Every link below I checked by opening it. Runtimes are real.
