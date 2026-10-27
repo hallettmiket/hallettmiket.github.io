@@ -96,6 +96,7 @@ const BLOG_POSTS = [
 
 The same 751 molecules for the third and last time, with the answers taken away. Clustering first, then self-supervised learning, the trick that built modern AI and the way the agents of week 1 were actually made. These are the week 3 materials for students in *Truth and Lies in Biomedical Big Data*.
 
+- **[Before the lecture](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/prep_3.html)**. Read this first: one nine-minute video on k-means, and why you are watching it.
 - **[Lecture 3](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/lecture_3.html)**. The slides. Open them in a browser and use the arrow keys.
 - **[Tutorial 3](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/tutorial_3.html)**. Thursday's guided session: find the groups nobody labelled, and then break them.`,
   },
