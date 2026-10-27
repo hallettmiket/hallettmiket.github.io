@@ -106,7 +106,7 @@ The same 751 molecules for the third and last time, with the answers taken away.
 The week we open the box. One perceptron, the smallest piece of a neural network: what it computes, how it is trained one mistake at a time, and why a single one is not enough. Then the honest way to score a model, and a decision tree, which is a model you can read. These are the week 2 materials for students in *Truth and Lies in Biomedical Big Data*.
 
 - **[Lecture 2](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/lecture_2.html)**. The slides. Open them in a browser and use the arrow keys. Several slides are live: drag the weights, watch a perceptron train, watch two of them learn what one cannot.
-- **[Tutorial 2](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/tutorial_2.html)**. Thursday's guided session: build the smallest neural network there is and check its arithmetic by hand, count what you add as it grows, then predict how much of a drug reaches the brain instead of whether, and grow a decision tree you can read.`,
+- **[Tutorial 2](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/tutorial_2.html)**. Thursday's guided session: build the smallest neural network there is and check its arithmetic by hand, count what you add as it grows, grow a decision tree you can read, then predict how much of a drug reaches the brain instead of whether.`,
   },
   { date: 'Oct 26, 2026', title: 'MEDSCI 3391, Module 4, Week 1: Materials', tags: ['AI', 'Teaching'],
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/lecture_1.html',
