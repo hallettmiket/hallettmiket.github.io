@@ -90,6 +90,24 @@ const MdContent = ({ text }) => {
 // ── DATA ──────────────────────────────────────────────────────────────────────
 
 const BLOG_POSTS = [
+  { date: 'Oct 27, 2026', title: 'MEDSCI 3391, Module 4, Week 3: Materials', tags: ['AI', 'Teaching'],
+    slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/lecture_3.html',
+    content: `### Week 3: Learning without answers
+
+The same 751 molecules for the third and last time, with the answers taken away. Clustering first, then self-supervised learning, the trick that built modern AI and the way the agents of week 1 were actually made. These are the week 3 materials for students in *Truth and Lies in Biomedical Big Data*.
+
+- **[Lecture 3](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/lecture_3.html)**. The slides. Open them in a browser and use the arrow keys.
+- **[Tutorial 3](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/tutorial_3.html)**. Thursday's guided session: find the groups nobody labelled, and then break them.`,
+  },
+  { date: 'Oct 27, 2026', title: 'MEDSCI 3391, Module 4, Week 2: Materials', tags: ['AI', 'Teaching'],
+    slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/lecture_2.html',
+    content: `### Week 2: Learning with answers
+
+The week we open the box. One perceptron, the smallest piece of a neural network: what it computes, how it is trained one mistake at a time, and why a single one is not enough. Then the honest way to score a model, and a decision tree, which is a model you can read. These are the week 2 materials for students in *Truth and Lies in Biomedical Big Data*.
+
+- **[Lecture 2](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/lecture_2.html)**. The slides. Open them in a browser and use the arrow keys. Several slides are live: drag the weights, watch a perceptron train, watch two of them learn what one cannot.
+- **[Tutorial 2](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/tutorial_2.html)**. Thursday's guided session: a decision tree on the same molecules as last week, and a fair fight between it and your neural network.`,
+  },
   { date: 'Oct 26, 2026', title: 'MEDSCI 3391, Module 4, Week 1: Materials', tags: ['AI', 'Teaching'],
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/lecture_1.html',
     content: `### Week 1: What AI can do now
