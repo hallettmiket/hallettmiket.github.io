@@ -108,7 +108,8 @@ The week we open the box. One perceptron, the smallest piece of a neural network
 - **[Before the lecture](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/prep_2.html)**. Read this first: one 19-minute video and three short ones, about 25 minutes in all, and why you are watching them.
 - **[Lecture 2](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/lecture_2.html)**. The slides. Open them in a browser and use the arrow keys. Several slides are live: drag the weights, watch a perceptron train, watch two of them learn what one cannot.
 - **[Tutorial 2](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/tutorial_2.html)**. Thursday's guided session: build the smallest neural network there is and check its arithmetic by hand, count what you add as it grows, grow a decision tree you can read, then predict how much of a drug reaches the brain instead of whether.
-- **[Quiz 2](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/quiz_2.html)**. Twenty questions on the lecture and the tutorial, labelled easy, moderate and hard.`,
+- **[Quiz 2](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/quiz_2.html)**. Twenty questions on the lecture and the tutorial, labelled easy, moderate and hard.
+- **[Quiz 2 answer key](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/quiz_2_answers.html)**. Try the questions first.`,
   },
   { date: 'Oct 26, 2026', title: 'MEDSCI 3391, Module 4, Week 1: Materials', tags: ['AI', 'Teaching'],
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/lecture_1.html',
@@ -120,7 +121,8 @@ The first week of Module 4 is a real research project, start to finish, run almo
 - **[Lecture 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/lecture_1.html)**. The slides. Open them in a browser and use the arrow keys.
 - **[The talk](https://biodatweb.schulich.uwo.ca/mhallet/murmurent_seminar/fizzfarm_2026_10.html)**. A recording of this lecture's story told to the Department of Physiology and Pharmacology in October 2026: the same research project, run by AI agents.
 - **[Tutorial 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/tutorial_1.html)**. Friday's session in the lab, in which you build a blood-brain barrier classifier yourselves in Google Antigravity.
-- **[Quiz 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/quiz_1.html)**. Twenty questions on the lecture and the tutorial, labelled easy, moderate and hard. Thursday.`,
+- **[Quiz 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/quiz_1.html)**. Twenty questions on the lecture and the tutorial, labelled easy, moderate and hard. Thursday.
+- **[Quiz 1 answer key](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week1/quiz_1_answers.html)**. Try the questions first.`,
   },
   { date: 'Oct 25, 2026', title: 'Teaching AI to Biomedical Students: Module 4 Resources', tags: ['AI', 'Teaching'],
     content: `### MEDSCI 3391 — Module 4 — Machine Learning and Artificial Intelligence
