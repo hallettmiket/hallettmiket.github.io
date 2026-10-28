@@ -90,6 +90,13 @@ const MdContent = ({ text }) => {
 // ── DATA ──────────────────────────────────────────────────────────────────────
 
 const BLOG_POSTS = [
+  { date: 'Oct 28, 2026', title: 'MEDSCI 3391, Module 5, Week 1: Ethics in bioinformatics', tags: ['Ethics', 'Teaching'],
+    content: `### Module 5, Week 1: Ethics in bioinformatics
+
+One week, three days, and a game played twice. On Wednesday the whole lecture hall sits as a kind of ethics board and votes, by phone, on four questions in bioinformatics, then votes again after each new fact, and watches its own verdict move. On Friday each tutorial section debates four different questions in the same style, and the side that moves the room's vote further wins. Thursday is for preparing. These are the materials for students in *Truth and Lies in Biomedical Big Data*.
+
+- **[Before this week](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/prep_1.html)**. Read this first: the four Friday topics with one short reading each, how the sign-up works, and what wins a debate.`,
+  },
   { date: 'Oct 27, 2026', title: 'MEDSCI 3391, Module 4, Week 3: Materials', tags: ['AI', 'Teaching'],
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/lecture_3.html',
     content: `### Week 3: Learning without answers
