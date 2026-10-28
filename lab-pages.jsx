@@ -98,7 +98,8 @@ One week, three days. On Wednesday we hold a discussion, as a kind of ethics boa
 
 - **[Before this week](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/prep_1.html)**. Read this first, and before Wednesday: install the iClicker app and sign in, then the four Friday topics with one short reading each, how the sign-up works, and what wins a debate.
 - **[Sign up](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/signup.html)**. Everyone, by Thursday morning: one of the four topics, pro or con, and the tutorial section you will be in. The four speakers a side are the first four who signed up for that side, announced on Friday.
-- **[Lecture 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html)**. Wednesday's slides: four questions, each put to the room four times, with the votes drawn as they come in. Open them in a browser and use the arrow keys.`,
+- **[Lecture 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html)**. Wednesday's slides: four questions, each put to the room four times, with the votes drawn as they come in. Open them in a browser and use the arrow keys.
+- **[Learning objectives](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/learning_objectives.html)**. The five things the week is for.`,
   },
   { date: 'Oct 27, 2026', title: 'MEDSCI 3391, Module 4, Week 3: Materials', tags: ['AI', 'Teaching'],
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/lecture_3.html',
