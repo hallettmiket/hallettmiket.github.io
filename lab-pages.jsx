@@ -94,10 +94,10 @@ const BLOG_POSTS = [
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html',
     content: `### Module 5, Week 1: Ethics in bioinformatics
 
-One week, three days, and a game played twice. On Wednesday the whole lecture hall sits as a kind of ethics board and votes, by phone, on four questions in bioinformatics, then votes again after each new fact, and watches its own verdict move. On Friday each tutorial section debates four different questions in the same style, and the side that moves the room's vote further wins. Thursday is for preparing. These are the materials for students in *Truth and Lies in Biomedical Big Data*.
+One week, three days. On Wednesday we hold a discussion, as a kind of ethics board, about four topics in bioinformatics: the room votes on each by phone, then votes again after each new fact, and watches its own answers move. On Thursday everyone works in the group they signed up for, the pro or con side of one of Friday's four topics. On Friday each tutorial section holds four debates on those topics, with four speakers a side chosen from the sign-ups and announced on the day; the winner is not the majority but the side that changed the room more between the vote before and the vote after. These are the materials for students in *Truth and Lies in Biomedical Big Data*.
 
-- **[Before this week](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/prep_1.html)**. Read this first: the four Friday topics with one short reading each, how the sign-up works, and what wins a debate.
-- **[Sign up](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/signup.html)**. Everyone, by Thursday morning: one topic, pro or con, and your tutorial section. The four speakers a side are chosen from the sign-ups and announced on Friday.
+- **[Before this week](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/prep_1.html)**. Read this first, and before Wednesday: install the iClicker app and sign in, then the four Friday topics with one short reading each, how the sign-up works, and what wins a debate.
+- **[Sign up](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/signup.html)**. Everyone, by Thursday morning: one of the four topics, pro or con, and the tutorial section you will be in. The four speakers a side are the first four who signed up for that side, announced on Friday.
 - **[Lecture 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html)**. Wednesday's slides: four questions, each put to the room four times, with the votes drawn as they come in. Open them in a browser and use the arrow keys.`,
   },
   { date: 'Oct 27, 2026', title: 'MEDSCI 3391, Module 4, Week 3: Materials', tags: ['AI', 'Teaching'],
