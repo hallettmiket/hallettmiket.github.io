@@ -98,7 +98,9 @@ The same 751 molecules for the third and last time, with the answers taken away.
 
 - **[Before the lecture](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/prep_3.html)**. Read this first: one nine-minute video on k-means, and why you are watching it.
 - **[Lecture 3](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/lecture_3.html)**. The slides. Open them in a browser and use the arrow keys.
-- **[Tutorial 3](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/tutorial_3.html)**. Thursday's guided session: find the groups nobody labelled, and then break them.`,
+- **[Tutorial 3](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/tutorial_3.html)**. Thursday's guided session: find the groups nobody labelled, and then break them.
+- **[Quiz 3](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/quiz_3.html)**. Twenty questions on the lecture and the tutorial, labelled easy, moderate and hard.
+- **[Quiz 3 answer key](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/quiz_3_answers.html)**. Try the questions first.`,
   },
   { date: 'Oct 27, 2026', title: 'MEDSCI 3391, Module 4, Week 2: Materials', tags: ['AI', 'Teaching'],
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week2/lecture_2.html',
