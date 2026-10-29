@@ -90,9 +90,9 @@ const MdContent = ({ text }) => {
 // ── DATA ──────────────────────────────────────────────────────────────────────
 
 const BLOG_POSTS = [
-  { date: 'Oct 28, 2026', title: 'MEDSCI 3391, Module 5, Week 1: Ethics in bioinformatics', tags: ['Ethics', 'Teaching'],
+  { date: 'Oct 28, 2026', title: 'MEDSCI 3391, Module 5: Ethics in bioinformatics', tags: ['Ethics', 'Teaching'],
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html',
-    content: `### Module 5, Week 1: Ethics in bioinformatics
+    content: `### Module 5: Ethics in bioinformatics, one lecture on Wednesday 9 December
 
 One lecture, on the last day of the semester. The prep gives you four statements about data and algorithms, one short reading each. In the lecture the room votes on all four by phone before a word is said, then takes each in turn: the facts you read, one more from the lecture, and two minutes of the room arguing with itself. At the end the room votes on all four again and watches how far it moved, scored the way a debate is: not by the majority, but by how much each side changed the room. These are the materials for students in *Truth and Lies in Biomedical Big Data*.
 
