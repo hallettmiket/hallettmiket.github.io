@@ -94,10 +94,10 @@ const BLOG_POSTS = [
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html',
     content: `### Module 5: Ethics in bioinformatics, one lecture on Wednesday 9 December
 
-One lecture, on the last day of the semester. The prep gives you four statements about data and algorithms, one short reading each. In the lecture the room votes on all four by phone before a word is said, then takes each in turn: the facts you read, one more from the lecture, and two minutes of the room arguing with itself. At the end the room votes on all four again and watches how far it moved, scored the way a debate is: not by the majority, but by how much each side changed the room. These are the materials for students in *Truth and Lies in Biomedical Big Data*.
+One lecture, on the last day of the semester. The prep gives you four statements about data and algorithms, one short reading each. In the lecture the room votes by phone on five statements, those four and one more, before a word is said, then takes each in turn: the facts you read, one more from the lecture, and two minutes of the room arguing with itself. At the end the room votes on all five again and watches how far it moved: not the majority, but how much each side changed the room. These are the materials for students in *Truth and Lies in Biomedical Big Data*.
 
 - **[Before the lecture](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/prep_1.html)**. Read this first: install the iClicker app and sign in, then the four topics with one short reading each, and what kind of argument moves a room.
-- **[Lecture 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html)**. The slides: four opening votes, the four questions, four closing votes, with the votes drawn as they come in. Open them in a browser and use the arrow keys.
+- **[Lecture 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html)**. The slides: five opening votes, the five questions, five closing votes, with the votes drawn as they come in. Open them in a browser and use the arrow keys.
 - **[Learning objectives](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/learning_objectives.html)**. The five things the lecture is for.`,
   },
   { date: 'Oct 27, 2026', title: 'MEDSCI 3391, Module 4, Week 3: Materials', tags: ['AI', 'Teaching'],
