@@ -94,12 +94,11 @@ const BLOG_POSTS = [
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html',
     content: `### Module 5, Week 1: Ethics in bioinformatics
 
-One week, three days. On Wednesday we hold a discussion, as a kind of ethics board, about four topics in bioinformatics: the room votes on each by phone, then votes again after each new fact, and watches its own answers move. On Thursday everyone works in the group they signed up for, the pro or con side of one of Friday's four topics. On Friday each tutorial section holds four debates on those topics, with four speakers a side chosen from the sign-ups and announced on the day; the winner is not the majority but the side that changed the room more between the vote before and the vote after. These are the materials for students in *Truth and Lies in Biomedical Big Data*.
+One lecture, on the last day of the semester. The prep gives you four statements about data and algorithms, one short reading each. In the lecture the room votes on all four by phone before a word is said, then takes each in turn: the facts you read, one more from the lecture, and two minutes of the room arguing with itself. At the end the room votes on all four again and watches how far it moved, scored the way a debate is: not by the majority, but by how much each side changed the room. These are the materials for students in *Truth and Lies in Biomedical Big Data*.
 
-- **[Before this week](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/prep_1.html)**. Read this first, and before Wednesday: install the iClicker app and sign in, then the four Friday topics with one short reading each, how the sign-up works, and what wins a debate.
-- **[Sign up](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/signup.html)**. Everyone, by Thursday morning: one of the four topics, pro or con, and the tutorial section you will be in. The four speakers a side are the first four who signed up for that side, announced on Friday.
-- **[Lecture 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html)**. Wednesday's slides: four questions, each put to the room four times, with the votes drawn as they come in. Open them in a browser and use the arrow keys.
-- **[Learning objectives](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/learning_objectives.html)**. The five things the week is for.`,
+- **[Before the lecture](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/prep_1.html)**. Read this first: install the iClicker app and sign in, then the four topics with one short reading each, and what kind of argument moves a room.
+- **[Lecture 1](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html)**. The slides: four opening votes, the four questions, four closing votes, with the votes drawn as they come in. Open them in a browser and use the arrow keys.
+- **[Learning objectives](https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/learning_objectives.html)**. The five things the lecture is for.`,
   },
   { date: 'Oct 27, 2026', title: 'MEDSCI 3391, Module 4, Week 3: Materials', tags: ['AI', 'Teaching'],
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/week3/lecture_3.html',
