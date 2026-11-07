@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Murmurent training videos</title>
+<title>Murmurent videos and news</title>
 <style>
   :root { color-scheme: light dark; }
   body { margin: 0; padding: 24px 16px; font-family: system-ui, sans-serif; background: Canvas; color: CanvasText; }
@@ -14,22 +14,23 @@
   table { border-collapse: collapse; width: 100%; }
   td, th { text-align: left; padding: 6px 10px 6px 0; vertical-align: top; border-bottom: 1px solid color-mix(in srgb, CanvasText 15%, transparent); }
   th { font-weight: 600; }
+  .date { white-space: nowrap; color: color-mix(in srgb, CanvasText 60%, transparent); }
+  .small { font-size: 0.9rem; color: color-mix(in srgb, CanvasText 65%, transparent); }
 </style>
 </head>
 <body>
 <main>
-  <h1>Murmurent training videos</h1>
-  <p>Short videos for learning <a href="https://github.com/hallettmiket/murmurent">Murmurent</a>. Captions are in the
-  picture; every terminal and chat scene is a real run. The written documentation is the reference when the two
-  disagree: <a href="https://mikehallett.science/murmurent/">mikehallett.science/murmurent</a>.</p>
+  <h1>Murmurent videos and news</h1>
+  <p>Short videos for learning <a href="https://github.com/hallettmiket/murmurent">Murmurent</a>, and what is new.
+  Captions are in the picture; every terminal and chat scene is a real run. Each video says which release it was
+  checked against; when a video and the written documentation disagree, the documentation is right:
+  <a href="https://mikehallett.science/murmurent/">mikehallett.science/murmurent</a>.</p>
 
   <h2>Start here</h2>
   <table>
     <tr><th>Video</th><th>Length</th><th>What it covers</th></tr>
-    <tr><td><a href="murmurent_getting_started.html">Getting started with Murmurent</a></td><td>6:50</td>
-        <td>what Murmurent is, installing it, saying who you are, the agents, joining a lab or a centre</td></tr>
-    <tr><td><a href="murmurent_thesis_package.html">A thesis an examiner can question</a></td><td>6:20</td>
-        <td>paper packages, thesis packages and the docent: a thesis whose every claim carries its evidence</td></tr>
+    <tr><td><a href="https://mikehallett.science/assets/videos/murmurent_getting_started.html">Getting started with Murmurent</a></td><td>6:50</td><td>What Murmurent is, installing it, saying who you are, setting up a folder, the agents, and joining a lab or a centre. <span class="small">(checked against 2026.9.9)</span></td></tr>
+    <tr><td><a href="https://mikehallett.science/assets/videos/murmurent_thesis_package.html">A thesis an examiner can question</a></td><td>6:20</td><td>Paper packages, thesis packages and the docent. Who is in the room at a defence, how every claim is mapped to its evidence, what the candidate runs, how an examiner questions the package. <span class="small">(checked against 2026.11.0)</span></td></tr>
   </table>
 
   <h2>One short video per agent</h2>
@@ -50,12 +51,24 @@
     <tr><td><a href="murmurent_agent_millwright.html">The millwright</a></td><td>1:48</td><td>Infrastructure for one lab: members, projects, machines, health checks</td></tr>
     <tr><td><a href="murmurent_agent_centre_millwright.html">The centre millwright</a></td><td>1:46</td><td>Centre-wide infrastructure: cross-lab projects, ACLs and the drift loop</td></tr>
     <tr><td><a href="murmurent_agent_judge.html">The judge</a></td><td>1:45</td><td>Combines what several labs contributed to one question, without laundering it</td></tr>
-    <tr><td><a href="murmurent_agent_registrar.html">The registrar</a></td><td>1:52</td><td>The centre's roster of labs, cores and collaborations, and its certificate authority</td></tr>
+    <tr><td><a href="murmurent_agent_registrar.html">The registrar</a></td><td>1:52</td><td>The centre&#x27;s roster of labs, cores and collaborations, and its certificate authority</td></tr>
     <tr><td><a href="murmurent_agent_security_guard.html">The security guard</a></td><td>1:52</td><td>Secrets, patient data and world-readable files, caught before they leave</td></tr>
     <tr><td><a href="murmurent_agent_docent.html">The docent</a></td><td>1:51</td><td>Guide to a paper or thesis package: every answer with a location</td></tr>
   </table>
-  <p>How these are made and kept current:
-  <a href="https://github.com/hallettmiket/murmurent/blob/main/training/README.md">training/README.md</a>.</p>
+
+  <h2>News</h2>
+  <p class="small">Releases and new capabilities, newest first. The full record is the
+  <a href="https://github.com/hallettmiket/murmurent/blob/main/CHANGELOG.md">changelog</a>.</p>
+  <table>
+    <tr><td class="date">2026-11-07</td><td><strong>One short movie per agent</strong>. Sixteen two-minute movies, one per commons agent, each with a real run, at the videos page. <a href="https://mikehallett.science/assets/videos/">More</a>.</td></tr>
+    <tr><td class="date">2026-11-07</td><td><strong>Paper packages, thesis packages and the docent</strong>. A paper or a thesis becomes a package an examiner can question in Claude Code; the docent answers with locations and logs every question. Six-minute video. <a href="https://mikehallett.science/assets/videos/murmurent_thesis_package.html">More</a>.</td></tr>
+    <tr><td class="date">2026-11-02</td><td><strong>Release 2026.11.0, repositories and projects settled</strong>. A repository may belong to several projects, membership grants access on every one, readiness travels with the clone, and a collaborator from another lab can finish joining from the message they receive. <a href="https://github.com/hallettmiket/murmurent/blob/main/CHANGELOG.md">More</a>.</td></tr>
+    <tr><td class="date">2026-10-30</td><td><strong>Release 2026.10.8, one route for every Slack note</strong>. Every release note, job notice and status update follows the same route to a project&#x27;s channel, and the lab&#x27;s channel otherwise. <a href="https://github.com/hallettmiket/murmurent/blob/main/CHANGELOG.md">More</a>.</td></tr>
+    <tr><td class="date">2026-10-19</td><td><strong>Release 2026.10.5, citations checked and the vault syncs itself</strong>. murmurent cite check looks up every DOI, PMID and arXiv identifier; the personal vault follows you between machines; spoken verdicts on macOS. <a href="https://github.com/hallettmiket/murmurent/blob/main/CHANGELOG.md">More</a>.</td></tr>
+    <tr><td class="date">2026-10-14</td><td><strong>The getting-started video</strong>. Seven minutes from a fresh machine to a working lab member. <a href="https://mikehallett.science/assets/videos/murmurent_getting_started.html">More</a>.</td></tr>
+  </table>
+  <p class="small">This page and the README section are written by <code>training/front_page.py</code> from
+  <code>training/index.yaml</code>; do not edit it by hand.</p>
 </main>
 </body>
 </html>
