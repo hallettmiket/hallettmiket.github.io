@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Biosharc for the lab</title>
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1d1b;--muted:#5f5e58;--line:#dcd9d0;--accent:#4F2683;--ok:#2d7a3e;--warn:#9a6700;--card:#ffffff;--code:#f1efe8}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#15161a;--fg:#e8e6df;--muted:#a5a39b;--line:#33353c;--accent:#b79ae0;--ok:#7bc88a;--warn:#e2b545;--card:#1d1f25;--code:#24262d}}
+:root[data-theme="dark"]{--bg:#15161a;--fg:#e8e6df;--muted:#a5a39b;--line:#33353c;--accent:#b79ae0;--ok:#7bc88a;--warn:#e2b545;--card:#1d1f25;--code:#24262d}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+main{max-width:860px;margin:0 auto;padding:32px 16px 64px}
+h1{font-family:Georgia,serif;font-size:1.8rem;margin:0 0 4px}
+h2{font-size:1.2rem;margin:34px 0 10px;border-bottom:1px solid var(--line);padding-bottom:4px}
+.sub{color:var(--muted);margin:0 0 20px}
+.box{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--accent);border-radius:8px;padding:14px 18px;margin:16px 0}
+table{border-collapse:collapse;width:100%;margin:10px 0 18px;font-size:.95rem}
+th,td{border:1px solid var(--line);padding:7px 9px;vertical-align:top;text-align:left}
+th{background:var(--code)}
+code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.9em}
+code{background:var(--code);padding:1px 5px;border-radius:4px}
+pre{background:var(--code);padding:10px 12px;border-radius:6px;overflow:auto}
+li{margin:5px 0}
+a{color:var(--accent)}
+.warn{color:var(--warn);font-weight:600}
+.small{font-size:.9rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<main>
+<h1>Biosharc: the lab's cluster nodes, from murmurent</h1>
+<p class="sub">For members of the Hallett lab at Western. Last checked against the cluster on 12 November 2026.</p>
+
+<div class="box">
+<strong>What it is.</strong> Biosharc is two compute nodes the lab owns inside Dusky, a SHARCNET cluster run by the Digital Research Alliance of Canada. Each node has 256 cores, 2.2 TB of memory and four NVIDIA L40S GPUs. Because the lab bought them, jobs charged to the lab's account run there with priority, a seven-day time limit and no caps. Nothing is installed on the cluster for this: murmurent submits over SSH from your laptop or from biodatsci.
+</div>
+
+<h2>Getting access</h2>
+<ol>
+<li><strong>An Alliance account.</strong> Apply at <a href="https://ccdb.alliancecan.ca">ccdb.alliancecan.ca</a> with Mike's CCRI as sponsor. You get an Alliance user name (not your Western one).</li>
+<li><strong>Membership of the lab's group.</strong> Ask Mike to add you to <code>ctb-hallett</code> on CCDB. That is what lets you use the biosharc partition. Without it the scheduler refuses the partition and murmurent tells you so.</li>
+<li><strong>Log in once by password</strong> and put your key there, from your laptop and again from biodatsci, since each machine needs its own:
+<pre>ssh-copy-id -i ~/.ssh/id_ed25519.pub &lt;alliance-login&gt;@dusky.sharcnet.ca</pre>
+Dusky asks for your Alliance password and nothing else. If <code>ssh-copy-id</code> says permission denied, the user name is wrong: it is your Alliance login, not your Western one.</li>
+<li><strong>Tell murmurent</strong>, on each machine you submit from:
+<pre>murmurent cluster add dusky --ssh-host &lt;alliance-login&gt;@dusky.sharcnet.ca
+murmurent cluster test</pre>
+<code>test</code> logs in and confirms that you may charge the lab's account.</li>
+</ol>
+
+<h2>Running something</h2>
+<p>From inside the experiment folder of a murmurent project:</p>
+<pre>cd ~/repos/my_project/exp/3_fit
+murmurent cluster submit --name fit --cores 16 --gpus 1 --memory 64G --time 6h -- python run_all.py</pre>
+<ul>
+<li>The folder is copied to your scratch space on Dusky. The job runs there, charged to <code>ctb-hallett</code> on the <code>biosharc</code> partition. You never have to type either.</li>
+<li><strong>Write results to <code>$MURMURENT_OUT</code></strong> inside your script. That folder comes back to the experiment's <code>append_only</code> folder on the machine you submitted from, without overwriting anything already there.</li>
+<li>A watcher in tmux asks the scheduler every two minutes. When the job ends it copies the results back, pulls the log, and posts one line to the project's Slack channel.</li>
+<li><code>murmurent cluster status</code> lists your cluster jobs; <code>status &lt;id&gt;</code> asks the scheduler about one; <code>cancel &lt;id&gt;</code> stops it; <code>fetch &lt;id&gt;</code> copies the results again.</li>
+<li>Choose <code>--time</code> from an earlier run plus a margin. A job that runs out of time is lost work. Up to seven days is allowed.</li>
+<li>Or ask the millwright: "run this experiment on biosharc with one GPU for six hours" does the same.</li>
+</ul>
+
+<h2>Where to keep things on Dusky</h2>
+<table>
+<tr><th>Tier</th><th>Path</th><th>Use it for</th><th>Backed up</th><th>Purged</th><th>Limit</th></tr>
+<tr><td>home</td><td><code>/home/&lt;login&gt;</code></td><td>code, scripts, small files</td><td>yes</td><td>no</td><td>50 GB, 500 thousand files</td></tr>
+<tr><td>scratch</td><td><code>/scratch/&lt;login&gt;</code></td><td>running jobs; murmurent stages here</td><td>no</td><td>yes, files untouched for about two months</td><td>30 TB shared by the whole cluster, 84% full today</td></tr>
+<tr><td>project</td><td><code>/project/ctb-hallett</code></td><td>the lab's shared data on the cluster</td><td>yes</td><td>no</td><td>931 GB and 500 thousand files, shared with <code>def-hallett-ab</code> and all members; 11% used today</td></tr>
+<tr><td>nearline</td><td><code>/nearline/ctb-hallett</code></td><td>long-term archive on tape</td><td>yes</td><td>no</td><td>the lab's allocation; written only with Mike's agreement</td></tr>
+<tr><td>node-local</td><td><code>$SLURM_TMPDIR</code></td><td>fast disk during one job</td><td>no</td><td>at the job's end</td><td>3.6 TB per node</td></tr>
+</table>
+<p><code>murmurent cluster usage</code> prints your own figures for each tier. The file-count limit matters as much as the byte limit. The lab's copy of record stays in <code>append_only</code> on biodatsci; what sits on Dusky is a working copy.</p>
+
+<h2>Moving data</h2>
+<ul>
+<li>Large data goes <strong>directly between biodatsci and Dusky</strong>, never through a laptop: from biodatsci, <code>murmurent cluster push &lt;folder&gt; '{scratch}/&lt;folder&gt;'</code>, or plain <code>scp -r</code>.</li>
+<li><code>murmurent cluster pull '{project}/results/run7' ~/results/run7</code> brings things back without overwriting what is already there.</li>
+<li>Copying large files <em>within</em> <code>/project</code> should be done logged in to Graham, not Dusky; the cluster's own banner asks for this.</li>
+<li>Protected-tier data (patient-derived) does not go to the cluster unless the project's data agreement allows it. Ask before moving it.</li>
+</ul>
+
+<h2>Things to know</h2>
+<ul>
+<li><span class="warn">7 December to 3 January:</span> <code>/home</code> is read-only and <code>/project</code> unavailable on Dusky while the Graham data centre is worked on. Plan jobs around it.</li>
+<li>The login node is shared. Run nothing heavy there; submit it.</li>
+<li>The same two nodes also appear in the public <code>gpu</code> partition with a 12-hour limit and no priority. Always use <code>biosharc</code>; murmurent does.</li>
+<li>The Alliance's usage website shows only the national clusters (Fir, Nibi, Narval, Rorqual), which the lab can use opportunistically under <code>def-hallett-ab</code>. Biosharc use does not appear there. Mike sees it with <code>murmurent cluster scan</code>.</li>
+<li>Prefer Biosharc. Use Nibi or Fir only for what Biosharc cannot do: more than four GPUs, more than one node, or software only installed there.</li>
+<li>Questions about the cluster itself: <a href="mailto:help@sharcnet.ca">help@sharcnet.ca</a>. Questions about access and the lab's account: Mike.</li>
+</ul>
+
+<p class="small">The general guide to these commands, for any institution, is in the murmurent documentation: <a href="https://mikehallett.science/murmurent/cluster/">Running work on a compute cluster</a>. The lab's older notes on Dusky, with the manual Slurm commands, are in the Biosharc user guide shared on Google Drive.</p>
+</main>
+</body>
+</html>

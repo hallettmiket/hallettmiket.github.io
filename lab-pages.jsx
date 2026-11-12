@@ -90,6 +90,14 @@ const MdContent = ({ text }) => {
 // ── DATA ──────────────────────────────────────────────────────────────────────
 
 const BLOG_POSTS = [
+  { date: 'Nov 12, 2026', title: 'Biosharc from murmurent: running the lab\'s cluster nodes', tags: ['Lab', 'Murmurent'],
+    content: `### The lab's two cluster nodes, driven from your laptop or biodatsci
+
+Biosharc is the pair of nodes the lab owns inside the Alliance's Dusky cluster: 512 cores, eight L40S GPUs, a seven-day job limit, and priority for the lab. Murmurent can now send an experiment there with one command, watch it, bring the results back into the project's append_only folder, and report what each storage tier on the cluster is for and how full it is. Nothing is installed on the cluster.
+
+- **[Biosharc for the lab](https://mikehallett.science/assets/biosharc_murmurent.html?v=20261112)**. The Western-specific page: getting an account and into the lab's group, installing your key, the commands, the five storage tiers with their limits, and the December maintenance window.
+- **[Running work on a compute cluster](https://mikehallett.science/murmurent/cluster/)**. The general guide in the murmurent documentation, for any lab on any Slurm cluster.`,
+  },
   { date: 'Oct 28, 2026', title: 'MEDSCI 3391, Module 5: Ethics in bioinformatics', tags: ['Ethics', 'Teaching'],
     slides: 'https://biodatweb.schulich.uwo.ca/mhallet/medsci3391/module5/lecture_1.html?v=20261029',
     content: `### Module 5: Ethics in bioinformatics, one lecture on Wednesday 9 December
