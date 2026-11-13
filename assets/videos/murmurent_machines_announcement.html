@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>murmurent machines: every machine you can reach, one table</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { margin: 0; padding: 24px 16px; font-family: system-ui, sans-serif; background: Canvas; color: CanvasText; }
+  main { max-width: 960px; margin: 0 auto; }
+  h1 { font-size: 1.4rem; margin: 0 0 16px; }
+  .avatar { display: inline-block; width: 2.4rem; height: 2.4rem; line-height: 2.4rem; text-align: center; font-size: 1.5rem; border-radius: 50%; background: color-mix(in srgb, CanvasText 10%, transparent); margin-right: 0.6rem; vertical-align: middle; }
+  video { width: 100%; height: auto; border-radius: 8px; background: #000; }
+  p { line-height: 1.5; }
+</style>
+</head>
+<body>
+<main>
+  <h1><span class="avatar" aria-hidden="true">🔧</span>murmurent machines</h1>
+  <video controls preload="metadata" autoplay muted loop playsinline>
+    <source src="murmurent_machines_announcement_720p.mp4?v=352c4e90" type="video/mp4">
+  </video>
+  <p>A six-second announcement. <code>murmurent machines load</code> asks every machine you can reach
+  (this computer, the lab's servers, its clusters) at the same time and prints one table: cores and GPUs
+  busy of total, who is on it; <code>murmurent machines usage</code> does the same for each storage tier.
+  In a Claude Code session, <code>/murmurent-machines</code> shows that table as it is.
+  The guide: <a href="https://github.com/hallettmiket/murmurent/blob/main/docs/machines.md">docs/machines.md</a>.
+  All the training videos: <a href="index.html">mikehallett.science/assets/videos</a>.</p>
+</main>
+</body>
+</html>
