@@ -90,6 +90,20 @@ const MdContent = ({ text }) => {
 // ── DATA ──────────────────────────────────────────────────────────────────────
 
 const BLOG_POSTS = [
+  { date: 'Nov 26, 2026', title: 'Faraday: agentic AI that stays within Western', tags: ['AI', 'Murmurent'],
+    slides: 'https://mikehallett.science/assets/faraday_2026_11_presentation.html?v=20261126',
+    content: `### A local home for AI agents, for research data that cannot leave Western
+
+Tools like Claude Code and Codex are agents: given a goal, they read files, run code and keep going until the work is done. Each turn, they send the context (your question, the conversation so far, and every file the agent has read) to the company that runs the model. For a lot of research data, that is not allowed.
+
+Faraday is our answer: a local installation of open-source agentic AI harnesses (Qwen Code and OpenCode), running an open model on a GPU at Western, controlled by [murmurent](https://github.com/hallettmiket/murmurent) and designed for security and privacy. You use it like any other agentic AI system, but the context stays at Western, and the agent reaches the web only through one watched door.
+
+Tyler Browne and I presented it today at Schulich's meeting on Research Data Management and IT Infrastructure Needs.
+
+- **[The slides](https://mikehallett.science/assets/faraday_2026_11_presentation.html?v=20261126)**. Open them in a browser and use the arrow keys. What agentic AI is, what Faraday is, six scenarios where data cannot simply be sent to a company, the murmurent agents that will run on it, and what it would take to scale it to 100 people.
+
+Faraday is still being built, and it holds no health data. Wider use waits on Western's review.`,
+  },
   { date: 'Nov 12, 2026', title: 'Biosharc from murmurent: running the lab\'s cluster nodes', tags: ['Lab', 'Murmurent'],
     content: `### The lab's two cluster nodes, driven from your laptop or biodatsci
 
